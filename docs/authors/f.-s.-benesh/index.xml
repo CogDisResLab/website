@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. S. Benesh | CDRL</title>
+    <link>/authors/f.-s.-benesh/</link>
+      <atom:link href="/authors/f.-s.-benesh/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. S. Benesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>F. S. Benesh</title>
+      <link>/authors/f.-s.-benesh/</link>
+    </image>
+    
+    <item>
+      <title>Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</title>
+      <link>/publication/2016-05-21_rn5171/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-05-21_rn5171/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-specific abnormalities of glutamate transporters in schizophrenia: sick astrocytes and compensating relay neurons?</title>
+      <link>/publication/2015-09-30_rn5176/</link>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-09-30_rn5176/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

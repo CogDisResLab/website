@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Rhame | CDRL</title>
+    <link>/authors/k.-rhame/</link>
+      <atom:link href="/authors/k.-rhame/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Rhame</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>K. Rhame</title>
+      <link>/authors/k.-rhame/</link>
+    </image>
+    
+    <item>
+      <title>Pioglitazone improves working memory performance when administered in chronic TBI</title>
+      <link>/publication/2019-09-13_rn5153/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-09-13_rn5153/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

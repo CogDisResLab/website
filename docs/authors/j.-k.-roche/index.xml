@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. K. Roche | CDRL</title>
+    <link>/authors/j.-k.-roche/</link>
+      <atom:link href="/authors/j.-k.-roche/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. K. Roche</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J. K. Roche</title>
+      <link>/authors/j.-k.-roche/</link>
+    </image>
+    
+    <item>
+      <title>Localization of excitatory amino acid transporters EAAT1 and EAAT2 in human postmortem cortex: a light and electron microscopic study</title>
+      <link>/publication/2014-07-30_rn5185/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-07-30_rn5185/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Meller | CDRL</title>
+    <link>/authors/j.-meller/</link>
+      <atom:link href="/authors/j.-meller/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Meller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J. Meller</title>
+      <link>/authors/j.-meller/</link>
+    </image>
+    
+    <item>
+      <title>Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</title>
+      <link>/publication/2021-02-26_rn5133/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-02-26_rn5133/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</title>
+      <link>/publication/2020-07-24_rn5144/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-07-24_rn5144/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature-based approaches for informed drug repurposing: targeting CNS disorders</title>
+      <link>/publication/2020-07-01_rn5145/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-07-01_rn5145/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
+      <link>/publication/2019-05-21_rn5154/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-05-21_rn5154/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
+      <link>/publication/2018-10-20_rn5157/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-10-20_rn5157/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
+      <link>/publication/2017-09-14_rn5166/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-09-14_rn5166/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</title>
+      <link>/publication/2016-06-18_rn5169/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-06-18_rn5169/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

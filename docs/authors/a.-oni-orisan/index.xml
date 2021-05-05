@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Oni-Orisan | CDRL</title>
+    <link>/authors/a.-oni-orisan/</link>
+      <atom:link href="/authors/a.-oni-orisan/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Oni-Orisan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Dec 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Oni-Orisan</title>
+      <link>/authors/a.-oni-orisan/</link>
+    </image>
+    
+    <item>
+      <title>Altered vesicular glutamate transporter expression in the anterior cingulate cortex in schizophrenia</title>
+      <link>/publication/2007-12-25_rn5210/</link>
+      <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-12-25_rn5210/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal glutamate receptor expression in the medial temporal lobe in schizophrenia and mood disorders</title>
+      <link>/publication/2007-02-15_rn5211/</link>
+      <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-02-15_rn5211/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | CDRL</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Apps</title>
+      <link>/tags/apps/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>/tags/bioinformatics/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/tags/projects/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Shiny</title>
+      <link>/tags/r-shiny/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/r-shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Application</title>
+      <link>/tags/web-application/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/web-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration</title>
+      <link>/tags/demonstration/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
+      <guid>/tags/demonstration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug Discovery</title>
+      <link>/tags/drug-discovery/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
+      <guid>/tags/drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symposium</title>
+      <link>/tags/symposium/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
+      <guid>/tags/symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/tags/talks/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
+      <guid>/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webinars</title>
+      <link>/tags/webinars/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
+      <guid>/tags/webinars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFN</title>
+      <link>/tags/sfn/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>/tags/coding/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>/tags/courses/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>/tags/workshops/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posters</title>
+      <link>/tags/posters/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/posters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

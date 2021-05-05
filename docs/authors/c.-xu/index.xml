@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Xu | CDRL</title>
+    <link>/authors/c.-xu/</link>
+      <atom:link href="/authors/c.-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. Xu</title>
+      <link>/authors/c.-xu/</link>
+    </image>
+    
+    <item>
+      <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
+      <link>/publication/2019-05-21_rn5154/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-05-21_rn5154/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. P. Herman | CDRL</title>
+    <link>/authors/j.-p.-herman/</link>
+      <atom:link href="/authors/j.-p.-herman/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. P. Herman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J. P. Herman</title>
+      <link>/authors/j.-p.-herman/</link>
+    </image>
+    
+    <item>
+      <title>Similarities and dissimilarities between psychiatric cluster disorders</title>
+      <link>/publication/2021-01-29_rn5135/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-29_rn5135/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

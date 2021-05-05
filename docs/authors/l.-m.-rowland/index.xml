@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. M. Rowland | CDRL</title>
+    <link>/authors/l.-m.-rowland/</link>
+      <atom:link href="/authors/l.-m.-rowland/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. M. Rowland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L. M. Rowland</title>
+      <link>/authors/l.-m.-rowland/</link>
+    </image>
+    
+    <item>
+      <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
+      <link>/publication/2019-03-27_rn5156/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-03-27_rn5156/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

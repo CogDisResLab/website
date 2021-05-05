@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Mount | CDRL</title>
+    <link>/authors/d.-mount/</link>
+      <atom:link href="/authors/d.-mount/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Mount</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. Mount</title>
+      <link>/authors/d.-mount/</link>
+    </image>
+    
+    <item>
+      <title>Abnormal partitioning of hexokinase 1 suggests disruption of a glutamate transport protein complex in schizophrenia</title>
+      <link>/publication/2014-02-25_rn5187/</link>
+      <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-02-25_rn5187/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

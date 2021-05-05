@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z. Wen | CDRL</title>
+    <link>/authors/z.-wen/</link>
+      <atom:link href="/authors/z.-wen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z. Wen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Z. Wen</title>
+      <link>/authors/z.-wen/</link>
+    </image>
+    
+    <item>
+      <title>Role of Astrocytes in Major Neuropsychiatric Disorders</title>
+      <link>/publication/2021-01-08_rn5136/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-08_rn5136/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
+      <link>/publication/2019-05-21_rn5154/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-05-21_rn5154/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
+      <link>/publication/2019-03-27_rn5156/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-03-27_rn5156/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
+      <link>/publication/2018-10-20_rn5157/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-10-20_rn5157/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

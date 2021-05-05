@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. H. Liu | CDRL</title>
+    <link>/authors/s.-h.-liu/</link>
+      <atom:link href="/authors/s.-h.-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. H. Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. H. Liu</title>
+      <link>/authors/s.-h.-liu/</link>
+    </image>
+    
+    <item>
+      <title>Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</title>
+      <link>/publication/2020-11-26_rn5137/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-11-26_rn5137/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</title>
+      <link>/publication/2020-11-21_rn5138/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-11-21_rn5138/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

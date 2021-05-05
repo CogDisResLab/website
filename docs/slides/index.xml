@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | CDRL</title>
+    <link>/slides/</link>
+      <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <item>
+      <title></title>
+      <link>/slides/intro_lesson1/lesson_6_stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/slides/intro_lesson1/lesson_6_stats/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34; lang=&#34;&#34; xml:lang=&#34;&#34;&gt;
+  &lt;head&gt;
+    &lt;title&gt;Statistics In R&lt;/title&gt;
+    &lt;meta charset=&#34;utf-8&#34; /&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;Khaled Alganem&#34; /&gt;
+    &lt;meta name=&#34;date&#34; content=&#34;2019-10-24&#34; /&gt;
+    &lt;link href=&#34;Lesson_6_Stats_files/remark-css-0.0.1/default.css&#34; rel=&#34;stylesheet&#34; /&gt;
+    &lt;link href=&#34;Lesson_6_Stats_files/remark-css-0.0.1/default-fonts.css&#34; rel=&#34;stylesheet&#34; /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;textarea id=&#34;source&#34;&gt;
+class: center, middle, inverse, title-slide
+
+# Statistics In R
+## Lesson 6 8/21/19
+### Khaled Alganem
+### 2019-10-24
+
+---
+
+#  Outline 
+
++ Generating random numbers
++ Descriptive Statistics
++ Correlations
++ T-tests
++ ANOVA
++ Power Analysis
+
+---
+#  Random numbers 
+
++ Functions to generate random numbers:
+	+ rnorm : normal distribution
+	+ runif : uniform distribution
+	+ rexp : exponential distribution
+	+ rbinom : binomial distribution
+
+---
+#  Descriptive Statistics 
+
++ ***To get summary statistics about your data (*** ***Average, standard deviation, variance …*** ***etc*** ***)***
++ ***Works on vectors (will show how to work with*** ***df*** ***)***
++ ***Simple functions used:***
+	+ ***mean, median, min, max,*** ***sd*** ***,*** ***var*** ***, range, quantile***
+	+ ***summary: to get a brief summary statistics of a dataset***
++ ***Normality test:***
+	+ shapiro.test : The null hypothesis is “sample distribution is normal”. If the test is significant, the distribution is non-normal.
+
+---
+#  Correlations 
+
++ ***used to evaluate the association between two or more variables***
++ ***Function:*** ***cor*** ***(x, y, method = …) or*** ***cor.test*** ***()***
+	+ ***Method:***
+		+ ***x and y: numeric vectors***
+		+ ***Parametric :*** *p* earson
+		+ ***Non-parametric:*** spearman or kendall
+
+---
+#  T-tests 
+
++ Used for comparing means. ( one-sample t-test, unpaired two samples t-test, paired two samples t-test )
++ Function:
+	+ t.test ():
+		+ vectors: one or two vectors
+		+ mu: theoretical mean for one-sample t-test
+		+ alternative: “ two.sided ”, “less”, “greater”
+
+---
+#  ANOVA 
+
++ To compare means of more than two groups.
++ Function:
+	+ aov ():
+		+ Formula: x ~ y for one way ANOVA, x ~ y + z for two ANOVA
+		+ Data: data frame
+		+ Followed by summary() to get the p value
+		+ Can be followed by multiple pairwise-comparison using Tukey HSD ( TukeyHSD () ) or Pairewise t-test ( pairwise.t.test () )
+
+---
+#  Power analysis 
+
++ to determine the sample size required to detect an effect or determine the power of a test given the sample size.
++ ***Function:***
+	+ ***power.t.test***
+		+ n: number of observations
+		+ delta: true difference in means
+		+ sd : standard deviations
+		+ sig.level : significance level
+		+ power: power of test
+		+ type: type of test
+		+ alternative: one or two-sided test
+
+---
+#  Questions?
+    &lt;/textarea&gt;
+&lt;style data-target=&#34;print-only&#34;&gt;@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}&lt;/style&gt;
+&lt;script src=&#34;https://remarkjs.com/downloads/remark-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;var slideshow = remark.create();
+if (window.HTMLWidgets) slideshow.on(&#39;afterShowSlide&#39;, function (slide) {
+  window.dispatchEvent(new Event(&#39;resize&#39;));
+});
+(function(d) {
+  var s = d.createElement(&#34;style&#34;), r = d.querySelector(&#34;.remark-slide-scaler&#34;);
+  if (!r) return;
+  s.type = &#34;text/css&#34;; s.innerHTML = &#34;@page {size: &#34; + r.style.width + &#34; &#34; + r.style.height +&#34;; }&#34;;
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName(&#34;remark-slides-area&#34;);
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i &lt; slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === &#34;true&#34; || slide.properties.count === &#34;false&#34;) {
+      els[i - 1].className += &#39; has-continuation&#39;;
+    }
+  }
+  var s = d.createElement(&#34;style&#34;);
+  s.type = &#34;text/css&#34;; s.innerHTML = &#34;@media print { .has-continuation { display: none; } }&#34;;
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on(&#39;beforeShowSlide&#39;, function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i &lt; sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset[&#34;target&#34;] !== &#34;print-only&#34;) continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();&lt;/script&gt;
+
+&lt;script&gt;
+(function() {
+  var links = document.getElementsByTagName(&#39;a&#39;);
+  for (var i = 0; i &lt; links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute(&#39;href&#39;))) {
+      links[i].target = &#39;_blank&#39;;
+    }
+  }
+})();
+&lt;/script&gt;
+
+&lt;script&gt;
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName(&#39;code&#39;);
+  for (i = 0; i &lt; codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== &#39;PRE&#39; &amp;&amp; code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove &lt;code&gt;&lt;/code&gt;
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+&lt;/script&gt;
+&lt;!-- dynamically load mathjax for compatibility with self-contained --&gt;
+&lt;script&gt;
+(function () {
+  var script = document.createElement(&#39;script&#39;);
+  script.type = &#39;text/javascript&#39;;
+  script.src  = &#39;https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML&#39;;
+  if (location.protocol !== &#39;file:&#39; &amp;&amp; /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, &#39;&#39;);
+  document.getElementsByTagName(&#39;head&#39;)[0].appendChild(script);
+})();
+&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

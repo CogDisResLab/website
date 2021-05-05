@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. J. M. Deans | CDRL</title>
+    <link>/authors/p.-j.-m.-deans/</link>
+      <atom:link href="/authors/p.-j.-m.-deans/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. J. M. Deans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>P. J. M. Deans</title>
+      <link>/authors/p.-j.-m.-deans/</link>
+    </image>
+    
+    <item>
+      <title>Neuronal impact of patient-specific aberrant NRXN1alpha splicing</title>
+      <link>/publication/2019-12-01_rn5151/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-12-01_rn5151/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergistic effects of common schizophrenia risk variants</title>
+      <link>/publication/2019-09-25_rn5152/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-09-25_rn5152/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

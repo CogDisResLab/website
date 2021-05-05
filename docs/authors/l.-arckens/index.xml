@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Arckens | CDRL</title>
+    <link>/authors/l.-arckens/</link>
+      <atom:link href="/authors/l.-arckens/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Arckens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L. Arckens</title>
+      <link>/authors/l.-arckens/</link>
+    </image>
+    
+    <item>
+      <title>Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</title>
+      <link>/publication/2020-05-06_rn5147/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-05-06_rn5147/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-affinity Na&#43;/K&#43;-dependent glutamate transporter EAAT4 is expressed throughout the rat fore- and midbrain</title>
+      <link>/publication/2008-09-05_rn5207/</link>
+      <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008-09-05_rn5207/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

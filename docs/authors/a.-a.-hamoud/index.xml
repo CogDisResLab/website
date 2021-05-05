@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. A. Hamoud | CDRL</title>
+    <link>/authors/a.-a.-hamoud/</link>
+      <atom:link href="/authors/a.-a.-hamoud/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. A. Hamoud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. A. Hamoud</title>
+      <link>/authors/a.-a.-hamoud/</link>
+    </image>
+    
+    <item>
+      <title>Role of Astrocytes in Major Neuropsychiatric Disorders</title>
+      <link>/publication/2021-01-08_rn5136/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-08_rn5136/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</title>
+      <link>/publication/2020-05-15_rn5146/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-05-15_rn5146/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
