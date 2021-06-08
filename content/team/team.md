@@ -18,9 +18,9 @@ subtitle = ""
                  "Co-Directors",
                  "Lab Manager",
                  "Postdoctoral Researchers",
-                 "Laboratory Research Technicians",
+                 #"Laboratory Research Technicians",
                  "Graduate Students",
-                 "Administration",
+                 "Undergraduate Students",
                  "Visitors",
                  "Alumni"]
 

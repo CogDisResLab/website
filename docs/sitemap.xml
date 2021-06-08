@@ -298,12 +298,12 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/tags/projects/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/projects/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -2069,6 +2069,14 @@
   </url>
   
   <url>
+    <loc>/authors/anchal/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/anna/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/billy/</loc>
   </url>
   
@@ -2089,6 +2097,10 @@
   </url>
   
   <url>
+    <loc>/authors/jake/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/james/</loc>
   </url>
   
@@ -2101,7 +2113,23 @@
   </url>
   
   <url>
+    <loc>/authors/ojal/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/prathik/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/priyanka/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/ram/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/rami/</loc>
   </url>
   
   <url>
