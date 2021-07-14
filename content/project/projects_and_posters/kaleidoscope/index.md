@@ -9,11 +9,11 @@ links:
 - icon: link
   icon_pack: fas
   name: Link
-  url: https://kalganem.shinyapps.io/BrainDatabases/
+  url: https://kalganem.shinyapps.io/Kaleidoscope/
 - icon: link
   icon_pack: fas
   name: Alternative Link
-  url: http://bpg-n.utoledo.edu:3838/khaled/kaleidoscope/
+  url: https://kalganem.shinyapps.io/BrainDatabases/
 
 title: Kaleidoscope App
 summary: Exploratory Data Analysis Web Application
