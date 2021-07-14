@@ -16,7 +16,7 @@ subtitle = ""
   user_groups = [
                  "Director",
                  "Co-Directors",
-                 "Lab Manager",
+                 #"Lab Manager",
                  "Postdoctoral Researchers",
                  #"Laboratory Research Technicians",
                  "Graduate Students",
