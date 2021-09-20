@@ -49,8 +49,7 @@ social:
 #   icon_pack: fab
 #   link: https://github.com/gcushen
 # superuser: true
-user_groups:
-- Co-Directors
+
 ---
 
 Adam received his undergraduate degree in Biology from the University of Nevada Reno (2004). After graduation he accepted a research assistant position with a local biotech company, Sierra Sciences, where he performed research related to telomere biology and telomerase activation. Adam was then accepted into the Neurobiology graduate program at the University of Alabama Birmingham (2006) where he joined the lab of Drs. McCullumsmith and Meador-Woodruff studying the neurobiology of schizophrenia. For his dissertation work, Adam found abnormalities in multiple intracellular signaling cascades in postmortem brain tissue from patients with schizophrenia. 

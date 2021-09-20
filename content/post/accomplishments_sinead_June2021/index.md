@@ -1,6 +1,6 @@
 ---
 title: Dr. Sinead O’Donovan Serves as a Reviewer for NIMH
-authors: [khaled]
+authors: [cdrl]
 summary: Dr. Sinead O’Donovan to serve as early career reviewer for National Institute of Mental Health
 date: '2021-06-30'
 output: 
