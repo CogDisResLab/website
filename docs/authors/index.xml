@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/abdul/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate>
+      <guid>/authors/abdul/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -2249,14 +2257,6 @@
       <link>/authors/t.-l.-stincic/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
       <guid>/authors/t.-l.-stincic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/abdul/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/abdul/</guid>
       <description></description>
     </item>
     

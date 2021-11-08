@@ -1,8 +1,7 @@
 ---
 date: "2021-11-01T00:00:01Z"
 external_link: ""
-author: 
-- [cdrl]
+authors: [abdul]
 image:
   caption: 
   focal_point: Smart

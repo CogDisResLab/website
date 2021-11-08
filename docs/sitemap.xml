@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>/authors/abdul/</loc>
+    <lastmod>2021-11-01T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-11-01T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/bioinformatics/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url>
@@ -74,11 +84,6 @@
   
   <url>
     <loc>/authors/cdrl/</loc>
-    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -2080,10 +2085,6 @@
   <url>
     <loc>/publication/2002-02-19_rn5224/</loc>
     <lastmod>2002-02-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/abdul/</loc>
   </url>
   
   <url>
