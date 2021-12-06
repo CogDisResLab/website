@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Cognitive Disorders Research Laboratory (CDRL)"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "brain_carton_noBG.png"
+hero_media = "cdrl_logo_wide.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
