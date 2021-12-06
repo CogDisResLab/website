@@ -22,7 +22,7 @@ name: Xiaojun (Wilma) Wu, PhD
 organizations:
 - name: University of Toledo
   url: ""
-role: Postdoc
+role: Postdoctoral Fellow
 social:
 # - icon: envelope
 #   icon_pack: fas
