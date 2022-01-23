@@ -5,12 +5,20 @@
     <link>/authors/e.-a.-k.-depasquale/</link>
       <atom:link href="/authors/e.-a.-k.-depasquale/index.xml" rel="self" type="application/rss+xml" />
     <description>E. A. K. DePasquale</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>E. A. K. DePasquale</title>
       <link>/authors/e.-a.-k.-depasquale/</link>
     </image>
+    
+    <item>
+      <title>KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</title>
+      <link>/publication/2021-12-18_rn5288/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-18_rn5288/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</title>

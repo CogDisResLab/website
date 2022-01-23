@@ -5,12 +5,20 @@
     <link>/authors/x.-wu/</link>
       <atom:link href="/authors/x.-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>X. Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>X. Wu</title>
       <link>/authors/x.-wu/</link>
     </image>
+    
+    <item>
+      <title>Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</title>
+      <link>/publication/2021-09-29_rn5287/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-09-29_rn5287/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</title>

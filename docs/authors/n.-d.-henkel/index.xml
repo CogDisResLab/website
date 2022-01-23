@@ -5,12 +5,28 @@
     <link>/authors/n.-d.-henkel/</link>
       <atom:link href="/authors/n.-d.-henkel/index.xml" rel="self" type="application/rss+xml" />
     <description>N. D. Henkel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>N. D. Henkel</title>
       <link>/authors/n.-d.-henkel/</link>
     </image>
+    
+    <item>
+      <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
+      <link>/publication/2021-12-31_rn5285/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-31_rn5285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</title>
+      <link>/publication/2021-09-29_rn5287/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-09-29_rn5287/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</title>

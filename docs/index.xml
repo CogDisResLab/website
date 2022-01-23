@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
@@ -281,6 +281,38 @@
     </item>
     
     <item>
+      <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
+      <link>/publication/2021-12-31_rn5285/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-31_rn5285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial overview: Neuroscience: Advances in the field</title>
+      <link>/publication/2021-12-24_rn5289/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-24_rn5289/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</title>
+      <link>/publication/2021-12-18_rn5288/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-18_rn5288/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies to identify candidate repurposable drugs: COVID-19 treatment as a case example</title>
+      <link>/publication/2021-11-18_rn5286/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-11-18_rn5286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Virtual Screening Workshop</title>
       <link>/project/webinars_and_workshops/virtual_screening_2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate>
@@ -330,6 +362,14 @@ Date: 11/1/2021&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</title>
+      <link>/publication/2021-09-29_rn5287/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-09-29_rn5287/</guid>
+      <description></description>
     </item>
     
     <item>

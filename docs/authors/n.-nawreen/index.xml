@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Nawreen | CDRL</title>
+    <link>/authors/n.-nawreen/</link>
+      <atom:link href="/authors/n.-nawreen/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Nawreen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/cdrl_logo_square.png</url>
+      <title>N. Nawreen</title>
+      <link>/authors/n.-nawreen/</link>
+    </image>
+    
+    <item>
+      <title>KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</title>
+      <link>/publication/2021-12-18_rn5288/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-18_rn5288/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

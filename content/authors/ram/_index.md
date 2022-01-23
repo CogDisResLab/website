@@ -53,4 +53,5 @@ user_groups:
 - Co-Directors
 ---
 
+Dr. Rammohan Shukla is an Assistant Professor in the Department of Neurosciences at the University of Toledo, Toledo, Ohio. He received his PhD in Biology from National Institute of Basic Biology, Japan in 2014 and completed his postdoctoral research in the Department of Psychiatry at the University of Toronto. Dr. Shukla's research program combines experimental and computational biology approaches to better understand the similarities and differences across central nervous system disorders in order to identify a therapeutic target.
 

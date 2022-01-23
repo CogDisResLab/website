@@ -5,12 +5,20 @@
     <link>/authors/t.-tomar/</link>
       <atom:link href="/authors/t.-tomar/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Tomar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>T. Tomar</title>
       <link>/authors/t.-tomar/</link>
     </image>
+    
+    <item>
+      <title>KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</title>
+      <link>/publication/2021-12-18_rn5288/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-18_rn5288/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</title>

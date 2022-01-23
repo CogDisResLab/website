@@ -5,12 +5,28 @@
     <link>/authors/r.-mccullumsmith/</link>
       <atom:link href="/authors/r.-mccullumsmith/index.xml" rel="self" type="application/rss+xml" />
     <description>R. McCullumsmith</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>R. McCullumsmith</title>
       <link>/authors/r.-mccullumsmith/</link>
     </image>
+    
+    <item>
+      <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
+      <link>/publication/2021-12-31_rn5285/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-31_rn5285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial overview: Neuroscience: Advances in the field</title>
+      <link>/publication/2021-12-24_rn5289/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-12-24_rn5289/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protein expression of prenyltransferase subunits in postmortem schizophrenia dorsolateral prefrontal cortex</title>
