@@ -155,13 +155,6 @@
       <description>&lt;p&gt;Kinome Random Sampling Analyzer, or &lt;strong&gt;KRSA&lt;/strong&gt;, is an R Shiny application that automates many of the steps required to analyze PamChip datasets, including peptide filtering, random sampling, heatmap generation, and kinase network generation. This new software makes analyzing kinome array datasets accessible and eliminates much of the human workload that the previous method required. More importantly, KRSA represents the results in a bigger biological context by visualizing altered kinome signaling networks instead of individual kinases.&lt;/p&gt;
 
 &lt;p&gt;More info on the PamStation12 platform can be found here: &lt;a href=&#34;https://pamgene.com/&#34; target=&#34;_blank&#34;&gt;PamGene&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Package Website:&lt;br /&gt;
-[&lt;a href=&#34;https://kalganem.github.io/KRSA/&#34; target=&#34;_blank&#34;&gt;https://kalganem.github.io/KRSA/&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Access:&lt;br /&gt;
-KRSA Shiny App GitHub Repository: &lt;a href=&#34;https://github.com/kalganem/KRSA_App&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-KRSA preprint is available here: &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.26.268581v1&#34; target=&#34;_blank&#34;&gt;BioRxiv&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

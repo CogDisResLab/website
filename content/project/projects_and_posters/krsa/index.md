@@ -6,9 +6,21 @@ image:
   caption: 
   focal_point: Smart
 links:
+- icon: file-alt
+  icon_pack: fas
+  name: Paper
+  url: https://pubmed.ncbi.nlm.nih.gov/34919543/
+- icon: solar-panel
+  icon_pack: fas
+  name: Package Website
+  url: https://cogdisreslab.github.io/KRSA/
+- icon: github
+  icon_pack: fab
+  name: GitHub
+  url: https://github.com/CogDisResLab/KRSA 
 - icon: link
   icon_pack: fas
-  name: Link to Shiny app
+  name: Shiny app
   url: https://kalganem.shinyapps.io/KRSA/
 
 title: KRSA App
@@ -32,12 +44,6 @@ Kinome Random Sampling Analyzer, or **KRSA**, is an R Shiny application that aut
 
 More info on the PamStation12 platform can be found here: [PamGene](https://pamgene.com/)
 
-Package Website:  
-[https://kalganem.github.io/KRSA/]
-
-Access:  
-KRSA Shiny App GitHub Repository: [Link](https://github.com/kalganem/KRSA_App)  
-KRSA preprint is available here: [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.26.268581v1)
 
 
 
