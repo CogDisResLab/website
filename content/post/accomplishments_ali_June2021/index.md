@@ -16,7 +16,7 @@ image:
 editor_options: 
   markdown: 
     wrap: 72
-featured: true
+featured: false
 ---
 
 <img src="featured.jpg" style="width:25.0%;height:25.0%" />
