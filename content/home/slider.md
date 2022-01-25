@@ -17,14 +17,14 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Publications"
-  content = "Check all of the lab's publications"
+  content = "Check All Publications"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -32,18 +32,18 @@ height = ""
   cta_label = "Go to Publications Page"
   cta_url = "/publication"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "file-alt"
 
 [[item]]
   title = "Projects"
-  content = "Check all of the lab's Projects"
+  content = "Explore All Projects"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -51,18 +51,18 @@ height = ""
   cta_label = "Go to Projects Page"
   cta_url = "/projects"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "tasks"
 
 [[item]]
   title = "Posts"
-  content = "Check all of the lab's posts"
+  content = "View All Posts"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -70,5 +70,5 @@ height = ""
   cta_label = "Go to Posts Page"
   cta_url = "/post"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "address-card"
 +++
