@@ -38,6 +38,6 @@ social:
 #   link: https://github.com/gcushen
 # superuser: true
 user_groups:
-#- Graduate Students
+ - Graduate Students
 ---
 
