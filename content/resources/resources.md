@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Public Resources"
+subtitle = "Here is a curated list of publicly available tools and databases that we like to use in our projects"
 
 [content]
   # Page type to display. E.g. project.
