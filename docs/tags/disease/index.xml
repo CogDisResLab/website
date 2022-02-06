@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disease | CDRL</title>
+    <link>/tags/disease/</link>
+      <atom:link href="/tags/disease/index.xml" rel="self" type="application/rss+xml" />
+    <description>Disease</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/cdrl_logo_square.png</url>
+      <title>Disease</title>
+      <link>/tags/disease/</link>
+    </image>
+    
+    <item>
+      <title>TIN-X</title>
+      <link>/project/public_resources/tinx/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/project/public_resources/tinx/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TIN-X&lt;/strong&gt; is an interactive visualization tool for discovering interesting associations between diseases and potential drug targets.&lt;/p&gt;
+
+&lt;p&gt;We used natural language processing to identify disease and protein mentions in the text of PubMed abstracts. Using this data, two metrics are derived: novelty and importance.&lt;/p&gt;
+
+&lt;p&gt;Novelty measures the relative scarcity of specific publications about a given concept (such as a target or a disease), while importance measures the relative strength of the association between two concepts. This web tool enables users to explore the relationships between the novelty of potential drug targets and their importance to diseases.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

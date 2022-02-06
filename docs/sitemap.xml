@@ -13,6 +13,276 @@
   </url>
   
   <url>
+    <loc>/authors/cdrl/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/brainatlas/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/archs4/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/brain/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cancer/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/cbioportal/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/dkkb/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/database/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/disease/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/drug/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/drugcentral/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/dgb/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/drugmonizome/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/drugshot/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/enrichr/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gene/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/geo/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/geneshot/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/gdc_portal/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/gtex/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gwas/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/gwas_cat/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/harmonizome/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/ilincs/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/interactions/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/iptmnet/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kinase/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/kea3/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/kinasemd/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/kinase-screen/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/kinase_com/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/kinexus/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/kinmap/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/opentarget/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pathway/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/pathway_commons/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/pharos/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/phosphositeplus/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/pinet/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/pride/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/protein/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/pdc_portal/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/reactome/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resources/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/string/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/proteinatlas/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/tinx/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/uniprot/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/public_resources/x2k/</loc>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url>
@@ -29,16 +299,6 @@
   
   <url>
     <loc>/authors/a.-w.-joyce/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,17 +448,7 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/symposium/</loc>
-    <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url>
   
@@ -245,11 +495,6 @@
   <url>
     <loc>/authors/x.-wu/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/cdrl/</loc>
-    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1194,6 +1439,11 @@
   
   <url>
     <loc>/projects/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   

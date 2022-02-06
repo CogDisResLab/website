@@ -5,12 +5,116 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Brain</title>
+      <link>/tags/brain/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer</title>
+      <link>/tags/cancer/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/tags/database/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disease</title>
+      <link>/tags/disease/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug</title>
+      <link>/tags/drug/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/drug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene</title>
+      <link>/tags/gene/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/gene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWAS</title>
+      <link>/tags/gwas/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactions</title>
+      <link>/tags/interactions/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinase</title>
+      <link>/tags/kinase/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/kinase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>/tags/network/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathway</title>
+      <link>/tags/pathway/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/pathway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein</title>
+      <link>/tags/protein/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/tags/resources/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/resources/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bioinformatics</title>

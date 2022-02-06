@@ -16,7 +16,7 @@ links:
   url: https://kalganem.shinyapps.io/BrainDatabases/
 
 title: Kaleidoscope App
-summary: Exploratory Data Analysis Web Application
+summary: Kaleidoscope is a web application that provides a platform for an easy access to biological databases and bioinformatics tools
 tags:
 - Apps
 - Projects

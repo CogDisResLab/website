@@ -34,6 +34,11 @@
   weight = 60
   
 [[main]]
+  name = "Public Resources"
+  url = "/resources"
+  weight = 65
+  
+[[main]]
   name = "Gallery"
   url = "/gallery"
   weight = 70

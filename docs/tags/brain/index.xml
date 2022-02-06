@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brain | CDRL</title>
+    <link>/tags/brain/</link>
+      <atom:link href="/tags/brain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/cdrl_logo_square.png</url>
+      <title>Brain</title>
+      <link>/tags/brain/</link>
+    </image>
+    
+    <item>
+      <title>Allen Brain Map</title>
+      <link>/project/public_resources/brainatlas/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/project/public_resources/brainatlas/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Allen Brain Atlases&lt;/strong&gt; capture patterns of gene expression across the brain in various species. Learn more and read publications at the Transcriptional Landscape of the Brain Explore page. Example use cases across the atlases include exploration of gene expression and co-expression patterns, expression across networks, changes across developmental stages, comparisons between species, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Human Protein Atlas</title>
+      <link>/project/public_resources/proteinatlas/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/project/public_resources/proteinatlas/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Human Protein Atlas&lt;/strong&gt; is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology. All the data in the knowledge resource is open access to allow scientists both in academia and industry to freely access the data for exploration of the human proteome.&lt;/p&gt;
+
+&lt;p&gt;The Human Protein Atlas consists of ten separate sections, each focusing on a particular aspect of the genome-wide analysis of the human proteins:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Tissue section, showing the distribution of the proteins across all major tissues and organs in the human body&lt;/li&gt;
+&lt;li&gt;The Brain section, exploring the distribution of proteins in various regions of the mammalian brain&lt;/li&gt;
+&lt;li&gt;The Single Cell Type section, showing expression of protein-coding genes in single human cell types based on scRNA-seq&lt;/li&gt;
+&lt;li&gt;The Tissue Cell Type section, showing expression of protein-coding genes in human cell types based on bulk RNAseq data&lt;/li&gt;
+&lt;li&gt;The Pathology section, showing the impact of protein levels for the survival of patients with cancer&lt;/li&gt;
+&lt;li&gt;The Immune Cell section, showing expression of protein-coding genes in immune cell types&lt;/li&gt;
+&lt;li&gt;The Blood Protein section, describing proteins detected in blood and proteins secreted by human tissues&lt;/li&gt;
+&lt;li&gt;The Subcellular section, showing the subcellular localization of proteins in single cells&lt;/li&gt;
+&lt;li&gt;The Cell Line section, showing expression of protein-coding genes in human cell lines&lt;/li&gt;
+&lt;li&gt;The Metabolic section, exploring expression of protein-coding genes in the context of the human metabolic network&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
