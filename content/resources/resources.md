@@ -42,6 +42,10 @@ subtitle = "Here is a curated list of publicly available tools and databases tha
     tag = "Pathway"
     
   [[content.filter_button]]
+    name = "Drug"
+    tag = "Drug"
+    
+  [[content.filter_button]]
     name = "Brain"
     tag = "Brain"
     
