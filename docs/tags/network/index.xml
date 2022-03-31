@@ -27,9 +27,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/ilincs/</guid>
       <description>&lt;p&gt;iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures. The portal provides biologists-friendly user interfaces for analyzing transcriptomics and proteomics LINCS datasets. The portal integrates R analytical engine via several R tools for web-computing (rserve, opencpu, Shiny, rgl) and DCIC developed web tools and applications (FTreeView, Enrichr) into a coherent web platform for LINCS data analysis. Users can follow several workflows which allow them to identify differentially expressed genes, proteins and phosphoproteins in LINCS datasets and use them in analysis of other LINCS and non-LINCS dataset (eg TCGA and GEO transcriptomic datasets), and in the analysis of LINCS L1000 signatures. In this way, the platform facilitates integrative analysis of LINCS data and signatures. The mechanistic interpretation of LINCS transcriptomic and proteomics signatures is facilitated by the enrichment analysis via Enrichr and DAVID, and by pathways analysis using the R implementation of the SPIA algorithm. The portal can be accessed freely and does not require user registration.&lt;/p&gt;
-
 &lt;p&gt;Scientists are able to compare a &amp;ldquo;disease transcriptional signature&amp;rdquo;, a gene expression profile, to a library of &amp;ldquo;drug activity transcriptional signatures&amp;rdquo; to generate a Connectivity Map based on Connectivity score. Positive correlation between drug perturbations and disease gene expression profiles suggest common gene expression changes, while negative correlation is suggestive of drug perturbation ability to &amp;ldquo;reverse&amp;rdquo; the disease.&lt;/p&gt;
-
 &lt;p&gt;Portal also provides tools to analyze list of differentially expressed genes in other LINCS and non-LINCS datasets (i.e. TCGA, GEO, etc.) with an option to find concordant LINCS and non-LINCS gene expression signatures.&lt;/p&gt;
 </description>
     </item>
@@ -40,7 +38,6 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/kinmap/</guid>
       <description>&lt;p&gt;&lt;strong&gt;KinMap&lt;/strong&gt; is a user-friendly online tool that facilitates the interactive navigation through kinase knowledge by linking biochemical, structural, and disease association data to the human kinome tree. To this end, preprocessed data from freely-available sources, such as ChEMBL, the Protein Data Bank, and the Center for Therapeutic Target Validation platform are integrated into KinMap and can easily be complemented by proprietary data.&lt;/p&gt;
-
 &lt;p&gt;KinMap represents a new generation of kinome tree viewers which facilitates interactive exploration of the human kinome. KinMap enables generation of high-quality annotated images of the human kinome tree as well as exchange of kinome-related data in scientific communications. Furthermore, KinMap supports multiple input and output formats and recognizes alternative kinase names and links them to a unified naming scheme, which makes it a useful tool across different disciplines and applications.&lt;/p&gt;
 </description>
     </item>
@@ -51,7 +48,6 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pinet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;piNET&lt;/strong&gt; is a versatile tool that can be used to annotate, map and analyze a set of peptide moieties, including those with post-translationally modified sites (PTMs), identified (and quantified) by targeted (SRM type), SWATH (discovery) or related mass spectrometry based techniques. Starting from a set of peptides, and optional modifications within those peptides, piNET provides mapping into canonical UniProt protein entries, standardized annotation of modifications using PsiMOD and UNIMOD ontologies, and mapping of the sites of PTMs in the full UniProt entries. Validated modifying enzymes, including protein kinases, acetyl or methyl transferases, that are known to target these PTM sites, are mapped using iPTMnet and Signor.&lt;/p&gt;
-
 &lt;p&gt;For phosphorylation, known kinase - target peptides are also mapped using PhosphoSitePlus, whereas DeepPhos is used to map predicted kinase – target site pairs. These annotations can be visualized using versatile d3 library to provide site specific network and pathways views. The set of proteins (with PTMs mapped) can be further projected onto biological pathways using enrichment analysis and a comprehensive library of biological gene/protein sets through Enrichr, while protein abundance vectors can be compared with LINCS chemical and genetic perturbation signatures through iLINCS.&lt;/p&gt;
 </description>
     </item>
@@ -71,19 +67,16 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/string/</guid>
       <description>&lt;p&gt;&lt;strong&gt;STRING&lt;/strong&gt; is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.&lt;/p&gt;
-
 &lt;p&gt;Data Sources
 Interactions in STRING are derived from five main sources:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Genomic Context Predictions&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;High-throughput Lab Experiments&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Genomic Context Predictions&lt;/li&gt;
+&lt;li&gt;High-throughput Lab Experiments&lt;/li&gt;
 &lt;li&gt;(Conserved) Co-Expression&lt;/li&gt;
-&lt;li&gt;Automated Textmining&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Automated Textmining&lt;/li&gt;
 &lt;li&gt;Previous Knowledge in Databases&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Coverage:&lt;br /&gt;
+&lt;p&gt;Coverage:&lt;br&gt;
 The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins from &lt;em&gt;5090&lt;/em&gt; organisms.&lt;/p&gt;
 </description>
     </item>
