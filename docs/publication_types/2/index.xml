@@ -5,12 +5,36 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</title>
+      <link>/publication/2022-04-01_rn5408/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-04-01_rn5408/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</title>
+      <link>/publication/2022-03-22_rn5410/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-03-22_rn5410/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schizophrenia: a disorder of broken brain bioenergetics</title>
+      <link>/publication/2022-03-11_rn5409/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-03-11_rn5409/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
@@ -121,6 +145,14 @@
       <link>/publication/2020-09-12_rn5140/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-09-12_rn5140/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KEOPS complex expression in the frontal cortex in major depression and schizophrenia</title>
+      <link>/publication/2020-09-12_rn5290/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-09-12_rn5290/</guid>
       <description></description>
     </item>
     

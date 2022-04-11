@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. A. Weinman | CDRL</title>
+    <link>/authors/s.-a.-weinman/</link>
+      <atom:link href="/authors/s.-a.-weinman/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. A. Weinman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/cdrl_logo_square.png</url>
+      <title>S. A. Weinman</title>
+      <link>/authors/s.-a.-weinman/</link>
+    </image>
+    
+    <item>
+      <title>Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</title>
+      <link>/publication/2022-03-22_rn5410/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-03-22_rn5410/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

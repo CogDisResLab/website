@@ -45,6 +45,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/harmonizome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Harmonizome&lt;/strong&gt; is a collection of information about genes and proteins from 114 datasets provided by 66 online resources.&lt;/p&gt;
+
 &lt;p&gt;Thanks to technological advances in genomics, transcriptomics, proteomics, metabolomics, and related fields, projects that generate a large number of measurements of the properties of cells, tissues, model organisms, and patients are becoming commonplace in biomedical research. In addition, curation projects are making great progress mining biomedical literature to extract and aggregate decades worth of research findings into online databases. Such projects are generating a wealth of information that potentially can guide research toward novel biomedical discoveries and advances in healthcare.&lt;/p&gt;
 </description>
     </item>
@@ -55,7 +56,9 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/ilincs/</guid>
       <description>&lt;p&gt;iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures. The portal provides biologists-friendly user interfaces for analyzing transcriptomics and proteomics LINCS datasets. The portal integrates R analytical engine via several R tools for web-computing (rserve, opencpu, Shiny, rgl) and DCIC developed web tools and applications (FTreeView, Enrichr) into a coherent web platform for LINCS data analysis. Users can follow several workflows which allow them to identify differentially expressed genes, proteins and phosphoproteins in LINCS datasets and use them in analysis of other LINCS and non-LINCS dataset (eg TCGA and GEO transcriptomic datasets), and in the analysis of LINCS L1000 signatures. In this way, the platform facilitates integrative analysis of LINCS data and signatures. The mechanistic interpretation of LINCS transcriptomic and proteomics signatures is facilitated by the enrichment analysis via Enrichr and DAVID, and by pathways analysis using the R implementation of the SPIA algorithm. The portal can be accessed freely and does not require user registration.&lt;/p&gt;
+
 &lt;p&gt;Scientists are able to compare a &amp;ldquo;disease transcriptional signature&amp;rdquo;, a gene expression profile, to a library of &amp;ldquo;drug activity transcriptional signatures&amp;rdquo; to generate a Connectivity Map based on Connectivity score. Positive correlation between drug perturbations and disease gene expression profiles suggest common gene expression changes, while negative correlation is suggestive of drug perturbation ability to &amp;ldquo;reverse&amp;rdquo; the disease.&lt;/p&gt;
+
 &lt;p&gt;Portal also provides tools to analyze list of differentially expressed genes in other LINCS and non-LINCS datasets (i.e. TCGA, GEO, etc.) with an option to find concordant LINCS and non-LINCS gene expression signatures.&lt;/p&gt;
 </description>
     </item>
@@ -75,11 +78,13 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pharos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Pharos&lt;/strong&gt; is the user interface to the Knowledge Management Center (KMC) for the Illuminating the Druggable Genome (IDG) program funded by the National Institutes of Health (NIH) Common Fund. (Grant No. 1U24CA224370-01). The goal of KMC is to develop a comprehensive, integrated knowledge-base for the Druggable Genome (DG) to illuminate the uncharacterized and/or poorly annotated portion of the DG, focusing on three of the most commonly drug-targeted protein families:&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;G-protein-coupled receptors (GPCRs)&lt;/li&gt;
 &lt;li&gt;Ion channels (ICs)&lt;/li&gt;
-&lt;li&gt;Kinases&lt;/li&gt;
+&lt;li&gt;Kinases&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;The &lt;strong&gt;Pharos&lt;/strong&gt; interface provides facile access to most data types collected by the KMC. Given the complexity of the data surrounding any target, efficient and intuitive visualization has been a high priority, to enable users to quickly navigate &amp;amp; summarize search results and rapidly identify patterns.&lt;/p&gt;
 </description>
     </item>
@@ -90,6 +95,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/phosphositeplus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;PhosphoSitePlus&lt;/strong&gt; provides comprehensive information and tools for the study of protein post-translational modifications (PTMs) including phosphorylation, acetylation, and more. The web use is free for everyone including commercial. PhosphoSitePlus is an open, dynamic, continuously curated, and highly interactive systems biology resource for studying experimentally observed PTMs in the regulation of biological processes. PhosphoSite® was limited to phosphorylation. PSP, while still providing comprehensive coverage of protein phosphorylation, now includes coverage of other commonly studied PTMs including acetylation, methylation, ubiquitination, and O-glycosylation.&lt;/p&gt;
+
 &lt;p&gt;PSP includes critical structural and functional information about the topology, biological function and regulatory significance of specific modification sites, and powerful tools for mining and interpreting this data in the context of biological regulation, diseases, tissues, subcellular localization, protein domains, sequences, motifs, etc.&lt;/p&gt;
 </description>
     </item>
@@ -100,6 +106,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pinet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;piNET&lt;/strong&gt; is a versatile tool that can be used to annotate, map and analyze a set of peptide moieties, including those with post-translationally modified sites (PTMs), identified (and quantified) by targeted (SRM type), SWATH (discovery) or related mass spectrometry based techniques. Starting from a set of peptides, and optional modifications within those peptides, piNET provides mapping into canonical UniProt protein entries, standardized annotation of modifications using PsiMOD and UNIMOD ontologies, and mapping of the sites of PTMs in the full UniProt entries. Validated modifying enzymes, including protein kinases, acetyl or methyl transferases, that are known to target these PTM sites, are mapped using iPTMnet and Signor.&lt;/p&gt;
+
 &lt;p&gt;For phosphorylation, known kinase - target peptides are also mapped using PhosphoSitePlus, whereas DeepPhos is used to map predicted kinase – target site pairs. These annotations can be visualized using versatile d3 library to provide site specific network and pathways views. The set of proteins (with PTMs mapped) can be further projected onto biological pathways using enrichment analysis and a comprehensive library of biological gene/protein sets through Enrichr, while protein abundance vectors can be compared with LINCS chemical and genetic perturbation signatures through iLINCS.&lt;/p&gt;
 </description>
     </item>
@@ -119,16 +126,19 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/string/</guid>
       <description>&lt;p&gt;&lt;strong&gt;STRING&lt;/strong&gt; is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.&lt;/p&gt;
+
 &lt;p&gt;Data Sources
 Interactions in STRING are derived from five main sources:&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Genomic Context Predictions&lt;/li&gt;
-&lt;li&gt;High-throughput Lab Experiments&lt;/li&gt;
+&lt;li&gt;Genomic Context Predictions&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;High-throughput Lab Experiments&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;(Conserved) Co-Expression&lt;/li&gt;
-&lt;li&gt;Automated Textmining&lt;/li&gt;
+&lt;li&gt;Automated Textmining&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Previous Knowledge in Databases&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Coverage:&lt;br&gt;
+
+&lt;p&gt;Coverage:&lt;br /&gt;
 The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins from &lt;em&gt;5090&lt;/em&gt; organisms.&lt;/p&gt;
 </description>
     </item>
@@ -139,7 +149,9 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/tinx/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TIN-X&lt;/strong&gt; is an interactive visualization tool for discovering interesting associations between diseases and potential drug targets.&lt;/p&gt;
+
 &lt;p&gt;We used natural language processing to identify disease and protein mentions in the text of PubMed abstracts. Using this data, two metrics are derived: novelty and importance.&lt;/p&gt;
+
 &lt;p&gt;Novelty measures the relative scarcity of specific publications about a given concept (such as a target or a disease), while importance measures the relative strength of the association between two concepts. This web tool enables users to explore the relationships between the novelty of potential drug targets and their importance to diseases.&lt;/p&gt;
 </description>
     </item>

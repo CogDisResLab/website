@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z. Sarnyai | CDRL</title>
+    <link>/authors/z.-sarnyai/</link>
+      <atom:link href="/authors/z.-sarnyai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z. Sarnyai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/cdrl_logo_square.png</url>
+      <title>Z. Sarnyai</title>
+      <link>/authors/z.-sarnyai/</link>
+    </image>
+    
+    <item>
+      <title>Schizophrenia: a disorder of broken brain bioenergetics</title>
+      <link>/publication/2022-03-11_rn5409/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-03-11_rn5409/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

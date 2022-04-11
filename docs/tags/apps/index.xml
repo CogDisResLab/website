@@ -18,8 +18,10 @@
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/project/projects_and_posters/krsa/</guid>
       <description>&lt;p&gt;Phosphorylation by serine-threonine and tyrosine kinases is critical for determining protein function. Array-based platforms for measuring reporter peptide signal levels allow for differential phosphorylation analysis between conditions for distinct active kinases. Peptide array technologies like the PamStation12 from PamGene allow for generating high-throughput, multi-dimensional, and complex functional proteomics data. As the adoption rate of such technologies increases, there is an imperative need for software tools that streamline the process of analyzing such data.&lt;/p&gt;
+
 &lt;p&gt;We present Kinome Random Sampling Analyzer (&lt;strong&gt;KRSA&lt;/strong&gt;), an R package and R Shiny web-application for analyzing kinome array data to help users better understand the patterns of functional proteomics in complex biological systems. KRSA is an All-In-One tool that reads, formats, fits models, analyzes, and visualizes PamStation12 kinome data.&lt;/p&gt;
-&lt;p&gt;More info on the PamStation12 platform can be found here: &lt;a href=&#34;https://pamgene.com/&#34;&gt;PamGene&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More info on the PamStation12 platform can be found here: &lt;a href=&#34;https://pamgene.com/&#34; target=&#34;_blank&#34;&gt;PamGene&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

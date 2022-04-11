@@ -35,12 +35,12 @@
       <link>/project/public_resources/pdc_portal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pdc_portal/</guid>
-      <description>&lt;p&gt;The objectives of the National Cancer Institute’s Proteomic Data Commons (PDC) are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;to make cancer-related proteomic datasets easily accessible to the public&lt;/li&gt;
-&lt;li&gt;facilitate multiomic integration in support of precision medicine through interoperability with other resources.&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;The objectives of the National Cancer Institute’s Proteomic Data Commons (PDC) are:&lt;br /&gt;
+- to make cancer-related proteomic datasets easily accessible to the public
+- facilitate multiomic integration in support of precision medicine through interoperability with other resources.&lt;/p&gt;
+
 &lt;p&gt;The PDC was developed to advance our understanding of how proteins help to shape the risk, diagnosis, development, progression, and treatment of cancer. In-depth analysis of proteomic data allows us to study both how and why cancer develops and to devise ways of personalizing treatment for patients using precision medicine.&lt;/p&gt;
+
 &lt;p&gt;The PDC is one of several repositories within the NCI Cancer Research Data Commons (CRDC), a secure cloud-based infrastructure featuring diverse data sets and innovative analytic tools – all designed to advance data-driven scientific discovery. The CRDC enables researchers to link proteomic data with other data sets (e.g., genomic and imaging data) and to submit, collect, analyze, store, and share data throughout the cancer data ecosystem.&lt;/p&gt;
 </description>
     </item>

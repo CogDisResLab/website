@@ -45,6 +45,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/dkkb/</guid>
       <description>&lt;p&gt;The Dark Kinase Knowledgebase (the “DKK”) is being developed as a component of the Kinase Data and Resource Generating Center (DRGC) - one of 3 DRGCs supported as part of the Illuminating the Druggable Genome (IDG) Common Fund effort. The goal of the IDG program is to improve our understanding of the properties and functions of proteins that are currently unannotated within the three most commonly drug-targeted protein families: G-protein coupled receptors, ion channels, and protein kinases.&lt;/p&gt;
+
 &lt;p&gt;The goal of the DKK is to generate, systematize and disseminate knowledge about dark kinases, biological networks in which they function and connections to cellular phenotypes and human disease. This is being done by (i) establishing a knowledgebase covering the approximately 160 poorly understood “dark kinases”, (ii) distilling primary data into functional biochemical and biological information and promoting further research using genetic and chemical tools, which we are also developing and making available, (iii) placing dark kinases within a new and emerging network-level understanding of cell signaling and physiology and (iv) identifying those dark kinases whose mutation or mis-regulation is associated with human disease, making them possible therapeutic targets.&lt;/p&gt;
 </description>
     </item>
@@ -100,18 +101,17 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/geo/</guid>
       <description>&lt;p&gt;Gene Expression Omnibus (GEO) is a database repository of high throughput gene expression data and hybridization arrays, chips, microarrays.&lt;/p&gt;
+
 &lt;p&gt;GEO is an international public repository that archives and freely distributes microarray, next-generation sequencing, and other forms of high-throughput functional genomics data submitted by the research community.&lt;/p&gt;
+
 &lt;p&gt;The three main goals of GEO are to:&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Provide a robust, versatile database in which to efficiently store high-throughput functional genomic data&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Offer simple submission procedures and formats that support complete and well-annotated data deposits from the research community&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Provide user-friendly mechanisms that allow users to query, locate, review and download studies and gene expression profiles of interest&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Provide a robust, versatile database in which to efficiently store high-throughput functional genomic data&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Offer simple submission procedures and formats that support complete and well-annotated data deposits from the research community&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Provide user-friendly mechanisms that allow users to query, locate, review and download studies and gene expression profiles of interest&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -158,6 +158,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/harmonizome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Harmonizome&lt;/strong&gt; is a collection of information about genes and proteins from 114 datasets provided by 66 online resources.&lt;/p&gt;
+
 &lt;p&gt;Thanks to technological advances in genomics, transcriptomics, proteomics, metabolomics, and related fields, projects that generate a large number of measurements of the properties of cells, tissues, model organisms, and patients are becoming commonplace in biomedical research. In addition, curation projects are making great progress mining biomedical literature to extract and aggregate decades worth of research findings into online databases. Such projects are generating a wealth of information that potentially can guide research toward novel biomedical discoveries and advances in healthcare.&lt;/p&gt;
 </description>
     </item>
@@ -168,7 +169,9 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/ilincs/</guid>
       <description>&lt;p&gt;iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures. The portal provides biologists-friendly user interfaces for analyzing transcriptomics and proteomics LINCS datasets. The portal integrates R analytical engine via several R tools for web-computing (rserve, opencpu, Shiny, rgl) and DCIC developed web tools and applications (FTreeView, Enrichr) into a coherent web platform for LINCS data analysis. Users can follow several workflows which allow them to identify differentially expressed genes, proteins and phosphoproteins in LINCS datasets and use them in analysis of other LINCS and non-LINCS dataset (eg TCGA and GEO transcriptomic datasets), and in the analysis of LINCS L1000 signatures. In this way, the platform facilitates integrative analysis of LINCS data and signatures. The mechanistic interpretation of LINCS transcriptomic and proteomics signatures is facilitated by the enrichment analysis via Enrichr and DAVID, and by pathways analysis using the R implementation of the SPIA algorithm. The portal can be accessed freely and does not require user registration.&lt;/p&gt;
+
 &lt;p&gt;Scientists are able to compare a &amp;ldquo;disease transcriptional signature&amp;rdquo;, a gene expression profile, to a library of &amp;ldquo;drug activity transcriptional signatures&amp;rdquo; to generate a Connectivity Map based on Connectivity score. Positive correlation between drug perturbations and disease gene expression profiles suggest common gene expression changes, while negative correlation is suggestive of drug perturbation ability to &amp;ldquo;reverse&amp;rdquo; the disease.&lt;/p&gt;
+
 &lt;p&gt;Portal also provides tools to analyze list of differentially expressed genes in other LINCS and non-LINCS datasets (i.e. TCGA, GEO, etc.) with an option to find concordant LINCS and non-LINCS gene expression signatures.&lt;/p&gt;
 </description>
     </item>
@@ -179,21 +182,19 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/iptmnet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;iPTMnet&lt;/strong&gt; is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.&lt;/p&gt;
+
 &lt;p&gt;It connects multiple disparate bioinformatics tools and systems text mining, data mining, analysis and visualization tools, and databases and ontologies into an integrated cross-cutting research resource to address the knowledge gaps in exploring and discovering PTM networks.&lt;/p&gt;
+
 &lt;p&gt;iPTMnet encompasses data from:&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;PTM-focused text mining tools, RLIMS-P and eFIP, which extract phosphorylation information from full-scale mining of PubMed abstracts and full-length articles including phosphorylation dependent protein-protein interactions (PPIs)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A set of curated databases with experimentally observed PTMs&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Biomuta to include variants affecting PTM sites to help in interp&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Protein Ontology (PRO) that organizes proteins and PTM proteoforms (observed protein forms derived from a single gene, including isoforms and combinations of PTMs), enabling their representation, annotation and comparison within and across species&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;PTM-focused text mining tools, RLIMS-P and eFIP, which extract phosphorylation information from full-scale mining of PubMed abstracts and full-length articles including phosphorylation dependent protein-protein interactions (PPIs)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A set of curated databases with experimentally observed PTMs&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Biomuta to include variants affecting PTM sites to help in interp&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Protein Ontology (PRO) that organizes proteins and PTM proteoforms (observed protein forms derived from a single gene, including isoforms and combinations of PTMs), enabling their representation, annotation and comparison within and across species&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -231,6 +232,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/kinase_com/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase.com&lt;/strong&gt; explores the functions, evolution and diversity of protein kinases, the key controllers of cell behavior. It focuses on the kinome, the full complement of protein kinases in any sequenced genome. This includes the extensive KinBase database, and papers and supporting material for the published kinase work from Sugen and the Salk Institute.&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;KinBase&lt;/strong&gt; holds information on over 3,000 protein kinase genes found in the genomes of human, and many other sequenced genomes. You may search the database by a variety of different gene names and accessions, or according to the sequence based classification.&lt;/p&gt;
 </description>
     </item>
@@ -241,14 +243,13 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/kinexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinexus&lt;/strong&gt; is a online resource developed by Kinexus Bioinformatics Corporation to foster the study of cell signalling systems to advance biomedical research in academia and industry&lt;/p&gt;
-&lt;p&gt;Data Modules:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;PhosphoNET&lt;/li&gt;
-&lt;li&gt;KinaseNET&lt;/li&gt;
-&lt;li&gt;TranscriptoNET&lt;/li&gt;
-&lt;li&gt;KinATLAS&lt;/li&gt;
-&lt;li&gt;DrugKiNET&lt;/li&gt;
-&lt;/ul&gt;
+
+&lt;p&gt;Data Modules:
+- PhosphoNET&lt;br /&gt;
+- KinaseNET
+- TranscriptoNET&lt;br /&gt;
+- KinATLAS&lt;br /&gt;
+- DrugKiNET&lt;/p&gt;
 </description>
     </item>
     
@@ -258,6 +259,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/kinmap/</guid>
       <description>&lt;p&gt;&lt;strong&gt;KinMap&lt;/strong&gt; is a user-friendly online tool that facilitates the interactive navigation through kinase knowledge by linking biochemical, structural, and disease association data to the human kinome tree. To this end, preprocessed data from freely-available sources, such as ChEMBL, the Protein Data Bank, and the Center for Therapeutic Target Validation platform are integrated into KinMap and can easily be complemented by proprietary data.&lt;/p&gt;
+
 &lt;p&gt;KinMap represents a new generation of kinome tree viewers which facilitates interactive exploration of the human kinome. KinMap enables generation of high-quality annotated images of the human kinome tree as well as exchange of kinome-related data in scientific communications. Furthermore, KinMap supports multiple input and output formats and recognizes alternative kinase names and links them to a unified naming scheme, which makes it a useful tool across different disciplines and applications.&lt;/p&gt;
 </description>
     </item>
@@ -268,6 +270,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/opentarget/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Open Targets Platform&lt;/strong&gt; is a comprehensive tool that supports systematic identification and prioritisation of potential therapeutic drug targets.&lt;/p&gt;
+
 &lt;p&gt;By integrating publicly available datasets including data generated by the Open Targets consortium, the Platform builds and scores target-disease associations to assist in drug target identification and prioritisation. It also integrates relevant annotation information about targets, diseases, phenotypes, and drugs, as well as their most relevant relationships.&lt;/p&gt;
 </description>
     </item>
@@ -278,6 +281,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pathway_commons/</guid>
       <description>&lt;p&gt;*P&lt;strong&gt;athway Commons&lt;/strong&gt; is an integrated resource of publicly available information about biological pathways including biochemical reactions, assembly of biomolecular complexes, transport and catalysis events and physical interactions involving proteins, DNA, RNA, and small molecules (e.g. metabolites and drug compounds). Data is collected from multiple providers in standard formats, including the Biological Pathway Exchange (BioPAX) language and the Proteomics Standards Initiative Molecular Interactions format, and then integrated. Pathway Commons provides biologists with:&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;tools to search this comprehensive resource&lt;/li&gt;
 &lt;li&gt;a download site offering integrated bulk sets of pathway data (e.g. tables of interactions and gene sets)&lt;/li&gt;
@@ -293,11 +297,13 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pharos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Pharos&lt;/strong&gt; is the user interface to the Knowledge Management Center (KMC) for the Illuminating the Druggable Genome (IDG) program funded by the National Institutes of Health (NIH) Common Fund. (Grant No. 1U24CA224370-01). The goal of KMC is to develop a comprehensive, integrated knowledge-base for the Druggable Genome (DG) to illuminate the uncharacterized and/or poorly annotated portion of the DG, focusing on three of the most commonly drug-targeted protein families:&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;G-protein-coupled receptors (GPCRs)&lt;/li&gt;
 &lt;li&gt;Ion channels (ICs)&lt;/li&gt;
-&lt;li&gt;Kinases&lt;/li&gt;
+&lt;li&gt;Kinases&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;The &lt;strong&gt;Pharos&lt;/strong&gt; interface provides facile access to most data types collected by the KMC. Given the complexity of the data surrounding any target, efficient and intuitive visualization has been a high priority, to enable users to quickly navigate &amp;amp; summarize search results and rapidly identify patterns.&lt;/p&gt;
 </description>
     </item>
@@ -308,6 +314,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/phosphositeplus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;PhosphoSitePlus&lt;/strong&gt; provides comprehensive information and tools for the study of protein post-translational modifications (PTMs) including phosphorylation, acetylation, and more. The web use is free for everyone including commercial. PhosphoSitePlus is an open, dynamic, continuously curated, and highly interactive systems biology resource for studying experimentally observed PTMs in the regulation of biological processes. PhosphoSite® was limited to phosphorylation. PSP, while still providing comprehensive coverage of protein phosphorylation, now includes coverage of other commonly studied PTMs including acetylation, methylation, ubiquitination, and O-glycosylation.&lt;/p&gt;
+
 &lt;p&gt;PSP includes critical structural and functional information about the topology, biological function and regulatory significance of specific modification sites, and powerful tools for mining and interpreting this data in the context of biological regulation, diseases, tissues, subcellular localization, protein domains, sequences, motifs, etc.&lt;/p&gt;
 </description>
     </item>
@@ -318,6 +325,7 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pinet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;piNET&lt;/strong&gt; is a versatile tool that can be used to annotate, map and analyze a set of peptide moieties, including those with post-translationally modified sites (PTMs), identified (and quantified) by targeted (SRM type), SWATH (discovery) or related mass spectrometry based techniques. Starting from a set of peptides, and optional modifications within those peptides, piNET provides mapping into canonical UniProt protein entries, standardized annotation of modifications using PsiMOD and UNIMOD ontologies, and mapping of the sites of PTMs in the full UniProt entries. Validated modifying enzymes, including protein kinases, acetyl or methyl transferases, that are known to target these PTM sites, are mapped using iPTMnet and Signor.&lt;/p&gt;
+
 &lt;p&gt;For phosphorylation, known kinase - target peptides are also mapped using PhosphoSitePlus, whereas DeepPhos is used to map predicted kinase – target site pairs. These annotations can be visualized using versatile d3 library to provide site specific network and pathways views. The set of proteins (with PTMs mapped) can be further projected onto biological pathways using enrichment analysis and a comprehensive library of biological gene/protein sets through Enrichr, while protein abundance vectors can be compared with LINCS chemical and genetic perturbation signatures through iLINCS.&lt;/p&gt;
 </description>
     </item>
@@ -336,12 +344,12 @@
       <link>/project/public_resources/pdc_portal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/pdc_portal/</guid>
-      <description>&lt;p&gt;The objectives of the National Cancer Institute’s Proteomic Data Commons (PDC) are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;to make cancer-related proteomic datasets easily accessible to the public&lt;/li&gt;
-&lt;li&gt;facilitate multiomic integration in support of precision medicine through interoperability with other resources.&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;The objectives of the National Cancer Institute’s Proteomic Data Commons (PDC) are:&lt;br /&gt;
+- to make cancer-related proteomic datasets easily accessible to the public
+- facilitate multiomic integration in support of precision medicine through interoperability with other resources.&lt;/p&gt;
+
 &lt;p&gt;The PDC was developed to advance our understanding of how proteins help to shape the risk, diagnosis, development, progression, and treatment of cancer. In-depth analysis of proteomic data allows us to study both how and why cancer develops and to devise ways of personalizing treatment for patients using precision medicine.&lt;/p&gt;
+
 &lt;p&gt;The PDC is one of several repositories within the NCI Cancer Research Data Commons (CRDC), a secure cloud-based infrastructure featuring diverse data sets and innovative analytic tools – all designed to advance data-driven scientific discovery. The CRDC enables researchers to link proteomic data with other data sets (e.g., genomic and imaging data) and to submit, collect, analyze, store, and share data throughout the cancer data ecosystem.&lt;/p&gt;
 </description>
     </item>
@@ -361,16 +369,19 @@
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/string/</guid>
       <description>&lt;p&gt;&lt;strong&gt;STRING&lt;/strong&gt; is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.&lt;/p&gt;
+
 &lt;p&gt;Data Sources
 Interactions in STRING are derived from five main sources:&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Genomic Context Predictions&lt;/li&gt;
-&lt;li&gt;High-throughput Lab Experiments&lt;/li&gt;
+&lt;li&gt;Genomic Context Predictions&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;High-throughput Lab Experiments&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;(Conserved) Co-Expression&lt;/li&gt;
-&lt;li&gt;Automated Textmining&lt;/li&gt;
+&lt;li&gt;Automated Textmining&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Previous Knowledge in Databases&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Coverage:&lt;br&gt;
+
+&lt;p&gt;Coverage:&lt;br /&gt;
 The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins from &lt;em&gt;5090&lt;/em&gt; organisms.&lt;/p&gt;
 </description>
     </item>
@@ -381,7 +392,9 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/proteinatlas/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Human Protein Atlas&lt;/strong&gt; is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology. All the data in the knowledge resource is open access to allow scientists both in academia and industry to freely access the data for exploration of the human proteome.&lt;/p&gt;
+
 &lt;p&gt;The Human Protein Atlas consists of ten separate sections, each focusing on a particular aspect of the genome-wide analysis of the human proteins:&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;The Tissue section, showing the distribution of the proteins across all major tissues and organs in the human body&lt;/li&gt;
 &lt;li&gt;The Brain section, exploring the distribution of proteins in various regions of the mammalian brain&lt;/li&gt;
@@ -403,7 +416,9 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/public_resources/tinx/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TIN-X&lt;/strong&gt; is an interactive visualization tool for discovering interesting associations between diseases and potential drug targets.&lt;/p&gt;
+
 &lt;p&gt;We used natural language processing to identify disease and protein mentions in the text of PubMed abstracts. Using this data, two metrics are derived: novelty and importance.&lt;/p&gt;
+
 &lt;p&gt;Novelty measures the relative scarcity of specific publications about a given concept (such as a target or a disease), while importance measures the relative strength of the association between two concepts. This web tool enables users to explore the relationships between the novelty of potential drug targets and their importance to diseases.&lt;/p&gt;
 </description>
     </item>

@@ -5,12 +5,20 @@
     <link>/authors/a.-j.-ramsey/</link>
       <atom:link href="/authors/a.-j.-ramsey/index.xml" rel="self" type="application/rss+xml" />
     <description>A. J. Ramsey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>A. J. Ramsey</title>
       <link>/authors/a.-j.-ramsey/</link>
     </image>
+    
+    <item>
+      <title>Schizophrenia: a disorder of broken brain bioenergetics</title>
+      <link>/publication/2022-03-11_rn5409/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-03-11_rn5409/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A role for endothelial NMDA receptors in the pathophysiology of schizophrenia</title>

@@ -1,1516 +1,2674 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/media/sfn2019/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/webinars_and_workshops/intro-to-coding/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/cdrl/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/accomplishments_nick_may2022/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-j.-funk/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2022-04-01_rn5408/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-meller/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-reigle/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-a.-eladawi/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-e.-mccullumsmith/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-s.-alnafisah/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-shukla/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-m.-odonovan/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-m.-nawabi/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-s.-imami/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/g.-j.-martinez/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-n.-b.-moseley/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2022-03-22_rn5410/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-a.-hipp/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-f.-creeden/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jr.-hinds-t.-d./</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-alganem/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/l.-e.-nagy/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-r.-mcmullen/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-xu/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-m.-flight/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-mccullumsmith/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-a.-weinman/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-roychowdhury/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-softic/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/w.-h.-lee/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-a.-kipp/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-j.-ramsey/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-a.-devine/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-m.-jiron/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/l.-m.-rowland/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-k.-hahn/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-d.-henkel/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2022-03-11_rn5409/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/x.-wu/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-sarnyai/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-wen/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/resources/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_rawan_february2022/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/brainatlas/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/archs4/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/brain/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/cancer/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/cbioportal/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/dkkb/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/database/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/disease/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/drug/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/drugcentral/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/dgb/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/drugmonizome/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/drugshot/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/enrichr/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/gene/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/geo/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/geneshot/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/gdc_portal/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/gtex/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/gwas/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/gwas_cat/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/harmonizome/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/ilincs/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/interactions/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/iptmnet/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/kinase/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/kea3/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/kinasemd/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/kinase-screen/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/kinase_com/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/kinexus/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/kinmap/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/network/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/opentarget/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/pathway/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/pathway_commons/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/pharos/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/phosphositeplus/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/pinet/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/pride/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/protein/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/pdc_portal/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/reactome/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/resources/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/string/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/proteinatlas/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/tinx/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/uniprot/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/public_resources/x2k/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-r.-hamoud/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/a.-s.-imami/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-w.-joyce/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-b.-rethman/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/j.-f.-creeden/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/j.-meller/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/k.-alganem/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/n.-d.-henkel/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/r.-mccullumsmith/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/r.-shukla/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/s.-m.-odonovan/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-12-31_rn5285/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/v.-wg-ryan/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-12-24_rn5289/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-a.-k.-depasquale/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-bentea/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-naji/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-l.-mcguire/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-12-18_rn5288/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-nawreen/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/r.-e.-mccullumsmith/</loc>
-    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-hilhorst/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-tomar/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-11-18_rn5286/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/abdul/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/bioinformatics/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/demonstration/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/docking-simulation/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/drug-discovery/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/drug-screening/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/symposium/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/talks/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/webinars_and_workshops/virtual_screening_2021/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/webinars/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-09-29_rn5287/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-a.-enright/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-m.-eby/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-a.-smail/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-o.-fischer/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/x.-wu/</loc>
-    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_ali_september2021/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_khaled_august2021/</loc>
     <lastmod>2021-08-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_sinead_june2021/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_rob_june2021/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_ali_june2021/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/ali/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/bioinformatics_hackathon_2021/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-b.-mccullumsmith/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-gillman/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-andari/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-03-11_rn5132/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/j.-reigle/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-n.-becker/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/z.-k.-pan/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_ali_march2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-imami/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-thorman/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/b.-shamsaei/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-eby/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-02-26_rn5133/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-alnafisah/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-t.-taylor/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-asah/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/x.-zhang/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-k.-reigle/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-02-25_rn5134/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-p.-herman/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-01-29_rn5135/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-a.-hamoud/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/r.-s.-alnafisah/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2021-01-08_rn5136/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/z.-wen/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/accomplishments_justin_december2020/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-11-26_rn5137/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-c.-brunicardi/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-h.-liu/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-11-21_rn5138/</loc>
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-11-16_rn5139/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/a.-j.-ramsey/</loc>
-    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-intson/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-geissah/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/khaled/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/apps/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/projects_and_posters/krsa/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/projects/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/r-shiny/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/web-application/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-wolfinger/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-09-12_rn5140/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-09-12_rn5290/</loc>
+    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/m.-e.-abel/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-m.-asah/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/a.-j.-funk/</loc>
-    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-salahpour/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-a.-mielnik/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-08-19_rn5142/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-k.-lambe/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-m.-johansson/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-uvnas-moberg/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-groc/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-a.-binko/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-milenkovic/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-sivananthan/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-08-19_rn5141/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-a.-ross/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-islam/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-tripathy/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/w.-horsfall/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/y.-chen/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-horton/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-wisner/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-08-14_rn5143/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-tackie-yarboi/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-e.-williams/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-s.-hall/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/i.-t.-schiefer/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-q.-t.-chau/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-07-24_rn5144/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-creeden/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-a.-miruzzi/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-07-01_rn5145/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-l.-nestor-kalinoski/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-05-15_rn5146/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-f.-hawk/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-e.-stec/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-m.-gordon/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-g.-sarver/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-l.-neifer/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-p.-morran/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/p.-w.-erhardt/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-o.-adeosun/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-massie/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-villers/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-k.-meshul/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-moore/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-05-06_rn5147/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-hermans/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-sato/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-arckens/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-ris/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-verbruggen/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-de-pauw/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-j.-churchill/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-b.-declerck/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/o.-lara/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/p.-janssen/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/webinars_and_workshops/2020_spring_cdrl_webinars/</loc>
     <lastmod>2020-04-28T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-04-11_rn5148/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-l.-moody/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-boison/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-devine/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-c.-devore-homan/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-03-22_rn5149/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-l.-pinner/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-h.-meador-woodruff/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020-02-19_rn5150/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-m.-mueller/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-antoine/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-cheng/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-flaherty/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-deikus/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-e.-hoffman/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-fang/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-shah/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/i.-ladran/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-rapoport/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-j.-brennand/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-b.-fernando/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-fitzgerald/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-halpern/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-barretto/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-francoeur/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-m.-tsankova/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-schrode/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2019-12-01_rn5151/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/p.-gochman/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/p.-j.-m.-deans/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-sebra/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-zhu/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/media/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/sfn/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/projects_and_posters/kaleidoscope/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-dobbyn/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-topol/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/b.-aronow/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-girish/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-a.-stahl/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-hoelzli/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-morishita/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-phatnani/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-gregory/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-yamamuro/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-huckins/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-r.-matos/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/p.-sklar/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-abadali/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-m.-ho/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2019-09-25_rn5152/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/v.-singh/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-c.-lowery/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-a.-correll/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-n.-anwar/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-rhame/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-b.-ngwenya/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2019-09-13_rn5153/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/coding/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/courses/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/r/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/workshops/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/projects_and_posters/khaled_sobp2019/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/posters/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/b.-bai/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-r.-sullivan/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-xu/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-l.-ming/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-song/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-peng/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2019-05-21_rn5154/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-simmons/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/y.-zhou/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2019-05-11_rn5155/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-m.-blomquist/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/project/webinars_and_workshops/mini_symposium_2019/</loc>
     <lastmod>2019-04-19T00:00:01+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-funk/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/l.-m.-rowland/</loc>
-    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-pletnikov/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2019-03-27_rn5156/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/gallery/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publications/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/talks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/team/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2018-10-20_rn5157/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-a.-depasquale/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/p.-katsel/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/v.-haroutunian/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-alasmari/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2018-10-15_rn5158/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-goodwani/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/y.-sari/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2018-09-15_rn5159/</loc>
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2018-08-03_rn5160/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-anwar/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-atluri/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-e.-romick-rosendale/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-watanabe/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-k.-evanson/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-franco-villanueva/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-l.-caldwell/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-m.-privette-vinnedge/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-b.-solomon/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2018-07-19_rn5161/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/v.-ghisays/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-ramsey/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-hasselfeld/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2018-03-03_rn5162/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-h.-koene/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-sullivan/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2018-02-28_rn5163/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-koene/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2017-12-09_rn5164/</loc>
     <lastmod>2017-12-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2017-09-25_rn5165/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2017-09-14_rn5166/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-h.-hammond/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-m.-odonnovan/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-marwaha/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/v.-hartounian/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-l.-lacrosse/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2017-05-13_rn5167/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-j.-reissner/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-a.-knackstedt/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-schwendt/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-t.-sepulveda-orengo/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/b.-k.-lipska/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-newburn/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2017-01-28_rn5168/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-l.-floyd/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-r.-dorsett/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-l.-niedzielko/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2016-06-18_rn5169/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-e.-gardner/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2016-06-04_rn5170/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-s.-benesh/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-b.-drummond/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-roberts/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2016-05-21_rn5171/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-lauriat/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2016-02-16_rn5172/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-tucholski/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-l.-cobbs/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-l.-norris/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-d.-greis/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-r.-heaven/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2016-01-13_rn5173/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/w.-d.-haffey/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-a.-mccollum/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-c.-roberts/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2016-01-08_rn5174/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-12-20_rn5175/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-k.-lucas/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-l.-gamble/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-j.-mcmeekin/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-c.-hendrickson/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-m.-cowell/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-09-30_rn5176/</loc>
     <lastmod>2015-09-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-bauer/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-06-10_rn5177/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/p.-roussos/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-s.-gibbons/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-uezato/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/b.-dean/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-05-28_rn5178/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-scarr/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-meador-woodruff/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-boer/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-oliveros/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-lindberg/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-s.-choi/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-shan/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-ayers-ringler/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-benitez/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-prieto/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-05-08_rn5179/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-04-02_rn5180/</loc>
     <lastmod>2015-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-04-01_rn5181/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-03-15_rn5182/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-sanacora/</loc>
     <lastmod>2014-12-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2014-12-09_rn5183/</loc>
     <lastmod>2014-12-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2014-08-26_rn5184/</loc>
     <lastmod>2014-08-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-k.-roche/</loc>
     <lastmod>2014-07-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2014-07-30_rn5185/</loc>
     <lastmod>2014-07-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2014-05-02_rn5186/</loc>
     <lastmod>2014-05-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-chen/</loc>
     <lastmod>2014-05-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-d.-yates/</loc>
     <lastmod>2014-05-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2014-02-25_rn5187/</loc>
     <lastmod>2014-02-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-mount/</loc>
     <lastmod>2014-02-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-moore/</loc>
     <lastmod>2014-02-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/c.-walss-bass/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2014-01-02_rn5188/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/h.-raventos/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-k.-marballi/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-a.-escamilla/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-j.-leach/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-yates/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2013-10-05_rn5189/</loc>
     <lastmod>2013-10-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2013-10-01_rn5190/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2013-03-07_rn5191/</loc>
     <lastmod>2013-03-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-s.-simmons/</loc>
     <lastmod>2013-03-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-d.-spencer/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-perez/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/f.-lauritzen/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2013-02-07_rn5192/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-drummond/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-h.-bergersen/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/n.-c.-de-lanerolle/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-eid/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-s.-lee/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/y.-wang/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2013-01-30_rn5193/</loc>
     <lastmod>2013-01-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2012-06-22_rn5194/</loc>
     <lastmod>2012-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-c.-hammond/</loc>
     <lastmod>2012-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2012-02-09_rn5195/</loc>
     <lastmod>2012-02-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-hammond/</loc>
     <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2012-01-31_rn5196/</loc>
     <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-s.-moehle/</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-f.-luduena/</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2012-01-24_rn5197/</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2011-11-04_rn5198/</loc>
     <lastmod>2011-11-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2011-05-18_rn5199/</loc>
     <lastmod>2011-05-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2011-05-10_rn5200/</loc>
     <lastmod>2011-05-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-s.-sodhi/</loc>
     <lastmod>2011-05-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2010-11-26_rn5201/</loc>
     <lastmod>2010-11-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2010-06-24_rn5202/</loc>
     <lastmod>2010-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2009-10-21_rn5203/</loc>
     <lastmod>2009-10-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2009-09-01_rn5204/</loc>
     <lastmod>2009-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2009-06-02_rn5205/</loc>
     <lastmod>2009-06-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-rumbaugh/</loc>
     <lastmod>2009-06-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/v.-harotunian/</loc>
     <lastmod>2009-06-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-e.-bauer/</loc>
     <lastmod>2009-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2009-01-14_rn5206/</loc>
     <lastmod>2009-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2008-09-05_rn5207/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/i.-smolders/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-cnops/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/r.-kooijman/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-kwak/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/y.-michotte/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2008-08-06_rn5208/</loc>
     <lastmod>2008-08-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-gupta/</loc>
     <lastmod>2008-08-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-e.-steffek/</loc>
     <lastmod>2008-06-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2008-06-20_rn5209/</loc>
     <lastmod>2008-06-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/a.-oni-orisan/</loc>
     <lastmod>2007-12-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2007-12-25_rn5210/</loc>
     <lastmod>2007-12-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/l.-v.-kristiansen/</loc>
     <lastmod>2007-12-25T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2007-02-15_rn5211/</loc>
     <lastmod>2007-02-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-beneyto/</loc>
     <lastmod>2007-02-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-kreger/</loc>
     <lastmod>2007-01-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2007-01-16_rn5212/</loc>
     <lastmod>2007-01-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/k.-l.-davis/</loc>
     <lastmod>2007-01-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2006-11-23_rn5213/</loc>
     <lastmod>2006-11-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2006-02-18_rn5214/</loc>
     <lastmod>2006-02-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/i.-huerta/</loc>
     <lastmod>2006-02-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/j.-m.-gimenez-amaya/</loc>
     <lastmod>2006-02-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/d.-s.-gupta/</loc>
     <lastmod>2005-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2005-06-10_rn5215/</loc>
     <lastmod>2005-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/e.-g.-bruneau/</loc>
     <lastmod>2005-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2005-04-12_rn5216/</loc>
     <lastmod>2005-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-m.-clinton/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2004-03-10_rn5217/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2004-02-03_rn5218/</loc>
     <lastmod>2004-02-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-j.-semins/</loc>
     <lastmod>2004-02-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2003-12-20_rn5220/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2003-12-20_rn5219/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/g.-davidkova/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2003-12-20_rn5221/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2003-11-12_rn5222/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/i.-f.-charo/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/m.-gharaee-kermani/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-h.-phan/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-l.-kunkel/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2003-10-02_rn5223/</loc>
     <lastmod>2003-10-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/s.-m.-agrawal/</loc>
     <lastmod>2003-10-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/t.-l.-stincic/</loc>
     <lastmod>2003-10-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2002-02-19_rn5224/</loc>
     <lastmod>2002-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/adam/</loc>
-  </url><url>
-    <loc>/authors/admin/</loc>
-  </url><url>
-    <loc>/authors/alex/</loc>
-  </url><url>
-    <loc>/authors/anchal/</loc>
-  </url><url>
-    <loc>/authors/anna/</loc>
-  </url><url>
-    <loc>/authors/billy/</loc>
-  </url><url>
-    <loc>/authors/elizabeth/</loc>
-  </url><url>
-    <loc>/authors/emily/</loc>
-  </url><url>
-    <loc>/authors/evelyn/</loc>
-  </url><url>
-    <loc>/authors/hunter/</loc>
-  </url><url>
-    <loc>/authors/jake/</loc>
-  </url><url>
-    <loc>/authors/james/</loc>
-  </url><url>
-    <loc>/authors/justin/</loc>
-  </url><url>
-    <loc>/authors/nick/</loc>
-  </url><url>
-    <loc>/authors/ojal/</loc>
-  </url><url>
-    <loc>/authors/prathik/</loc>
-  </url><url>
-    <loc>/authors/priyanka/</loc>
-  </url><url>
-    <loc>/authors/ram/</loc>
-  </url><url>
-    <loc>/authors/rami/</loc>
-  </url><url>
-    <loc>/authors/rawan/</loc>
-  </url><url>
-    <loc>/authors/rob/</loc>
-  </url><url>
-    <loc>/authors/scott/</loc>
-  </url><url>
-    <loc>/authors/sinead/</loc>
-  </url><url>
-    <loc>/authors/sophie/</loc>
-  </url><url>
-    <loc>/authors/vineet/</loc>
-  </url><url>
-    <loc>/authors/wilma/</loc>
-  </url><url>
-    <loc>/authors/xiaolu/</loc>
-  </url><url>
-    <loc>/scripts/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/courses/</loc>
-  </url><url>
-    <loc>/authors/jr.-hinds-t.-d./</loc>
   </url>
+  
+  <url>
+    <loc>/authors/adam/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/alex/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/anchal/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/anna/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/billy/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/elizabeth/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/emily/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/evelyn/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hunter/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jake/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/james/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/justin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/nick/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ojal/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/prathik/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/priyanka/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ram/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/rami/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/rawan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/rob/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/scott/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sinead/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sophie/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/vineet/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wilma/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaolu/</loc>
+  </url>
+  
+  <url>
+    <loc>/scripts/</loc>
+  </url>
+  
+  <url>
+    <loc>/scripts/intro-to-coding/lesson6/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/slides/intro_lesson1/lesson_6_stats/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+  </url>
+  
 </urlset>

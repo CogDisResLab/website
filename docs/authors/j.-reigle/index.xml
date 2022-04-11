@@ -5,12 +5,20 @@
     <link>/authors/j.-reigle/</link>
       <atom:link href="/authors/j.-reigle/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Reigle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>J. Reigle</title>
       <link>/authors/j.-reigle/</link>
     </image>
+    
+    <item>
+      <title>Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</title>
+      <link>/publication/2022-04-01_rn5408/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-04-01_rn5408/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</title>
