@@ -18,7 +18,7 @@ email: "robert.mccullumsmith@utoledo.edu"
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval
-name: Robert Mccullumsmith, MD, PhD
+name: Robert Smith, MD, PhD
 organizations:
 - name: University of Toledo
   url: ""
@@ -41,8 +41,8 @@ user_groups:
 - Director
 ---
 
-Dr. McCullumsmith studied biochemistry (BS) at Indiana University, then pursued joint MD, PhD degrees at the University of Michigan. Following a research-track residency in Psychiatry at the University of Michigan, he joined the faculty and began to study abnormalities of glutamate transporter expression in severe mental illness. Dr. McCullumsmith was promoted to Associate Professor with Tenure while at the Department of Psychiatry and Neurobiology at the University of Alabama-Birmingham. 
+Dr. Smith studied biochemistry (BS) at Indiana University, then pursued joint MD, PhD degrees at the University of Michigan. Following a research-track residency in Psychiatry at the University of Michigan, he joined the faculty and began to study abnormalities of glutamate transporter expression in severe mental illness. Dr. Smith was promoted to Associate Professor with Tenure while at the Department of Psychiatry and Neurobiology at the University of Alabama-Birmingham. 
 
 He relocated to the University of Cincinnati in 2013 where he served as the Associate Vice Chair for Translational Research at UC and the Medical Director of the Outpatient Mental health Division at the Cincinnati VAMC. In 2017 he was promoted to full Professor with tenure. 
 
-Dr. McCullumsmith and his team relocated to the University of Toledo Medical Center in August of 2018, where he now serves as the Chair of the Department of Neurosciences, as well as the Research Director of the Neurosciences Institute at UTMC. 
+Dr. Smith and his team relocated to the University of Toledo Medical Center in August of 2018, where he now serves as the Chair of the Department of Neurosciences, as well as the Research Director of the Neurosciences Institute at UTMC. 
