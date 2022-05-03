@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/cdrl_logo_square.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/cdrl/</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       <guid>/authors/cdrl/</guid>
       <description></description>
     </item>
@@ -333,7 +333,7 @@
     </item>
     
     <item>
-      <title>E. A. K. DePasquale</title>
+      <title>E. A. K. Depasquale</title>
       <link>/authors/e.-a.-k.-depasquale/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/authors/e.-a.-k.-depasquale/</guid>
