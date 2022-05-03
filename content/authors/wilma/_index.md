@@ -37,7 +37,6 @@ social:
 #   icon_pack: fab
 #   link: https://github.com/gcushen
 # superuser: true
-user_groups:
-- Postdoctoral Researchers
+
 ---
 
