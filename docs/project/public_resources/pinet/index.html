@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="PiNET is a versatile web platform for downstream analysis and visualization of proteomics data,">
 
   
-  <link rel="alternate" hreflang="en-us" href="../../../project/public_resources/pinet/">
+  <link rel="alternate" hreflang="en-us" href="//localhost:4321/project/public_resources/pinet/">
   
   
   
@@ -95,42 +95,6 @@
 
 
 
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-149864972-2', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
   
 
 
@@ -140,7 +104,7 @@
   <link rel="icon" type="image/png" href="../../../img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="../../../img/icon-192.png">
 
-  <link rel="canonical" href="../../../project/public_resources/pinet/">
+  <link rel="canonical" href="//localhost:4321/project/public_resources/pinet/">
 
   
   
@@ -152,10 +116,10 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="/project/public_resources/pinet/">
+  <meta property="og:url" content="//localhost:4321/project/public_resources/pinet/">
   <meta property="og:title" content="PiNET | CDRL">
-  <meta property="og:description" content="PiNET is a versatile web platform for downstream analysis and visualization of proteomics data,"><meta property="og:image" content="/project/public_resources/pinet/featured.png">
-  <meta property="twitter:image" content="/project/public_resources/pinet/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="PiNET is a versatile web platform for downstream analysis and visualization of proteomics data,"><meta property="og:image" content="//localhost:4321/project/public_resources/pinet/featured.png">
+  <meta property="twitter:image" content="//localhost:4321/project/public_resources/pinet/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-02-06T00:00:00&#43;00:00">
@@ -184,12 +148,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/project/public_resources/pinet/"
+    "@id": "//localhost:4321/project/public_resources/pinet/"
   },
   "headline": "PiNET",
   
   "image": [
-    "/project/public_resources/pinet/featured.png"
+    "//localhost:4321/project/public_resources/pinet/featured.png"
   ],
   
   "datePublished": "2022-02-06T00:00:00Z",
@@ -205,7 +169,7 @@
     "name": "CDRL",
     "logo": {
       "@type": "ImageObject",
-      "url": "/img/cdrl_logo_square.png"
+      "url": "//localhost:4321/img/cdrl_logo_square.png"
     }
   },
   "description": "PiNET is a versatile web platform for downstream analysis and visualization of proteomics data,"
@@ -568,7 +532,7 @@
 
 
   
-  <span><a href="../../../authors/cdrl/">CDRL</a></span>
+  <span>CDRL</span>
 
   </div>
   
@@ -693,7 +657,6 @@
 
     <div class="article-style">
       <p><strong>piNET</strong> is a versatile tool that can be used to annotate, map and analyze a set of peptide moieties, including those with post-translationally modified sites (PTMs), identified (and quantified) by targeted (SRM type), SWATH (discovery) or related mass spectrometry based techniques. Starting from a set of peptides, and optional modifications within those peptides, piNET provides mapping into canonical UniProt protein entries, standardized annotation of modifications using PsiMOD and UNIMOD ontologies, and mapping of the sites of PTMs in the full UniProt entries. Validated modifying enzymes, including protein kinases, acetyl or methyl transferases, that are known to target these PTM sites, are mapped using iPTMnet and Signor.</p>
-
 <p>For phosphorylation, known kinase - target peptides are also mapped using PhosphoSitePlus, whereas DeepPhos is used to map predicted kinase – target site pairs. These annotations can be visualized using versatile d3 library to provide site specific network and pathways views. The set of proteins (with PTMs mapped) can be further projected onto biological pathways using enrichment analysis and a comprehensive library of biological gene/protein sets through Enrichr, while protein abundance vectors can be compared with LINCS chemical and genetic perturbation signatures through iLINCS.</p>
 
     </div>
@@ -729,7 +692,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/public_resources/pinet/&amp;text=PiNET" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=//localhost:4321/project/public_resources/pinet/&amp;text=PiNET" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -742,7 +705,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/project/public_resources/pinet/&amp;t=PiNET" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=//localhost:4321/project/public_resources/pinet/&amp;t=PiNET" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -755,7 +718,7 @@
       
       
       <li>
-        <a href="mailto:?subject=PiNET&amp;body=/project/public_resources/pinet/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=PiNET&amp;body=//localhost:4321/project/public_resources/pinet/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -768,7 +731,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/public_resources/pinet/&amp;title=PiNET" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=//localhost:4321/project/public_resources/pinet/&amp;title=PiNET" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -781,7 +744,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=PiNET%20/project/public_resources/pinet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=PiNET%20//localhost:4321/project/public_resources/pinet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -794,7 +757,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/project/public_resources/pinet/&amp;title=PiNET" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=//localhost:4321/project/public_resources/pinet/&amp;title=PiNET" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -993,7 +956,7 @@
     
     
     
-    <script src="../../../js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -1006,6 +969,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="../../../privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="../../../terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">

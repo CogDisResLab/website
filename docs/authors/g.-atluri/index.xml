@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. Atluri | CDRL</title>
-    <link>/authors/g.-atluri/</link>
-      <atom:link href="/authors/g.-atluri/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/g.-atluri/</link>
+      <atom:link href="//localhost:4321/authors/g.-atluri/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Atluri</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>G. Atluri</title>
-      <link>/authors/g.-atluri/</link>
+      <link>//localhost:4321/authors/g.-atluri/</link>
     </image>
     
     <item>
       <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
-      <link>/publication/2018-08-03_rn5160/</link>
+      <link>//localhost:4321/publication/2018-08-03_rn5160/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-08-03_rn5160/</guid>
+      <guid>//localhost:4321/publication/2018-08-03_rn5160/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. M. Agrawal | CDRL</title>
-    <link>/authors/s.-m.-agrawal/</link>
-      <atom:link href="/authors/s.-m.-agrawal/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/s.-m.-agrawal/</link>
+      <atom:link href="//localhost:4321/authors/s.-m.-agrawal/index.xml" rel="self" type="application/rss+xml" />
     <description>S. M. Agrawal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>S. M. Agrawal</title>
-      <link>/authors/s.-m.-agrawal/</link>
+      <link>//localhost:4321/authors/s.-m.-agrawal/</link>
     </image>
     
     <item>
       <title>Differential effects of antipsychotics on haloperidol-induced vacuous chewing movements and subcortical gene expression in the rat</title>
-      <link>/publication/2003-10-02_rn5223/</link>
+      <link>//localhost:4321/publication/2003-10-02_rn5223/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/2003-10-02_rn5223/</guid>
+      <guid>//localhost:4321/publication/2003-10-02_rn5223/</guid>
       <description></description>
     </item>
     

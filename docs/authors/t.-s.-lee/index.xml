@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. S. Lee | CDRL</title>
-    <link>/authors/t.-s.-lee/</link>
-      <atom:link href="/authors/t.-s.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/t.-s.-lee/</link>
+      <atom:link href="//localhost:4321/authors/t.-s.-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>T. S. Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Feb 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>T. S. Lee</title>
-      <link>/authors/t.-s.-lee/</link>
+      <link>//localhost:4321/authors/t.-s.-lee/</link>
     </image>
     
     <item>
       <title>Gene expression of glutamate metabolizing enzymes in the hippocampal formation in human temporal lobe epilepsy</title>
-      <link>/publication/2013-02-07_rn5192/</link>
+      <link>//localhost:4321/publication/2013-02-07_rn5192/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013-02-07_rn5192/</guid>
+      <guid>//localhost:4321/publication/2013-02-07_rn5192/</guid>
       <description></description>
     </item>
     

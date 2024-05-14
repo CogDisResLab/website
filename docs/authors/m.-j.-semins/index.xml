@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. J. Semins | CDRL</title>
-    <link>/authors/m.-j.-semins/</link>
-      <atom:link href="/authors/m.-j.-semins/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/m.-j.-semins/</link>
+      <atom:link href="//localhost:4321/authors/m.-j.-semins/index.xml" rel="self" type="application/rss+xml" />
     <description>M. J. Semins</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Feb 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>M. J. Semins</title>
-      <link>/authors/m.-j.-semins/</link>
+      <link>//localhost:4321/authors/m.-j.-semins/</link>
     </image>
     
     <item>
       <title>Effects of 6-cyano-7-nitroquinoxaline-2,3-dione on nicotinic receptor subunit transcript expression in the rat brain</title>
-      <link>/publication/2004-02-03_rn5218/</link>
+      <link>//localhost:4321/publication/2004-02-03_rn5218/</link>
       <pubDate>Tue, 03 Feb 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/2004-02-03_rn5218/</guid>
+      <guid>//localhost:4321/publication/2004-02-03_rn5218/</guid>
       <description></description>
     </item>
     

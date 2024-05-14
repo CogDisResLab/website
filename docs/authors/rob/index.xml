@@ -2,15 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>/authors/rob/</link>
-      <atom:link href="/authors/rob/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/rob/</link>
+      <atom:link href="//localhost:4321/authors/rob/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
-      <link>/authors/rob/</link>
+      <link>//localhost:4321/authors/rob/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>//localhost:4321/authors/rob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/authors/rob/</guid>
+      <description>&lt;p&gt;Dr. Smith studied biochemistry (BS) at Indiana University, then pursued joint MD, PhD degrees at the University of Michigan. Following a research-track residency in Psychiatry at the University of Michigan, he joined the faculty and began to study abnormalities of glutamate transporter expression in severe mental illness. Dr. Smith was promoted to Associate Professor with Tenure while at the Department of Psychiatry and Neurobiology at the University of Alabama-Birmingham.&lt;/p&gt;
+&lt;p&gt;He relocated to the University of Cincinnati in 2013 where he served as the Associate Vice Chair for Translational Research at UC and the Medical Director of the Outpatient Mental health Division at the Cincinnati VAMC. In 2017 he was promoted to full Professor with tenure.&lt;/p&gt;
+&lt;p&gt;Dr. Smith and his team relocated to the University of Toledo Medical Center in August of 2018, where he now serves as the Chair of the Department of Neurosciences, as well as the Research Director of the Neurosciences Institute at UTMC.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

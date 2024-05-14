@@ -2,142 +2,140 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kinase | CDRL</title>
-    <link>/tags/kinase/</link>
-      <atom:link href="/tags/kinase/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/tags/kinase/</link>
+      <atom:link href="//localhost:4321/tags/kinase/index.xml" rel="self" type="application/rss+xml" />
     <description>Kinase</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>Kinase</title>
-      <link>/tags/kinase/</link>
+      <link>//localhost:4321/tags/kinase/</link>
     </image>
     
     <item>
       <title>Dark Kinase Knowledgebase</title>
-      <link>/project/public_resources/dkkb/</link>
+      <link>//localhost:4321/project/public_resources/dkkb/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/dkkb/</guid>
+      <guid>//localhost:4321/project/public_resources/dkkb/</guid>
       <description>&lt;p&gt;The Dark Kinase Knowledgebase (the “DKK”) is being developed as a component of the Kinase Data and Resource Generating Center (DRGC) - one of 3 DRGCs supported as part of the Illuminating the Druggable Genome (IDG) Common Fund effort. The goal of the IDG program is to improve our understanding of the properties and functions of proteins that are currently unannotated within the three most commonly drug-targeted protein families: G-protein coupled receptors, ion channels, and protein kinases.&lt;/p&gt;
-
 &lt;p&gt;The goal of the DKK is to generate, systematize and disseminate knowledge about dark kinases, biological networks in which they function and connections to cellular phenotypes and human disease. This is being done by (i) establishing a knowledgebase covering the approximately 160 poorly understood “dark kinases”, (ii) distilling primary data into functional biochemical and biological information and promoting further research using genetic and chemical tools, which we are also developing and making available, (iii) placing dark kinases within a new and emerging network-level understanding of cell signaling and physiology and (iv) identifying those dark kinases whose mutation or mis-regulation is associated with human disease, making them possible therapeutic targets.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iPTMnet</title>
-      <link>/project/public_resources/iptmnet/</link>
+      <link>//localhost:4321/project/public_resources/iptmnet/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/iptmnet/</guid>
+      <guid>//localhost:4321/project/public_resources/iptmnet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;iPTMnet&lt;/strong&gt; is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.&lt;/p&gt;
-
 &lt;p&gt;It connects multiple disparate bioinformatics tools and systems text mining, data mining, analysis and visualization tools, and databases and ontologies into an integrated cross-cutting research resource to address the knowledge gaps in exploring and discovering PTM networks.&lt;/p&gt;
-
 &lt;p&gt;iPTMnet encompasses data from:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;PTM-focused text mining tools, RLIMS-P and eFIP, which extract phosphorylation information from full-scale mining of PubMed abstracts and full-length articles including phosphorylation dependent protein-protein interactions (PPIs)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A set of curated databases with experimentally observed PTMs&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Biomuta to include variants affecting PTM sites to help in interp&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Protein Ontology (PRO) that organizes proteins and PTM proteoforms (observed protein forms derived from a single gene, including isoforms and combinations of PTMs), enabling their representation, annotation and comparison within and across species&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PTM-focused text mining tools, RLIMS-P and eFIP, which extract phosphorylation information from full-scale mining of PubMed abstracts and full-length articles including phosphorylation dependent protein-protein interactions (PPIs)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A set of curated databases with experimentally observed PTMs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Biomuta to include variants affecting PTM sites to help in interp&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Protein Ontology (PRO) that organizes proteins and PTM proteoforms (observed protein forms derived from a single gene, including isoforms and combinations of PTMs), enabling their representation, annotation and comparison within and across species&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Kinase Enrichment Analysis 3 (KEA3)</title>
-      <link>/project/public_resources/kea3/</link>
+      <link>//localhost:4321/project/public_resources/kea3/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/kea3/</guid>
+      <guid>//localhost:4321/project/public_resources/kea3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase Enrichment Analysis 3 (KEA3)&lt;/strong&gt; is a webserver application that infers overrepresentation of upstream kinases whose putative substrates are in a user-inputted list of proteins. KEA3 can be applied to analyze data from phosphoproteomics and proteomics studies to predict the upstream kinases responsible for observed differential phosphorylations. The KEA3 background database contains measured and predicted kinase-substrate interactions (KSI), kinase-protein interactions (KPI), and interactions supported by co-expression and co-occurrence data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinase MD</title>
-      <link>/project/public_resources/kinasemd/</link>
+      <link>//localhost:4321/project/public_resources/kinasemd/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/kinasemd/</guid>
+      <guid>//localhost:4321/project/public_resources/kinasemd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;KinaseMD&lt;/strong&gt; integrates 679 374 somatic mutations, 251 522 network-rewiring events, and 390 460 drug response records curated from various sources for 547 kinases. KinaseMD uniquely annotates the mutations and kinase inhibitor response in four types of protein substructures (gatekeeper, A-loop, G-loop and αC-helix) that are linked to kinase inhibitor resistance in literature. In addition, KinaseMD annotates functional mutations that may rewire kinase regulatory network and report four phosphorylation signals (gain, loss, up-regulation and down-regulation).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinase Screen</title>
-      <link>/project/public_resources/kinase-screen/</link>
+      <link>//localhost:4321/project/public_resources/kinase-screen/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/kinase-screen/</guid>
+      <guid>//localhost:4321/project/public_resources/kinase-screen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase Screen&lt;/strong&gt; is a kinase profiling inhibitor database. This is a searchable database of specificities of 254 commonly used signal transduction inhibitors. These results have been provided by the International Centre for Kinase profiling within the MRC Protein Phosphorylation Unit at the University of Dundee.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinase.com</title>
-      <link>/project/public_resources/kinase_com/</link>
+      <link>//localhost:4321/project/public_resources/kinase_com/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/kinase_com/</guid>
+      <guid>//localhost:4321/project/public_resources/kinase_com/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase.com&lt;/strong&gt; explores the functions, evolution and diversity of protein kinases, the key controllers of cell behavior. It focuses on the kinome, the full complement of protein kinases in any sequenced genome. This includes the extensive KinBase database, and papers and supporting material for the published kinase work from Sugen and the Salk Institute.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;KinBase&lt;/strong&gt; holds information on over 3,000 protein kinase genes found in the genomes of human, and many other sequenced genomes. You may search the database by a variety of different gene names and accessions, or according to the sequence based classification.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinexus</title>
-      <link>/project/public_resources/kinexus/</link>
+      <link>//localhost:4321/project/public_resources/kinexus/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/kinexus/</guid>
+      <guid>//localhost:4321/project/public_resources/kinexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinexus&lt;/strong&gt; is a online resource developed by Kinexus Bioinformatics Corporation to foster the study of cell signalling systems to advance biomedical research in academia and industry&lt;/p&gt;
-
-&lt;p&gt;Data Modules:
-- PhosphoNET&lt;br /&gt;
-- KinaseNET
-- TranscriptoNET&lt;br /&gt;
-- KinATLAS&lt;br /&gt;
-- DrugKiNET&lt;/p&gt;
+&lt;p&gt;Data Modules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PhosphoNET&lt;/li&gt;
+&lt;li&gt;KinaseNET&lt;/li&gt;
+&lt;li&gt;TranscriptoNET&lt;/li&gt;
+&lt;li&gt;KinATLAS&lt;/li&gt;
+&lt;li&gt;DrugKiNET&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>KinMap</title>
-      <link>/project/public_resources/kinmap/</link>
+      <link>//localhost:4321/project/public_resources/kinmap/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/kinmap/</guid>
+      <guid>//localhost:4321/project/public_resources/kinmap/</guid>
       <description>&lt;p&gt;&lt;strong&gt;KinMap&lt;/strong&gt; is a user-friendly online tool that facilitates the interactive navigation through kinase knowledge by linking biochemical, structural, and disease association data to the human kinome tree. To this end, preprocessed data from freely-available sources, such as ChEMBL, the Protein Data Bank, and the Center for Therapeutic Target Validation platform are integrated into KinMap and can easily be complemented by proprietary data.&lt;/p&gt;
-
 &lt;p&gt;KinMap represents a new generation of kinome tree viewers which facilitates interactive exploration of the human kinome. KinMap enables generation of high-quality annotated images of the human kinome tree as well as exchange of kinome-related data in scientific communications. Furthermore, KinMap supports multiple input and output formats and recognizes alternative kinase names and links them to a unified naming scheme, which makes it a useful tool across different disciplines and applications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhosphoSitePlus</title>
-      <link>/project/public_resources/phosphositeplus/</link>
+      <link>//localhost:4321/project/public_resources/phosphositeplus/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/phosphositeplus/</guid>
+      <guid>//localhost:4321/project/public_resources/phosphositeplus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;PhosphoSitePlus&lt;/strong&gt; provides comprehensive information and tools for the study of protein post-translational modifications (PTMs) including phosphorylation, acetylation, and more. The web use is free for everyone including commercial. PhosphoSitePlus is an open, dynamic, continuously curated, and highly interactive systems biology resource for studying experimentally observed PTMs in the regulation of biological processes. PhosphoSite® was limited to phosphorylation. PSP, while still providing comprehensive coverage of protein phosphorylation, now includes coverage of other commonly studied PTMs including acetylation, methylation, ubiquitination, and O-glycosylation.&lt;/p&gt;
-
 &lt;p&gt;PSP includes critical structural and functional information about the topology, biological function and regulatory significance of specific modification sites, and powerful tools for mining and interpreting this data in the context of biological regulation, diseases, tissues, subcellular localization, protein domains, sequences, motifs, etc.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PiNET</title>
-      <link>/project/public_resources/pinet/</link>
+      <link>//localhost:4321/project/public_resources/pinet/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/pinet/</guid>
+      <guid>//localhost:4321/project/public_resources/pinet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;piNET&lt;/strong&gt; is a versatile tool that can be used to annotate, map and analyze a set of peptide moieties, including those with post-translationally modified sites (PTMs), identified (and quantified) by targeted (SRM type), SWATH (discovery) or related mass spectrometry based techniques. Starting from a set of peptides, and optional modifications within those peptides, piNET provides mapping into canonical UniProt protein entries, standardized annotation of modifications using PsiMOD and UNIMOD ontologies, and mapping of the sites of PTMs in the full UniProt entries. Validated modifying enzymes, including protein kinases, acetyl or methyl transferases, that are known to target these PTM sites, are mapped using iPTMnet and Signor.&lt;/p&gt;
-
 &lt;p&gt;For phosphorylation, known kinase - target peptides are also mapped using PhosphoSitePlus, whereas DeepPhos is used to map predicted kinase – target site pairs. These annotations can be visualized using versatile d3 library to provide site specific network and pathways views. The set of proteins (with PTMs mapped) can be further projected onto biological pathways using enrichment analysis and a comprehensive library of biological gene/protein sets through Enrichr, while protein abundance vectors can be compared with LINCS chemical and genetic perturbation signatures through iLINCS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>X2K</title>
-      <link>/project/public_resources/x2k/</link>
+      <link>//localhost:4321/project/public_resources/x2k/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/x2k/</guid>
+      <guid>//localhost:4321/project/public_resources/x2k/</guid>
       <description>&lt;p&gt;eXpression2Kinases (&lt;strong&gt;X2K&lt;/strong&gt;) infers upstream regulatory networks from signatures of differentially expressed genes. By combining transcription factor enrichment analysis, protein-protein interaction network expansion, with kinase enrichment analysis, X2K Web produces inferred networks of transcription factors, proteins, and kinases predicted to regulate the expression of the inputted gene list. X2K Web provides the results as tables and interactive vector graphic figures that can be readily embedded within publications.&lt;/p&gt;
 </description>
     </item>

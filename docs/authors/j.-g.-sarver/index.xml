@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. G. Sarver | CDRL</title>
-    <link>/authors/j.-g.-sarver/</link>
-      <atom:link href="/authors/j.-g.-sarver/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/j.-g.-sarver/</link>
+      <atom:link href="//localhost:4321/authors/j.-g.-sarver/index.xml" rel="self" type="application/rss+xml" />
     <description>J. G. Sarver</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>J. G. Sarver</title>
-      <link>/authors/j.-g.-sarver/</link>
+      <link>//localhost:4321/authors/j.-g.-sarver/</link>
     </image>
     
     <item>
       <title>Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</title>
-      <link>/publication/2020-05-15_rn5146/</link>
+      <link>//localhost:4321/publication/2020-05-15_rn5146/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-05-15_rn5146/</guid>
+      <guid>//localhost:4321/publication/2020-05-15_rn5146/</guid>
       <description></description>
     </item>
     

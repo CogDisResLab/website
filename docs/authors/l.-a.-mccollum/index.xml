@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. A. McCollum | CDRL</title>
-    <link>/authors/l.-a.-mccollum/</link>
-      <atom:link href="/authors/l.-a.-mccollum/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/l.-a.-mccollum/</link>
+      <atom:link href="//localhost:4321/authors/l.-a.-mccollum/index.xml" rel="self" type="application/rss+xml" />
     <description>L. A. McCollum</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>L. A. McCollum</title>
-      <link>/authors/l.-a.-mccollum/</link>
+      <link>//localhost:4321/authors/l.-a.-mccollum/</link>
     </image>
     
     <item>
       <title>Tyrosine hydroxylase localization in the nucleus accumbens in schizophrenia</title>
-      <link>/publication/2016-01-08_rn5174/</link>
+      <link>//localhost:4321/publication/2016-01-08_rn5174/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-01-08_rn5174/</guid>
+      <guid>//localhost:4321/publication/2016-01-08_rn5174/</guid>
       <description></description>
     </item>
     

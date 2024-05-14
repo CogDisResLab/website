@@ -2,380 +2,306 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Symposium | CDRL</title>
-    <link>/tags/symposium/</link>
-      <atom:link href="/tags/symposium/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/tags/symposium/</link>
+      <atom:link href="//localhost:4321/tags/symposium/index.xml" rel="self" type="application/rss+xml" />
     <description>Symposium</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>Symposium</title>
-      <link>/tags/symposium/</link>
+      <link>//localhost:4321/tags/symposium/</link>
     </image>
     
     <item>
       <title>Virtual Screening Workshop</title>
-      <link>/project/webinars_and_workshops/virtual_screening_2021/</link>
+      <link>//localhost:4321/project/webinars_and_workshops/virtual_screening_2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate>
-      <guid>/project/webinars_and_workshops/virtual_screening_2021/</guid>
-      <description>
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+      <guid>//localhost:4321/project/webinars_and_workshops/virtual_screening_2021/</guid>
+      <description>&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Virtual Screening Workshop&lt;br /&gt;
-&lt;strong&gt;Summary&lt;/strong&gt;:  Neurosciences webinars series 2021&lt;br /&gt;
-&lt;strong&gt;Date&lt;/strong&gt;: 11/1/2021&lt;br /&gt;
-&lt;strong&gt;Presenters&lt;/strong&gt;: &lt;a href=&#34;https://www.cincinnatichildrens.org/bio/m/jarek-meller&#34; target=&#34;_blank&#34;&gt;Dr. Jarek Meller&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;meller-jarek.webp&#34; style=&#34;width:25.0%;height:25.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Virtual Screening Workshop&lt;br&gt;
+&lt;strong&gt;Summary&lt;/strong&gt;:  Neurosciences webinars series 2021&lt;br&gt;
+&lt;strong&gt;Date&lt;/strong&gt;: 11/1/2021&lt;br&gt;
+&lt;strong&gt;Presenters&lt;/strong&gt;: &lt;a href=&#34;https://www.cincinnatichildrens.org/bio/m/jarek-meller&#34;&gt;Dr. Jarek Meller&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;h1 id=&#34;talks&#34;&gt;Talks:&lt;/h1&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Virtual Screening Workshop (Part 1)&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;Title: &lt;strong&gt;Virtual Screening Workshop (Part 1)&lt;/strong&gt;&lt;br&gt;
 Date: 11/1/2021&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/webappng/sites/utoledo/recording/e358a9471d6b103a9ff50050568167e5/playback&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/webappng/sites/utoledo/recording/e358a9471d6b103a9ff50050568167e5/playback&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;Title: &lt;strong&gt;Virtual Screening Workshop (Part 2)&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Coming soon &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;hr /&gt;
+&lt;p&gt; 
+ 
+ 
+ &lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>CDRL Spring 2020 Webinar Series</title>
-      <link>/project/webinars_and_workshops/2020_spring_cdrl_webinars/</link>
+      <link>//localhost:4321/project/webinars_and_workshops/2020_spring_cdrl_webinars/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
-      <guid>/project/webinars_and_workshops/2020_spring_cdrl_webinars/</guid>
-      <description>
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+      <guid>//localhost:4321/project/webinars_and_workshops/2020_spring_cdrl_webinars/</guid>
+      <description>&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: CDRL Spring 2020 Webinar Series&lt;br /&gt;
-&lt;strong&gt;Summary&lt;/strong&gt;:  CDRL Spring 2020 Webinar Series&lt;br /&gt;
-&lt;strong&gt;Date&lt;/strong&gt;: from 4/1/2020  to 4/27/2020&lt;br /&gt;
-&lt;strong&gt;Presenters&lt;/strong&gt;: &lt;a href=&#34;../../authors/rob&#34;&gt;Dr. Robert Mccullumsmith&lt;/a&gt;, &lt;a href=&#34;../../authors/ram&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;, &lt;a href=&#34;../../authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;, &lt;a href=&#34;../../authors/ali&#34;&gt;Ali Imami&lt;/a&gt;, &lt;a href=&#34;../../authors/hunter&#34;&gt;Hunter Eby&lt;/a&gt;, &lt;a href=&#34;../../authors/abdul&#34;&gt;Abdul-rizaq Hamoud&lt;/a&gt;, &lt;a href=&#34;../../authors/nick&#34;&gt;Nicholas Henkel&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: CDRL Spring 2020 Webinar Series&lt;br&gt;
+&lt;strong&gt;Summary&lt;/strong&gt;:  CDRL Spring 2020 Webinar Series&lt;br&gt;
+&lt;strong&gt;Date&lt;/strong&gt;: from 4/1/2020  to 4/27/2020&lt;br&gt;
+&lt;strong&gt;Presenters&lt;/strong&gt;: &lt;a href=&#34;../../authors/rob/&#34;&gt;Dr. Robert Mccullumsmith&lt;/a&gt;, &lt;a href=&#34;../../authors/ram/&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;, &lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;, &lt;a href=&#34;../../authors/ali/&#34;&gt;Ali Imami&lt;/a&gt;, &lt;a href=&#34;../../authors/hunter/&#34;&gt;Hunter Eby&lt;/a&gt;, &lt;a href=&#34;../../authors/abdul/&#34;&gt;Abdul-rizaq Hamoud&lt;/a&gt;, &lt;a href=&#34;../../authors/nick/&#34;&gt;Nicholas Henkel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;h1 id=&#34;talks&#34;&gt;Talks:&lt;/h1&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;So you want to try Bioinformatics: A primer for laboratory scientists on how to get started using bioinformatics tools&lt;/strong&gt;&lt;br /&gt;
-Date: 4/1/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/rob&#34;&gt;Dr. Robert Mccullumsmith&lt;/a&gt;&lt;img src=&#34;../../authors/rob/avatar.jpg&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w1.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=f6724f1e6e33436cd8231af579642d3d&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://onedrive.live.com/view.aspx?resid=1DF657364709EA78!3399&amp;amp;ithint=file%2cpptx&amp;amp;authkey=!AAeLpf9fKYydi_c&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+&lt;p&gt;Title: &lt;strong&gt;So you want to try Bioinformatics: A primer for laboratory scientists on how to get started using bioinformatics tools&lt;/strong&gt;&lt;br&gt;
+Date: 4/1/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/rob/&#34;&gt;Dr. Robert Mccullumsmith&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=f6724f1e6e33436cd8231af579642d3d&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://onedrive.live.com/view.aspx?resid=1DF657364709EA78!3399&amp;ithint=file%2cpptx&amp;authkey=!AAeLpf9fKYydi_c&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;p&gt;Title: &lt;strong&gt;From the lab to the couch, the tools and techniques to manage your team remotely&lt;/strong&gt;
-Date: 4/3/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/hunter&#34;&gt;Hunter Eby&lt;/a&gt;&lt;img src=&#34;../../authors/hunter/avatar.jpg&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=b3611d6f1f961b0348ccce06ae6868a3&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmkgFYiAz1X9hea6U&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+Date: 4/3/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/hunter/&#34;&gt;Hunter Eby&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=b3611d6f1f961b0348ccce06ae6868a3&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmkgFYiAz1X9hea6U&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;p&gt;Title: &lt;strong&gt;Demystifying R: An introduction to R and RStudio&lt;/strong&gt;
-Date: 4/6/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/ali&#34;&gt;Ali Imami&lt;/a&gt;&lt;img src=&#34;../../authors/ali/avatar.jpg&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w3.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=7ebd5d740a8579934de2b2a91b568b60&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmknnyBEwsou_U5Y0&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Bioinformaticist&amp;rsquo;s Aresenal: A gentle introduction to Bioconductor&lt;/strong&gt;&lt;br /&gt;
-Date: 4/8/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/ali&#34;&gt;Ali Imami&lt;/a&gt;&lt;img src=&#34;../../authors/ali/avatar.jpg&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w4.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=b3b6d3d68dca3098e90973e388ccbc83&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmkrH3g4j7EBu_fyL&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Kaleidoscope: A new Bioinformatics Pipeline Web Application for In Silico Hypothesis Exploration&lt;/strong&gt;&lt;br /&gt;
-Date: 4/10/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;img src=&#34;../../authors/khaled/avatar.png&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w5.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=deb5d58bff8923240941ceb45a727108&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=deb5d58bff8923240941ceb45a727108&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Intro to computation drug repurposing using iLINCS and CMap&lt;/strong&gt;&lt;br /&gt;
-Date: 4/13/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/ram&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;, &lt;a href=&#34;../../authors/ram&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;img src=&#34;../../authors/ram/avatar.png&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w6.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=0f1cb7504d90bff1b31d07a92c157199&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=0f1cb7504d90bff1b31d07a92c157199&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;SEQing the future: An introduction to RNASeq&lt;/strong&gt;&lt;br /&gt;
-Date: 4/15/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/ali&#34;&gt;Ali Imami&lt;/a&gt;&lt;img src=&#34;../../authors/ali/avatar.jpg&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w7.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=8181108b0c995f1d560802de625a1c39&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_Ydmkv3ivch3iGMZbHJ&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Introduction to Citation Management&lt;/strong&gt;&lt;br /&gt;
-Date: 4/17/2020&lt;br /&gt;
+Date: 4/6/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/ali/&#34;&gt;Ali Imami&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=7ebd5d740a8579934de2b2a91b568b60&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmknnyBEwsou_U5Y0&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Bioinformaticist&amp;rsquo;s Aresenal: A gentle introduction to Bioconductor&lt;/strong&gt;&lt;br&gt;
+Date: 4/8/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/ali/&#34;&gt;Ali Imami&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=b3b6d3d68dca3098e90973e388ccbc83&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmkrH3g4j7EBu_fyL&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Kaleidoscope: A new Bioinformatics Pipeline Web Application for In Silico Hypothesis Exploration&lt;/strong&gt;&lt;br&gt;
+Date: 4/10/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=deb5d58bff8923240941ceb45a727108&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=deb5d58bff8923240941ceb45a727108&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Intro to computation drug repurposing using iLINCS and CMap&lt;/strong&gt;&lt;br&gt;
+Date: 4/13/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/ram/&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;, &lt;a href=&#34;../../authors/ram/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=0f1cb7504d90bff1b31d07a92c157199&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=0f1cb7504d90bff1b31d07a92c157199&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;SEQing the future: An introduction to RNASeq&lt;/strong&gt;&lt;br&gt;
+Date: 4/15/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/ali/&#34;&gt;Ali Imami&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=8181108b0c995f1d560802de625a1c39&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_Ydmkv3ivch3iGMZbHJ&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Introduction to Citation Management&lt;/strong&gt;&lt;br&gt;
+Date: 4/17/2020&lt;br&gt;
 Presenter: Ryan Homan&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w8.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=54fe16117c34c0cfbb2eb65ae4a1397d&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmkxUmZFSwvd7jI71&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Adobe Illustrator Basics&lt;/strong&gt;&lt;br /&gt;
-Date: 4/20/2020&lt;br /&gt;
-Presenter: Ryan Homan, &lt;a href=&#34;../../authors/nick&#34;&gt;Nicholas Henkel&lt;/a&gt;&lt;img src=&#34;../../authors/nick/avatar.png&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w9.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=980a27018d673ed3b39d81d767e13901&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_Ydmk24Yn1OTG7tGDti&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Using Healthcare Databases to Assess Outcomes&lt;/strong&gt;&lt;br /&gt;
-Date: 4/27/2020&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/abdul&#34;&gt;Abdul Hamoud&lt;/a&gt;&lt;img src=&#34;../../authors/abdul/avatar.png&#34; class=&#34;portrait&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;w10.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://drive.google.com/file/d/1ZdlBVrnf_rcA-d38mKOmjZTXmLdPcTrq/view&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;br /&gt;
-Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_Ydmk7WhsZYPmIU6HOh&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=54fe16117c34c0cfbb2eb65ae4a1397d&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_YdmkxUmZFSwvd7jI71&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Adobe Illustrator Basics&lt;/strong&gt;&lt;br&gt;
+Date: 4/20/2020&lt;br&gt;
+Presenter: Ryan Homan, &lt;a href=&#34;../../authors/nick/&#34;&gt;Nicholas Henkel&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/utoledo/lsr.php?RCID=980a27018d673ed3b39d81d767e13901&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_Ydmk24Yn1OTG7tGDti&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Using Healthcare Databases to Assess Outcomes&lt;/strong&gt;&lt;br&gt;
+Date: 4/27/2020&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/abdul/&#34;&gt;Abdul Hamoud&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Video: &lt;a href=&#34;https://drive.google.com/file/d/1ZdlBVrnf_rcA-d38mKOmjZTXmLdPcTrq/view&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href=&#34;https://1drv.ms/p/s!AnjqCUc2V_Ydmk7WhsZYPmIU6HOh&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neurosciences Mini Symposium 2019</title>
-      <link>/project/webinars_and_workshops/mini_symposium_2019/</link>
+      <link>//localhost:4321/project/webinars_and_workshops/mini_symposium_2019/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
-      <guid>/project/webinars_and_workshops/mini_symposium_2019/</guid>
-      <description>
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+      <guid>//localhost:4321/project/webinars_and_workshops/mini_symposium_2019/</guid>
+      <description>&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: The University of Toledo Neurosciences Mini Symposium&lt;br /&gt;
-&lt;strong&gt;Summary&lt;/strong&gt;: Drug discovery for many fields has stagnated, with myriad clinical trail failures of promising leads, consuming academic and industry resources. This mini symposium brings together stakeholders who are developing novel approaches to identifying new therapies.&lt;br /&gt;
-&lt;strong&gt;Date&lt;/strong&gt;: 4/19/2019&lt;br /&gt;
-&lt;strong&gt;Presenters&lt;/strong&gt;: &lt;a href=&#34;https://www.cincinnatichildrens.org/bio/m/jarek-meller&#34; target=&#34;_blank&#34;&gt;Dr. Jarek Meller&lt;/a&gt;, Dr. Charles Brunicardi, &lt;a href=&#34;https://www.utoledo.edu/pharmacy/depts/mbc/faculty-ischiefer.html&#34; target=&#34;_blank&#34;&gt;Dr. Isaac Schiefer&lt;/a&gt;, &lt;a href=&#34;../../authors/ram&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;, &lt;a href=&#34;../../authors/james&#34;&gt;James Reigle&lt;/a&gt;, &lt;a href=&#34;../../authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: The University of Toledo Neurosciences Mini Symposium&lt;br&gt;
+&lt;strong&gt;Summary&lt;/strong&gt;: Drug discovery for many fields has stagnated, with myriad clinical trail failures of promising leads, consuming academic and industry resources. This mini symposium brings together stakeholders who are developing novel approaches to identifying new therapies.&lt;br&gt;
+&lt;strong&gt;Date&lt;/strong&gt;: 4/19/2019&lt;br&gt;
+&lt;strong&gt;Presenters&lt;/strong&gt;: &lt;a href=&#34;https://www.cincinnatichildrens.org/bio/m/jarek-meller&#34;&gt;Dr. Jarek Meller&lt;/a&gt;, Dr. Charles Brunicardi, &lt;a href=&#34;https://www.utoledo.edu/pharmacy/depts/mbc/faculty-ischiefer.html&#34;&gt;Dr. Isaac Schiefer&lt;/a&gt;, &lt;a href=&#34;../../authors/ram/&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;, &lt;a href=&#34;../../authors/james/&#34;&gt;James Reigle&lt;/a&gt;, &lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 &lt;h1 id=&#34;talks&#34;&gt;Talks:&lt;/h1&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Discovering Drugs for Casual Pathways Associated with Major Depressive Disorder Through Human Brain Connectivity Map&lt;/strong&gt;&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/ram&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/4rb0nl7M8jA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;Title: &lt;strong&gt;Discovering Drugs for Casual Pathways Associated with Major Depressive Disorder Through Human Brain Connectivity Map&lt;/strong&gt;&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/ram/&#34;&gt;Dr. Rammohan Shukla&lt;/a&gt;&lt;/p&gt;
 
 
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4rb0nl7M8jA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
-&lt;p&gt;Title: &lt;strong&gt;Signature Connectivity Analyses with iLINCS&lt;/strong&gt;&lt;br /&gt;
-Presenter: &lt;a href=&#34;https://www.cincinnatichildrens.org/bio/m/jarek-meller&#34; target=&#34;_blank&#34;&gt;Dr. Jarek Meller&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/xjxew2kT4ds&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Sig2Lead: Connectivity-Enhanced Structure Activity Relationship Analysis for Lead Compound Identification&lt;/strong&gt;&lt;br /&gt;
-Presenter: &lt;a href=&#34;../../authors/james&#34;&gt;James Reigle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Signature Connectivity Analyses with iLINCS&lt;/strong&gt;&lt;br&gt;
+Presenter: &lt;a href=&#34;https://www.cincinnatichildrens.org/bio/m/jarek-meller&#34;&gt;Dr. Jarek Meller&lt;/a&gt;&lt;/p&gt;
 
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/C-XYRFA90sQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xjxew2kT4ds?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Sig2Lead: Connectivity-Enhanced Structure Activity Relationship Analysis for Lead Compound Identification&lt;/strong&gt;&lt;br&gt;
+Presenter: &lt;a href=&#34;../../authors/james/&#34;&gt;James Reigle&lt;/a&gt;&lt;/p&gt;
 
 
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/C-XYRFA90sQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
-&lt;p&gt;Title: &lt;strong&gt;Priming the Pump for Academic Drug Discovery: Meth, Black Lights and Ghostly Zebrafish&lt;/strong&gt;&lt;br /&gt;
-Presenter: &lt;a href=&#34;https://www.utoledo.edu/pharmacy/depts/mbc/faculty-ischiefer.html&#34; target=&#34;_blank&#34;&gt;Dr. Isaac Schiefer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Priming the Pump for Academic Drug Discovery: Meth, Black Lights and Ghostly Zebrafish&lt;/strong&gt;&lt;br&gt;
+Presenter: &lt;a href=&#34;https://www.utoledo.edu/pharmacy/depts/mbc/faculty-ischiefer.html&#34;&gt;Dr. Isaac Schiefer&lt;/a&gt;&lt;/p&gt;
 
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/wJUBeT2k_oU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/wJUBeT2k_oU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;Use of Target Superpromoters for Drug Discover&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+&lt;p&gt;Title: &lt;strong&gt;Use of Target Superpromoters for Drug Discover&lt;/strong&gt;&lt;br&gt;
 Presenter: Dr. Charles Brunicardi&lt;/p&gt;
 
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/X8jkIH1idhE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/X8jkIH1idhE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
-
-&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
 </description>
     </item>
     

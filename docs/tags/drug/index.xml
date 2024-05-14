@@ -2,88 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drug | CDRL</title>
-    <link>/tags/drug/</link>
-      <atom:link href="/tags/drug/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/tags/drug/</link>
+      <atom:link href="//localhost:4321/tags/drug/index.xml" rel="self" type="application/rss+xml" />
     <description>Drug</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>Drug</title>
-      <link>/tags/drug/</link>
+      <link>//localhost:4321/tags/drug/</link>
     </image>
     
     <item>
       <title>Drug Central</title>
-      <link>/project/public_resources/drugcentral/</link>
+      <link>//localhost:4321/project/public_resources/drugcentral/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/drugcentral/</guid>
+      <guid>//localhost:4321/project/public_resources/drugcentral/</guid>
       <description>&lt;p&gt;DrugCentral provides information on active ingredients chemical entities, pharmaceutical products, drug mode of action, indications, pharmacological action. We monitor FDA, EMA, and PMDA for new drug approval on regular basis to ensure currency of the resource. Limited information on discontinued and drugs approved outside US is also available however regulatory approval information can&amp;rsquo;t be verified.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drug Gene Budger</title>
-      <link>/project/public_resources/dgb/</link>
+      <link>//localhost:4321/project/public_resources/dgb/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/dgb/</guid>
+      <guid>//localhost:4321/project/public_resources/dgb/</guid>
       <description>&lt;p&gt;Mechanistic molecular studies in biomedical research often discover important genes that are aberrantly expressed in disease. However, manipulating these genes in an attempt to improve the disease state is challenging. Drug Gene Budger (DGB) is a web-based and mobile application developed to assist investigators in order to prioritize small molecules that are predicted to maximally influence the expression of their target gene of interest. With DGB, users can enter a gene symbol along with the wish to upregulate or downregulate its expression. The output of the application is a ranked list of small molecules that have been experimentally determined to produce the desired expression effect. The table includes log-transformed fold change, p-value and q-value for each small molecule, reporting the significance of differential expression as determined by the limma method. Relevant links are provided to further explore knowledge about the target gene, the small molecule, and the source of evidence from which the relationship between the small molecule and the target gene was derived. The experimental data contained within DGB is compiled from signatures extracted from the LINCS L1000 dataset, the original Connectivity Map (CMap) dataset, and the Gene Expression Omnibus (GEO). DGB also presents a specificity measure for a drug-gene connection based on the number of genes a drug modulates. DGB provides a useful preliminary technique for identifying small molecules that can target the expression of a single gene in human cells and tissues.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drugmonizome</title>
-      <link>/project/public_resources/drugmonizome/</link>
+      <link>//localhost:4321/project/public_resources/drugmonizome/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/drugmonizome/</guid>
+      <guid>//localhost:4321/project/public_resources/drugmonizome/</guid>
       <description>&lt;p&gt;Drug discovery is a time intensive and economically costly process. A wealth of information regarding small molecule targets, side effects, gene expression profiles, among several other attributes are publicly available throughout currently existing online tools and repositories. By collecting and analyzing the aggregated information from these resources, novel relationships between currently existing small molecules can be discovered. Understanding the underlying molecular and structural similarities between seemingly heterogeneous small molecules can aid in drug repurposing studies, and potentially the discovery of novel drugs. Furthermore, these data can be leveraged for machine learning case studies that may predict novel uses for already existing drugs. Drugmonizome is a web portal for querying sets of known drugs and computing significant biomedical terms that drugs in the set share.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drugshot</title>
-      <link>/project/public_resources/drugshot/</link>
+      <link>//localhost:4321/project/public_resources/drugshot/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/drugshot/</guid>
+      <guid>//localhost:4321/project/public_resources/drugshot/</guid>
       <description>&lt;p&gt;&lt;strong&gt;DrugShot&lt;/strong&gt; is a search engine that accepts any search term to return a list of small molecules that are mostly associated with the search terms. It can be used to identify novel associations between small molecules and biological mechanisms and processes. A free text search is redirected to a PubMed search via the NCBI E-utilities API for retrieving publications that match the search terms. The resulting list of publications is cross-referenced with DrugRIF or AutoRIF to convert PMIDs to lists of small molecules. DrugRIF and AutoRIF enlist associations between publications and small molecules. DrugShot returns the list of small molecules ranked by their frequency of mentions within the publications returned by the search terms. In addition, the returned small molecules from the initial query are supplanted with additional small molecules based on literature co-mentions and L1000 signature similarity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iLINCS</title>
-      <link>/project/public_resources/ilincs/</link>
+      <link>//localhost:4321/project/public_resources/ilincs/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/ilincs/</guid>
+      <guid>//localhost:4321/project/public_resources/ilincs/</guid>
       <description>&lt;p&gt;iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures. The portal provides biologists-friendly user interfaces for analyzing transcriptomics and proteomics LINCS datasets. The portal integrates R analytical engine via several R tools for web-computing (rserve, opencpu, Shiny, rgl) and DCIC developed web tools and applications (FTreeView, Enrichr) into a coherent web platform for LINCS data analysis. Users can follow several workflows which allow them to identify differentially expressed genes, proteins and phosphoproteins in LINCS datasets and use them in analysis of other LINCS and non-LINCS dataset (eg TCGA and GEO transcriptomic datasets), and in the analysis of LINCS L1000 signatures. In this way, the platform facilitates integrative analysis of LINCS data and signatures. The mechanistic interpretation of LINCS transcriptomic and proteomics signatures is facilitated by the enrichment analysis via Enrichr and DAVID, and by pathways analysis using the R implementation of the SPIA algorithm. The portal can be accessed freely and does not require user registration.&lt;/p&gt;
-
 &lt;p&gt;Scientists are able to compare a &amp;ldquo;disease transcriptional signature&amp;rdquo;, a gene expression profile, to a library of &amp;ldquo;drug activity transcriptional signatures&amp;rdquo; to generate a Connectivity Map based on Connectivity score. Positive correlation between drug perturbations and disease gene expression profiles suggest common gene expression changes, while negative correlation is suggestive of drug perturbation ability to &amp;ldquo;reverse&amp;rdquo; the disease.&lt;/p&gt;
-
 &lt;p&gt;Portal also provides tools to analyze list of differentially expressed genes in other LINCS and non-LINCS datasets (i.e. TCGA, GEO, etc.) with an option to find concordant LINCS and non-LINCS gene expression signatures.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinexus</title>
-      <link>/project/public_resources/kinexus/</link>
+      <link>//localhost:4321/project/public_resources/kinexus/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/kinexus/</guid>
+      <guid>//localhost:4321/project/public_resources/kinexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinexus&lt;/strong&gt; is a online resource developed by Kinexus Bioinformatics Corporation to foster the study of cell signalling systems to advance biomedical research in academia and industry&lt;/p&gt;
-
-&lt;p&gt;Data Modules:
-- PhosphoNET&lt;br /&gt;
-- KinaseNET
-- TranscriptoNET&lt;br /&gt;
-- KinATLAS&lt;br /&gt;
-- DrugKiNET&lt;/p&gt;
+&lt;p&gt;Data Modules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PhosphoNET&lt;/li&gt;
+&lt;li&gt;KinaseNET&lt;/li&gt;
+&lt;li&gt;TranscriptoNET&lt;/li&gt;
+&lt;li&gt;KinATLAS&lt;/li&gt;
+&lt;li&gt;DrugKiNET&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Open Targets</title>
-      <link>/project/public_resources/opentarget/</link>
+      <link>//localhost:4321/project/public_resources/opentarget/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/public_resources/opentarget/</guid>
+      <guid>//localhost:4321/project/public_resources/opentarget/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Open Targets Platform&lt;/strong&gt; is a comprehensive tool that supports systematic identification and prioritisation of potential therapeutic drug targets.&lt;/p&gt;
-
 &lt;p&gt;By integrating publicly available datasets including data generated by the Open Targets consortium, the Platform builds and scores target-disease associations to assist in drug target identification and prioritisation. It also integrates relevant annotation information about targets, diseases, phenotypes, and drugs, as well as their most relevant relationships.&lt;/p&gt;
 </description>
     </item>

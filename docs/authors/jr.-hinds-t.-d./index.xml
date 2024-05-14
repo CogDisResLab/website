@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jr. {Hinds T. D.} | CDRL</title>
-    <link>/authors/jr.-hinds-t.-d./</link>
-      <atom:link href="/authors/jr.-hinds-t.-d./index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/jr.-hinds-t.-d./</link>
+      <atom:link href="//localhost:4321/authors/jr.-hinds-t.-d./index.xml" rel="self" type="application/rss+xml" />
     <description>Jr. {Hinds T. D.}</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>Jr. {Hinds T. D.}</title>
-      <link>/authors/jr.-hinds-t.-d./</link>
+      <link>//localhost:4321/authors/jr.-hinds-t.-d./</link>
     </image>
     
     <item>
       <title>Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</title>
-      <link>/publication/2022-03-22_rn5410/</link>
+      <link>//localhost:4321/publication/2022-03-22_rn5410/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-03-22_rn5410/</guid>
+      <guid>//localhost:4321/publication/2022-03-22_rn5410/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</title>
-      <link>/publication/2020-05-15_rn5146/</link>
+      <link>//localhost:4321/publication/2020-05-15_rn5146/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-05-15_rn5146/</guid>
+      <guid>//localhost:4321/publication/2020-05-15_rn5146/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RNA sequencing in human HepG2 hepatocytes reveals PPAR-alpha mediates transcriptome responsiveness of bilirubin</title>
-      <link>/publication/2019-05-11_rn5155/</link>
+      <link>//localhost:4321/publication/2019-05-11_rn5155/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-05-11_rn5155/</guid>
+      <guid>//localhost:4321/publication/2019-05-11_rn5155/</guid>
       <description></description>
     </item>
     

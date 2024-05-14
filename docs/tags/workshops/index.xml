@@ -2,51 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops | CDRL</title>
-    <link>/tags/workshops/</link>
-      <atom:link href="/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/tags/workshops/</link>
+      <atom:link href="//localhost:4321/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshops</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>Workshops</title>
-      <link>/tags/workshops/</link>
+      <link>//localhost:4321/tags/workshops/</link>
     </image>
     
     <item>
       <title>Intro to Coding Course Summer 2019</title>
-      <link>/project/webinars_and_workshops/intro-to-coding/</link>
+      <link>//localhost:4321/project/webinars_and_workshops/intro-to-coding/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/webinars_and_workshops/intro-to-coding/</guid>
-      <description>
-
-&lt;h1 id=&#34;intro-to-coding-course-summer-2019&#34;&gt;Intro to Coding Course - Summer 2019&lt;/h1&gt;
-
+      <guid>//localhost:4321/project/webinars_and_workshops/intro-to-coding/</guid>
+      <description>&lt;h1 id=&#34;intro-to-coding-course---summer-2019&#34;&gt;Intro to Coding Course - Summer 2019&lt;/h1&gt;
 &lt;p&gt;Description:  This course is designed as an introduction to basic coding concepts and writing in R.  Students will learn how to write and interpret code, as well as how to utilize various packages within these platforms. Additionally, students will gain experience in using other bioinformatics tools that are available online or were developed at the University of Toledo.&lt;/p&gt;
-
 &lt;p&gt;Goals:  By the end of this course, students will be able to:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Understand basic coding concepts, including data input, data manipulation, biostatistics, and visualization.&lt;/li&gt;
-&lt;li&gt;Write and interpret code utilizing these concepts in R&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Write and interpret code utilizing these concepts in R&lt;/li&gt;
 &lt;li&gt;Use online tools for further bioinformatics analyses&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Format:  Students will meet for one hour each week, for eight weeks, to review concepts, hold demonstrations, and discuss questions that arise.  Prior to each class, students will view a video prepared by the instructors as an introduction to that lesson.  The instructors will also provide a list of additional resources each week, and in general, for those who are interested in further reading.&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;    Classes will occur via Echo360, and will be recorded for students who are unavailable during the regular meeting time.
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;Schedule:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Time commitment:  2 hrs/week
-
 &lt;ul&gt;
 &lt;li&gt;Pre-lesson video/reading:  ~1 hr&lt;/li&gt;
 &lt;li&gt;In-person meeting Wednesdays at 3pm:  1hr&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -55,60 +45,50 @@
 &lt;th&gt;Instructor&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;7/10/19&lt;/td&gt;
 &lt;td&gt;Course Overview&lt;/td&gt;
 &lt;td&gt;Marissa Smail &amp;amp; Jim Reigle&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;7/17/19&lt;/td&gt;
 &lt;td&gt;Introduction to R Environment&lt;/td&gt;
 &lt;td&gt;Jim Reigle&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;7/31/19&lt;/td&gt;
 &lt;td&gt;Basics Concepts of Coding&lt;/td&gt;
 &lt;td&gt;Jim Reigle&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;8/7/19&lt;/td&gt;
 &lt;td&gt;Excel&lt;/td&gt;
 &lt;td&gt;Marissa Smail&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;8/14/19&lt;/td&gt;
 &lt;td&gt;Data Manipulation&lt;/td&gt;
 &lt;td&gt;Jim Reigle&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;8/21/19&lt;/td&gt;
 &lt;td&gt;Statistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;8/28/19&lt;/td&gt;
 &lt;td&gt;Visualization&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;9/04/19&lt;/td&gt;
 &lt;td&gt;Applying What We Have Learned&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle &amp;amp; Marissa Smail&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle &amp;amp; Marissa Smail&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;p&gt;Instructors:&lt;/p&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -117,29 +97,25 @@
 &lt;th&gt;Affiliation&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Jim Reigle&lt;/td&gt;
-&lt;td&gt;reiglej@mail.uc.edu&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:reiglej@mail.uc.edu&#34;&gt;reiglej@mail.uc.edu&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;University of Cincinnati&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;khaled.alganem@rockets.utoledo.edu&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:khaled.alganem@rockets.utoledo.edu&#34;&gt;khaled.alganem@rockets.utoledo.edu&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;University of Toledo&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;Marissa Smail&lt;/td&gt;
-&lt;td&gt;smailma@mail.uc.edu&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:smailma@mail.uc.edu&#34;&gt;smailma@mail.uc.edu&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;University of Cincinnati&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/ram&#34;&gt;Rammohan Shukla, PhD&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;rammohanshukla@gmail.com&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../authors/ram/&#34;&gt;Rammohan Shukla, PhD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:rammohanshukla@gmail.com&#34;&gt;rammohanshukla@gmail.com&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;University of Toledo&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

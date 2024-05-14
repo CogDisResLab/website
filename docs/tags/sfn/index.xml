@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SFN | CDRL</title>
-    <link>/tags/sfn/</link>
-      <atom:link href="/tags/sfn/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/tags/sfn/</link>
+      <atom:link href="//localhost:4321/tags/sfn/index.xml" rel="self" type="application/rss+xml" />
     <description>SFN</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>SFN</title>
-      <link>/tags/sfn/</link>
+      <link>//localhost:4321/tags/sfn/</link>
     </image>
     
     <item>
       <title>SFN 2019</title>
-      <link>/media/sfn2019/</link>
+      <link>//localhost:4321/media/sfn2019/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/media/sfn2019/</guid>
+      <guid>//localhost:4321/media/sfn2019/</guid>
       <description>
 
 

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. C. Roberts | CDRL</title>
-    <link>/authors/r.-c.-roberts/</link>
-      <atom:link href="/authors/r.-c.-roberts/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/r.-c.-roberts/</link>
+      <atom:link href="//localhost:4321/authors/r.-c.-roberts/index.xml" rel="self" type="application/rss+xml" />
     <description>R. C. Roberts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>R. C. Roberts</title>
-      <link>/authors/r.-c.-roberts/</link>
+      <link>//localhost:4321/authors/r.-c.-roberts/</link>
     </image>
     
     <item>
       <title>Tyrosine hydroxylase localization in the nucleus accumbens in schizophrenia</title>
-      <link>/publication/2016-01-08_rn5174/</link>
+      <link>//localhost:4321/publication/2016-01-08_rn5174/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-01-08_rn5174/</guid>
+      <guid>//localhost:4321/publication/2016-01-08_rn5174/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Localization of excitatory amino acid transporters EAAT1 and EAAT2 in human postmortem cortex: a light and electron microscopic study</title>
-      <link>/publication/2014-07-30_rn5185/</link>
+      <link>//localhost:4321/publication/2014-07-30_rn5185/</link>
       <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-07-30_rn5185/</guid>
+      <guid>//localhost:4321/publication/2014-07-30_rn5185/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Update on the neurobiology of schizophrenia: a role for extracellular microdomains</title>
-      <link>/publication/2013-10-01_rn5190/</link>
+      <link>//localhost:4321/publication/2013-10-01_rn5190/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013-10-01_rn5190/</guid>
+      <guid>//localhost:4321/publication/2013-10-01_rn5190/</guid>
       <description></description>
     </item>
     

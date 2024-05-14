@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Antoine | CDRL</title>
-    <link>/authors/a.-antoine/</link>
-      <atom:link href="/authors/a.-antoine/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/a.-antoine/</link>
+      <atom:link href="//localhost:4321/authors/a.-antoine/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Antoine</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>A. Antoine</title>
-      <link>/authors/a.-antoine/</link>
+      <link>//localhost:4321/authors/a.-antoine/</link>
     </image>
     
     <item>
       <title>Neuronal impact of patient-specific aberrant NRXN1alpha splicing</title>
-      <link>/publication/2019-12-01_rn5151/</link>
+      <link>//localhost:4321/publication/2019-12-01_rn5151/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-12-01_rn5151/</guid>
+      <guid>//localhost:4321/publication/2019-12-01_rn5151/</guid>
       <description></description>
     </item>
     

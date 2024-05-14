@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V. Haroutunian | CDRL</title>
-    <link>/authors/v.-haroutunian/</link>
-      <atom:link href="/authors/v.-haroutunian/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/v.-haroutunian/</link>
+      <atom:link href="//localhost:4321/authors/v.-haroutunian/index.xml" rel="self" type="application/rss+xml" />
     <description>V. Haroutunian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>V. Haroutunian</title>
-      <link>/authors/v.-haroutunian/</link>
+      <link>//localhost:4321/authors/v.-haroutunian/</link>
     </image>
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-      <link>/publication/2018-10-20_rn5157/</link>
+      <link>//localhost:4321/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-10-20_rn5157/</guid>
+      <guid>//localhost:4321/publication/2018-10-20_rn5157/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</title>
-      <link>/publication/2018-07-19_rn5161/</link>
+      <link>//localhost:4321/publication/2018-07-19_rn5161/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-07-19_rn5161/</guid>
+      <guid>//localhost:4321/publication/2018-07-19_rn5161/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</title>
-      <link>/publication/2016-05-21_rn5171/</link>
+      <link>//localhost:4321/publication/2016-05-21_rn5171/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-05-21_rn5171/</guid>
+      <guid>//localhost:4321/publication/2016-05-21_rn5171/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>/publication/2016-02-16_rn5172/</link>
+      <link>//localhost:4321/publication/2016-02-16_rn5172/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-02-16_rn5172/</guid>
+      <guid>//localhost:4321/publication/2016-02-16_rn5172/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-specific abnormalities of glutamate transporters in schizophrenia: sick astrocytes and compensating relay neurons?</title>
-      <link>/publication/2015-09-30_rn5176/</link>
+      <link>//localhost:4321/publication/2015-09-30_rn5176/</link>
       <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-09-30_rn5176/</guid>
+      <guid>//localhost:4321/publication/2015-09-30_rn5176/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</title>
-      <link>/publication/2015-06-10_rn5177/</link>
+      <link>//localhost:4321/publication/2015-06-10_rn5177/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-06-10_rn5177/</guid>
+      <guid>//localhost:4321/publication/2015-06-10_rn5177/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>/publication/2015-04-01_rn5181/</link>
+      <link>//localhost:4321/publication/2015-04-01_rn5181/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-04-01_rn5181/</guid>
+      <guid>//localhost:4321/publication/2015-04-01_rn5181/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased G protein-coupled receptor kinase (GRK) expression in the anterior cingulate cortex in schizophrenia</title>
-      <link>/publication/2014-08-26_rn5184/</link>
+      <link>//localhost:4321/publication/2014-08-26_rn5184/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-08-26_rn5184/</guid>
+      <guid>//localhost:4321/publication/2014-08-26_rn5184/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altered serine/threonine kinase activity in schizophrenia</title>
-      <link>/publication/2014-05-02_rn5186/</link>
+      <link>//localhost:4321/publication/2014-05-02_rn5186/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-05-02_rn5186/</guid>
+      <guid>//localhost:4321/publication/2014-05-02_rn5186/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal partitioning of hexokinase 1 suggests disruption of a glutamate transport protein complex in schizophrenia</title>
-      <link>/publication/2014-02-25_rn5187/</link>
+      <link>//localhost:4321/publication/2014-02-25_rn5187/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-02-25_rn5187/</guid>
+      <guid>//localhost:4321/publication/2014-02-25_rn5187/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal N-linked glycosylation of cortical AMPA receptor subunits in schizophrenia</title>
-      <link>/publication/2013-03-07_rn5191/</link>
+      <link>//localhost:4321/publication/2013-03-07_rn5191/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013-03-07_rn5191/</guid>
+      <guid>//localhost:4321/publication/2013-03-07_rn5191/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal expression of glutamate transporters in temporal lobe areas in elderly patients with schizophrenia</title>
-      <link>/publication/2013-01-30_rn5193/</link>
+      <link>//localhost:4321/publication/2013-01-30_rn5193/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013-01-30_rn5193/</guid>
+      <guid>//localhost:4321/publication/2013-01-30_rn5193/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMPA receptor subunit expression in the endoplasmic reticulum in frontal cortex of elderly patients with schizophrenia</title>
-      <link>/publication/2012-06-22_rn5194/</link>
+      <link>//localhost:4321/publication/2012-06-22_rn5194/</link>
       <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012-06-22_rn5194/</guid>
+      <guid>//localhost:4321/publication/2012-06-22_rn5194/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of equilibrative nucleoside transporter type 1 protein in elderly patients with schizophrenia</title>
-      <link>/publication/2012-02-09_rn5195/</link>
+      <link>//localhost:4321/publication/2012-02-09_rn5195/</link>
       <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012-02-09_rn5195/</guid>
+      <guid>//localhost:4321/publication/2012-02-09_rn5195/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regional differences in expression of beta-tubulin isoforms in schizophrenia</title>
-      <link>/publication/2012-01-24_rn5197/</link>
+      <link>//localhost:4321/publication/2012-01-24_rn5197/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012-01-24_rn5197/</guid>
+      <guid>//localhost:4321/publication/2012-01-24_rn5197/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal activity of the MAPK- and cAMP-associated signaling pathways in frontal cortical areas in postmortem brain in schizophrenia</title>
-      <link>/publication/2011-11-04_rn5198/</link>
+      <link>//localhost:4321/publication/2011-11-04_rn5198/</link>
       <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011-11-04_rn5198/</guid>
+      <guid>//localhost:4321/publication/2011-11-04_rn5198/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endosomal trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
-      <link>/publication/2011-05-18_rn5199/</link>
+      <link>//localhost:4321/publication/2011-05-18_rn5199/</link>
       <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011-05-18_rn5199/</guid>
+      <guid>//localhost:4321/publication/2011-05-18_rn5199/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glutamatergic gene expression is specifically reduced in thalamocortical projecting relay neurons in schizophrenia</title>
-      <link>/publication/2011-05-10_rn5200/</link>
+      <link>//localhost:4321/publication/2011-05-10_rn5200/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011-05-10_rn5200/</guid>
+      <guid>//localhost:4321/publication/2011-05-10_rn5200/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for abnormal forward trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
-      <link>/publication/2010-06-24_rn5202/</link>
+      <link>//localhost:4321/publication/2010-06-24_rn5202/</link>
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/2010-06-24_rn5202/</guid>
+      <guid>//localhost:4321/publication/2010-06-24_rn5202/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal glycosylation of EAAT1 and EAAT2 in prefrontal cortex of elderly patients with schizophrenia</title>
-      <link>/publication/2009-09-01_rn5204/</link>
+      <link>//localhost:4321/publication/2009-09-01_rn5204/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/2009-09-01_rn5204/</guid>
+      <guid>//localhost:4321/publication/2009-09-01_rn5204/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of four housekeeping proteins in elderly patients with schizophrenia</title>
-      <link>/publication/2009-01-14_rn5206/</link>
+      <link>//localhost:4321/publication/2009-01-14_rn5206/</link>
       <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/2009-01-14_rn5206/</guid>
+      <guid>//localhost:4321/publication/2009-01-14_rn5206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cortical expression of glial fibrillary acidic protein and glutamine synthetase is decreased in schizophrenia</title>
-      <link>/publication/2008-06-20_rn5209/</link>
+      <link>//localhost:4321/publication/2008-06-20_rn5209/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/2008-06-20_rn5209/</guid>
+      <guid>//localhost:4321/publication/2008-06-20_rn5209/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altered vesicular glutamate transporter expression in the anterior cingulate cortex in schizophrenia</title>
-      <link>/publication/2007-12-25_rn5210/</link>
+      <link>//localhost:4321/publication/2007-12-25_rn5210/</link>
       <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/2007-12-25_rn5210/</guid>
+      <guid>//localhost:4321/publication/2007-12-25_rn5210/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of transcripts for myelination-related genes in the anterior cingulate cortex in schizophrenia</title>
-      <link>/publication/2007-01-16_rn5212/</link>
+      <link>//localhost:4321/publication/2007-01-16_rn5212/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/2007-01-16_rn5212/</guid>
+      <guid>//localhost:4321/publication/2007-01-16_rn5212/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of excitatory amino acid transporter interacting protein transcripts in the thalamus in schizophrenia</title>
-      <link>/publication/2006-02-18_rn5214/</link>
+      <link>//localhost:4321/publication/2006-02-18_rn5214/</link>
       <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/2006-02-18_rn5214/</guid>
+      <guid>//localhost:4321/publication/2006-02-18_rn5214/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</title>
-      <link>/publication/2005-06-10_rn5215/</link>
+      <link>//localhost:4321/publication/2005-06-10_rn5215/</link>
       <pubDate>Fri, 10 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/2005-06-10_rn5215/</guid>
+      <guid>//localhost:4321/publication/2005-06-10_rn5215/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</title>
-      <link>/publication/2005-04-12_rn5216/</link>
+      <link>//localhost:4321/publication/2005-04-12_rn5216/</link>
       <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/2005-04-12_rn5216/</guid>
+      <guid>//localhost:4321/publication/2005-04-12_rn5216/</guid>
       <description></description>
     </item>
     

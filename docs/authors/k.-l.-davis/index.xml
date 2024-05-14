@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. L. Davis | CDRL</title>
-    <link>/authors/k.-l.-davis/</link>
-      <atom:link href="/authors/k.-l.-davis/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/k.-l.-davis/</link>
+      <atom:link href="//localhost:4321/authors/k.-l.-davis/index.xml" rel="self" type="application/rss+xml" />
     <description>K. L. Davis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>K. L. Davis</title>
-      <link>/authors/k.-l.-davis/</link>
+      <link>//localhost:4321/authors/k.-l.-davis/</link>
     </image>
     
     <item>
       <title>Expression of transcripts for myelination-related genes in the anterior cingulate cortex in schizophrenia</title>
-      <link>/publication/2007-01-16_rn5212/</link>
+      <link>//localhost:4321/publication/2007-01-16_rn5212/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/2007-01-16_rn5212/</guid>
+      <guid>//localhost:4321/publication/2007-01-16_rn5212/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</title>
-      <link>/publication/2005-06-10_rn5215/</link>
+      <link>//localhost:4321/publication/2005-06-10_rn5215/</link>
       <pubDate>Fri, 10 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/2005-06-10_rn5215/</guid>
+      <guid>//localhost:4321/publication/2005-06-10_rn5215/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</title>
-      <link>/publication/2005-04-12_rn5216/</link>
+      <link>//localhost:4321/publication/2005-04-12_rn5216/</link>
       <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/2005-04-12_rn5216/</guid>
+      <guid>//localhost:4321/publication/2005-04-12_rn5216/</guid>
       <description></description>
     </item>
     

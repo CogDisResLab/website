@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Salahpour | CDRL</title>
-    <link>/authors/a.-salahpour/</link>
-      <atom:link href="/authors/a.-salahpour/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/a.-salahpour/</link>
+      <atom:link href="//localhost:4321/authors/a.-salahpour/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Salahpour</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>A. Salahpour</title>
-      <link>/authors/a.-salahpour/</link>
+      <link>//localhost:4321/authors/a.-salahpour/</link>
     </image>
     
     <item>
       <title>Consequences of NMDA receptor deficiency can be rescued in the adult brain</title>
-      <link>/publication/2020-08-19_rn5142/</link>
+      <link>//localhost:4321/publication/2020-08-19_rn5142/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-08-19_rn5142/</guid>
+      <guid>//localhost:4321/publication/2020-08-19_rn5142/</guid>
       <description></description>
     </item>
     

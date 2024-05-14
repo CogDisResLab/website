@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. Cnops | CDRL</title>
-    <link>/authors/l.-cnops/</link>
-      <atom:link href="/authors/l.-cnops/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/l.-cnops/</link>
+      <atom:link href="//localhost:4321/authors/l.-cnops/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Cnops</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>L. Cnops</title>
-      <link>/authors/l.-cnops/</link>
+      <link>//localhost:4321/authors/l.-cnops/</link>
     </image>
     
     <item>
       <title>High-affinity Na&#43;/K&#43;-dependent glutamate transporter EAAT4 is expressed throughout the rat fore- and midbrain</title>
-      <link>/publication/2008-09-05_rn5207/</link>
+      <link>//localhost:4321/publication/2008-09-05_rn5207/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/2008-09-05_rn5207/</guid>
+      <guid>//localhost:4321/publication/2008-09-05_rn5207/</guid>
       <description></description>
     </item>
     

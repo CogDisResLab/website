@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Reigle | CDRL</title>
-    <link>/authors/j.-reigle/</link>
-      <atom:link href="/authors/j.-reigle/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/j.-reigle/</link>
+      <atom:link href="//localhost:4321/authors/j.-reigle/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Reigle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>J. Reigle</title>
-      <link>/authors/j.-reigle/</link>
+      <link>//localhost:4321/authors/j.-reigle/</link>
     </image>
     
     <item>
       <title>Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</title>
-      <link>/publication/2022-04-01_rn5408/</link>
+      <link>//localhost:4321/publication/2022-04-01_rn5408/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-04-01_rn5408/</guid>
+      <guid>//localhost:4321/publication/2022-04-01_rn5408/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</title>
-      <link>/publication/2021-03-11_rn5132/</link>
+      <link>//localhost:4321/publication/2021-03-11_rn5132/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-03-11_rn5132/</guid>
+      <guid>//localhost:4321/publication/2021-03-11_rn5132/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</title>
-      <link>/publication/2021-02-26_rn5133/</link>
+      <link>//localhost:4321/publication/2021-02-26_rn5133/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-02-26_rn5133/</guid>
+      <guid>//localhost:4321/publication/2021-02-26_rn5133/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</title>
-      <link>/publication/2020-08-14_rn5143/</link>
+      <link>//localhost:4321/publication/2020-08-14_rn5143/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-08-14_rn5143/</guid>
+      <guid>//localhost:4321/publication/2020-08-14_rn5143/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</title>
-      <link>/publication/2020-07-24_rn5144/</link>
+      <link>//localhost:4321/publication/2020-07-24_rn5144/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-07-24_rn5144/</guid>
+      <guid>//localhost:4321/publication/2020-07-24_rn5144/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signature-based approaches for informed drug repurposing: targeting CNS disorders</title>
-      <link>/publication/2020-07-01_rn5145/</link>
+      <link>//localhost:4321/publication/2020-07-01_rn5145/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-07-01_rn5145/</guid>
+      <guid>//localhost:4321/publication/2020-07-01_rn5145/</guid>
       <description></description>
     </item>
     

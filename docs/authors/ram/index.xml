@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>/authors/ram/</link>
-      <atom:link href="/authors/ram/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/ram/</link>
+      <atom:link href="//localhost:4321/authors/ram/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
-      <link>/authors/ram/</link>
+      <link>//localhost:4321/authors/ram/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>//localhost:4321/authors/ram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/authors/ram/</guid>
+      <description>&lt;p&gt;Dr. Rammohan Shukla is an Assistant Professor in the Department of Neurosciences at the University of Toledo, Toledo, Ohio. He received his PhD in Biology from National Institute of Basic Biology, Japan in 2014 and completed his postdoctoral research in the Department of Psychiatry at the University of Toronto. Dr. Shukla&amp;rsquo;s research program combines experimental and computational biology approaches to better understand the similarities and differences across central nervous system disorders in order to identify a therapeutic target.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

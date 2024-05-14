@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. S. Simmons | CDRL</title>
-    <link>/authors/m.-s.-simmons/</link>
-      <atom:link href="/authors/m.-s.-simmons/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/m.-s.-simmons/</link>
+      <atom:link href="//localhost:4321/authors/m.-s.-simmons/index.xml" rel="self" type="application/rss+xml" />
     <description>M. S. Simmons</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>M. S. Simmons</title>
-      <link>/authors/m.-s.-simmons/</link>
+      <link>//localhost:4321/authors/m.-s.-simmons/</link>
     </image>
     
     <item>
       <title>Abnormal N-linked glycosylation of cortical AMPA receptor subunits in schizophrenia</title>
-      <link>/publication/2013-03-07_rn5191/</link>
+      <link>//localhost:4321/publication/2013-03-07_rn5191/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013-03-07_rn5191/</guid>
+      <guid>//localhost:4321/publication/2013-03-07_rn5191/</guid>
       <description></description>
     </item>
     

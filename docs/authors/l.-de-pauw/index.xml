@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. {De Pauw} | CDRL</title>
-    <link>/authors/l.-de-pauw/</link>
-      <atom:link href="/authors/l.-de-pauw/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/l.-de-pauw/</link>
+      <atom:link href="//localhost:4321/authors/l.-de-pauw/index.xml" rel="self" type="application/rss+xml" />
     <description>L. {De Pauw}</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>L. {De Pauw}</title>
-      <link>/authors/l.-de-pauw/</link>
+      <link>//localhost:4321/authors/l.-de-pauw/</link>
     </image>
     
     <item>
       <title>Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</title>
-      <link>/publication/2020-05-06_rn5147/</link>
+      <link>//localhost:4321/publication/2020-05-06_rn5147/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-05-06_rn5147/</guid>
+      <guid>//localhost:4321/publication/2020-05-06_rn5147/</guid>
       <description></description>
     </item>
     

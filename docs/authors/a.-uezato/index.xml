@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Uezato | CDRL</title>
-    <link>/authors/a.-uezato/</link>
-      <atom:link href="/authors/a.-uezato/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/a.-uezato/</link>
+      <atom:link href="//localhost:4321/authors/a.-uezato/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Uezato</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>A. Uezato</title>
-      <link>/authors/a.-uezato/</link>
+      <link>//localhost:4321/authors/a.-uezato/</link>
     </image>
     
     <item>
       <title>Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</title>
-      <link>/publication/2015-05-28_rn5178/</link>
+      <link>//localhost:4321/publication/2015-05-28_rn5178/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-05-28_rn5178/</guid>
+      <guid>//localhost:4321/publication/2015-05-28_rn5178/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vesicular glutamate transporter mRNA expression in the medial temporal lobe in major depressive disorder, bipolar disorder, and schizophrenia</title>
-      <link>/publication/2009-10-21_rn5203/</link>
+      <link>//localhost:4321/publication/2009-10-21_rn5203/</link>
       <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/2009-10-21_rn5203/</guid>
+      <guid>//localhost:4321/publication/2009-10-21_rn5203/</guid>
       <description></description>
     </item>
     

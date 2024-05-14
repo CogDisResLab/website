@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Yates | CDRL</title>
-    <link>/authors/s.-yates/</link>
-      <atom:link href="/authors/s.-yates/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/s.-yates/</link>
+      <atom:link href="//localhost:4321/authors/s.-yates/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Yates</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>S. Yates</title>
-      <link>/authors/s.-yates/</link>
+      <link>//localhost:4321/authors/s.-yates/</link>
     </image>
     
     <item>
       <title>Global signaling effects of a schizophrenia-associated missense mutation in neuregulin 1: an exploratory study using whole genome and novel kinome approaches</title>
-      <link>/publication/2014-01-02_rn5188/</link>
+      <link>//localhost:4321/publication/2014-01-02_rn5188/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-01-02_rn5188/</guid>
+      <guid>//localhost:4321/publication/2014-01-02_rn5188/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Update on the neurobiology of schizophrenia: a role for extracellular microdomains</title>
-      <link>/publication/2013-10-01_rn5190/</link>
+      <link>//localhost:4321/publication/2013-10-01_rn5190/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013-10-01_rn5190/</guid>
+      <guid>//localhost:4321/publication/2013-10-01_rn5190/</guid>
       <description></description>
     </item>
     

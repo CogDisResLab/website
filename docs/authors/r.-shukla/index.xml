@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Shukla | CDRL</title>
-    <link>/authors/r.-shukla/</link>
-      <atom:link href="/authors/r.-shukla/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/r.-shukla/</link>
+      <atom:link href="//localhost:4321/authors/r.-shukla/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Shukla</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>R. Shukla</title>
-      <link>/authors/r.-shukla/</link>
+      <link>//localhost:4321/authors/r.-shukla/</link>
     </image>
     
     <item>
       <title>Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</title>
-      <link>/publication/2022-04-01_rn5408/</link>
+      <link>//localhost:4321/publication/2022-04-01_rn5408/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-04-01_rn5408/</guid>
+      <guid>//localhost:4321/publication/2022-04-01_rn5408/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
-      <link>/publication/2021-12-31_rn5285/</link>
+      <link>//localhost:4321/publication/2021-12-31_rn5285/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-12-31_rn5285/</guid>
+      <guid>//localhost:4321/publication/2021-12-31_rn5285/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editorial overview: Neuroscience: Advances in the field</title>
-      <link>/publication/2021-12-24_rn5289/</link>
+      <link>//localhost:4321/publication/2021-12-24_rn5289/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-12-24_rn5289/</guid>
+      <guid>//localhost:4321/publication/2021-12-24_rn5289/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</title>
-      <link>/publication/2021-09-29_rn5287/</link>
+      <link>//localhost:4321/publication/2021-09-29_rn5287/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-09-29_rn5287/</guid>
+      <guid>//localhost:4321/publication/2021-09-29_rn5287/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Similarities and dissimilarities between psychiatric cluster disorders</title>
-      <link>/publication/2021-01-29_rn5135/</link>
+      <link>//localhost:4321/publication/2021-01-29_rn5135/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-01-29_rn5135/</guid>
+      <guid>//localhost:4321/publication/2021-01-29_rn5135/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Astrocytes in Major Neuropsychiatric Disorders</title>
-      <link>/publication/2021-01-08_rn5136/</link>
+      <link>//localhost:4321/publication/2021-01-08_rn5136/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-01-08_rn5136/</guid>
+      <guid>//localhost:4321/publication/2021-01-08_rn5136/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</title>
-      <link>/publication/2020-11-26_rn5137/</link>
+      <link>//localhost:4321/publication/2020-11-26_rn5137/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-11-26_rn5137/</guid>
+      <guid>//localhost:4321/publication/2020-11-26_rn5137/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</title>
-      <link>/publication/2020-11-21_rn5138/</link>
+      <link>//localhost:4321/publication/2020-11-21_rn5138/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-11-21_rn5138/</guid>
+      <guid>//localhost:4321/publication/2020-11-21_rn5138/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signature-based approaches for informed drug repurposing: targeting CNS disorders</title>
-      <link>/publication/2020-07-01_rn5145/</link>
+      <link>//localhost:4321/publication/2020-07-01_rn5145/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-07-01_rn5145/</guid>
+      <guid>//localhost:4321/publication/2020-07-01_rn5145/</guid>
       <description></description>
     </item>
     

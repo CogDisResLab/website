@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Beneyto | CDRL</title>
-    <link>/authors/m.-beneyto/</link>
-      <atom:link href="/authors/m.-beneyto/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/m.-beneyto/</link>
+      <atom:link href="//localhost:4321/authors/m.-beneyto/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Beneyto</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>M. Beneyto</title>
-      <link>/authors/m.-beneyto/</link>
+      <link>//localhost:4321/authors/m.-beneyto/</link>
     </image>
     
     <item>
       <title>Abnormal glutamate receptor expression in the medial temporal lobe in schizophrenia and mood disorders</title>
-      <link>/publication/2007-02-15_rn5211/</link>
+      <link>//localhost:4321/publication/2007-02-15_rn5211/</link>
       <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/2007-02-15_rn5211/</guid>
+      <guid>//localhost:4321/publication/2007-02-15_rn5211/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of transcripts for myelination-related genes in the anterior cingulate cortex in schizophrenia</title>
-      <link>/publication/2007-01-16_rn5212/</link>
+      <link>//localhost:4321/publication/2007-01-16_rn5212/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/2007-01-16_rn5212/</guid>
+      <guid>//localhost:4321/publication/2007-01-16_rn5212/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</title>
-      <link>/publication/2006-11-23_rn5213/</link>
+      <link>//localhost:4321/publication/2006-11-23_rn5213/</link>
       <pubDate>Thu, 23 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/2006-11-23_rn5213/</guid>
+      <guid>//localhost:4321/publication/2006-11-23_rn5213/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</title>
-      <link>/publication/2005-06-10_rn5215/</link>
+      <link>//localhost:4321/publication/2005-06-10_rn5215/</link>
       <pubDate>Fri, 10 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/2005-06-10_rn5215/</guid>
+      <guid>//localhost:4321/publication/2005-06-10_rn5215/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</title>
-      <link>/publication/2003-12-20_rn5221/</link>
+      <link>//localhost:4321/publication/2003-12-20_rn5221/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/2003-12-20_rn5221/</guid>
+      <guid>//localhost:4321/publication/2003-12-20_rn5221/</guid>
       <description></description>
     </item>
     

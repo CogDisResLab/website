@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Huerta | CDRL</title>
-    <link>/authors/i.-huerta/</link>
-      <atom:link href="/authors/i.-huerta/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/i.-huerta/</link>
+      <atom:link href="//localhost:4321/authors/i.-huerta/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Huerta</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Feb 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>I. Huerta</title>
-      <link>/authors/i.-huerta/</link>
+      <link>//localhost:4321/authors/i.-huerta/</link>
     </image>
     
     <item>
       <title>Expression of excitatory amino acid transporter interacting protein transcripts in the thalamus in schizophrenia</title>
-      <link>/publication/2006-02-18_rn5214/</link>
+      <link>//localhost:4321/publication/2006-02-18_rn5214/</link>
       <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/2006-02-18_rn5214/</guid>
+      <guid>//localhost:4321/publication/2006-02-18_rn5214/</guid>
       <description></description>
     </item>
     

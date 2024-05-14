@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. L. Niedzielko | CDRL</title>
-    <link>/authors/t.-l.-niedzielko/</link>
-      <atom:link href="/authors/t.-l.-niedzielko/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/t.-l.-niedzielko/</link>
+      <atom:link href="//localhost:4321/authors/t.-l.-niedzielko/index.xml" rel="self" type="application/rss+xml" />
     <description>T. L. Niedzielko</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>T. L. Niedzielko</title>
-      <link>/authors/t.-l.-niedzielko/</link>
+      <link>//localhost:4321/authors/t.-l.-niedzielko/</link>
     </image>
     
     <item>
       <title>Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</title>
-      <link>/publication/2016-06-18_rn5169/</link>
+      <link>//localhost:4321/publication/2016-06-18_rn5169/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-06-18_rn5169/</guid>
+      <guid>//localhost:4321/publication/2016-06-18_rn5169/</guid>
       <description></description>
     </item>
     

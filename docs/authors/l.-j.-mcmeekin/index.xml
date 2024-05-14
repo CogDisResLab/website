@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. J. McMeekin | CDRL</title>
-    <link>/authors/l.-j.-mcmeekin/</link>
-      <atom:link href="/authors/l.-j.-mcmeekin/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/l.-j.-mcmeekin/</link>
+      <atom:link href="//localhost:4321/authors/l.-j.-mcmeekin/index.xml" rel="self" type="application/rss+xml" />
     <description>L. J. McMeekin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>L. J. McMeekin</title>
-      <link>/authors/l.-j.-mcmeekin/</link>
+      <link>//localhost:4321/authors/l.-j.-mcmeekin/</link>
     </image>
     
     <item>
       <title>Cortical PGC-1alpha-Dependent Transcripts Are Reduced in Postmortem Tissue From Patients With Schizophrenia</title>
-      <link>/publication/2015-12-20_rn5175/</link>
+      <link>//localhost:4321/publication/2015-12-20_rn5175/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-12-20_rn5175/</guid>
+      <guid>//localhost:4321/publication/2015-12-20_rn5175/</guid>
       <description></description>
     </item>
     

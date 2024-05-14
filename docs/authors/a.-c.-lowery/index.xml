@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. C. Lowery | CDRL</title>
-    <link>/authors/a.-c.-lowery/</link>
-      <atom:link href="/authors/a.-c.-lowery/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/a.-c.-lowery/</link>
+      <atom:link href="//localhost:4321/authors/a.-c.-lowery/index.xml" rel="self" type="application/rss+xml" />
     <description>A. C. Lowery</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>A. C. Lowery</title>
-      <link>/authors/a.-c.-lowery/</link>
+      <link>//localhost:4321/authors/a.-c.-lowery/</link>
     </image>
     
     <item>
       <title>Pioglitazone improves working memory performance when administered in chronic TBI</title>
-      <link>/publication/2019-09-13_rn5153/</link>
+      <link>//localhost:4321/publication/2019-09-13_rn5153/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-09-13_rn5153/</guid>
+      <guid>//localhost:4321/publication/2019-09-13_rn5153/</guid>
       <description></description>
     </item>
     

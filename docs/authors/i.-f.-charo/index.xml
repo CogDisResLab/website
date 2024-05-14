@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. F. Charo | CDRL</title>
-    <link>/authors/i.-f.-charo/</link>
-      <atom:link href="/authors/i.-f.-charo/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/i.-f.-charo/</link>
+      <atom:link href="//localhost:4321/authors/i.-f.-charo/index.xml" rel="self" type="application/rss+xml" />
     <description>I. F. Charo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>I. F. Charo</title>
-      <link>/authors/i.-f.-charo/</link>
+      <link>//localhost:4321/authors/i.-f.-charo/</link>
     </image>
     
     <item>
       <title>CC-chemokine receptor 2 required for bleomycin-induced pulmonary fibrosis</title>
-      <link>/publication/2003-11-12_rn5222/</link>
+      <link>//localhost:4321/publication/2003-11-12_rn5222/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/2003-11-12_rn5222/</guid>
+      <guid>//localhost:4321/publication/2003-11-12_rn5222/</guid>
       <description></description>
     </item>
     

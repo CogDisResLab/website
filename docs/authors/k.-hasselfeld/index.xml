@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Hasselfeld | CDRL</title>
-    <link>/authors/k.-hasselfeld/</link>
-      <atom:link href="/authors/k.-hasselfeld/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/authors/k.-hasselfeld/</link>
+      <atom:link href="//localhost:4321/authors/k.-hasselfeld/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Hasselfeld</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:4321/img/cdrl_logo_square.png</url>
       <title>K. Hasselfeld</title>
-      <link>/authors/k.-hasselfeld/</link>
+      <link>//localhost:4321/authors/k.-hasselfeld/</link>
     </image>
     
     <item>
       <title>Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>/publication/2018-03-03_rn5162/</link>
+      <link>//localhost:4321/publication/2018-03-03_rn5162/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-03-03_rn5162/</guid>
+      <guid>//localhost:4321/publication/2018-03-03_rn5162/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-subtype-specific changes in adenosine pathways in schizophrenia</title>
-      <link>/publication/2018-02-28_rn5163/</link>
+      <link>//localhost:4321/publication/2018-02-28_rn5163/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-02-28_rn5163/</guid>
+      <guid>//localhost:4321/publication/2018-02-28_rn5163/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
-      <link>/publication/2017-09-14_rn5166/</link>
+      <link>//localhost:4321/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-09-14_rn5166/</guid>
+      <guid>//localhost:4321/publication/2017-09-14_rn5166/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</title>
-      <link>/publication/2015-06-10_rn5177/</link>
+      <link>//localhost:4321/publication/2015-06-10_rn5177/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-06-10_rn5177/</guid>
+      <guid>//localhost:4321/publication/2015-06-10_rn5177/</guid>
       <description></description>
     </item>
     
