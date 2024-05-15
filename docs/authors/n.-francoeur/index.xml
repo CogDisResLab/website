@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Francoeur | CDRL</title>
-    <link>/authors/n.-francoeur/</link>
-      <atom:link href="/authors/n.-francoeur/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/n.-francoeur/</link>
+      <atom:link href="//localhost:1313/authors/n.-francoeur/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Francoeur</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>N. Francoeur</title>
-      <link>/authors/n.-francoeur/</link>
+      <link>//localhost:1313/authors/n.-francoeur/</link>
     </image>
     
     <item>
       <title>Neuronal impact of patient-specific aberrant NRXN1alpha splicing</title>
-      <link>/publication/2019-12-01_rn5151/</link>
+      <link>//localhost:1313/publication/2019-12-01_rn5151/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-12-01_rn5151/</guid>
+      <guid>//localhost:1313/publication/2019-12-01_rn5151/</guid>
       <description></description>
     </item>
     

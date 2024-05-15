@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. H. Bergersen | CDRL</title>
-    <link>/authors/l.-h.-bergersen/</link>
-      <atom:link href="/authors/l.-h.-bergersen/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/l.-h.-bergersen/</link>
+      <atom:link href="//localhost:1313/authors/l.-h.-bergersen/index.xml" rel="self" type="application/rss+xml" />
     <description>L. H. Bergersen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Feb 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>L. H. Bergersen</title>
-      <link>/authors/l.-h.-bergersen/</link>
+      <link>//localhost:1313/authors/l.-h.-bergersen/</link>
     </image>
     
     <item>
       <title>Gene expression of glutamate metabolizing enzymes in the hippocampal formation in human temporal lobe epilepsy</title>
-      <link>/publication/2013-02-07_rn5192/</link>
+      <link>//localhost:1313/publication/2013-02-07_rn5192/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013-02-07_rn5192/</guid>
+      <guid>//localhost:1313/publication/2013-02-07_rn5192/</guid>
       <description></description>
     </item>
     

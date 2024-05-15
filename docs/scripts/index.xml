@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>/scripts/</link>
-      <atom:link href="/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/scripts/</link>
+      <atom:link href="//localhost:1313/scripts/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
-      <link>/scripts/</link>
+      <link>//localhost:1313/scripts/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/scripts/intro-to-coding/lesson6/</link>
+      <link>//localhost:1313/scripts/intro-to-coding/lesson6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/scripts/intro-to-coding/lesson6/</guid>
+      <guid>//localhost:1313/scripts/intro-to-coding/lesson6/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;

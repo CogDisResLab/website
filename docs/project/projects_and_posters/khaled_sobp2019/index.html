@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="Kaleidoscope Poster Presentation at the Society of Biological Psychiatry Conference &amp; Great Lakes Bioinformatics Conference in 2019">
 
   
-  <link rel="alternate" hreflang="en-us" href="../../../project/projects_and_posters/khaled_sobp2019/">
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/project/projects_and_posters/khaled_sobp2019/">
   
   
   
@@ -95,42 +95,6 @@
 
 
 
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-149864972-2', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
   
 
 
@@ -140,7 +104,7 @@
   <link rel="icon" type="image/png" href="../../../img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="../../../img/icon-192.png">
 
-  <link rel="canonical" href="../../../project/projects_and_posters/khaled_sobp2019/">
+  <link rel="canonical" href="//localhost:1313/project/projects_and_posters/khaled_sobp2019/">
 
   
   
@@ -152,10 +116,10 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="/project/projects_and_posters/khaled_sobp2019/">
+  <meta property="og:url" content="//localhost:1313/project/projects_and_posters/khaled_sobp2019/">
   <meta property="og:title" content="Kaleidoscope Poster (SOBP &amp; GLBIO 2019) | CDRL">
-  <meta property="og:description" content="Kaleidoscope Poster Presentation at the Society of Biological Psychiatry Conference &amp; Great Lakes Bioinformatics Conference in 2019"><meta property="og:image" content="/project/projects_and_posters/khaled_sobp2019/featured.png">
-  <meta property="twitter:image" content="/project/projects_and_posters/khaled_sobp2019/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Kaleidoscope Poster Presentation at the Society of Biological Psychiatry Conference &amp; Great Lakes Bioinformatics Conference in 2019"><meta property="og:image" content="//localhost:1313/project/projects_and_posters/khaled_sobp2019/featured.png">
+  <meta property="twitter:image" content="//localhost:1313/project/projects_and_posters/khaled_sobp2019/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-05-24T00:00:00&#43;00:00">
@@ -184,12 +148,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/project/projects_and_posters/khaled_sobp2019/"
+    "@id": "//localhost:1313/project/projects_and_posters/khaled_sobp2019/"
   },
   "headline": "Kaleidoscope Poster (SOBP \u0026 GLBIO 2019)",
   
   "image": [
-    "/project/projects_and_posters/khaled_sobp2019/featured.png"
+    "//localhost:1313/project/projects_and_posters/khaled_sobp2019/featured.png"
   ],
   
   "datePublished": "2019-05-24T00:00:00Z",
@@ -205,7 +169,7 @@
     "name": "CDRL",
     "logo": {
       "@type": "ImageObject",
-      "url": "/img/cdrl_logo_square.png"
+      "url": "//localhost:1313/img/cdrl_logo_square.png"
     }
   },
   "description": "Kaleidoscope Poster Presentation at the Society of Biological Psychiatry Conference \u0026 Great Lakes Bioinformatics Conference in 2019"
@@ -568,7 +532,7 @@
 
 
   
-  <span><a href="../../../authors/khaled/">Khaled Alganem</a></span>
+  <span>Khaled Alganem</span>
 
   </div>
   
@@ -666,15 +630,10 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<p><strong>Authors</strong>: <a href="../../../authors/khaled">Khaled Alganem</a>, Jarek Meller, <a href="../../../authors/rob">Robert Mccullumsmith</a><br />
-<strong>Presenter</strong>: <a href="../../../authors/khaled">Khaled Alganem</a></p>
-
+      <p><strong>Authors</strong>: <a href="../../../authors/khaled/">Khaled Alganem</a>, Jarek Meller, <a href="../../../authors/rob/">Robert Mccullumsmith</a><br>
+<strong>Presenter</strong>: <a href="../../../authors/khaled/">Khaled Alganem</a></p>
 <h1 id="abstract">Abstract</h1>
-
 <p>An ever-increasing number of bioinformatic tools are being developed to process, analyze and view a wide range of biological datasets. However, with that growing number of biological databases and bioinformatic tools, it becomes difficult to discover and learn how to use these tools, especially for those who are not well versed in the bioinformatics field. We observed that a large number of biological databases and bioinformatics tools that are relevant to psychiatric disorders are relatively untapped. We developed a platform that aims to mitigate this issue.</p>
-
 <p><em>Kaleidoscope</em> is an interactive R Shiny web application that provides a platform for an easy access to biological databases and bioinformatics tools via a user-friendly interface that could be explored by researchers to test hypothesis in silico. Fully utilizing these robust bioinformatics tools and rich biological databases, interesting information can be obtained that could be very valuable to the field of biological psychiatry. The observations obtained from this platform could supplement existing hypotheses, spawn new ones and possibly direct future studies.</p>
 
     </div>
@@ -710,7 +669,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/projects_and_posters/khaled_sobp2019/&amp;text=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/project/projects_and_posters/khaled_sobp2019/&amp;text=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -723,7 +682,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/project/projects_and_posters/khaled_sobp2019/&amp;t=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/project/projects_and_posters/khaled_sobp2019/&amp;t=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -736,7 +695,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29&amp;body=/project/projects_and_posters/khaled_sobp2019/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29&amp;body=//localhost:1313/project/projects_and_posters/khaled_sobp2019/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -749,7 +708,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/projects_and_posters/khaled_sobp2019/&amp;title=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/project/projects_and_posters/khaled_sobp2019/&amp;title=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -762,7 +721,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29%20/project/projects_and_posters/khaled_sobp2019/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29%20//localhost:1313/project/projects_and_posters/khaled_sobp2019/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -775,7 +734,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/project/projects_and_posters/khaled_sobp2019/&amp;title=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/project/projects_and_posters/khaled_sobp2019/&amp;title=Kaleidoscope%20Poster%20%28SOBP%20&amp;amp;%20GLBIO%202019%29" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -812,7 +771,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="../../../authors/khaled/avatar_huf88dc76cdc7c5f50840b0869ec4d27aa_1080060_250x250_fill_lanczos_center_2.png" alt="Avatar">
+      <img class="portrait mr-3" src="../../../authors/khaled/avatar_huf88dc76cdc7c5f50840b0869ec4d27aa_1080060_250x250_fill_lanczos_center_3.png" alt="Avatar">
     
 
     <div class="media-body">
@@ -966,7 +925,7 @@
     
     
     
-    <script src="../../../js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -979,6 +938,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="../../../privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="../../../terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">

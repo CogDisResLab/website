@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. L. Caldwell | CDRL</title>
-    <link>/authors/j.-l.-caldwell/</link>
-      <atom:link href="/authors/j.-l.-caldwell/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/j.-l.-caldwell/</link>
+      <atom:link href="//localhost:1313/authors/j.-l.-caldwell/index.xml" rel="self" type="application/rss+xml" />
     <description>J. L. Caldwell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>J. L. Caldwell</title>
-      <link>/authors/j.-l.-caldwell/</link>
+      <link>//localhost:1313/authors/j.-l.-caldwell/</link>
     </image>
     
     <item>
       <title>Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</title>
-      <link>/publication/2018-07-19_rn5161/</link>
+      <link>//localhost:1313/publication/2018-07-19_rn5161/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-07-19_rn5161/</guid>
+      <guid>//localhost:1313/publication/2018-07-19_rn5161/</guid>
       <description></description>
     </item>
     

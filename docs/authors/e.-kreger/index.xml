@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. Kreger | CDRL</title>
-    <link>/authors/e.-kreger/</link>
-      <atom:link href="/authors/e.-kreger/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/e.-kreger/</link>
+      <atom:link href="//localhost:1313/authors/e.-kreger/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Kreger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>E. Kreger</title>
-      <link>/authors/e.-kreger/</link>
+      <link>//localhost:1313/authors/e.-kreger/</link>
     </image>
     
     <item>
       <title>Expression of transcripts for myelination-related genes in the anterior cingulate cortex in schizophrenia</title>
-      <link>/publication/2007-01-16_rn5212/</link>
+      <link>//localhost:1313/publication/2007-01-16_rn5212/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/2007-01-16_rn5212/</guid>
+      <guid>//localhost:1313/publication/2007-01-16_rn5212/</guid>
       <description></description>
     </item>
     

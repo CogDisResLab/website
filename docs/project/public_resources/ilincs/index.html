@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures">
 
   
-  <link rel="alternate" hreflang="en-us" href="../../../project/public_resources/ilincs/">
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/project/public_resources/ilincs/">
   
   
   
@@ -95,42 +95,6 @@
 
 
 
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-149864972-2', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
   
 
 
@@ -140,7 +104,7 @@
   <link rel="icon" type="image/png" href="../../../img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="../../../img/icon-192.png">
 
-  <link rel="canonical" href="../../../project/public_resources/ilincs/">
+  <link rel="canonical" href="//localhost:1313/project/public_resources/ilincs/">
 
   
   
@@ -152,10 +116,10 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="/project/public_resources/ilincs/">
+  <meta property="og:url" content="//localhost:1313/project/public_resources/ilincs/">
   <meta property="og:title" content="iLINCS | CDRL">
-  <meta property="og:description" content="iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures"><meta property="og:image" content="/project/public_resources/ilincs/featured.png">
-  <meta property="twitter:image" content="/project/public_resources/ilincs/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures"><meta property="og:image" content="//localhost:1313/project/public_resources/ilincs/featured.png">
+  <meta property="twitter:image" content="//localhost:1313/project/public_resources/ilincs/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-02-06T00:00:00&#43;00:00">
@@ -184,12 +148,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/project/public_resources/ilincs/"
+    "@id": "//localhost:1313/project/public_resources/ilincs/"
   },
   "headline": "iLINCS",
   
   "image": [
-    "/project/public_resources/ilincs/featured.png"
+    "//localhost:1313/project/public_resources/ilincs/featured.png"
   ],
   
   "datePublished": "2022-02-06T00:00:00Z",
@@ -205,7 +169,7 @@
     "name": "CDRL",
     "logo": {
       "@type": "ImageObject",
-      "url": "/img/cdrl_logo_square.png"
+      "url": "//localhost:1313/img/cdrl_logo_square.png"
     }
   },
   "description": "iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures"
@@ -568,7 +532,7 @@
 
 
   
-  <span><a href="../../../authors/cdrl/">CDRL</a></span>
+  <span>CDRL</span>
 
   </div>
   
@@ -693,9 +657,7 @@
 
     <div class="article-style">
       <p>iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures. The portal provides biologists-friendly user interfaces for analyzing transcriptomics and proteomics LINCS datasets. The portal integrates R analytical engine via several R tools for web-computing (rserve, opencpu, Shiny, rgl) and DCIC developed web tools and applications (FTreeView, Enrichr) into a coherent web platform for LINCS data analysis. Users can follow several workflows which allow them to identify differentially expressed genes, proteins and phosphoproteins in LINCS datasets and use them in analysis of other LINCS and non-LINCS dataset (eg TCGA and GEO transcriptomic datasets), and in the analysis of LINCS L1000 signatures. In this way, the platform facilitates integrative analysis of LINCS data and signatures. The mechanistic interpretation of LINCS transcriptomic and proteomics signatures is facilitated by the enrichment analysis via Enrichr and DAVID, and by pathways analysis using the R implementation of the SPIA algorithm. The portal can be accessed freely and does not require user registration.</p>
-
 <p>Scientists are able to compare a &ldquo;disease transcriptional signature&rdquo;, a gene expression profile, to a library of &ldquo;drug activity transcriptional signatures&rdquo; to generate a Connectivity Map based on Connectivity score. Positive correlation between drug perturbations and disease gene expression profiles suggest common gene expression changes, while negative correlation is suggestive of drug perturbation ability to &ldquo;reverse&rdquo; the disease.</p>
-
 <p>Portal also provides tools to analyze list of differentially expressed genes in other LINCS and non-LINCS datasets (i.e. TCGA, GEO, etc.) with an option to find concordant LINCS and non-LINCS gene expression signatures.</p>
 
     </div>
@@ -735,7 +697,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/public_resources/ilincs/&amp;text=iLINCS" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/project/public_resources/ilincs/&amp;text=iLINCS" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -748,7 +710,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/project/public_resources/ilincs/&amp;t=iLINCS" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/project/public_resources/ilincs/&amp;t=iLINCS" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -761,7 +723,7 @@
       
       
       <li>
-        <a href="mailto:?subject=iLINCS&amp;body=/project/public_resources/ilincs/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=iLINCS&amp;body=//localhost:1313/project/public_resources/ilincs/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -774,7 +736,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/public_resources/ilincs/&amp;title=iLINCS" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/project/public_resources/ilincs/&amp;title=iLINCS" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -787,7 +749,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=iLINCS%20/project/public_resources/ilincs/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=iLINCS%20//localhost:1313/project/public_resources/ilincs/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -800,7 +762,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/project/public_resources/ilincs/&amp;title=iLINCS" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/project/public_resources/ilincs/&amp;title=iLINCS" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -999,7 +961,7 @@
     
     
     
-    <script src="../../../js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -1012,6 +974,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="../../../privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="../../../terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">

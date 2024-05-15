@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. J. Funk | CDRL</title>
-    <link>/authors/a.-j.-funk/</link>
-      <atom:link href="/authors/a.-j.-funk/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/a.-j.-funk/</link>
+      <atom:link href="//localhost:1313/authors/a.-j.-funk/index.xml" rel="self" type="application/rss+xml" />
     <description>A. J. Funk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>A. J. Funk</title>
-      <link>/authors/a.-j.-funk/</link>
+      <link>//localhost:1313/authors/a.-j.-funk/</link>
     </image>
     
     <item>
       <title>Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</title>
-      <link>/publication/2022-04-01_rn5408/</link>
+      <link>//localhost:1313/publication/2022-04-01_rn5408/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-04-01_rn5408/</guid>
+      <guid>//localhost:1313/publication/2022-04-01_rn5408/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consequences of NMDA receptor deficiency can be rescued in the adult brain</title>
-      <link>/publication/2020-08-19_rn5142/</link>
+      <link>//localhost:1313/publication/2020-08-19_rn5142/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-08-19_rn5142/</guid>
+      <guid>//localhost:1313/publication/2020-08-19_rn5142/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</title>
-      <link>/publication/2020-08-14_rn5143/</link>
+      <link>//localhost:1313/publication/2020-08-14_rn5143/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-08-14_rn5143/</guid>
+      <guid>//localhost:1313/publication/2020-08-14_rn5143/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</title>
-      <link>/publication/2020-05-06_rn5147/</link>
+      <link>//localhost:1313/publication/2020-05-06_rn5147/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-05-06_rn5147/</guid>
+      <guid>//localhost:1313/publication/2020-05-06_rn5147/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adenosine Kinase Expression in the Frontal Cortex in Schizophrenia</title>
-      <link>/publication/2020-04-11_rn5148/</link>
+      <link>//localhost:1313/publication/2020-04-11_rn5148/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-04-11_rn5148/</guid>
+      <guid>//localhost:1313/publication/2020-04-11_rn5148/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-      <link>/publication/2018-10-20_rn5157/</link>
+      <link>//localhost:1313/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-10-20_rn5157/</guid>
+      <guid>//localhost:1313/publication/2018-10-20_rn5157/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
-      <link>/publication/2017-09-14_rn5166/</link>
+      <link>//localhost:1313/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-09-14_rn5166/</guid>
+      <guid>//localhost:1313/publication/2017-09-14_rn5166/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</title>
-      <link>/publication/2017-01-28_rn5168/</link>
+      <link>//localhost:1313/publication/2017-01-28_rn5168/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-01-28_rn5168/</guid>
+      <guid>//localhost:1313/publication/2017-01-28_rn5168/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic evaluation of data-independent acquisition for sensitive and reproducible proteomics-a prototype design for a single injection assay</title>
-      <link>/publication/2016-01-13_rn5173/</link>
+      <link>//localhost:1313/publication/2016-01-13_rn5173/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-01-13_rn5173/</guid>
+      <guid>//localhost:1313/publication/2016-01-13_rn5173/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>/publication/2015-04-01_rn5181/</link>
+      <link>//localhost:1313/publication/2015-04-01_rn5181/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-04-01_rn5181/</guid>
+      <guid>//localhost:1313/publication/2015-04-01_rn5181/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased G protein-coupled receptor kinase (GRK) expression in the anterior cingulate cortex in schizophrenia</title>
-      <link>/publication/2014-08-26_rn5184/</link>
+      <link>//localhost:1313/publication/2014-08-26_rn5184/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-08-26_rn5184/</guid>
+      <guid>//localhost:1313/publication/2014-08-26_rn5184/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal activity of the MAPK- and cAMP-associated signaling pathways in frontal cortical areas in postmortem brain in schizophrenia</title>
-      <link>/publication/2011-11-04_rn5198/</link>
+      <link>//localhost:1313/publication/2011-11-04_rn5198/</link>
       <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011-11-04_rn5198/</guid>
+      <guid>//localhost:1313/publication/2011-11-04_rn5198/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for abnormal forward trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
-      <link>/publication/2010-06-24_rn5202/</link>
+      <link>//localhost:1313/publication/2010-06-24_rn5202/</link>
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/2010-06-24_rn5202/</guid>
+      <guid>//localhost:1313/publication/2010-06-24_rn5202/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased expression of NMDA receptor-associated proteins in frontal cortex of elderly patients with schizophrenia</title>
-      <link>/publication/2009-06-02_rn5205/</link>
+      <link>//localhost:1313/publication/2009-06-02_rn5205/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/2009-06-02_rn5205/</guid>
+      <guid>//localhost:1313/publication/2009-06-02_rn5205/</guid>
       <description></description>
     </item>
     

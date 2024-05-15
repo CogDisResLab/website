@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.">
 
   
-  <link rel="alternate" hreflang="en-us" href="../../../project/public_resources/iptmnet/">
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/project/public_resources/iptmnet/">
   
   
   
@@ -95,42 +95,6 @@
 
 
 
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-149864972-2', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
   
 
 
@@ -140,7 +104,7 @@
   <link rel="icon" type="image/png" href="../../../img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="../../../img/icon-192.png">
 
-  <link rel="canonical" href="../../../project/public_resources/iptmnet/">
+  <link rel="canonical" href="//localhost:1313/project/public_resources/iptmnet/">
 
   
   
@@ -152,10 +116,10 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="/project/public_resources/iptmnet/">
+  <meta property="og:url" content="//localhost:1313/project/public_resources/iptmnet/">
   <meta property="og:title" content="iPTMnet | CDRL">
-  <meta property="og:description" content="iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context."><meta property="og:image" content="/project/public_resources/iptmnet/featured.png">
-  <meta property="twitter:image" content="/project/public_resources/iptmnet/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context."><meta property="og:image" content="//localhost:1313/project/public_resources/iptmnet/featured.png">
+  <meta property="twitter:image" content="//localhost:1313/project/public_resources/iptmnet/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-02-06T00:00:00&#43;00:00">
@@ -184,12 +148,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/project/public_resources/iptmnet/"
+    "@id": "//localhost:1313/project/public_resources/iptmnet/"
   },
   "headline": "iPTMnet",
   
   "image": [
-    "/project/public_resources/iptmnet/featured.png"
+    "//localhost:1313/project/public_resources/iptmnet/featured.png"
   ],
   
   "datePublished": "2022-02-06T00:00:00Z",
@@ -205,7 +169,7 @@
     "name": "CDRL",
     "logo": {
       "@type": "ImageObject",
-      "url": "/img/cdrl_logo_square.png"
+      "url": "//localhost:1313/img/cdrl_logo_square.png"
     }
   },
   "description": "iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context."
@@ -570,7 +534,7 @@
 
 
   
-  <span><a href="../../../authors/cdrl/">CDRL</a></span>
+  <span>CDRL</span>
 
   </div>
   
@@ -684,7 +648,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 207px;">
   <div style="position: relative">
-    <img src="../../../project/public_resources/iptmnet/featured_hu668e1df905b642560de574d27e2ffb51_86516_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="../../../project/public_resources/iptmnet/featured_hu668e1df905b642560de574d27e2ffb51_86516_720x0_resize_lanczos_3.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -695,19 +659,21 @@
 
     <div class="article-style">
       <p><strong>iPTMnet</strong> is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.</p>
-
 <p>It connects multiple disparate bioinformatics tools and systems text mining, data mining, analysis and visualization tools, and databases and ontologies into an integrated cross-cutting research resource to address the knowledge gaps in exploring and discovering PTM networks.</p>
-
 <p>iPTMnet encompasses data from:</p>
-
 <ul>
-<li><p>PTM-focused text mining tools, RLIMS-P and eFIP, which extract phosphorylation information from full-scale mining of PubMed abstracts and full-length articles including phosphorylation dependent protein-protein interactions (PPIs)</p></li>
-
-<li><p>A set of curated databases with experimentally observed PTMs</p></li>
-
-<li><p>Biomuta to include variants affecting PTM sites to help in interp</p></li>
-
-<li><p>Protein Ontology (PRO) that organizes proteins and PTM proteoforms (observed protein forms derived from a single gene, including isoforms and combinations of PTMs), enabling their representation, annotation and comparison within and across species</p></li>
+<li>
+<p>PTM-focused text mining tools, RLIMS-P and eFIP, which extract phosphorylation information from full-scale mining of PubMed abstracts and full-length articles including phosphorylation dependent protein-protein interactions (PPIs)</p>
+</li>
+<li>
+<p>A set of curated databases with experimentally observed PTMs</p>
+</li>
+<li>
+<p>Biomuta to include variants affecting PTM sites to help in interp</p>
+</li>
+<li>
+<p>Protein Ontology (PRO) that organizes proteins and PTM proteoforms (observed protein forms derived from a single gene, including isoforms and combinations of PTMs), enabling their representation, annotation and comparison within and across species</p>
+</li>
 </ul>
 
     </div>
@@ -741,7 +707,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/public_resources/iptmnet/&amp;text=iPTMnet" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/project/public_resources/iptmnet/&amp;text=iPTMnet" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -754,7 +720,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/project/public_resources/iptmnet/&amp;t=iPTMnet" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/project/public_resources/iptmnet/&amp;t=iPTMnet" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -767,7 +733,7 @@
       
       
       <li>
-        <a href="mailto:?subject=iPTMnet&amp;body=/project/public_resources/iptmnet/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=iPTMnet&amp;body=//localhost:1313/project/public_resources/iptmnet/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -780,7 +746,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/public_resources/iptmnet/&amp;title=iPTMnet" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/project/public_resources/iptmnet/&amp;title=iPTMnet" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -793,7 +759,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=iPTMnet%20/project/public_resources/iptmnet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=iPTMnet%20//localhost:1313/project/public_resources/iptmnet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -806,7 +772,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/project/public_resources/iptmnet/&amp;title=iPTMnet" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/project/public_resources/iptmnet/&amp;title=iPTMnet" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1005,7 +971,7 @@
     
     
     
-    <script src="../../../js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -1018,6 +984,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="../../../privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="../../../terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">

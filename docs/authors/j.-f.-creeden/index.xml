@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. F. Creeden | CDRL</title>
-    <link>/authors/j.-f.-creeden/</link>
-      <atom:link href="/authors/j.-f.-creeden/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/j.-f.-creeden/</link>
+      <atom:link href="//localhost:1313/authors/j.-f.-creeden/index.xml" rel="self" type="application/rss+xml" />
     <description>J. F. Creeden</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>J. F. Creeden</title>
-      <link>/authors/j.-f.-creeden/</link>
+      <link>//localhost:1313/authors/j.-f.-creeden/</link>
     </image>
     
     <item>
       <title>Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</title>
-      <link>/publication/2022-03-22_rn5410/</link>
+      <link>//localhost:1313/publication/2022-03-22_rn5410/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-03-22_rn5410/</guid>
+      <guid>//localhost:1313/publication/2022-03-22_rn5410/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
-      <link>/publication/2021-12-31_rn5285/</link>
+      <link>//localhost:1313/publication/2021-12-31_rn5285/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-12-31_rn5285/</guid>
+      <guid>//localhost:1313/publication/2021-12-31_rn5285/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</title>
-      <link>/publication/2021-03-11_rn5132/</link>
+      <link>//localhost:1313/publication/2021-03-11_rn5132/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-03-11_rn5132/</guid>
+      <guid>//localhost:1313/publication/2021-03-11_rn5132/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</title>
-      <link>/publication/2021-02-26_rn5133/</link>
+      <link>//localhost:1313/publication/2021-02-26_rn5133/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-02-26_rn5133/</guid>
+      <guid>//localhost:1313/publication/2021-02-26_rn5133/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</title>
-      <link>/publication/2020-11-26_rn5137/</link>
+      <link>//localhost:1313/publication/2020-11-26_rn5137/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-11-26_rn5137/</guid>
+      <guid>//localhost:1313/publication/2020-11-26_rn5137/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</title>
-      <link>/publication/2020-11-21_rn5138/</link>
+      <link>//localhost:1313/publication/2020-11-21_rn5138/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-11-21_rn5138/</guid>
+      <guid>//localhost:1313/publication/2020-11-21_rn5138/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxytocin&#39;s anti-inflammatory and proimmune functions in COVID-19: a transcriptomic signature-based approach</title>
-      <link>/publication/2020-08-19_rn5141/</link>
+      <link>//localhost:1313/publication/2020-08-19_rn5141/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-08-19_rn5141/</guid>
+      <guid>//localhost:1313/publication/2020-08-19_rn5141/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signature-based approaches for informed drug repurposing: targeting CNS disorders</title>
-      <link>/publication/2020-07-01_rn5145/</link>
+      <link>//localhost:1313/publication/2020-07-01_rn5145/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-07-01_rn5145/</guid>
+      <guid>//localhost:1313/publication/2020-07-01_rn5145/</guid>
       <description></description>
     </item>
     

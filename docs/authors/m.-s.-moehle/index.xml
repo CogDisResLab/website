@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. S. Moehle | CDRL</title>
-    <link>/authors/m.-s.-moehle/</link>
-      <atom:link href="/authors/m.-s.-moehle/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/m.-s.-moehle/</link>
+      <atom:link href="//localhost:1313/authors/m.-s.-moehle/index.xml" rel="self" type="application/rss+xml" />
     <description>M. S. Moehle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>M. S. Moehle</title>
-      <link>/authors/m.-s.-moehle/</link>
+      <link>//localhost:1313/authors/m.-s.-moehle/</link>
     </image>
     
     <item>
       <title>Regional differences in expression of beta-tubulin isoforms in schizophrenia</title>
-      <link>/publication/2012-01-24_rn5197/</link>
+      <link>//localhost:1313/publication/2012-01-24_rn5197/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012-01-24_rn5197/</guid>
+      <guid>//localhost:1313/publication/2012-01-24_rn5197/</guid>
       <description></description>
     </item>
     

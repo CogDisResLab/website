@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>/authors/emily/</link>
-      <atom:link href="/authors/emily/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/emily/</link>
+      <atom:link href="//localhost:1313/authors/emily/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
-      <link>/authors/emily/</link>
+      <link>//localhost:1313/authors/emily/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/emily/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/emily/</guid>
+      <description>&lt;p&gt;Emily earned a BS in neurobiology from the University of Cincinnati in 2016.  During her undergraduate career, she spent two years researching Parkinson&amp;rsquo;s disease where she analyzed ultrasonic vocalizations in rat models as a way to study dysarthria and cognitive function during disease progression.  Emily joined the Cognitive Disorders Research Laboratory in September 2016 and quickly became the lead laser capture microdissection technician, using this technique along with QPCR to explore glutamate transported expression in schizophrenia.  In the summer of 2018, Emily will relocate to the University of Toledo Medical Center in August of 2018 where she continue her work with the laboratory.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

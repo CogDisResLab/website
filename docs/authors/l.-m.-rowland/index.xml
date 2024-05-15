@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. M. Rowland | CDRL</title>
-    <link>/authors/l.-m.-rowland/</link>
-      <atom:link href="/authors/l.-m.-rowland/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/l.-m.-rowland/</link>
+      <atom:link href="//localhost:1313/authors/l.-m.-rowland/index.xml" rel="self" type="application/rss+xml" />
     <description>L. M. Rowland</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>L. M. Rowland</title>
-      <link>/authors/l.-m.-rowland/</link>
+      <link>//localhost:1313/authors/l.-m.-rowland/</link>
     </image>
     
     <item>
       <title>Schizophrenia: a disorder of broken brain bioenergetics</title>
-      <link>/publication/2022-03-11_rn5409/</link>
+      <link>//localhost:1313/publication/2022-03-11_rn5409/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-03-11_rn5409/</guid>
+      <guid>//localhost:1313/publication/2022-03-11_rn5409/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
-      <link>/publication/2019-03-27_rn5156/</link>
+      <link>//localhost:1313/publication/2019-03-27_rn5156/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-03-27_rn5156/</guid>
+      <guid>//localhost:1313/publication/2019-03-27_rn5156/</guid>
       <description></description>
     </item>
     

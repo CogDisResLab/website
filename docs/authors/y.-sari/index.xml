@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y. Sari | CDRL</title>
-    <link>/authors/y.-sari/</link>
-      <atom:link href="/authors/y.-sari/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/y.-sari/</link>
+      <atom:link href="//localhost:1313/authors/y.-sari/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Sari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>Y. Sari</title>
-      <link>/authors/y.-sari/</link>
+      <link>//localhost:1313/authors/y.-sari/</link>
     </image>
     
     <item>
       <title>Role of glutamatergic system and mesocorticolimbic circuits in alcohol dependence</title>
-      <link>/publication/2018-10-15_rn5158/</link>
+      <link>//localhost:1313/publication/2018-10-15_rn5158/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-10-15_rn5158/</guid>
+      <guid>//localhost:1313/publication/2018-10-15_rn5158/</guid>
       <description></description>
     </item>
     

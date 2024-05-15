@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Alganem | CDRL</title>
-    <link>/authors/k.-alganem/</link>
-      <atom:link href="/authors/k.-alganem/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/k.-alganem/</link>
+      <atom:link href="//localhost:1313/authors/k.-alganem/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Alganem</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>K. Alganem</title>
-      <link>/authors/k.-alganem/</link>
+      <link>//localhost:1313/authors/k.-alganem/</link>
     </image>
     
     <item>
       <title>Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</title>
-      <link>/publication/2022-03-22_rn5410/</link>
+      <link>//localhost:1313/publication/2022-03-22_rn5410/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-03-22_rn5410/</guid>
+      <guid>//localhost:1313/publication/2022-03-22_rn5410/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
-      <link>/publication/2021-12-31_rn5285/</link>
+      <link>//localhost:1313/publication/2021-12-31_rn5285/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-12-31_rn5285/</guid>
+      <guid>//localhost:1313/publication/2021-12-31_rn5285/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</title>
-      <link>/publication/2021-12-18_rn5288/</link>
+      <link>//localhost:1313/publication/2021-12-18_rn5288/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-12-18_rn5288/</guid>
+      <guid>//localhost:1313/publication/2021-12-18_rn5288/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</title>
-      <link>/publication/2020-11-26_rn5137/</link>
+      <link>//localhost:1313/publication/2020-11-26_rn5137/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-11-26_rn5137/</guid>
+      <guid>//localhost:1313/publication/2020-11-26_rn5137/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</title>
-      <link>/publication/2020-11-21_rn5138/</link>
+      <link>//localhost:1313/publication/2020-11-21_rn5138/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-11-21_rn5138/</guid>
+      <guid>//localhost:1313/publication/2020-11-21_rn5138/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signature-based approaches for informed drug repurposing: targeting CNS disorders</title>
-      <link>/publication/2020-07-01_rn5145/</link>
+      <link>//localhost:1313/publication/2020-07-01_rn5145/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-07-01_rn5145/</guid>
+      <guid>//localhost:1313/publication/2020-07-01_rn5145/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A bioinformatic inquiry of the EAAT2 interactome in postmortem and neuropsychiatric datasets</title>
-      <link>/publication/2020-03-22_rn5149/</link>
+      <link>//localhost:1313/publication/2020-03-22_rn5149/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-03-22_rn5149/</guid>
+      <guid>//localhost:1313/publication/2020-03-22_rn5149/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protein expression of prenyltransferase subunits in postmortem schizophrenia dorsolateral prefrontal cortex</title>
-      <link>/publication/2020-02-19_rn5150/</link>
+      <link>//localhost:1313/publication/2020-02-19_rn5150/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-02-19_rn5150/</guid>
+      <guid>//localhost:1313/publication/2020-02-19_rn5150/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuronal impact of patient-specific aberrant NRXN1alpha splicing</title>
-      <link>/publication/2019-12-01_rn5151/</link>
+      <link>//localhost:1313/publication/2019-12-01_rn5151/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-12-01_rn5151/</guid>
+      <guid>//localhost:1313/publication/2019-12-01_rn5151/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergistic effects of common schizophrenia risk variants</title>
-      <link>/publication/2019-09-25_rn5152/</link>
+      <link>//localhost:1313/publication/2019-09-25_rn5152/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-09-25_rn5152/</guid>
+      <guid>//localhost:1313/publication/2019-09-25_rn5152/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-      <link>/publication/2018-10-20_rn5157/</link>
+      <link>//localhost:1313/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-10-20_rn5157/</guid>
+      <guid>//localhost:1313/publication/2018-10-20_rn5157/</guid>
       <description></description>
     </item>
     

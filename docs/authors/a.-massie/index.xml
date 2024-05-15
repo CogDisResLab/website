@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Massie | CDRL</title>
-    <link>/authors/a.-massie/</link>
-      <atom:link href="/authors/a.-massie/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/a.-massie/</link>
+      <atom:link href="//localhost:1313/authors/a.-massie/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Massie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>A. Massie</title>
-      <link>/authors/a.-massie/</link>
+      <link>//localhost:1313/authors/a.-massie/</link>
     </image>
     
     <item>
       <title>Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</title>
-      <link>/publication/2020-05-06_rn5147/</link>
+      <link>//localhost:1313/publication/2020-05-06_rn5147/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-05-06_rn5147/</guid>
+      <guid>//localhost:1313/publication/2020-05-06_rn5147/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-affinity Na&#43;/K&#43;-dependent glutamate transporter EAAT4 is expressed throughout the rat fore- and midbrain</title>
-      <link>/publication/2008-09-05_rn5207/</link>
+      <link>//localhost:1313/publication/2008-09-05_rn5207/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/2008-09-05_rn5207/</guid>
+      <guid>//localhost:1313/publication/2008-09-05_rn5207/</guid>
       <description></description>
     </item>
     

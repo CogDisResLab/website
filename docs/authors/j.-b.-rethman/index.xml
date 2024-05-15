@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. B. Rethman | CDRL</title>
-    <link>/authors/j.-b.-rethman/</link>
-      <atom:link href="/authors/j.-b.-rethman/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/j.-b.-rethman/</link>
+      <atom:link href="//localhost:1313/authors/j.-b.-rethman/index.xml" rel="self" type="application/rss+xml" />
     <description>J. B. Rethman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>J. B. Rethman</title>
-      <link>/authors/j.-b.-rethman/</link>
+      <link>//localhost:1313/authors/j.-b.-rethman/</link>
     </image>
     
     <item>
       <title>The active kinome: The modern view of how active protein kinase networks fit in biological research</title>
-      <link>/publication/2021-12-31_rn5285/</link>
+      <link>//localhost:1313/publication/2021-12-31_rn5285/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-12-31_rn5285/</guid>
+      <guid>//localhost:1313/publication/2021-12-31_rn5285/</guid>
       <description></description>
     </item>
     

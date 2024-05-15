@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V. Hartounian | CDRL</title>
-    <link>/authors/v.-hartounian/</link>
-      <atom:link href="/authors/v.-hartounian/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/v.-hartounian/</link>
+      <atom:link href="//localhost:1313/authors/v.-hartounian/index.xml" rel="self" type="application/rss+xml" />
     <description>V. Hartounian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>V. Hartounian</title>
-      <link>/authors/v.-hartounian/</link>
+      <link>//localhost:1313/authors/v.-hartounian/</link>
     </image>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
-      <link>/publication/2017-09-14_rn5166/</link>
+      <link>//localhost:1313/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-09-14_rn5166/</guid>
+      <guid>//localhost:1313/publication/2017-09-14_rn5166/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. C. {Devore Homan} | CDRL</title>
-    <link>/authors/r.-c.-devore-homan/</link>
-      <atom:link href="/authors/r.-c.-devore-homan/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/r.-c.-devore-homan/</link>
+      <atom:link href="//localhost:1313/authors/r.-c.-devore-homan/index.xml" rel="self" type="application/rss+xml" />
     <description>R. C. {Devore Homan}</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>R. C. {Devore Homan}</title>
-      <link>/authors/r.-c.-devore-homan/</link>
+      <link>//localhost:1313/authors/r.-c.-devore-homan/</link>
     </image>
     
     <item>
       <title>Adenosine Kinase Expression in the Frontal Cortex in Schizophrenia</title>
-      <link>/publication/2020-04-11_rn5148/</link>
+      <link>//localhost:1313/publication/2020-04-11_rn5148/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-04-11_rn5148/</guid>
+      <guid>//localhost:1313/publication/2020-04-11_rn5148/</guid>
       <description></description>
     </item>
     

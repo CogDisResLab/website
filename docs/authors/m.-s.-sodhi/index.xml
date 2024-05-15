@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. S. Sodhi | CDRL</title>
-    <link>/authors/m.-s.-sodhi/</link>
-      <atom:link href="/authors/m.-s.-sodhi/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/m.-s.-sodhi/</link>
+      <atom:link href="//localhost:1313/authors/m.-s.-sodhi/index.xml" rel="self" type="application/rss+xml" />
     <description>M. S. Sodhi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>M. S. Sodhi</title>
-      <link>/authors/m.-s.-sodhi/</link>
+      <link>//localhost:1313/authors/m.-s.-sodhi/</link>
     </image>
     
     <item>
       <title>Glutamatergic gene expression is specifically reduced in thalamocortical projecting relay neurons in schizophrenia</title>
-      <link>/publication/2011-05-10_rn5200/</link>
+      <link>//localhost:1313/publication/2011-05-10_rn5200/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011-05-10_rn5200/</guid>
+      <guid>//localhost:1313/publication/2011-05-10_rn5200/</guid>
       <description></description>
     </item>
     

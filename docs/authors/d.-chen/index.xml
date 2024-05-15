@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D. Chen | CDRL</title>
-    <link>/authors/d.-chen/</link>
-      <atom:link href="/authors/d.-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/d.-chen/</link>
+      <atom:link href="//localhost:1313/authors/d.-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>D. Chen</title>
-      <link>/authors/d.-chen/</link>
+      <link>//localhost:1313/authors/d.-chen/</link>
     </image>
     
     <item>
       <title>Altered serine/threonine kinase activity in schizophrenia</title>
-      <link>/publication/2014-05-02_rn5186/</link>
+      <link>//localhost:1313/publication/2014-05-02_rn5186/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-05-02_rn5186/</guid>
+      <guid>//localhost:1313/publication/2014-05-02_rn5186/</guid>
       <description></description>
     </item>
     

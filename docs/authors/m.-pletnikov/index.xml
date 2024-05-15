@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Pletnikov | CDRL</title>
-    <link>/authors/m.-pletnikov/</link>
-      <atom:link href="/authors/m.-pletnikov/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/m.-pletnikov/</link>
+      <atom:link href="//localhost:1313/authors/m.-pletnikov/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Pletnikov</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>M. Pletnikov</title>
-      <link>/authors/m.-pletnikov/</link>
+      <link>//localhost:1313/authors/m.-pletnikov/</link>
     </image>
     
     <item>
       <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
-      <link>/publication/2019-03-27_rn5156/</link>
+      <link>//localhost:1313/publication/2019-03-27_rn5156/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-03-27_rn5156/</guid>
+      <guid>//localhost:1313/publication/2019-03-27_rn5156/</guid>
       <description></description>
     </item>
     

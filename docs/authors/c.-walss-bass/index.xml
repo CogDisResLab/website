@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Walss-Bass | CDRL</title>
-    <link>/authors/c.-walss-bass/</link>
-      <atom:link href="/authors/c.-walss-bass/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/c.-walss-bass/</link>
+      <atom:link href="//localhost:1313/authors/c.-walss-bass/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Walss-Bass</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>C. Walss-Bass</title>
-      <link>/authors/c.-walss-bass/</link>
+      <link>//localhost:1313/authors/c.-walss-bass/</link>
     </image>
     
     <item>
       <title>Global signaling effects of a schizophrenia-associated missense mutation in neuregulin 1: an exploratory study using whole genome and novel kinome approaches</title>
-      <link>/publication/2014-01-02_rn5188/</link>
+      <link>//localhost:1313/publication/2014-01-02_rn5188/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-01-02_rn5188/</guid>
+      <guid>//localhost:1313/publication/2014-01-02_rn5188/</guid>
       <description></description>
     </item>
     
