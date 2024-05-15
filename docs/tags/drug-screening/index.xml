@@ -1,54 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Drug Screening | CDRL</title>
-    <link>//localhost:4321/tags/drug-screening/</link>
-      <atom:link href="//localhost:4321/tags/drug-screening/index.xml" rel="self" type="application/rss+xml" />
-    <description>Drug Screening</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate>
-    <image>
-      <url>//localhost:4321/img/cdrl_logo_square.png</url>
-      <title>Drug Screening</title>
-      <link>//localhost:4321/tags/drug-screening/</link>
-    </image>
-    
-    <item>
-      <title>Virtual Screening Workshop</title>
-      <link>//localhost:4321/project/webinars_and_workshops/virtual_screening_2021/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate>
-      <guid>//localhost:4321/project/webinars_and_workshops/virtual_screening_2021/</guid>
-      <description>&lt;p&gt; 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Drug Screening | CDRL</title><link>website/tags/drug-screening/</link><atom:link href="website/tags/drug-screening/index.xml" rel="self" type="application/rss+xml"/><description>Drug Screening</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate><image><url>website/img/cdrl_logo_square.png</url><title>Drug Screening</title><link>website/tags/drug-screening/</link></image><item><title>Virtual Screening Workshop</title><link>website/project/webinars_and_workshops/virtual_screening_2021/</link><pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate><guid>website/project/webinars_and_workshops/virtual_screening_2021/</guid><description>&lt;p> 
  
  
  
  
- &lt;/p&gt;
-&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Virtual Screening Workshop&lt;br&gt;
-&lt;strong&gt;Summary&lt;/strong&gt;:  Neurosciences webinars series 2021&lt;br&gt;
-&lt;strong&gt;Date&lt;/strong&gt;: 11/1/2021&lt;br&gt;
-&lt;strong&gt;Presenters&lt;/strong&gt;: &lt;a href=&#34;https://www.cincinnatichildrens.org/bio/m/jarek-meller&#34;&gt;Dr. Jarek Meller&lt;/a&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt; 
+ &lt;/p>
+&lt;h1 id="about">About&lt;/h1>
+&lt;p>&lt;strong>Title&lt;/strong>: Virtual Screening Workshop&lt;br>
+&lt;strong>Summary&lt;/strong>: Neurosciences webinars series 2021&lt;br>
+&lt;strong>Date&lt;/strong>: 11/1/2021&lt;br>
+&lt;strong>Presenters&lt;/strong>: &lt;a href="https://www.cincinnatichildrens.org/bio/m/jarek-meller">Dr. Jarek Meller&lt;/a>&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p> 
  
  
  
  
- &lt;/p&gt;
-&lt;h1 id=&#34;talks&#34;&gt;Talks:&lt;/h1&gt;
-&lt;p&gt;Title: &lt;strong&gt;Virtual Screening Workshop (Part 1)&lt;/strong&gt;&lt;br&gt;
-Date: 11/1/2021&lt;/p&gt;
-&lt;p&gt;Video: &lt;a href=&#34;https://utoledo.webex.com/webappng/sites/utoledo/recording/e358a9471d6b103a9ff50050568167e5/playback&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Title: &lt;strong&gt;Virtual Screening Workshop (Part 2)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Coming soon &amp;hellip;&lt;/p&gt;
-&lt;p&gt; 
+ &lt;/p>
+&lt;h1 id="talks">Talks:&lt;/h1>
+&lt;p>Title: &lt;strong>Virtual Screening Workshop (Part 1)&lt;/strong>&lt;br>
+Date: 11/1/2021&lt;/p>
+&lt;p>Video: &lt;a href="https://utoledo.webex.com/webappng/sites/utoledo/recording/e358a9471d6b103a9ff50050568167e5/playback">Link&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>Title: &lt;strong>Virtual Screening Workshop (Part 2)&lt;/strong>&lt;/p>
+&lt;p>Coming soon &amp;hellip;&lt;/p>
+&lt;p> 
  
  
- &lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+ &lt;/p>
+&lt;hr></description></item></channel></rss>

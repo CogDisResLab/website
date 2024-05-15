@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CDRL</title>
-    <link>//localhost:4321/authors/adam/</link>
-      <atom:link href="//localhost:4321/authors/adam/index.xml" rel="self" type="application/rss+xml" />
-    <description>CDRL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>//localhost:4321/img/cdrl_logo_square.png</url>
-      <title>CDRL</title>
-      <link>//localhost:4321/authors/adam/</link>
-    </image>
-    
-    <item>
-      <title></title>
-      <link>//localhost:4321/authors/adam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/authors/adam/</guid>
-      <description>&lt;p&gt;Adam received his undergraduate degree in Biology from the University of Nevada Reno (2004). After graduation he accepted a research assistant position with a local biotech company, Sierra Sciences, where he performed research related to telomere biology and telomerase activation. Adam was then accepted into the Neurobiology graduate program at the University of Alabama Birmingham (2006) where he joined the lab of Drs. McCullumsmith and Meador-Woodruff studying the neurobiology of schizophrenia. For his dissertation work, Adam found abnormalities in multiple intracellular signaling cascades in postmortem brain tissue from patients with schizophrenia.&lt;/p&gt;
-&lt;p&gt;Upon receiving his PhD (2011), Adam joined the lab of Dr. DeSilva as a postdoctoral fellow studying the role of glutamate in oligodendrocyte development and demyelinating disease. Adam joined Dr. McCullumsmith in Cincinnati in 2014 as a postdoctoral fellow to perform proteomic analyses of postsynaptic density proteins. Dr. Funk joined the faculty at the University of Toledo Medical Center as a Research Assistant Professor in August of 2018 to continue studying the protein-protein interactions of PSD-95 (a major scaffolding and trafficking protein in the postsynaptic density) in postmortem human tissue. The goal of his research is to employ proteomic approaches to hypotheses of synaptic abnormalities in patients with schizophrenia.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CDRL</title><link>website/authors/adam/</link><atom:link href="website/authors/adam/index.xml" rel="self" type="application/rss+xml"/><description>CDRL</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>website/img/cdrl_logo_square.png</url><title>CDRL</title><link>website/authors/adam/</link></image><item><title/><link>website/authors/adam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>website/authors/adam/</guid><description>&lt;p>Adam received his undergraduate degree in Biology from the University of Nevada Reno (2004). After graduation he accepted a research assistant position with a local biotech company, Sierra Sciences, where he performed research related to telomere biology and telomerase activation. Adam was then accepted into the Neurobiology graduate program at the University of Alabama Birmingham (2006) where he joined the lab of Drs. McCullumsmith and Meador-Woodruff studying the neurobiology of schizophrenia. For his dissertation work, Adam found abnormalities in multiple intracellular signaling cascades in postmortem brain tissue from patients with schizophrenia.&lt;/p>
+&lt;p>Upon receiving his PhD (2011), Adam joined the lab of Dr. DeSilva as a postdoctoral fellow studying the role of glutamate in oligodendrocyte development and demyelinating disease. Adam joined Dr. McCullumsmith in Cincinnati in 2014 as a postdoctoral fellow to perform proteomic analyses of postsynaptic density proteins. Dr. Funk joined the faculty at the University of Toledo Medical Center as a Research Assistant Professor in August of 2018 to continue studying the protein-protein interactions of PSD-95 (a major scaffolding and trafficking protein in the postsynaptic density) in postmortem human tissue. The goal of his research is to employ proteomic approaches to hypotheses of synaptic abnormalities in patients with schizophrenia.&lt;/p></description></item></channel></rss>

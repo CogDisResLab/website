@@ -1,49 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pathway | CDRL</title>
-    <link>//localhost:4321/tags/pathway/</link>
-      <atom:link href="//localhost:4321/tags/pathway/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pathway</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>//localhost:4321/img/cdrl_logo_square.png</url>
-      <title>Pathway</title>
-      <link>//localhost:4321/tags/pathway/</link>
-    </image>
-    
-    <item>
-      <title>Enrichr</title>
-      <link>//localhost:4321/project/public_resources/enrichr/</link>
-      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/public_resources/enrichr/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Enrichr&lt;/strong&gt; is a gene set search engine that enables the querying of hundreds of thousands of annotated gene sets. Enrichr uniquely integrates knowledge from many high-profile projects to provide synthesized information about mammalian genes and gene sets. The platform provides various methods to compute gene set enrichment, and the results are visualized in several interactive ways.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pathway Commons</title>
-      <link>//localhost:4321/project/public_resources/pathway_commons/</link>
-      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/public_resources/pathway_commons/</guid>
-      <description>&lt;p&gt;*P&lt;strong&gt;athway Commons&lt;/strong&gt; is an integrated resource of publicly available information about biological pathways including biochemical reactions, assembly of biomolecular complexes, transport and catalysis events and physical interactions involving proteins, DNA, RNA, and small molecules (e.g. metabolites and drug compounds). Data is collected from multiple providers in standard formats, including the Biological Pathway Exchange (BioPAX) language and the Proteomics Standards Initiative Molecular Interactions format, and then integrated. Pathway Commons provides biologists with:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;tools to search this comprehensive resource&lt;/li&gt;
-&lt;li&gt;a download site offering integrated bulk sets of pathway data (e.g. tables of interactions and gene sets)&lt;/li&gt;
-&lt;li&gt;reusable software libraries for working with pathway information in several programming languages (Java, R, Python and Javascript)&lt;/li&gt;
-&lt;li&gt;a web service for programmatically querying the entire dataset&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reactome</title>
-      <link>//localhost:4321/project/public_resources/reactome/</link>
-      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/public_resources/reactome/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Reactome&lt;/strong&gt; is an open-source, open access, manually curated and peer-reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic and clinical research, genome analysis, modeling, systems biology and education.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pathway | CDRL</title><link>website/tags/pathway/</link><atom:link href="website/tags/pathway/index.xml" rel="self" type="application/rss+xml"/><description>Pathway</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>website/img/cdrl_logo_square.png</url><title>Pathway</title><link>website/tags/pathway/</link></image><item><title>Enrichr</title><link>website/project/public_resources/enrichr/</link><pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><guid>website/project/public_resources/enrichr/</guid><description>&lt;p>&lt;strong>Enrichr&lt;/strong> is a gene set search engine that enables the querying of hundreds of thousands of annotated gene sets. Enrichr uniquely integrates knowledge from many high-profile projects to provide synthesized information about mammalian genes and gene sets. The platform provides various methods to compute gene set enrichment, and the results are visualized in several interactive ways.&lt;/p></description></item><item><title>Pathway Commons</title><link>website/project/public_resources/pathway_commons/</link><pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><guid>website/project/public_resources/pathway_commons/</guid><description>&lt;p>*P&lt;strong>athway Commons&lt;/strong> is an integrated resource of publicly available information about biological pathways including biochemical reactions, assembly of biomolecular complexes, transport and catalysis events and physical interactions involving proteins, DNA, RNA, and small molecules (e.g. metabolites and drug compounds). Data is collected from multiple providers in standard formats, including the Biological Pathway Exchange (BioPAX) language and the Proteomics Standards Initiative Molecular Interactions format, and then integrated. Pathway Commons provides biologists with:&lt;/p>
+&lt;ul>
+&lt;li>tools to search this comprehensive resource&lt;/li>
+&lt;li>a download site offering integrated bulk sets of pathway data (e.g. tables of interactions and gene sets)&lt;/li>
+&lt;li>reusable software libraries for working with pathway information in several programming languages (Java, R, Python and Javascript)&lt;/li>
+&lt;li>a web service for programmatically querying the entire dataset&lt;/li>
+&lt;/ul></description></item><item><title>Reactome</title><link>website/project/public_resources/reactome/</link><pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><guid>website/project/public_resources/reactome/</guid><description>&lt;p>&lt;strong>Reactome&lt;/strong> is an open-source, open access, manually curated and peer-reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic and clinical research, genome analysis, modeling, systems biology and education.&lt;/p></description></item></channel></rss>

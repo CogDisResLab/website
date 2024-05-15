@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CDRL</title>
-    <link>//localhost:4321/authors/rami/</link>
-      <atom:link href="//localhost:4321/authors/rami/index.xml" rel="self" type="application/rss+xml" />
-    <description>CDRL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>//localhost:4321/img/cdrl_logo_square.png</url>
-      <title>CDRL</title>
-      <link>//localhost:4321/authors/rami/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CDRL</title><link>website/authors/rami/</link><atom:link href="website/authors/rami/index.xml" rel="self" type="application/rss+xml"/><description>CDRL</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>website/img/cdrl_logo_square.png</url><title>CDRL</title><link>website/authors/rami/</link></image></channel></rss>

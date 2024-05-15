@@ -1,110 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CDRL</title>
-    <link>//localhost:4321/authors/ali/</link>
-      <atom:link href="//localhost:4321/authors/ali/index.xml" rel="self" type="application/rss+xml" />
-    <description>CDRL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>//localhost:4321/img/cdrl_logo_square.png</url>
-      <title>CDRL</title>
-      <link>//localhost:4321/authors/ali/</link>
-    </image>
-    
-    <item>
-      <title></title>
-      <link>//localhost:4321/authors/ali/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/authors/ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CDRL Bioinformatics Hackathon 2021</title>
-      <link>//localhost:4321/post/bioinformatics_hackathon_2021/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/post/bioinformatics_hackathon_2021/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;The CDRL Annual Bioinformatics Hackathon is an event that brings the
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CDRL</title><link>website/authors/ali/</link><atom:link href="website/authors/ali/index.xml" rel="self" type="application/rss+xml"/><description>CDRL</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>website/img/cdrl_logo_square.png</url><title>CDRL</title><link>website/authors/ali/</link></image><item><title/><link>website/authors/ali/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>website/authors/ali/</guid><description/></item><item><title>CDRL Bioinformatics Hackathon 2021</title><link>website/post/bioinformatics_hackathon_2021/</link><pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate><guid>website/post/bioinformatics_hackathon_2021/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>The CDRL Annual Bioinformatics Hackathon is an event that brings the
 best and brightest together to focus on solving a standing problem in
 Bioinformatics. This competition aims to ignite people’s imaginations
-and to spur them into action utilizing both older and modern techniques.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The 2021 Bioinformatics Hackathon will take place&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;April 14-16&lt;/strong&gt;&lt;/em&gt;.
-The theme of this hackathon is “&lt;strong&gt;Mine this Dataset&lt;/strong&gt;”&lt;/p&gt;
-&lt;h3 id=&#34;timeline&#34;&gt;Timeline:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Last Date to Register: Sunday, April 4th, 2021. &lt;a href=&#34;https://forms.gle/YNQw9bDaLMjTJ8yb7&#34;&gt;Register
-Here&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dataset Reveal: 8 AM, April 14th, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Inaugural Session: 10 AM, April 14th, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;First Impressions Session: 3 PM, April 14th, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Progress Check In: 12 PM, April 15th, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Final Presentations: 2 PM, April 16th, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;guidelines&#34;&gt;Guidelines:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Teams should consist of 2-4 players&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;No swapping of teammates will be allowed&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Each team will be provided with a dedicated set of tools in a remote
+and to spur them into action utilizing both older and modern techniques.&lt;/p>
+&lt;p>&lt;strong>The 2021 Bioinformatics Hackathon will take place&lt;/strong> &lt;em>&lt;strong>April 14-16&lt;/strong>&lt;/em>.
+The theme of this hackathon is “&lt;strong>Mine this Dataset&lt;/strong>”&lt;/p>
+&lt;h3 id="timeline">Timeline:&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Last Date to Register: Sunday, April 4th, 2021. &lt;a href="https://forms.gle/YNQw9bDaLMjTJ8yb7">Register
+Here&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dataset Reveal: 8 AM, April 14th, 2021&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Inaugural Session: 10 AM, April 14th, 2021&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>First Impressions Session: 3 PM, April 14th, 2021&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Progress Check In: 12 PM, April 15th, 2021&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Final Presentations: 2 PM, April 16th, 2021&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="guidelines">Guidelines:&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Teams should consist of 2-4 players&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>No swapping of teammates will be allowed&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Each team will be provided with a dedicated set of tools in a remote
 high performance cluster environment. No other computing resources
-will be allowed&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Any tools or scripts developed in the process should be released
-under an open-source compatible license&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;judges&#34;&gt;Judges:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Dr. Robert E. McCullumsmith&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dr. Jarek Meller&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dr. Rammohan Shukla&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dr. Sinead O’Donovan&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;prizes&#34;&gt;Prizes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;First Prize: $500 and a plaque&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Second Prize: $300 and a plaque&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Third Prize: $100 and a certificate&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Honorable Mentions: A certificate&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Every team that participates will get a certificate of participation.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+will be allowed&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Any tools or scripts developed in the process should be released
+under an open-source compatible license&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="judges">Judges:&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Dr. Robert E. McCullumsmith&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dr. Jarek Meller&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dr. Rammohan Shukla&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dr. Sinead O’Donovan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="prizes">Prizes&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>First Prize: $500 and a plaque&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Second Prize: $300 and a plaque&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Third Prize: $100 and a certificate&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Honorable Mentions: A certificate&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Every team that participates will get a certificate of participation.&lt;/em>&lt;/p></description></item></channel></rss>

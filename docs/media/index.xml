@@ -1,149 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Media | CDRL</title>
-    <link>//localhost:4321/media/</link>
-      <atom:link href="//localhost:4321/media/index.xml" rel="self" type="application/rss+xml" />
-    <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>//localhost:4321/img/cdrl_logo_square.png</url>
-      <title>Media</title>
-      <link>//localhost:4321/media/</link>
-    </image>
-    
-    <item>
-      <title>SFN 2019</title>
-      <link>//localhost:4321/media/sfn2019/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/media/sfn2019/</guid>
-      <description>
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2481.jpg&#34; data-caption=&#34;Emily Devine&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2481_hua65cfe8ecaef85233805aa65fd2ea418_2873612_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2486.jpg&#34; data-caption=&#34;Rawan Alnafisah&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2486_hu614684098fa170c586890907b03d8df4_2958621_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2498.jpg&#34; data-caption=&#34;Xiaojun (Wilma) Wu, PhD&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2498_hucd4db65e22d68176a96856482f7e8a22_2527111_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2499.jpg&#34; data-caption=&#34;Abdul-rizaq Hamoud&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2499_hue88b09f8457e7a76eda7485dbf2b4fd3_2053234_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2564.jpg&#34; data-caption=&#34;Adam Funk, PhD&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2564_hu3b902ff5e5f5263e4e2bb598d36c4bb0_2341549_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2565.jpg&#34; data-caption=&#34;Sinead O&amp;amp;rsquo;donovan, PhD&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2565_hu42a068552ec8bc35ba1c312b8d61fe21_923140_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2954.jpg&#34; data-caption=&#34;Mackenzie Abel&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2954_huad23932085fea3f90685646ec9b036a1_3097176_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;../media/sfn2019/gallery/IMG-2958.jpg&#34; data-caption=&#34;Group Picture&#34;&gt;
-  &lt;img src=&#34;../media/sfn2019/gallery/IMG-2958_hufa14fc9f00d098a6020cae3bbcbddf5a_2720615_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Media | CDRL</title><link>website/media/</link><atom:link href="website/media/index.xml" rel="self" type="application/rss+xml"/><description>Media</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate><image><url>website/img/cdrl_logo_square.png</url><title>Media</title><link>website/media/</link></image><item><title>SFN 2019</title><link>website/media/sfn2019/</link><pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate><guid>website/media/sfn2019/</guid><description>
+&lt;div class="gallery">
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2481.jpg" data-caption="Emily Devine">
+&lt;img src="website/media/sfn2019/gallery/IMG-2481_hua65cfe8ecaef85233805aa65fd2ea418_2873612_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2486.jpg" data-caption="Rawan Alnafisah">
+&lt;img src="website/media/sfn2019/gallery/IMG-2486_hu614684098fa170c586890907b03d8df4_2958621_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2498.jpg" data-caption="Xiaojun (Wilma) Wu, PhD">
+&lt;img src="website/media/sfn2019/gallery/IMG-2498_hucd4db65e22d68176a96856482f7e8a22_2527111_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2499.jpg" data-caption="Abdul-rizaq Hamoud">
+&lt;img src="website/media/sfn2019/gallery/IMG-2499_hue88b09f8457e7a76eda7485dbf2b4fd3_2053234_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2564.jpg" data-caption="Adam Funk, PhD">
+&lt;img src="website/media/sfn2019/gallery/IMG-2564_hu3b902ff5e5f5263e4e2bb598d36c4bb0_2341549_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2565.jpg" data-caption="Sinead O&amp;amp;rsquo;donovan, PhD">
+&lt;img src="website/media/sfn2019/gallery/IMG-2565_hu42a068552ec8bc35ba1c312b8d61fe21_923140_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2954.jpg" data-caption="Mackenzie Abel">
+&lt;img src="website/media/sfn2019/gallery/IMG-2954_huad23932085fea3f90685646ec9b036a1_3097176_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;a data-fancybox="gallery-gallery" href="website/media/sfn2019/gallery/IMG-2958.jpg" data-caption="Group Picture">
+&lt;img src="website/media/sfn2019/gallery/IMG-2958_hufa14fc9f00d098a6020cae3bbcbddf5a_2720615_0x190_resize_q90_lanczos.jpg" alt="">
+&lt;/a>
+&lt;/div></description></item></channel></rss>
