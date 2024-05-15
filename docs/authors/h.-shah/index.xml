@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H. Shah | CDRL</title>
-    <link>//localhost:1313/authors/h.-shah/</link>
-      <atom:link href="//localhost:1313/authors/h.-shah/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/h.-shah/</link>
+      <atom:link href="website/authors/h.-shah/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Shah</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>H. Shah</title>
-      <link>//localhost:1313/authors/h.-shah/</link>
+      <link>website/authors/h.-shah/</link>
     </image>
     
     <item>
       <title>Neuronal impact of patient-specific aberrant NRXN1alpha splicing</title>
-      <link>//localhost:1313/publication/2019-12-01_rn5151/</link>
+      <link>website/publication/2019-12-01_rn5151/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-12-01_rn5151/</guid>
+      <guid>website/publication/2019-12-01_rn5151/</guid>
       <description></description>
     </item>
     

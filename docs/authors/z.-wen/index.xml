@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z. Wen | CDRL</title>
-    <link>//localhost:1313/authors/z.-wen/</link>
-      <atom:link href="//localhost:1313/authors/z.-wen/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/z.-wen/</link>
+      <atom:link href="website/authors/z.-wen/index.xml" rel="self" type="application/rss+xml" />
     <description>Z. Wen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>Z. Wen</title>
-      <link>//localhost:1313/authors/z.-wen/</link>
+      <link>website/authors/z.-wen/</link>
     </image>
     
     <item>
       <title>Schizophrenia: a disorder of broken brain bioenergetics</title>
-      <link>//localhost:1313/publication/2022-03-11_rn5409/</link>
+      <link>website/publication/2022-03-11_rn5409/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2022-03-11_rn5409/</guid>
+      <guid>website/publication/2022-03-11_rn5409/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Astrocytes in Major Neuropsychiatric Disorders</title>
-      <link>//localhost:1313/publication/2021-01-08_rn5136/</link>
+      <link>website/publication/2021-01-08_rn5136/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2021-01-08_rn5136/</guid>
+      <guid>website/publication/2021-01-08_rn5136/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
-      <link>//localhost:1313/publication/2019-05-21_rn5154/</link>
+      <link>website/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-05-21_rn5154/</guid>
+      <guid>website/publication/2019-05-21_rn5154/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
-      <link>//localhost:1313/publication/2019-03-27_rn5156/</link>
+      <link>website/publication/2019-03-27_rn5156/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-03-27_rn5156/</guid>
+      <guid>website/publication/2019-03-27_rn5156/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-      <link>//localhost:1313/publication/2018-10-20_rn5157/</link>
+      <link>website/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2018-10-20_rn5157/</guid>
+      <guid>website/publication/2018-10-20_rn5157/</guid>
       <description></description>
     </item>
     

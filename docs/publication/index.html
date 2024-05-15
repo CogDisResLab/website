@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication/">
+  <link rel="alternate" hreflang="en-us" href="website/publication/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../publication/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/publication/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../index.webmanifest">
-  <link rel="icon" type="image/png" href="../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../img/icon-192.png">
+  <link rel="manifest" href="../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/publication/">
+  <link rel="canonical" href="website/publication/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/publication/">
+  <meta property="og:url" content="website/publication/">
   <meta property="og:title" content="Publications | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-04-01T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../#demo"><span>About</span></a>
+          <a class="nav-link " href="../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../team"><span>Team</span></a>
+          <a class="nav-link " href="../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../post"><span>Posts</span></a>
+          <a class="nav-link " href="../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -918,7 +954,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2022-04-01_rn5408/" >Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</a>
+  <a href="website/publication/2022-04-01_rn5408/" >Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</a>
 
   
 
@@ -998,7 +1034,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2022-03-22_rn5410/" >Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</a>
+  <a href="website/publication/2022-03-22_rn5410/" >Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</a>
 
   
 
@@ -1078,7 +1114,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2022-03-11_rn5409/" >Schizophrenia: a disorder of broken brain bioenergetics</a>
+  <a href="website/publication/2022-03-11_rn5409/" >Schizophrenia: a disorder of broken brain bioenergetics</a>
 
   
 
@@ -1158,7 +1194,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-12-31_rn5285/" >The active kinome: The modern view of how active protein kinase networks fit in biological research</a>
+  <a href="website/publication/2021-12-31_rn5285/" >The active kinome: The modern view of how active protein kinase networks fit in biological research</a>
 
   
 
@@ -1238,7 +1274,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-12-24_rn5289/" >Editorial overview: Neuroscience: Advances in the field</a>
+  <a href="website/publication/2021-12-24_rn5289/" >Editorial overview: Neuroscience: Advances in the field</a>
 
   
 
@@ -1318,7 +1354,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-12-18_rn5288/" >KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</a>
+  <a href="website/publication/2021-12-18_rn5288/" >KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</a>
 
   
 
@@ -1398,7 +1434,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-11-18_rn5286/" >Strategies to identify candidate repurposable drugs: COVID-19 treatment as a case example</a>
+  <a href="website/publication/2021-11-18_rn5286/" >Strategies to identify candidate repurposable drugs: COVID-19 treatment as a case example</a>
 
   
 
@@ -1478,7 +1514,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-09-29_rn5287/" >Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</a>
+  <a href="website/publication/2021-09-29_rn5287/" >Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</a>
 
   
 
@@ -1558,7 +1594,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-03-11_rn5132/" >Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</a>
+  <a href="website/publication/2021-03-11_rn5132/" >Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</a>
 
   
 
@@ -1638,7 +1674,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-02-26_rn5133/" >Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</a>
+  <a href="website/publication/2021-02-26_rn5133/" >Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</a>
 
   
 
@@ -1718,7 +1754,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-02-25_rn5134/" >Using protein turnover to expand the applications of transcriptomics</a>
+  <a href="website/publication/2021-02-25_rn5134/" >Using protein turnover to expand the applications of transcriptomics</a>
 
   
 
@@ -1798,7 +1834,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-01-29_rn5135/" >Similarities and dissimilarities between psychiatric cluster disorders</a>
+  <a href="website/publication/2021-01-29_rn5135/" >Similarities and dissimilarities between psychiatric cluster disorders</a>
 
   
 
@@ -1878,7 +1914,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2021-01-08_rn5136/" >Role of Astrocytes in Major Neuropsychiatric Disorders</a>
+  <a href="website/publication/2021-01-08_rn5136/" >Role of Astrocytes in Major Neuropsychiatric Disorders</a>
 
   
 
@@ -1958,7 +1994,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-11-26_rn5137/" >Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</a>
+  <a href="website/publication/2020-11-26_rn5137/" >Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</a>
 
   
 
@@ -2038,7 +2074,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-11-21_rn5138/" >Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</a>
+  <a href="website/publication/2020-11-21_rn5138/" >Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</a>
 
   
 
@@ -2118,7 +2154,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-11-16_rn5139/" >A role for endothelial NMDA receptors in the pathophysiology of schizophrenia</a>
+  <a href="website/publication/2020-11-16_rn5139/" >A role for endothelial NMDA receptors in the pathophysiology of schizophrenia</a>
 
   
 
@@ -2198,7 +2234,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-09-12_rn5290/" >KEOPS complex expression in the frontal cortex in major depression and schizophrenia</a>
+  <a href="website/publication/2020-09-12_rn5290/" >KEOPS complex expression in the frontal cortex in major depression and schizophrenia</a>
 
   
 
@@ -2278,7 +2314,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-09-12_rn5140/" >KEOPS complex expression in the frontal cortex in major depression and schizophrenia</a>
+  <a href="website/publication/2020-09-12_rn5140/" >KEOPS complex expression in the frontal cortex in major depression and schizophrenia</a>
 
   
 
@@ -2358,7 +2394,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-08-19_rn5141/" >Oxytocin&#39;s anti-inflammatory and proimmune functions in COVID-19: a transcriptomic signature-based approach</a>
+  <a href="website/publication/2020-08-19_rn5141/" >Oxytocin&#39;s anti-inflammatory and proimmune functions in COVID-19: a transcriptomic signature-based approach</a>
 
   
 
@@ -2438,7 +2474,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-08-19_rn5142/" >Consequences of NMDA receptor deficiency can be rescued in the adult brain</a>
+  <a href="website/publication/2020-08-19_rn5142/" >Consequences of NMDA receptor deficiency can be rescued in the adult brain</a>
 
   
 
@@ -2518,7 +2554,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-08-14_rn5143/" >Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</a>
+  <a href="website/publication/2020-08-14_rn5143/" >Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</a>
 
   
 
@@ -2598,7 +2634,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-07-24_rn5144/" >Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</a>
+  <a href="website/publication/2020-07-24_rn5144/" >Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</a>
 
   
 
@@ -2678,7 +2714,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-07-01_rn5145/" >Signature-based approaches for informed drug repurposing: targeting CNS disorders</a>
+  <a href="website/publication/2020-07-01_rn5145/" >Signature-based approaches for informed drug repurposing: targeting CNS disorders</a>
 
   
 
@@ -2758,7 +2794,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-05-15_rn5146/" >Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</a>
+  <a href="website/publication/2020-05-15_rn5146/" >Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</a>
 
   
 
@@ -2838,7 +2874,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-05-06_rn5147/" >Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</a>
+  <a href="website/publication/2020-05-06_rn5147/" >Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</a>
 
   
 
@@ -2918,7 +2954,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-04-11_rn5148/" >Adenosine Kinase Expression in the Frontal Cortex in Schizophrenia</a>
+  <a href="website/publication/2020-04-11_rn5148/" >Adenosine Kinase Expression in the Frontal Cortex in Schizophrenia</a>
 
   
 
@@ -2998,7 +3034,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-03-22_rn5149/" >A bioinformatic inquiry of the EAAT2 interactome in postmortem and neuropsychiatric datasets</a>
+  <a href="website/publication/2020-03-22_rn5149/" >A bioinformatic inquiry of the EAAT2 interactome in postmortem and neuropsychiatric datasets</a>
 
   
 
@@ -3078,7 +3114,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2020-02-19_rn5150/" >Protein expression of prenyltransferase subunits in postmortem schizophrenia dorsolateral prefrontal cortex</a>
+  <a href="website/publication/2020-02-19_rn5150/" >Protein expression of prenyltransferase subunits in postmortem schizophrenia dorsolateral prefrontal cortex</a>
 
   
 
@@ -3158,7 +3194,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2019-12-01_rn5151/" >Neuronal impact of patient-specific aberrant NRXN1alpha splicing</a>
+  <a href="website/publication/2019-12-01_rn5151/" >Neuronal impact of patient-specific aberrant NRXN1alpha splicing</a>
 
   
 
@@ -3238,7 +3274,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2019-09-25_rn5152/" >Synergistic effects of common schizophrenia risk variants</a>
+  <a href="website/publication/2019-09-25_rn5152/" >Synergistic effects of common schizophrenia risk variants</a>
 
   
 
@@ -3318,7 +3354,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2019-09-13_rn5153/" >Pioglitazone improves working memory performance when administered in chronic TBI</a>
+  <a href="website/publication/2019-09-13_rn5153/" >Pioglitazone improves working memory performance when administered in chronic TBI</a>
 
   
 
@@ -3398,7 +3434,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2019-05-21_rn5154/" >Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</a>
+  <a href="website/publication/2019-05-21_rn5154/" >Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</a>
 
   
 
@@ -3478,7 +3514,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2019-05-11_rn5155/" >RNA sequencing in human HepG2 hepatocytes reveals PPAR-alpha mediates transcriptome responsiveness of bilirubin</a>
+  <a href="website/publication/2019-05-11_rn5155/" >RNA sequencing in human HepG2 hepatocytes reveals PPAR-alpha mediates transcriptome responsiveness of bilirubin</a>
 
   
 
@@ -3558,7 +3594,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2019-03-27_rn5156/" >Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</a>
+  <a href="website/publication/2019-03-27_rn5156/" >Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</a>
 
   
 
@@ -3638,7 +3674,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2018-10-20_rn5157/" >Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</a>
+  <a href="website/publication/2018-10-20_rn5157/" >Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</a>
 
   
 
@@ -3718,7 +3754,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2018-10-15_rn5158/" >Role of glutamatergic system and mesocorticolimbic circuits in alcohol dependence</a>
+  <a href="website/publication/2018-10-15_rn5158/" >Role of glutamatergic system and mesocorticolimbic circuits in alcohol dependence</a>
 
   
 
@@ -3798,7 +3834,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2018-09-15_rn5159/" >Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</a>
+  <a href="website/publication/2018-09-15_rn5159/" >Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</a>
 
   
 
@@ -3878,7 +3914,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2018-08-03_rn5160/" >Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</a>
+  <a href="website/publication/2018-08-03_rn5160/" >Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</a>
 
   
 
@@ -3958,7 +3994,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2018-07-19_rn5161/" >Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</a>
+  <a href="website/publication/2018-07-19_rn5161/" >Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</a>
 
   
 
@@ -4038,7 +4074,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2018-03-03_rn5162/" >Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</a>
+  <a href="website/publication/2018-03-03_rn5162/" >Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</a>
 
   
 
@@ -4118,7 +4154,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2018-02-28_rn5163/" >Cell-subtype-specific changes in adenosine pathways in schizophrenia</a>
+  <a href="website/publication/2018-02-28_rn5163/" >Cell-subtype-specific changes in adenosine pathways in schizophrenia</a>
 
   
 
@@ -4198,7 +4234,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2017-12-09_rn5164/" >Defects in Bioenergetic Coupling in Schizophrenia</a>
+  <a href="website/publication/2017-12-09_rn5164/" >Defects in Bioenergetic Coupling in Schizophrenia</a>
 
   
 
@@ -4278,7 +4314,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2017-09-25_rn5165/" >The role of glutamate transporters in the pathophysiology of neuropsychiatric disorders</a>
+  <a href="website/publication/2017-09-25_rn5165/" >The role of glutamate transporters in the pathophysiology of neuropsychiatric disorders</a>
 
   
 
@@ -4358,7 +4394,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2017-09-14_rn5166/" >Abnormalities of signal transduction networks in chronic schizophrenia</a>
+  <a href="website/publication/2017-09-14_rn5166/" >Abnormalities of signal transduction networks in chronic schizophrenia</a>
 
   
 
@@ -4438,7 +4474,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2017-05-13_rn5167/" >Contrasting the Role of xCT and GLT-1 Upregulation in the Ability of Ceftriaxone to Attenuate the Cue-Induced Reinstatement of Cocaine Seeking and Normalize AMPA Receptor Subunit Expression</a>
+  <a href="website/publication/2017-05-13_rn5167/" >Contrasting the Role of xCT and GLT-1 Upregulation in the Ability of Ceftriaxone to Attenuate the Cue-Induced Reinstatement of Cocaine Seeking and Normalize AMPA Receptor Subunit Expression</a>
 
   
 
@@ -4518,7 +4554,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2017-01-28_rn5168/" >Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</a>
+  <a href="website/publication/2017-01-28_rn5168/" >Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</a>
 
   
 
@@ -4598,7 +4634,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2016-06-18_rn5169/" >Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</a>
+  <a href="website/publication/2016-06-18_rn5169/" >Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</a>
 
   
 
@@ -4678,7 +4714,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2016-06-04_rn5170/" >Glutamate Neurotransmission in Rodent Models of Traumatic Brain Injury</a>
+  <a href="website/publication/2016-06-04_rn5170/" >Glutamate Neurotransmission in Rodent Models of Traumatic Brain Injury</a>
 
   
 
@@ -4758,7 +4794,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2016-05-21_rn5171/" >Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</a>
+  <a href="website/publication/2016-05-21_rn5171/" >Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</a>
 
   
 
@@ -4838,7 +4874,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2016-02-16_rn5172/" >Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</a>
+  <a href="website/publication/2016-02-16_rn5172/" >Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</a>
 
   
 
@@ -4918,7 +4954,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2016-01-13_rn5173/" >Systematic evaluation of data-independent acquisition for sensitive and reproducible proteomics-a prototype design for a single injection assay</a>
+  <a href="website/publication/2016-01-13_rn5173/" >Systematic evaluation of data-independent acquisition for sensitive and reproducible proteomics-a prototype design for a single injection assay</a>
 
   
 
@@ -4998,7 +5034,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2016-01-08_rn5174/" >Tyrosine hydroxylase localization in the nucleus accumbens in schizophrenia</a>
+  <a href="website/publication/2016-01-08_rn5174/" >Tyrosine hydroxylase localization in the nucleus accumbens in schizophrenia</a>
 
   
 
@@ -5078,7 +5114,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-12-20_rn5175/" >Cortical PGC-1alpha-Dependent Transcripts Are Reduced in Postmortem Tissue From Patients With Schizophrenia</a>
+  <a href="website/publication/2015-12-20_rn5175/" >Cortical PGC-1alpha-Dependent Transcripts Are Reduced in Postmortem Tissue From Patients With Schizophrenia</a>
 
   
 
@@ -5158,7 +5194,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-09-30_rn5176/" >Cell-specific abnormalities of glutamate transporters in schizophrenia: sick astrocytes and compensating relay neurons?</a>
+  <a href="website/publication/2015-09-30_rn5176/" >Cell-specific abnormalities of glutamate transporters in schizophrenia: sick astrocytes and compensating relay neurons?</a>
 
   
 
@@ -5238,7 +5274,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-06-10_rn5177/" >Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</a>
+  <a href="website/publication/2015-06-10_rn5177/" >Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</a>
 
   
 
@@ -5318,7 +5354,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-05-28_rn5178/" >Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</a>
+  <a href="website/publication/2015-05-28_rn5178/" >Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</a>
 
   
 
@@ -5398,7 +5434,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-05-08_rn5179/" >Purinergic signaling and energy homeostasis in psychiatric disorders</a>
+  <a href="website/publication/2015-05-08_rn5179/" >Purinergic signaling and energy homeostasis in psychiatric disorders</a>
 
   
 
@@ -5478,7 +5514,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-04-02_rn5180/" >Evidence for schizophrenia as a disorder of neuroplasticity</a>
+  <a href="website/publication/2015-04-02_rn5180/" >Evidence for schizophrenia as a disorder of neuroplasticity</a>
 
   
 
@@ -5558,7 +5594,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-04-01_rn5181/" >Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</a>
+  <a href="website/publication/2015-04-01_rn5181/" >Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</a>
 
   
 
@@ -5638,7 +5674,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2015-03-15_rn5182/" >Postmortem brain: an underutilized substrate for studying severe mental illness</a>
+  <a href="website/publication/2015-03-15_rn5182/" >Postmortem brain: an underutilized substrate for studying severe mental illness</a>
 
   
 
@@ -5718,7 +5754,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2014-12-09_rn5183/" >Regulation of extrasynaptic glutamate levels as a pathophysiological mechanism in disorders of motivation and addiction</a>
+  <a href="website/publication/2014-12-09_rn5183/" >Regulation of extrasynaptic glutamate levels as a pathophysiological mechanism in disorders of motivation and addiction</a>
 
   
 
@@ -5798,7 +5834,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2014-08-26_rn5184/" >Increased G protein-coupled receptor kinase (GRK) expression in the anterior cingulate cortex in schizophrenia</a>
+  <a href="website/publication/2014-08-26_rn5184/" >Increased G protein-coupled receptor kinase (GRK) expression in the anterior cingulate cortex in schizophrenia</a>
 
   
 
@@ -5878,7 +5914,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2014-07-30_rn5185/" >Localization of excitatory amino acid transporters EAAT1 and EAAT2 in human postmortem cortex: a light and electron microscopic study</a>
+  <a href="website/publication/2014-07-30_rn5185/" >Localization of excitatory amino acid transporters EAAT1 and EAAT2 in human postmortem cortex: a light and electron microscopic study</a>
 
   
 
@@ -5958,7 +5994,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2014-05-02_rn5186/" >Altered serine/threonine kinase activity in schizophrenia</a>
+  <a href="website/publication/2014-05-02_rn5186/" >Altered serine/threonine kinase activity in schizophrenia</a>
 
   
 
@@ -6038,7 +6074,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2014-02-25_rn5187/" >Abnormal partitioning of hexokinase 1 suggests disruption of a glutamate transport protein complex in schizophrenia</a>
+  <a href="website/publication/2014-02-25_rn5187/" >Abnormal partitioning of hexokinase 1 suggests disruption of a glutamate transport protein complex in schizophrenia</a>
 
   
 
@@ -6118,7 +6154,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2014-01-02_rn5188/" >Global signaling effects of a schizophrenia-associated missense mutation in neuregulin 1: an exploratory study using whole genome and novel kinome approaches</a>
+  <a href="website/publication/2014-01-02_rn5188/" >Global signaling effects of a schizophrenia-associated missense mutation in neuregulin 1: an exploratory study using whole genome and novel kinome approaches</a>
 
   
 
@@ -6198,7 +6234,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2013-10-05_rn5189/" >Postmortem brain: an underutilized substrate for studying severe mental illness</a>
+  <a href="website/publication/2013-10-05_rn5189/" >Postmortem brain: an underutilized substrate for studying severe mental illness</a>
 
   
 
@@ -6278,7 +6314,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2013-10-01_rn5190/" >Update on the neurobiology of schizophrenia: a role for extracellular microdomains</a>
+  <a href="website/publication/2013-10-01_rn5190/" >Update on the neurobiology of schizophrenia: a role for extracellular microdomains</a>
 
   
 
@@ -6358,7 +6394,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2013-03-07_rn5191/" >Abnormal N-linked glycosylation of cortical AMPA receptor subunits in schizophrenia</a>
+  <a href="website/publication/2013-03-07_rn5191/" >Abnormal N-linked glycosylation of cortical AMPA receptor subunits in schizophrenia</a>
 
   
 
@@ -6438,7 +6474,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2013-02-07_rn5192/" >Gene expression of glutamate metabolizing enzymes in the hippocampal formation in human temporal lobe epilepsy</a>
+  <a href="website/publication/2013-02-07_rn5192/" >Gene expression of glutamate metabolizing enzymes in the hippocampal formation in human temporal lobe epilepsy</a>
 
   
 
@@ -6518,7 +6554,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2013-01-30_rn5193/" >Abnormal expression of glutamate transporters in temporal lobe areas in elderly patients with schizophrenia</a>
+  <a href="website/publication/2013-01-30_rn5193/" >Abnormal expression of glutamate transporters in temporal lobe areas in elderly patients with schizophrenia</a>
 
   
 
@@ -6598,7 +6634,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2012-06-22_rn5194/" >AMPA receptor subunit expression in the endoplasmic reticulum in frontal cortex of elderly patients with schizophrenia</a>
+  <a href="website/publication/2012-06-22_rn5194/" >AMPA receptor subunit expression in the endoplasmic reticulum in frontal cortex of elderly patients with schizophrenia</a>
 
   
 
@@ -6678,7 +6714,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2012-02-09_rn5195/" >Expression of equilibrative nucleoside transporter type 1 protein in elderly patients with schizophrenia</a>
+  <a href="website/publication/2012-02-09_rn5195/" >Expression of equilibrative nucleoside transporter type 1 protein in elderly patients with schizophrenia</a>
 
   
 
@@ -6758,7 +6794,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2012-01-31_rn5196/" >Recent advances in targeting the ionotropic glutamate receptors in treating schizophrenia</a>
+  <a href="website/publication/2012-01-31_rn5196/" >Recent advances in targeting the ionotropic glutamate receptors in treating schizophrenia</a>
 
   
 
@@ -6838,7 +6874,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2012-01-24_rn5197/" >Regional differences in expression of beta-tubulin isoforms in schizophrenia</a>
+  <a href="website/publication/2012-01-24_rn5197/" >Regional differences in expression of beta-tubulin isoforms in schizophrenia</a>
 
   
 
@@ -6918,7 +6954,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2011-11-04_rn5198/" >Abnormal activity of the MAPK- and cAMP-associated signaling pathways in frontal cortical areas in postmortem brain in schizophrenia</a>
+  <a href="website/publication/2011-11-04_rn5198/" >Abnormal activity of the MAPK- and cAMP-associated signaling pathways in frontal cortical areas in postmortem brain in schizophrenia</a>
 
   
 
@@ -6998,7 +7034,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2011-05-18_rn5199/" >Endosomal trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</a>
+  <a href="website/publication/2011-05-18_rn5199/" >Endosomal trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</a>
 
   
 
@@ -7078,7 +7114,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2011-05-10_rn5200/" >Glutamatergic gene expression is specifically reduced in thalamocortical projecting relay neurons in schizophrenia</a>
+  <a href="website/publication/2011-05-10_rn5200/" >Glutamatergic gene expression is specifically reduced in thalamocortical projecting relay neurons in schizophrenia</a>
 
   
 
@@ -7158,7 +7194,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2010-11-26_rn5201/" >Novel approaches to the study of postmortem brain in psychiatric illness: old limitations and new challenges</a>
+  <a href="website/publication/2010-11-26_rn5201/" >Novel approaches to the study of postmortem brain in psychiatric illness: old limitations and new challenges</a>
 
   
 
@@ -7238,7 +7274,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2010-06-24_rn5202/" >Evidence for abnormal forward trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</a>
+  <a href="website/publication/2010-06-24_rn5202/" >Evidence for abnormal forward trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</a>
 
   
 
@@ -7318,7 +7354,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2009-10-21_rn5203/" >Vesicular glutamate transporter mRNA expression in the medial temporal lobe in major depressive disorder, bipolar disorder, and schizophrenia</a>
+  <a href="website/publication/2009-10-21_rn5203/" >Vesicular glutamate transporter mRNA expression in the medial temporal lobe in major depressive disorder, bipolar disorder, and schizophrenia</a>
 
   
 
@@ -7398,7 +7434,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2009-09-01_rn5204/" >Abnormal glycosylation of EAAT1 and EAAT2 in prefrontal cortex of elderly patients with schizophrenia</a>
+  <a href="website/publication/2009-09-01_rn5204/" >Abnormal glycosylation of EAAT1 and EAAT2 in prefrontal cortex of elderly patients with schizophrenia</a>
 
   
 
@@ -7478,7 +7514,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2009-06-02_rn5205/" >Decreased expression of NMDA receptor-associated proteins in frontal cortex of elderly patients with schizophrenia</a>
+  <a href="website/publication/2009-06-02_rn5205/" >Decreased expression of NMDA receptor-associated proteins in frontal cortex of elderly patients with schizophrenia</a>
 
   
 
@@ -7558,7 +7594,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2009-01-14_rn5206/" >Expression of four housekeeping proteins in elderly patients with schizophrenia</a>
+  <a href="website/publication/2009-01-14_rn5206/" >Expression of four housekeeping proteins in elderly patients with schizophrenia</a>
 
   
 
@@ -7638,7 +7674,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2008-09-05_rn5207/" >High-affinity Na&#43;/K&#43;-dependent glutamate transporter EAAT4 is expressed throughout the rat fore- and midbrain</a>
+  <a href="website/publication/2008-09-05_rn5207/" >High-affinity Na&#43;/K&#43;-dependent glutamate transporter EAAT4 is expressed throughout the rat fore- and midbrain</a>
 
   
 
@@ -7718,7 +7754,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2008-08-06_rn5208/" >Abnormal expression of glutamate transporter and transporter interacting molecules in prefrontal cortex in elderly patients with schizophrenia</a>
+  <a href="website/publication/2008-08-06_rn5208/" >Abnormal expression of glutamate transporter and transporter interacting molecules in prefrontal cortex in elderly patients with schizophrenia</a>
 
   
 
@@ -7798,7 +7834,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2008-06-20_rn5209/" >Cortical expression of glial fibrillary acidic protein and glutamine synthetase is decreased in schizophrenia</a>
+  <a href="website/publication/2008-06-20_rn5209/" >Cortical expression of glial fibrillary acidic protein and glutamine synthetase is decreased in schizophrenia</a>
 
   
 
@@ -7878,7 +7914,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2007-12-25_rn5210/" >Altered vesicular glutamate transporter expression in the anterior cingulate cortex in schizophrenia</a>
+  <a href="website/publication/2007-12-25_rn5210/" >Altered vesicular glutamate transporter expression in the anterior cingulate cortex in schizophrenia</a>
 
   
 
@@ -7958,7 +7994,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2007-02-15_rn5211/" >Abnormal glutamate receptor expression in the medial temporal lobe in schizophrenia and mood disorders</a>
+  <a href="website/publication/2007-02-15_rn5211/" >Abnormal glutamate receptor expression in the medial temporal lobe in schizophrenia and mood disorders</a>
 
   
 
@@ -8038,7 +8074,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2007-01-16_rn5212/" >Expression of transcripts for myelination-related genes in the anterior cingulate cortex in schizophrenia</a>
+  <a href="website/publication/2007-01-16_rn5212/" >Expression of transcripts for myelination-related genes in the anterior cingulate cortex in schizophrenia</a>
 
   
 
@@ -8118,7 +8154,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2006-11-23_rn5213/" >Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</a>
+  <a href="website/publication/2006-11-23_rn5213/" >Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</a>
 
   
 
@@ -8198,7 +8234,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2006-02-18_rn5214/" >Expression of excitatory amino acid transporter interacting protein transcripts in the thalamus in schizophrenia</a>
+  <a href="website/publication/2006-02-18_rn5214/" >Expression of excitatory amino acid transporter interacting protein transcripts in the thalamus in schizophrenia</a>
 
   
 
@@ -8278,7 +8314,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2005-06-10_rn5215/" >Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</a>
+  <a href="website/publication/2005-06-10_rn5215/" >Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</a>
 
   
 
@@ -8358,7 +8394,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2005-04-12_rn5216/" >Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</a>
+  <a href="website/publication/2005-04-12_rn5216/" >Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</a>
 
   
 
@@ -8438,7 +8474,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2004-03-10_rn5217/" >Schizophrenia as a disorder of neuroplasticity</a>
+  <a href="website/publication/2004-03-10_rn5217/" >Schizophrenia as a disorder of neuroplasticity</a>
 
   
 
@@ -8518,7 +8554,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2004-02-03_rn5218/" >Effects of 6-cyano-7-nitroquinoxaline-2,3-dione on nicotinic receptor subunit transcript expression in the rat brain</a>
+  <a href="website/publication/2004-02-03_rn5218/" >Effects of 6-cyano-7-nitroquinoxaline-2,3-dione on nicotinic receptor subunit transcript expression in the rat brain</a>
 
   
 
@@ -8598,7 +8634,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2003-12-20_rn5221/" >Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</a>
+  <a href="website/publication/2003-12-20_rn5221/" >Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</a>
 
   
 
@@ -8678,7 +8714,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2003-12-20_rn5219/" >Expression of transcripts for the vesicular glutamate transporters in the human medial temporal lobe</a>
+  <a href="website/publication/2003-12-20_rn5219/" >Expression of transcripts for the vesicular glutamate transporters in the human medial temporal lobe</a>
 
   
 
@@ -8758,7 +8794,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2003-12-20_rn5220/" >Expression of ARHGEF11 mRNA in schizophrenic thalamus</a>
+  <a href="website/publication/2003-12-20_rn5220/" >Expression of ARHGEF11 mRNA in schizophrenic thalamus</a>
 
   
 
@@ -8838,7 +8874,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2003-11-12_rn5222/" >CC-chemokine receptor 2 required for bleomycin-induced pulmonary fibrosis</a>
+  <a href="website/publication/2003-11-12_rn5222/" >CC-chemokine receptor 2 required for bleomycin-induced pulmonary fibrosis</a>
 
   
 
@@ -8918,7 +8954,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2003-10-02_rn5223/" >Differential effects of antipsychotics on haloperidol-induced vacuous chewing movements and subcortical gene expression in the rat</a>
+  <a href="website/publication/2003-10-02_rn5223/" >Differential effects of antipsychotics on haloperidol-induced vacuous chewing movements and subcortical gene expression in the rat</a>
 
   
 
@@ -8998,7 +9034,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="../publication/2002-02-19_rn5224/" >Striatal excitatory amino acid transporter transcript expression in schizophrenia, bipolar disorder, and major depressive disorder</a>
+  <a href="website/publication/2002-02-19_rn5224/" >Striatal excitatory amino acid transporter transcript expression in schizophrenia, bipolar disorder, and major depressive disorder</a>
 
   
 
@@ -9159,7 +9195,7 @@
     
     
     
-    <script src="../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -9172,16 +9208,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

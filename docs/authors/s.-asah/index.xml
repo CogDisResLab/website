@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Asah | CDRL</title>
-    <link>//localhost:1313/authors/s.-asah/</link>
-      <atom:link href="//localhost:1313/authors/s.-asah/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/s.-asah/</link>
+      <atom:link href="website/authors/s.-asah/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Asah</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>S. Asah</title>
-      <link>//localhost:1313/authors/s.-asah/</link>
+      <link>website/authors/s.-asah/</link>
     </image>
     
     <item>
       <title>Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</title>
-      <link>//localhost:1313/publication/2021-02-26_rn5133/</link>
+      <link>website/publication/2021-02-26_rn5133/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2021-02-26_rn5133/</guid>
+      <guid>website/publication/2021-02-26_rn5133/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</title>
-      <link>//localhost:1313/publication/2020-07-24_rn5144/</link>
+      <link>website/publication/2020-07-24_rn5144/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-07-24_rn5144/</guid>
+      <guid>website/publication/2020-07-24_rn5144/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A bioinformatic inquiry of the EAAT2 interactome in postmortem and neuropsychiatric datasets</title>
-      <link>//localhost:1313/publication/2020-03-22_rn5149/</link>
+      <link>website/publication/2020-03-22_rn5149/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-03-22_rn5149/</guid>
+      <guid>website/publication/2020-03-22_rn5149/</guid>
       <description></description>
     </item>
     

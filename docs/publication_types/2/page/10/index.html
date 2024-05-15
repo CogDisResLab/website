@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication_types/2/">
+  <link rel="alternate" hreflang="en-us" href="website/publication_types/2/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../../../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../../../../publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../../img/icon-192.png">
+  <link rel="manifest" href="../../../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/publication_types/2/">
+  <link rel="canonical" href="website/publication_types/2/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/publication_types/2/">
+  <meta property="og:url" content="website/publication_types/2/">
   <meta property="og:title" content="2 | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-04-01T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../post"><span>Posts</span></a>
+          <a class="nav-link " href="../../../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -472,7 +508,7 @@
   
   
   <div>
-    <h2><a href="../../../../publication/2006-11-23_rn5213/">Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</a></h2>
+    <h2><a href="website/publication/2006-11-23_rn5213/">Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</a></h2>
     <div class="article-style">
       
       OBJECTIVES: Schizophrenia is associated with dysfunction of glutamatergic neurotransmission, and several studies have suggested glutamatergic abnormalities in bipolar disorder. Recent data suggest involvement of the NMDA receptor signaling complex, …
@@ -481,7 +517,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2006-02-18_rn5214/">Expression of excitatory amino acid transporter interacting protein transcripts in the thalamus in schizophrenia</a></h2>
+    <h2><a href="website/publication/2006-02-18_rn5214/">Expression of excitatory amino acid transporter interacting protein transcripts in the thalamus in schizophrenia</a></h2>
     <div class="article-style">
       
       The excitatory amino acid transporters (EAATs) are a family of plasma membrane proteins that maintain synaptic glutamate concentration by removing glutamate from the synaptic cleft. EAATs are expressed by glia (EAAT1 and EAAT2) and neurons (EAAT3 and …
@@ -490,7 +526,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2005-06-10_rn5215/">Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</a></h2>
+    <h2><a href="website/publication/2005-06-10_rn5215/">Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</a></h2>
     <div class="article-style">
       
       We investigated the expression of metabotropic glutamate receptors (mGluR) in the prefrontal cortex (PFC) and striatum in schizophrenia. mGluRs modulate the release and reuptake of synaptic glutamate and mediate some molecular correlates of …
@@ -499,7 +535,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2005-04-12_rn5216/">Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</a></h2>
+    <h2><a href="website/publication/2005-04-12_rn5216/">Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</a></h2>
     <div class="article-style">
       
       Numerous molecules enable the handling of glutamate that is destined for neurotransmitter release, including transporters, receptors and glutamatergic enzymes. Previous work in our lab has shown altered levels of transcript expression of excitatory …
@@ -508,7 +544,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2004-03-10_rn5217/">Schizophrenia as a disorder of neuroplasticity</a></h2>
+    <h2><a href="website/publication/2004-03-10_rn5217/">Schizophrenia as a disorder of neuroplasticity</a></h2>
     <div class="article-style">
       
       Schizophrenia is a devastating mental illness affecting millions worldwide with significant financial and emotional burdens for afflicted persons, their families, and society. Considering schizophrenia as a disorder of neuroplasticity permits …
@@ -517,7 +553,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2004-02-03_rn5218/">Effects of 6-cyano-7-nitroquinoxaline-2,3-dione on nicotinic receptor subunit transcript expression in the rat brain</a></h2>
+    <h2><a href="website/publication/2004-02-03_rn5218/">Effects of 6-cyano-7-nitroquinoxaline-2,3-dione on nicotinic receptor subunit transcript expression in the rat brain</a></h2>
     <div class="article-style">
       
       The nicotinic cholinergic system exerts potent modulatory effects on glutamatergic neurotransmission, an effect mediated in part by increased glutamate release following activation of presynaptic nicotinic cholinergic receptors. Ionotropic glutamate …
@@ -526,21 +562,21 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2003-12-20_rn5220/">Expression of ARHGEF11 mRNA in schizophrenic thalamus</a></h2>
+    <h2><a href="website/publication/2003-12-20_rn5220/">Expression of ARHGEF11 mRNA in schizophrenic thalamus</a></h2>
     <div class="article-style">
       
     </div>
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2003-12-20_rn5219/">Expression of transcripts for the vesicular glutamate transporters in the human medial temporal lobe</a></h2>
+    <h2><a href="website/publication/2003-12-20_rn5219/">Expression of transcripts for the vesicular glutamate transporters in the human medial temporal lobe</a></h2>
     <div class="article-style">
       
     </div>
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2003-12-20_rn5221/">Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</a></h2>
+    <h2><a href="website/publication/2003-12-20_rn5221/">Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</a></h2>
     <div class="article-style">
       
       Schizophrenia has been associated with dysfunction of glutamatergic neurotransmission. Synaptic glutamate activates pre- and postsynaptic ionotropic NMDA, AMPA, and kainate and metabotropic receptors, is removed from the synapse via five cell …
@@ -549,7 +585,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2003-11-12_rn5222/">CC-chemokine receptor 2 required for bleomycin-induced pulmonary fibrosis</a></h2>
+    <h2><a href="website/publication/2003-11-12_rn5222/">CC-chemokine receptor 2 required for bleomycin-induced pulmonary fibrosis</a></h2>
     <div class="article-style">
       
       MCP-1, which signals via the CC chemokine receptor 2 (CCR2), is induced in lung fibrosis that is accompanied by mononuclear cell recruitment and activation of lung fibroblasts. To evaluate the role of CCR2 in lung fibrosis, CCR2 knockout (ko) mice …
@@ -562,10 +598,10 @@
 <nav>
   <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/9/">&laquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/9/">&laquo;</a></li>
     
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/11/">&raquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/11/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -672,7 +708,7 @@
     
     
     
-    <script src="../../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -685,16 +721,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

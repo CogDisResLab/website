@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>//localhost:1313/authors/billy/</link>
-      <atom:link href="//localhost:1313/authors/billy/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/billy/</link>
+      <atom:link href="website/authors/billy/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
-      <link>//localhost:1313/authors/billy/</link>
+      <link>website/authors/billy/</link>
     </image>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/billy/</link>
+      <link>website/authors/billy/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/billy/</guid>
+      <guid>website/authors/billy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PAVER</title>
-      <link>//localhost:1313/project/projects_and_posters/paver/</link>
+      <link>website/project/projects_and_posters/paver/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/projects_and_posters/paver/</guid>
+      <guid>website/project/projects_and_posters/paver/</guid>
       <description>&lt;p&gt;Omics studies use large amounts of high-throughput data to explain changes underlying different traits or conditions in living things. However, omics analysis often results in long lists of pathways that are difficult to interpret for researchers. PAVER automatically curates similar pathways into groups, identifies the pathway most representative of each group, and provides publication-ready intuitive visualizations. PAVER clusters pathways defined by their vector embedding representations and then identifies the term most cosine similar to its respective cluster’s average embedding. We show the utility of the PAVER R package with a previous study on postmortem chronic schizophrenia brain, where it mirrored manual curation of pathways and delineated neuron layer-specific function. PAVER makes it easy to integrate multiple pathway analyses, discover relevant biological insights, and can work with any pathway database.&lt;/p&gt;
 &lt;p&gt;PAVER is available as an R package and a Shiny web application (see link above).&lt;/p&gt;
 &lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;

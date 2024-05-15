@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="Public Resources">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/resources/">
+  <link rel="alternate" hreflang="en-us" href="website/resources/">
   
   
   
@@ -89,22 +89,58 @@
   
   
   
-  <link rel="stylesheet" href="../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
 
-  <link rel="manifest" href="../index.webmanifest">
-  <link rel="icon" type="image/png" href="../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../img/icon-192.png">
+  <link rel="manifest" href="../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/resources/">
+  <link rel="canonical" href="website/resources/">
 
   
   
@@ -117,10 +153,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/resources/">
+  <meta property="og:url" content="website/resources/">
   <meta property="og:title" content="Public Resources | CDRL">
-  <meta property="og:description" content="Public Resources"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Public Resources"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-02-07T00:00:00&#43;00:00">
@@ -226,7 +262,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../#demo"><span>About</span></a>
+          <a class="nav-link " href="../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -248,7 +284,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../team"><span>Team</span></a>
+          <a class="nav-link " href="../website/team"><span>Team</span></a>
         </li>
 
         
@@ -270,7 +306,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -292,7 +328,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -314,7 +350,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -336,7 +372,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../post"><span>Posts</span></a>
+          <a class="nav-link " href="../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -358,7 +394,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="../resources" data-target="[]"><span>Public Resources</span></a>
+          <a class="nav-link  active" href="../website/resources" data-target="[]"><span>Public Resources</span></a>
         </li>
 
         
@@ -380,7 +416,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -409,7 +445,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -599,12 +635,12 @@
   <div class="card">
     
     
-    <a href="../project/webinars_and_workshops/intro-to-coding/"  class="card-image hover-overlay">
-      <img src="../project/webinars_and_workshops/intro-to-coding/featured.png" alt="" class="img-responsive">
+    <a href="website/project/webinars_and_workshops/intro-to-coding/"  class="card-image hover-overlay">
+      <img src="website/project/webinars_and_workshops/intro-to-coding/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/webinars_and_workshops/intro-to-coding/" >Intro to Coding Course Summer 2019</a></h4>
+      <h4><a href="website/project/webinars_and_workshops/intro-to-coding/" >Intro to Coding Course Summer 2019</a></h4>
       
       <div class="article-style">
         <p>8 Lessons</p>
@@ -642,12 +678,12 @@
   <div class="card">
     
     
-    <a href="../project/projects_and_posters/paver/"  class="card-image hover-overlay">
-      <img src="../project/projects_and_posters/paver/featured.png" alt="" class="img-responsive">
+    <a href="website/project/projects_and_posters/paver/"  class="card-image hover-overlay">
+      <img src="website/project/projects_and_posters/paver/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/projects_and_posters/paver/" >PAVER</a></h4>
+      <h4><a href="website/project/projects_and_posters/paver/" >PAVER</a></h4>
       
       <div class="article-style">
         <p>PAVER is an R package and R Shiny web application for summary interpretation and visualization of pathway analyses.</p>
@@ -685,12 +721,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/brainatlas/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/brainatlas/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/brainatlas/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/brainatlas/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/brainatlas/" >Allen Brain Map</a></h4>
+      <h4><a href="website/project/public_resources/brainatlas/" >Allen Brain Map</a></h4>
       
       <div class="article-style">
         <p>The Allen Brain Atlases capture patterns of gene expression across the brain in various species</p>
@@ -728,12 +764,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/archs4/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/archs4/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/archs4/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/archs4/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/archs4/" >ARCHS4</a></h4>
+      <h4><a href="website/project/public_resources/archs4/" >ARCHS4</a></h4>
       
       <div class="article-style">
         <p>ARCHS4 is a web resource that makes the majority of published RNA-seq data from human and mouse available at the gene and transcript …</p>
@@ -771,12 +807,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/cbioportal/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/cbioportal/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/cbioportal/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/cbioportal/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/cbioportal/" >cBioPortal</a></h4>
+      <h4><a href="website/project/public_resources/cbioportal/" >cBioPortal</a></h4>
       
       <div class="article-style">
         <p>The cBioPortal for Cancer Genomics is an open-access, open-source resource for interactive exploration of multidimensional cancer …</p>
@@ -814,12 +850,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/dkkb/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/dkkb/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/dkkb/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/dkkb/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/dkkb/" >Dark Kinase Knowledgebase</a></h4>
+      <h4><a href="website/project/public_resources/dkkb/" >Dark Kinase Knowledgebase</a></h4>
       
       <div class="article-style">
         <p>The Dark Kinase Knowledgebase is an online compendium of knowledge and experimental results of understudied kinases</p>
@@ -857,12 +893,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/drugcentral/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/drugcentral/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/drugcentral/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/drugcentral/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/drugcentral/" >Drug Central</a></h4>
+      <h4><a href="website/project/public_resources/drugcentral/" >Drug Central</a></h4>
       
       <div class="article-style">
         <p>DrugCentral provides information on active ingredients chemical entities, pharmaceutical products, drug mode of action, indications, …</p>
@@ -900,12 +936,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/dgb/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/dgb/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/dgb/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/dgb/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/dgb/" >Drug Gene Budger</a></h4>
+      <h4><a href="website/project/public_resources/dgb/" >Drug Gene Budger</a></h4>
       
       <div class="article-style">
         <p>Drug Gene Budger (DGB) is a web-based and mobile application developed to assist investigators in order to prioritize small molecules …</p>
@@ -943,12 +979,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/drugmonizome/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/drugmonizome/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/drugmonizome/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/drugmonizome/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/drugmonizome/" >Drugmonizome</a></h4>
+      <h4><a href="website/project/public_resources/drugmonizome/" >Drugmonizome</a></h4>
       
       <div class="article-style">
         <p>Drugmonizome is a web portal for querying sets of known drugs and computing significant biomedical terms that drugs in the set share.</p>
@@ -986,12 +1022,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/drugshot/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/drugshot/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/drugshot/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/drugshot/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/drugshot/" >Drugshot</a></h4>
+      <h4><a href="website/project/public_resources/drugshot/" >Drugshot</a></h4>
       
       <div class="article-style">
         <p>DrugShot is a search engine that accepts any search term to return a list of small molecules that are mostly associated with the search …</p>
@@ -1029,12 +1065,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/enrichr/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/enrichr/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/enrichr/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/enrichr/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/enrichr/" >Enrichr</a></h4>
+      <h4><a href="website/project/public_resources/enrichr/" >Enrichr</a></h4>
       
       <div class="article-style">
         <p>Enrichr is a gene set search engine that enables the querying of hundreds of thousands of annotated gene sets.</p>
@@ -1072,12 +1108,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/geo/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/geo/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/geo/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/geo/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/geo/" >Gene Expression Omnibus (GEO)</a></h4>
+      <h4><a href="website/project/public_resources/geo/" >Gene Expression Omnibus (GEO)</a></h4>
       
       <div class="article-style">
         <p>Gene Expression Omnibus (GEO) is a database repository of high throughput gene expression data and hybridization arrays, chips, …</p>
@@ -1115,12 +1151,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/geneshot/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/geneshot/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/geneshot/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/geneshot/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/geneshot/" >Geneshot</a></h4>
+      <h4><a href="website/project/public_resources/geneshot/" >Geneshot</a></h4>
       
       <div class="article-style">
         <p>Geneshot enables researchers to enter arbitrary search terms, to receive ranked lists of genes relevant to the search terms.</p>
@@ -1158,12 +1194,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/gdc_portal/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/gdc_portal/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/gdc_portal/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/gdc_portal/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/gdc_portal/" >Genomic Data Commons Data Portal</a></h4>
+      <h4><a href="website/project/public_resources/gdc_portal/" >Genomic Data Commons Data Portal</a></h4>
       
       <div class="article-style">
         <p>A data portal for storing, analyzing, and sharing genomic and clinical data from patients with cancer.</p>
@@ -1201,12 +1237,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/gtex/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/gtex/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/gtex/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/gtex/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/gtex/" >Genotype-Tissue Expression (GTEx)</a></h4>
+      <h4><a href="website/project/public_resources/gtex/" >Genotype-Tissue Expression (GTEx)</a></h4>
       
       <div class="article-style">
         <p>The Genotype-Tissue Expression (GTEx) project is an ongoing effort to build a comprehensive public resource to study tissue-specific …</p>
@@ -1244,12 +1280,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/gwas_cat/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/gwas_cat/featured.jpeg" alt="" class="img-responsive">
+    <a href="website/project/public_resources/gwas_cat/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/gwas_cat/featured.jpeg" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/gwas_cat/" >GWAS Catalog</a></h4>
+      <h4><a href="website/project/public_resources/gwas_cat/" >GWAS Catalog</a></h4>
       
       <div class="article-style">
         <p>The NHGRI-EBI Catalog of human genome-wide association studies</p>
@@ -1287,12 +1323,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/harmonizome/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/harmonizome/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/harmonizome/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/harmonizome/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/harmonizome/" >Harmonizome</a></h4>
+      <h4><a href="website/project/public_resources/harmonizome/" >Harmonizome</a></h4>
       
       <div class="article-style">
         <p>Harmonizome is a collection of information about genes and proteins from 114 datasets provided by 66 online resources.</p>
@@ -1330,12 +1366,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/ilincs/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/ilincs/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/ilincs/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/ilincs/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/ilincs/" >iLINCS</a></h4>
+      <h4><a href="website/project/public_resources/ilincs/" >iLINCS</a></h4>
       
       <div class="article-style">
         <p>iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures</p>
@@ -1373,12 +1409,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/iptmnet/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/iptmnet/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/iptmnet/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/iptmnet/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/iptmnet/" >iPTMnet</a></h4>
+      <h4><a href="website/project/public_resources/iptmnet/" >iPTMnet</a></h4>
       
       <div class="article-style">
         <p>iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology …</p>
@@ -1416,12 +1452,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/kea3/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/kea3/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/kea3/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/kea3/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/kea3/" >Kinase Enrichment Analysis 3 (KEA3)</a></h4>
+      <h4><a href="website/project/public_resources/kea3/" >Kinase Enrichment Analysis 3 (KEA3)</a></h4>
       
       <div class="article-style">
         <p>KEA3 is a web application that infers overrepresentation of upstream kinases whose putative substrates are in a user-inputted list of …</p>
@@ -1459,12 +1495,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/kinasemd/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/kinasemd/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/kinasemd/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/kinasemd/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/kinasemd/" >Kinase MD</a></h4>
+      <h4><a href="website/project/public_resources/kinasemd/" >Kinase MD</a></h4>
       
       <div class="article-style">
         <p>Kinase MD is kinase mutations and drug response database</p>
@@ -1502,12 +1538,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/kinase-screen/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/kinase-screen/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/kinase-screen/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/kinase-screen/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/kinase-screen/" >Kinase Screen</a></h4>
+      <h4><a href="website/project/public_resources/kinase-screen/" >Kinase Screen</a></h4>
       
       <div class="article-style">
         <p>Kinase Screen is a kinase profiling inhibitor database of 254 commonly used signal transduction inhibitors.</p>
@@ -1545,12 +1581,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/kinase_com/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/kinase_com/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/kinase_com/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/kinase_com/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/kinase_com/" >Kinase.com</a></h4>
+      <h4><a href="website/project/public_resources/kinase_com/" >Kinase.com</a></h4>
       
       <div class="article-style">
         <p>Kinase.com explores the functions, evolution and diversity of protein kinases, the key controllers of cell behavior</p>
@@ -1588,12 +1624,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/kinexus/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/kinexus/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/kinexus/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/kinexus/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/kinexus/" >Kinexus</a></h4>
+      <h4><a href="website/project/public_resources/kinexus/" >Kinexus</a></h4>
       
       <div class="article-style">
         <p>Kinexus is a online resource developed by Kinexus Bioinformatics Corporation to foster the study of cell signalling systems to advance …</p>
@@ -1631,12 +1667,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/kinmap/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/kinmap/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/kinmap/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/kinmap/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/kinmap/" >KinMap</a></h4>
+      <h4><a href="website/project/public_resources/kinmap/" >KinMap</a></h4>
       
       <div class="article-style">
         <p>KinMap is a web-based tool for interactive navigation through human kinome data</p>
@@ -1674,12 +1710,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/opentarget/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/opentarget/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/opentarget/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/opentarget/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/opentarget/" >Open Targets</a></h4>
+      <h4><a href="website/project/public_resources/opentarget/" >Open Targets</a></h4>
       
       <div class="article-style">
         <p>Open Targets is a tool that supports systematic identification and prioritisation of potential therapeutic drug targets.</p>
@@ -1717,12 +1753,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/pathway_commons/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/pathway_commons/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/pathway_commons/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/pathway_commons/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/pathway_commons/" >Pathway Commons</a></h4>
+      <h4><a href="website/project/public_resources/pathway_commons/" >Pathway Commons</a></h4>
       
       <div class="article-style">
         <p>Pathway Commons let you access and discover data integrated from public pathway and interactions databases</p>
@@ -1760,12 +1796,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/pharos/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/pharos/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/pharos/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/pharos/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/pharos/" >Pharos</a></h4>
+      <h4><a href="website/project/public_resources/pharos/" >Pharos</a></h4>
       
       <div class="article-style">
         <p>Pharos is an integrated web-based informatics platform for the analysis of data aggregated by the Illuminating the Druggable Genome …</p>
@@ -1803,12 +1839,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/phosphositeplus/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/phosphositeplus/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/phosphositeplus/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/phosphositeplus/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/phosphositeplus/" >PhosphoSitePlus</a></h4>
+      <h4><a href="website/project/public_resources/phosphositeplus/" >PhosphoSitePlus</a></h4>
       
       <div class="article-style">
         <p>PhosphoSitePlus provides comprehensive information and tools for the study of protein post-translational modifications (PTMs) including …</p>
@@ -1846,12 +1882,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/pinet/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/pinet/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/pinet/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/pinet/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/pinet/" >PiNET</a></h4>
+      <h4><a href="website/project/public_resources/pinet/" >PiNET</a></h4>
       
       <div class="article-style">
         <p>PiNET is a versatile web platform for downstream analysis and visualization of proteomics data,</p>
@@ -1889,12 +1925,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/pride/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/pride/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/pride/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/pride/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/pride/" >PRIDE</a></h4>
+      <h4><a href="website/project/public_resources/pride/" >PRIDE</a></h4>
       
       <div class="article-style">
         <p>PRIDE is a centralized, standards compliant, public data repository for mass spectrometry proteomics data</p>
@@ -1932,12 +1968,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/pdc_portal/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/pdc_portal/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/pdc_portal/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/pdc_portal/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/pdc_portal/" >Proteomic Data Commons (PDC)</a></h4>
+      <h4><a href="website/project/public_resources/pdc_portal/" >Proteomic Data Commons (PDC)</a></h4>
       
       <div class="article-style">
         <p>PDC let you access highly curated and standardized cancer-related biospecimen, clinical, and proteomic data</p>
@@ -1975,12 +2011,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/reactome/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/reactome/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/reactome/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/reactome/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/reactome/" >Reactome</a></h4>
+      <h4><a href="website/project/public_resources/reactome/" >Reactome</a></h4>
       
       <div class="article-style">
         <p>Reactome is an open-source, open access, manually curated and peer-reviewed pathway database.</p>
@@ -2018,12 +2054,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/string/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/string/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/string/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/string/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/string/" >STRING</a></h4>
+      <h4><a href="website/project/public_resources/string/" >STRING</a></h4>
       
       <div class="article-style">
         <p>STRING is a database of known and predicted protein-protein interactions</p>
@@ -2061,12 +2097,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/proteinatlas/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/proteinatlas/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/proteinatlas/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/proteinatlas/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/proteinatlas/" >The Human Protein Atlas</a></h4>
+      <h4><a href="website/project/public_resources/proteinatlas/" >The Human Protein Atlas</a></h4>
       
       <div class="article-style">
         <p>The Human Protein Atlas aims to map all the human proteins in cells, tissues, and organs using an integration of various omics …</p>
@@ -2104,12 +2140,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/tinx/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/tinx/featured.jpeg" alt="" class="img-responsive">
+    <a href="website/project/public_resources/tinx/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/tinx/featured.jpeg" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/tinx/" >TIN-X</a></h4>
+      <h4><a href="website/project/public_resources/tinx/" >TIN-X</a></h4>
       
       <div class="article-style">
         <p>TIN-X is an interactive visualization tool for discovering interesting associations between diseases and potential drug targets.</p>
@@ -2147,12 +2183,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/uniprot/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/uniprot/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/uniprot/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/uniprot/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/uniprot/" >UniProt</a></h4>
+      <h4><a href="website/project/public_resources/uniprot/" >UniProt</a></h4>
       
       <div class="article-style">
         <p>UniProt is a comprehensive resource for protein sequence and annotation data</p>
@@ -2190,12 +2226,12 @@
   <div class="card">
     
     
-    <a href="../project/public_resources/x2k/"  class="card-image hover-overlay">
-      <img src="../project/public_resources/x2k/featured.png" alt="" class="img-responsive">
+    <a href="website/project/public_resources/x2k/"  class="card-image hover-overlay">
+      <img src="website/project/public_resources/x2k/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/public_resources/x2k/" >X2K</a></h4>
+      <h4><a href="website/project/public_resources/x2k/" >X2K</a></h4>
       
       <div class="article-style">
         <p>X2K infers upstream regulatory networks from signatures of differentially expressed genes.</p>
@@ -2233,12 +2269,12 @@
   <div class="card">
     
     
-    <a href="../project/webinars_and_workshops/virtual_screening_2021/"  class="card-image hover-overlay">
-      <img src="../project/webinars_and_workshops/virtual_screening_2021/featured.png" alt="" class="img-responsive">
+    <a href="website/project/webinars_and_workshops/virtual_screening_2021/"  class="card-image hover-overlay">
+      <img src="website/project/webinars_and_workshops/virtual_screening_2021/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/webinars_and_workshops/virtual_screening_2021/" >Virtual Screening Workshop</a></h4>
+      <h4><a href="website/project/webinars_and_workshops/virtual_screening_2021/" >Virtual Screening Workshop</a></h4>
       
       <div class="article-style">
         <p>Neurosciences webinars series 2021</p>
@@ -2276,12 +2312,12 @@
   <div class="card">
     
     
-    <a href="../project/projects_and_posters/krsa/"  class="card-image hover-overlay">
-      <img src="../project/projects_and_posters/krsa/featured.png" alt="" class="img-responsive">
+    <a href="website/project/projects_and_posters/krsa/"  class="card-image hover-overlay">
+      <img src="website/project/projects_and_posters/krsa/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/projects_and_posters/krsa/" >KRSA App</a></h4>
+      <h4><a href="website/project/projects_and_posters/krsa/" >KRSA App</a></h4>
       
       <div class="article-style">
         <p>KRSA is an R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</p>
@@ -2319,12 +2355,12 @@
   <div class="card">
     
     
-    <a href="../project/webinars_and_workshops/2020_spring_cdrl_webinars/"  class="card-image hover-overlay">
-      <img src="../project/webinars_and_workshops/2020_spring_cdrl_webinars/featured.png" alt="" class="img-responsive">
+    <a href="website/project/webinars_and_workshops/2020_spring_cdrl_webinars/"  class="card-image hover-overlay">
+      <img src="website/project/webinars_and_workshops/2020_spring_cdrl_webinars/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/webinars_and_workshops/2020_spring_cdrl_webinars/" >CDRL Spring 2020 Webinar Series</a></h4>
+      <h4><a href="website/project/webinars_and_workshops/2020_spring_cdrl_webinars/" >CDRL Spring 2020 Webinar Series</a></h4>
       
       <div class="article-style">
         <p>CDRL Spring 2020 Webinar and Workshops Series</p>
@@ -2362,12 +2398,12 @@
   <div class="card">
     
     
-    <a href="../project/projects_and_posters/kaleidoscope/"  class="card-image hover-overlay">
-      <img src="../project/projects_and_posters/kaleidoscope/featured.png" alt="" class="img-responsive">
+    <a href="website/project/projects_and_posters/kaleidoscope/"  class="card-image hover-overlay">
+      <img src="website/project/projects_and_posters/kaleidoscope/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/projects_and_posters/kaleidoscope/" >Kaleidoscope App</a></h4>
+      <h4><a href="website/project/projects_and_posters/kaleidoscope/" >Kaleidoscope App</a></h4>
       
       <div class="article-style">
         <p>Kaleidoscope is a web application that provides a platform for an easy access to biological databases and bioinformatics tools</p>
@@ -2405,12 +2441,12 @@
   <div class="card">
     
     
-    <a href="../project/projects_and_posters/khaled_sobp2019/"  class="card-image hover-overlay">
-      <img src="../project/projects_and_posters/khaled_sobp2019/featured.png" alt="" class="img-responsive">
+    <a href="website/project/projects_and_posters/khaled_sobp2019/"  class="card-image hover-overlay">
+      <img src="website/project/projects_and_posters/khaled_sobp2019/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/projects_and_posters/khaled_sobp2019/" >Kaleidoscope Poster (SOBP &amp; GLBIO 2019)</a></h4>
+      <h4><a href="website/project/projects_and_posters/khaled_sobp2019/" >Kaleidoscope Poster (SOBP &amp; GLBIO 2019)</a></h4>
       
       <div class="article-style">
         <p>Kaleidoscope Poster Presentation at the Society of Biological Psychiatry Conference &amp; Great Lakes Bioinformatics Conference in 2019</p>
@@ -2448,12 +2484,12 @@
   <div class="card">
     
     
-    <a href="../project/webinars_and_workshops/mini_symposium_2019/"  class="card-image hover-overlay">
-      <img src="../project/webinars_and_workshops/mini_symposium_2019/featured.png" alt="" class="img-responsive">
+    <a href="website/project/webinars_and_workshops/mini_symposium_2019/"  class="card-image hover-overlay">
+      <img src="website/project/webinars_and_workshops/mini_symposium_2019/featured.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="../project/webinars_and_workshops/mini_symposium_2019/" >Neurosciences Mini Symposium 2019</a></h4>
+      <h4><a href="website/project/webinars_and_workshops/mini_symposium_2019/" >Neurosciences Mini Symposium 2019</a></h4>
       
       <div class="article-style">
         <p>The University of Toledo Neurosciences Mini Symposium</p>
@@ -2575,7 +2611,7 @@
     
     
     
-    <script src="../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -2588,16 +2624,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

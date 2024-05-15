@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. Davidkova | CDRL</title>
-    <link>//localhost:1313/authors/g.-davidkova/</link>
-      <atom:link href="//localhost:1313/authors/g.-davidkova/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/g.-davidkova/</link>
+      <atom:link href="website/authors/g.-davidkova/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Davidkova</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Dec 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>G. Davidkova</title>
-      <link>//localhost:1313/authors/g.-davidkova/</link>
+      <link>website/authors/g.-davidkova/</link>
     </image>
     
     <item>
       <title>Expression of ARHGEF11 mRNA in schizophrenic thalamus</title>
-      <link>//localhost:1313/publication/2003-12-20_rn5220/</link>
+      <link>website/publication/2003-12-20_rn5220/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2003-12-20_rn5220/</guid>
+      <guid>website/publication/2003-12-20_rn5220/</guid>
       <description></description>
     </item>
     

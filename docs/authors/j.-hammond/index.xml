@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Hammond | CDRL</title>
-    <link>//localhost:1313/authors/j.-hammond/</link>
-      <atom:link href="//localhost:1313/authors/j.-hammond/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/j.-hammond/</link>
+      <atom:link href="website/authors/j.-hammond/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Hammond</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>J. Hammond</title>
-      <link>//localhost:1313/authors/j.-hammond/</link>
+      <link>website/authors/j.-hammond/</link>
     </image>
     
     <item>
       <title>Recent advances in targeting the ionotropic glutamate receptors in treating schizophrenia</title>
-      <link>//localhost:1313/publication/2012-01-31_rn5196/</link>
+      <link>website/publication/2012-01-31_rn5196/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2012-01-31_rn5196/</guid>
+      <guid>website/publication/2012-01-31_rn5196/</guid>
       <description></description>
     </item>
     

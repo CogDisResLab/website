@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. Tackie-Yarboi | CDRL</title>
-    <link>//localhost:1313/authors/e.-tackie-yarboi/</link>
-      <atom:link href="//localhost:1313/authors/e.-tackie-yarboi/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/e.-tackie-yarboi/</link>
+      <atom:link href="website/authors/e.-tackie-yarboi/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Tackie-Yarboi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>E. Tackie-Yarboi</title>
-      <link>//localhost:1313/authors/e.-tackie-yarboi/</link>
+      <link>website/authors/e.-tackie-yarboi/</link>
     </image>
     
     <item>
       <title>Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</title>
-      <link>//localhost:1313/publication/2020-08-14_rn5143/</link>
+      <link>website/publication/2020-08-14_rn5143/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-08-14_rn5143/</guid>
+      <guid>website/publication/2020-08-14_rn5143/</guid>
       <description></description>
     </item>
     

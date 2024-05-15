@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Sullivan | CDRL</title>
-    <link>//localhost:1313/authors/c.-sullivan/</link>
-      <atom:link href="//localhost:1313/authors/c.-sullivan/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/c.-sullivan/</link>
+      <atom:link href="website/authors/c.-sullivan/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Sullivan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>C. Sullivan</title>
-      <link>//localhost:1313/authors/c.-sullivan/</link>
+      <link>website/authors/c.-sullivan/</link>
     </image>
     
     <item>
       <title>Cell-subtype-specific changes in adenosine pathways in schizophrenia</title>
-      <link>//localhost:1313/publication/2018-02-28_rn5163/</link>
+      <link>website/publication/2018-02-28_rn5163/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2018-02-28_rn5163/</guid>
+      <guid>website/publication/2018-02-28_rn5163/</guid>
       <description></description>
     </item>
     

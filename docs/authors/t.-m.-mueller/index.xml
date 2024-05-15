@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. M. Mueller | CDRL</title>
-    <link>//localhost:1313/authors/t.-m.-mueller/</link>
-      <atom:link href="//localhost:1313/authors/t.-m.-mueller/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/t.-m.-mueller/</link>
+      <atom:link href="website/authors/t.-m.-mueller/index.xml" rel="self" type="application/rss+xml" />
     <description>T. M. Mueller</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>T. M. Mueller</title>
-      <link>//localhost:1313/authors/t.-m.-mueller/</link>
+      <link>website/authors/t.-m.-mueller/</link>
     </image>
     
     <item>
       <title>Protein expression of prenyltransferase subunits in postmortem schizophrenia dorsolateral prefrontal cortex</title>
-      <link>//localhost:1313/publication/2020-02-19_rn5150/</link>
+      <link>website/publication/2020-02-19_rn5150/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-02-19_rn5150/</guid>
+      <guid>website/publication/2020-02-19_rn5150/</guid>
       <description></description>
     </item>
     

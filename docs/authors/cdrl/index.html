@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/authors/cdrl/">
+  <link rel="alternate" hreflang="en-us" href="website/authors/cdrl/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../../authors/cdrl/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/authors/cdrl/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
+  <link rel="manifest" href="../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/authors/cdrl/">
+  <link rel="canonical" href="website/authors/cdrl/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/authors/cdrl/">
+  <meta property="og:url" content="website/authors/cdrl/">
   <meta property="og:title" content=" | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-05-02T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../post"><span>Posts</span></a>
+          <a class="nav-link " href="../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -517,195 +553,195 @@
       <ul>
         
         <li>
-          <a href="../../post/accomplishments_abdul_may2022/">Abdul-rizaq Hamoud Writes Column in Toledo Blade</a>
+          <a href="website/post/accomplishments_abdul_may2022/">Abdul-rizaq Hamoud Writes Column in Toledo Blade</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_nick_may2022/">Nicholas Henkel receives Graduate Research Award for 2022</a>
+          <a href="website/post/accomplishments_nick_may2022/">Nicholas Henkel receives Graduate Research Award for 2022</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_justin_march2022/">Research Article Published in Hepatology</a>
+          <a href="website/post/accomplishments_justin_march2022/">Research Article Published in Hepatology</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_khaled_billy_march2022/">Khaled Alganem and William Ryan receive Class of 2022 Graduate Student Awards</a>
+          <a href="website/post/accomplishments_khaled_billy_march2022/">Khaled Alganem and William Ryan receive Class of 2022 Graduate Student Awards</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_rawan_february2022/">Rawan Alnafisah Writes Column in Toledo Blade</a>
+          <a href="website/post/accomplishments_rawan_february2022/">Rawan Alnafisah Writes Column in Toledo Blade</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/brainatlas/">Allen Brain Map</a>
+          <a href="website/project/public_resources/brainatlas/">Allen Brain Map</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/archs4/">ARCHS4</a>
+          <a href="website/project/public_resources/archs4/">ARCHS4</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/cbioportal/">cBioPortal</a>
+          <a href="website/project/public_resources/cbioportal/">cBioPortal</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/dkkb/">Dark Kinase Knowledgebase</a>
+          <a href="website/project/public_resources/dkkb/">Dark Kinase Knowledgebase</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/drugcentral/">Drug Central</a>
+          <a href="website/project/public_resources/drugcentral/">Drug Central</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/dgb/">Drug Gene Budger</a>
+          <a href="website/project/public_resources/dgb/">Drug Gene Budger</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/drugmonizome/">Drugmonizome</a>
+          <a href="website/project/public_resources/drugmonizome/">Drugmonizome</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/drugshot/">Drugshot</a>
+          <a href="website/project/public_resources/drugshot/">Drugshot</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/enrichr/">Enrichr</a>
+          <a href="website/project/public_resources/enrichr/">Enrichr</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/geo/">Gene Expression Omnibus (GEO)</a>
+          <a href="website/project/public_resources/geo/">Gene Expression Omnibus (GEO)</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/geneshot/">Geneshot</a>
+          <a href="website/project/public_resources/geneshot/">Geneshot</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/gdc_portal/">Genomic Data Commons Data Portal</a>
+          <a href="website/project/public_resources/gdc_portal/">Genomic Data Commons Data Portal</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/gtex/">Genotype-Tissue Expression (GTEx)</a>
+          <a href="website/project/public_resources/gtex/">Genotype-Tissue Expression (GTEx)</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/gwas_cat/">GWAS Catalog</a>
+          <a href="website/project/public_resources/gwas_cat/">GWAS Catalog</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/harmonizome/">Harmonizome</a>
+          <a href="website/project/public_resources/harmonizome/">Harmonizome</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/ilincs/">iLINCS</a>
+          <a href="website/project/public_resources/ilincs/">iLINCS</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/iptmnet/">iPTMnet</a>
+          <a href="website/project/public_resources/iptmnet/">iPTMnet</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/kea3/">Kinase Enrichment Analysis 3 (KEA3)</a>
+          <a href="website/project/public_resources/kea3/">Kinase Enrichment Analysis 3 (KEA3)</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/kinasemd/">Kinase MD</a>
+          <a href="website/project/public_resources/kinasemd/">Kinase MD</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/kinase-screen/">Kinase Screen</a>
+          <a href="website/project/public_resources/kinase-screen/">Kinase Screen</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/kinase_com/">Kinase.com</a>
+          <a href="website/project/public_resources/kinase_com/">Kinase.com</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/kinexus/">Kinexus</a>
+          <a href="website/project/public_resources/kinexus/">Kinexus</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/kinmap/">KinMap</a>
+          <a href="website/project/public_resources/kinmap/">KinMap</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/opentarget/">Open Targets</a>
+          <a href="website/project/public_resources/opentarget/">Open Targets</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/pathway_commons/">Pathway Commons</a>
+          <a href="website/project/public_resources/pathway_commons/">Pathway Commons</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/pharos/">Pharos</a>
+          <a href="website/project/public_resources/pharos/">Pharos</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/phosphositeplus/">PhosphoSitePlus</a>
+          <a href="website/project/public_resources/phosphositeplus/">PhosphoSitePlus</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/pinet/">PiNET</a>
+          <a href="website/project/public_resources/pinet/">PiNET</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/pride/">PRIDE</a>
+          <a href="website/project/public_resources/pride/">PRIDE</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/pdc_portal/">Proteomic Data Commons (PDC)</a>
+          <a href="website/project/public_resources/pdc_portal/">Proteomic Data Commons (PDC)</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/reactome/">Reactome</a>
+          <a href="website/project/public_resources/reactome/">Reactome</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/string/">STRING</a>
+          <a href="website/project/public_resources/string/">STRING</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/proteinatlas/">The Human Protein Atlas</a>
+          <a href="website/project/public_resources/proteinatlas/">The Human Protein Atlas</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/tinx/">TIN-X</a>
+          <a href="website/project/public_resources/tinx/">TIN-X</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/uniprot/">UniProt</a>
+          <a href="website/project/public_resources/uniprot/">UniProt</a>
         </li>
         
         <li>
-          <a href="../../project/public_resources/x2k/">X2K</a>
+          <a href="website/project/public_resources/x2k/">X2K</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_ali_september2021/">Dr. Ali Imami is Awarded Scholarship to Attend Conference on Genome Informatics</a>
+          <a href="website/post/accomplishments_ali_september2021/">Dr. Ali Imami is Awarded Scholarship to Attend Conference on Genome Informatics</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_khaled_august2021/">Research Article Featured by Nature Communication Biology</a>
+          <a href="website/post/accomplishments_khaled_august2021/">Research Article Featured by Nature Communication Biology</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_sinead_june2021/">Dr. Sinead O’Donovan Serves as a Reviewer for NIMH</a>
+          <a href="website/post/accomplishments_sinead_june2021/">Dr. Sinead O’Donovan Serves as a Reviewer for NIMH</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_rob_june2021/">2021 Awards for Grantsmanship Announced at The University of Toledo</a>
+          <a href="website/post/accomplishments_rob_june2021/">2021 Awards for Grantsmanship Announced at The University of Toledo</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_ali_june2021/">Dr. Ali Imami Receives University Fellowship</a>
+          <a href="website/post/accomplishments_ali_june2021/">Dr. Ali Imami Receives University Fellowship</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_ali_march2021/">Dr. Ali Imami Writes Column in Toledo Blade</a>
+          <a href="website/post/accomplishments_ali_march2021/">Dr. Ali Imami Writes Column in Toledo Blade</a>
         </li>
         
         <li>
-          <a href="../../post/accomplishments_justin_december2020/">Justin Creeden Writes Column in Toledo Blade</a>
+          <a href="website/post/accomplishments_justin_december2020/">Justin Creeden Writes Column in Toledo Blade</a>
         </li>
         
       </ul>
@@ -813,7 +849,7 @@
     
     
     
-    <script src="../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -826,16 +862,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. R. Sullivan | CDRL</title>
-    <link>//localhost:1313/authors/c.-r.-sullivan/</link>
-      <atom:link href="//localhost:1313/authors/c.-r.-sullivan/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/c.-r.-sullivan/</link>
+      <atom:link href="website/authors/c.-r.-sullivan/index.xml" rel="self" type="application/rss+xml" />
     <description>C. R. Sullivan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>C. R. Sullivan</title>
-      <link>//localhost:1313/authors/c.-r.-sullivan/</link>
+      <link>website/authors/c.-r.-sullivan/</link>
     </image>
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
-      <link>//localhost:1313/publication/2019-05-21_rn5154/</link>
+      <link>website/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-05-21_rn5154/</guid>
+      <guid>website/publication/2019-05-21_rn5154/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
-      <link>//localhost:1313/publication/2019-03-27_rn5156/</link>
+      <link>website/publication/2019-03-27_rn5156/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-03-27_rn5156/</guid>
+      <guid>website/publication/2019-03-27_rn5156/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-      <link>//localhost:1313/publication/2018-10-20_rn5157/</link>
+      <link>website/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2018-10-20_rn5157/</guid>
+      <guid>website/publication/2018-10-20_rn5157/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>//localhost:1313/publication/2018-03-03_rn5162/</link>
+      <link>website/publication/2018-03-03_rn5162/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2018-03-03_rn5162/</guid>
+      <guid>website/publication/2018-03-03_rn5162/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defects in Bioenergetic Coupling in Schizophrenia</title>
-      <link>//localhost:1313/publication/2017-12-09_rn5164/</link>
+      <link>website/publication/2017-12-09_rn5164/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2017-12-09_rn5164/</guid>
+      <guid>website/publication/2017-12-09_rn5164/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of glutamate transporters in the pathophysiology of neuropsychiatric disorders</title>
-      <link>//localhost:1313/publication/2017-09-25_rn5165/</link>
+      <link>website/publication/2017-09-25_rn5165/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2017-09-25_rn5165/</guid>
+      <guid>website/publication/2017-09-25_rn5165/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>//localhost:1313/publication/2015-04-01_rn5181/</link>
+      <link>website/publication/2015-04-01_rn5181/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2015-04-01_rn5181/</guid>
+      <guid>website/publication/2015-04-01_rn5181/</guid>
       <description></description>
     </item>
     

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources | CDRL</title>
-    <link>//localhost:1313/tags/resources/</link>
-      <atom:link href="//localhost:1313/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/resources/</link>
+      <atom:link href="website/tags/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>Resources</title>
-      <link>//localhost:1313/tags/resources/</link>
+      <link>website/tags/resources/</link>
     </image>
     
     <item>
       <title>Allen Brain Map</title>
-      <link>//localhost:1313/project/public_resources/brainatlas/</link>
+      <link>website/project/public_resources/brainatlas/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/brainatlas/</guid>
+      <guid>website/project/public_resources/brainatlas/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Allen Brain Atlases&lt;/strong&gt; capture patterns of gene expression across the brain in various species. Learn more and read publications at the Transcriptional Landscape of the Brain Explore page. Example use cases across the atlases include exploration of gene expression and co-expression patterns, expression across networks, changes across developmental stages, comparisons between species, and more.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ARCHS4</title>
-      <link>//localhost:1313/project/public_resources/archs4/</link>
+      <link>website/project/public_resources/archs4/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/archs4/</guid>
+      <guid>website/project/public_resources/archs4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;ARCHS4&lt;/strong&gt; provides access to gene counts from HiSeq 2000, HiSeq 2500 and NextSeq 500 platforms for human and mouse experiments from GEO and SRA. The website enables downloading of the data in H5 format for programmatic access as well as a 3-dimensional view of the sample and gene spaces. Search features allow browsing of the data by meta data annotation, ability to submit your own up and down gene sets, and explore matching samples enriched for annotated gene sets. Selected sample sets can be downloaded into a tab separated text file through auto-generated R scripts for further analysis. Reads are aligned with Kallisto using a custom cloud computing platform. Human samples are aligned against the GRCh38 human reference genome, and mouse samples against the GRCm38 mouse reference genome.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>cBioPortal</title>
-      <link>//localhost:1313/project/public_resources/cbioportal/</link>
+      <link>website/project/public_resources/cbioportal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/cbioportal/</guid>
+      <guid>website/project/public_resources/cbioportal/</guid>
       <description>&lt;p&gt;The cBioPortal for Cancer Genomics is an open-access, open-source resource for interactive exploration of multidimensional cancer genomics data sets. The goal of cBioPortal is to significantly lower the barriers between complex genomic data and cancer researchers by providing rapid, intuitive, and high-quality access to molecular profiles and clinical attributes from large-scale cancer genomics projects, and therefore to empower researchers to translate these rich data sets into biologic insights and clinical applications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dark Kinase Knowledgebase</title>
-      <link>//localhost:1313/project/public_resources/dkkb/</link>
+      <link>website/project/public_resources/dkkb/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/dkkb/</guid>
+      <guid>website/project/public_resources/dkkb/</guid>
       <description>&lt;p&gt;The Dark Kinase Knowledgebase (the “DKK”) is being developed as a component of the Kinase Data and Resource Generating Center (DRGC) - one of 3 DRGCs supported as part of the Illuminating the Druggable Genome (IDG) Common Fund effort. The goal of the IDG program is to improve our understanding of the properties and functions of proteins that are currently unannotated within the three most commonly drug-targeted protein families: G-protein coupled receptors, ion channels, and protein kinases.&lt;/p&gt;
 &lt;p&gt;The goal of the DKK is to generate, systematize and disseminate knowledge about dark kinases, biological networks in which they function and connections to cellular phenotypes and human disease. This is being done by (i) establishing a knowledgebase covering the approximately 160 poorly understood “dark kinases”, (ii) distilling primary data into functional biochemical and biological information and promoting further research using genetic and chemical tools, which we are also developing and making available, (iii) placing dark kinases within a new and emerging network-level understanding of cell signaling and physiology and (iv) identifying those dark kinases whose mutation or mis-regulation is associated with human disease, making them possible therapeutic targets.&lt;/p&gt;
 </description>
@@ -51,54 +51,54 @@
     
     <item>
       <title>Drug Central</title>
-      <link>//localhost:1313/project/public_resources/drugcentral/</link>
+      <link>website/project/public_resources/drugcentral/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/drugcentral/</guid>
+      <guid>website/project/public_resources/drugcentral/</guid>
       <description>&lt;p&gt;DrugCentral provides information on active ingredients chemical entities, pharmaceutical products, drug mode of action, indications, pharmacological action. We monitor FDA, EMA, and PMDA for new drug approval on regular basis to ensure currency of the resource. Limited information on discontinued and drugs approved outside US is also available however regulatory approval information can&amp;rsquo;t be verified.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drug Gene Budger</title>
-      <link>//localhost:1313/project/public_resources/dgb/</link>
+      <link>website/project/public_resources/dgb/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/dgb/</guid>
+      <guid>website/project/public_resources/dgb/</guid>
       <description>&lt;p&gt;Mechanistic molecular studies in biomedical research often discover important genes that are aberrantly expressed in disease. However, manipulating these genes in an attempt to improve the disease state is challenging. Drug Gene Budger (DGB) is a web-based and mobile application developed to assist investigators in order to prioritize small molecules that are predicted to maximally influence the expression of their target gene of interest. With DGB, users can enter a gene symbol along with the wish to upregulate or downregulate its expression. The output of the application is a ranked list of small molecules that have been experimentally determined to produce the desired expression effect. The table includes log-transformed fold change, p-value and q-value for each small molecule, reporting the significance of differential expression as determined by the limma method. Relevant links are provided to further explore knowledge about the target gene, the small molecule, and the source of evidence from which the relationship between the small molecule and the target gene was derived. The experimental data contained within DGB is compiled from signatures extracted from the LINCS L1000 dataset, the original Connectivity Map (CMap) dataset, and the Gene Expression Omnibus (GEO). DGB also presents a specificity measure for a drug-gene connection based on the number of genes a drug modulates. DGB provides a useful preliminary technique for identifying small molecules that can target the expression of a single gene in human cells and tissues.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drugmonizome</title>
-      <link>//localhost:1313/project/public_resources/drugmonizome/</link>
+      <link>website/project/public_resources/drugmonizome/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/drugmonizome/</guid>
+      <guid>website/project/public_resources/drugmonizome/</guid>
       <description>&lt;p&gt;Drug discovery is a time intensive and economically costly process. A wealth of information regarding small molecule targets, side effects, gene expression profiles, among several other attributes are publicly available throughout currently existing online tools and repositories. By collecting and analyzing the aggregated information from these resources, novel relationships between currently existing small molecules can be discovered. Understanding the underlying molecular and structural similarities between seemingly heterogeneous small molecules can aid in drug repurposing studies, and potentially the discovery of novel drugs. Furthermore, these data can be leveraged for machine learning case studies that may predict novel uses for already existing drugs. Drugmonizome is a web portal for querying sets of known drugs and computing significant biomedical terms that drugs in the set share.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drugshot</title>
-      <link>//localhost:1313/project/public_resources/drugshot/</link>
+      <link>website/project/public_resources/drugshot/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/drugshot/</guid>
+      <guid>website/project/public_resources/drugshot/</guid>
       <description>&lt;p&gt;&lt;strong&gt;DrugShot&lt;/strong&gt; is a search engine that accepts any search term to return a list of small molecules that are mostly associated with the search terms. It can be used to identify novel associations between small molecules and biological mechanisms and processes. A free text search is redirected to a PubMed search via the NCBI E-utilities API for retrieving publications that match the search terms. The resulting list of publications is cross-referenced with DrugRIF or AutoRIF to convert PMIDs to lists of small molecules. DrugRIF and AutoRIF enlist associations between publications and small molecules. DrugShot returns the list of small molecules ranked by their frequency of mentions within the publications returned by the search terms. In addition, the returned small molecules from the initial query are supplanted with additional small molecules based on literature co-mentions and L1000 signature similarity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enrichr</title>
-      <link>//localhost:1313/project/public_resources/enrichr/</link>
+      <link>website/project/public_resources/enrichr/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/enrichr/</guid>
+      <guid>website/project/public_resources/enrichr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Enrichr&lt;/strong&gt; is a gene set search engine that enables the querying of hundreds of thousands of annotated gene sets. Enrichr uniquely integrates knowledge from many high-profile projects to provide synthesized information about mammalian genes and gene sets. The platform provides various methods to compute gene set enrichment, and the results are visualized in several interactive ways.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Gene Expression Omnibus (GEO)</title>
-      <link>//localhost:1313/project/public_resources/geo/</link>
+      <link>website/project/public_resources/geo/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/geo/</guid>
+      <guid>website/project/public_resources/geo/</guid>
       <description>&lt;p&gt;Gene Expression Omnibus (GEO) is a database repository of high throughput gene expression data and hybridization arrays, chips, microarrays.&lt;/p&gt;
 &lt;p&gt;GEO is an international public repository that archives and freely distributes microarray, next-generation sequencing, and other forms of high-throughput functional genomics data submitted by the research community.&lt;/p&gt;
 &lt;p&gt;The three main goals of GEO are to:&lt;/p&gt;
@@ -118,45 +118,45 @@
     
     <item>
       <title>Geneshot</title>
-      <link>//localhost:1313/project/public_resources/geneshot/</link>
+      <link>website/project/public_resources/geneshot/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/geneshot/</guid>
+      <guid>website/project/public_resources/geneshot/</guid>
       <description>&lt;p&gt;Geneshot enables researchers to enter arbitrary search terms, to receive ranked lists of genes relevant to the search terms. Returned ranked gene lists contain genes that were previously published in association with the search terms, as well as genes predicted to be associated with the terms based on data integration from multiple sources. The search results are presented with interactive visualizations. To predict gene function, Geneshot utilizes gene–gene similarity matrices from processed RNA-seq data, or from gene–gene co-occurrence data obtained from multiple sources. In addition, Geneshot can be used to analyze the novelty of gene sets and augment gene sets with additional relevant genes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genomic Data Commons Data Portal</title>
-      <link>//localhost:1313/project/public_resources/gdc_portal/</link>
+      <link>website/project/public_resources/gdc_portal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/gdc_portal/</guid>
+      <guid>website/project/public_resources/gdc_portal/</guid>
       <description>&lt;p&gt;The National Cancer Institute Genomic Data Commons (GDC) is an information system for storing, analyzing, and sharing genomic and clinical data from patients with cancer. The recent high-throughput sequencing of cancer genomes and transcriptomes has produced a big data problem that precludes many cancer biologists and oncologists from gleaning knowledge from these data regarding the nature of malignant processes and the relationship between tumor genomic profiles and treatment response. The GDC aims to democratize access to cancer genomic data and to foster the sharing of these data to promote precision medicine approaches to the diagnosis and treatment of cancer. The GDC Data Portal is a robust data-driven platform that allows cancer researchers and bioinformaticians to search and download cancer data for analysis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genotype-Tissue Expression (GTEx)</title>
-      <link>//localhost:1313/project/public_resources/gtex/</link>
+      <link>website/project/public_resources/gtex/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/gtex/</guid>
+      <guid>website/project/public_resources/gtex/</guid>
       <description>&lt;p&gt;The Genotype-Tissue Expression (&lt;strong&gt;GTEx&lt;/strong&gt;) project is an ongoing effort to build a comprehensive public resource to study tissue-specific gene expression and regulation. Samples were collected from 54 non-diseased tissue sites across nearly 1000 individuals, primarily for molecular assays including WGS, WES, and RNA-Seq. Remaining samples are available from the GTEx Biobank. The GTEx Portal provides open access to data including gene expression, QTLs, and histology images.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GWAS Catalog</title>
-      <link>//localhost:1313/project/public_resources/gwas_cat/</link>
+      <link>website/project/public_resources/gwas_cat/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/gwas_cat/</guid>
+      <guid>website/project/public_resources/gwas_cat/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;GWAS Catalog&lt;/strong&gt; delivers a high-quality curated collection of all published genome-wide association studies enabling investigations to identify causal variants, understand disease mechanisms, and establish targets for novel therapies. The scope of the Catalog has also expanded to targeted and exome arrays with 1000 new associations added for these technologies.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Harmonizome</title>
-      <link>//localhost:1313/project/public_resources/harmonizome/</link>
+      <link>website/project/public_resources/harmonizome/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/harmonizome/</guid>
+      <guid>website/project/public_resources/harmonizome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Harmonizome&lt;/strong&gt; is a collection of information about genes and proteins from 114 datasets provided by 66 online resources.&lt;/p&gt;
 &lt;p&gt;Thanks to technological advances in genomics, transcriptomics, proteomics, metabolomics, and related fields, projects that generate a large number of measurements of the properties of cells, tissues, model organisms, and patients are becoming commonplace in biomedical research. In addition, curation projects are making great progress mining biomedical literature to extract and aggregate decades worth of research findings into online databases. Such projects are generating a wealth of information that potentially can guide research toward novel biomedical discoveries and advances in healthcare.&lt;/p&gt;
 </description>
@@ -164,9 +164,9 @@
     
     <item>
       <title>iLINCS</title>
-      <link>//localhost:1313/project/public_resources/ilincs/</link>
+      <link>website/project/public_resources/ilincs/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/ilincs/</guid>
+      <guid>website/project/public_resources/ilincs/</guid>
       <description>&lt;p&gt;iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures. The portal provides biologists-friendly user interfaces for analyzing transcriptomics and proteomics LINCS datasets. The portal integrates R analytical engine via several R tools for web-computing (rserve, opencpu, Shiny, rgl) and DCIC developed web tools and applications (FTreeView, Enrichr) into a coherent web platform for LINCS data analysis. Users can follow several workflows which allow them to identify differentially expressed genes, proteins and phosphoproteins in LINCS datasets and use them in analysis of other LINCS and non-LINCS dataset (eg TCGA and GEO transcriptomic datasets), and in the analysis of LINCS L1000 signatures. In this way, the platform facilitates integrative analysis of LINCS data and signatures. The mechanistic interpretation of LINCS transcriptomic and proteomics signatures is facilitated by the enrichment analysis via Enrichr and DAVID, and by pathways analysis using the R implementation of the SPIA algorithm. The portal can be accessed freely and does not require user registration.&lt;/p&gt;
 &lt;p&gt;Scientists are able to compare a &amp;ldquo;disease transcriptional signature&amp;rdquo;, a gene expression profile, to a library of &amp;ldquo;drug activity transcriptional signatures&amp;rdquo; to generate a Connectivity Map based on Connectivity score. Positive correlation between drug perturbations and disease gene expression profiles suggest common gene expression changes, while negative correlation is suggestive of drug perturbation ability to &amp;ldquo;reverse&amp;rdquo; the disease.&lt;/p&gt;
 &lt;p&gt;Portal also provides tools to analyze list of differentially expressed genes in other LINCS and non-LINCS datasets (i.e. TCGA, GEO, etc.) with an option to find concordant LINCS and non-LINCS gene expression signatures.&lt;/p&gt;
@@ -175,9 +175,9 @@
     
     <item>
       <title>iPTMnet</title>
-      <link>//localhost:1313/project/public_resources/iptmnet/</link>
+      <link>website/project/public_resources/iptmnet/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/iptmnet/</guid>
+      <guid>website/project/public_resources/iptmnet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;iPTMnet&lt;/strong&gt; is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.&lt;/p&gt;
 &lt;p&gt;It connects multiple disparate bioinformatics tools and systems text mining, data mining, analysis and visualization tools, and databases and ontologies into an integrated cross-cutting research resource to address the knowledge gaps in exploring and discovering PTM networks.&lt;/p&gt;
 &lt;p&gt;iPTMnet encompasses data from:&lt;/p&gt;
@@ -200,36 +200,36 @@
     
     <item>
       <title>Kinase Enrichment Analysis 3 (KEA3)</title>
-      <link>//localhost:1313/project/public_resources/kea3/</link>
+      <link>website/project/public_resources/kea3/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/kea3/</guid>
+      <guid>website/project/public_resources/kea3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase Enrichment Analysis 3 (KEA3)&lt;/strong&gt; is a webserver application that infers overrepresentation of upstream kinases whose putative substrates are in a user-inputted list of proteins. KEA3 can be applied to analyze data from phosphoproteomics and proteomics studies to predict the upstream kinases responsible for observed differential phosphorylations. The KEA3 background database contains measured and predicted kinase-substrate interactions (KSI), kinase-protein interactions (KPI), and interactions supported by co-expression and co-occurrence data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinase MD</title>
-      <link>//localhost:1313/project/public_resources/kinasemd/</link>
+      <link>website/project/public_resources/kinasemd/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/kinasemd/</guid>
+      <guid>website/project/public_resources/kinasemd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;KinaseMD&lt;/strong&gt; integrates 679 374 somatic mutations, 251 522 network-rewiring events, and 390 460 drug response records curated from various sources for 547 kinases. KinaseMD uniquely annotates the mutations and kinase inhibitor response in four types of protein substructures (gatekeeper, A-loop, G-loop and αC-helix) that are linked to kinase inhibitor resistance in literature. In addition, KinaseMD annotates functional mutations that may rewire kinase regulatory network and report four phosphorylation signals (gain, loss, up-regulation and down-regulation).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinase Screen</title>
-      <link>//localhost:1313/project/public_resources/kinase-screen/</link>
+      <link>website/project/public_resources/kinase-screen/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/kinase-screen/</guid>
+      <guid>website/project/public_resources/kinase-screen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase Screen&lt;/strong&gt; is a kinase profiling inhibitor database. This is a searchable database of specificities of 254 commonly used signal transduction inhibitors. These results have been provided by the International Centre for Kinase profiling within the MRC Protein Phosphorylation Unit at the University of Dundee.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kinase.com</title>
-      <link>//localhost:1313/project/public_resources/kinase_com/</link>
+      <link>website/project/public_resources/kinase_com/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/kinase_com/</guid>
+      <guid>website/project/public_resources/kinase_com/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase.com&lt;/strong&gt; explores the functions, evolution and diversity of protein kinases, the key controllers of cell behavior. It focuses on the kinome, the full complement of protein kinases in any sequenced genome. This includes the extensive KinBase database, and papers and supporting material for the published kinase work from Sugen and the Salk Institute.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;KinBase&lt;/strong&gt; holds information on over 3,000 protein kinase genes found in the genomes of human, and many other sequenced genomes. You may search the database by a variety of different gene names and accessions, or according to the sequence based classification.&lt;/p&gt;
 </description>
@@ -237,9 +237,9 @@
     
     <item>
       <title>Kinexus</title>
-      <link>//localhost:1313/project/public_resources/kinexus/</link>
+      <link>website/project/public_resources/kinexus/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/kinexus/</guid>
+      <guid>website/project/public_resources/kinexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinexus&lt;/strong&gt; is a online resource developed by Kinexus Bioinformatics Corporation to foster the study of cell signalling systems to advance biomedical research in academia and industry&lt;/p&gt;
 &lt;p&gt;Data Modules:&lt;/p&gt;
 &lt;ul&gt;
@@ -254,9 +254,9 @@
     
     <item>
       <title>KinMap</title>
-      <link>//localhost:1313/project/public_resources/kinmap/</link>
+      <link>website/project/public_resources/kinmap/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/kinmap/</guid>
+      <guid>website/project/public_resources/kinmap/</guid>
       <description>&lt;p&gt;&lt;strong&gt;KinMap&lt;/strong&gt; is a user-friendly online tool that facilitates the interactive navigation through kinase knowledge by linking biochemical, structural, and disease association data to the human kinome tree. To this end, preprocessed data from freely-available sources, such as ChEMBL, the Protein Data Bank, and the Center for Therapeutic Target Validation platform are integrated into KinMap and can easily be complemented by proprietary data.&lt;/p&gt;
 &lt;p&gt;KinMap represents a new generation of kinome tree viewers which facilitates interactive exploration of the human kinome. KinMap enables generation of high-quality annotated images of the human kinome tree as well as exchange of kinome-related data in scientific communications. Furthermore, KinMap supports multiple input and output formats and recognizes alternative kinase names and links them to a unified naming scheme, which makes it a useful tool across different disciplines and applications.&lt;/p&gt;
 </description>
@@ -264,9 +264,9 @@
     
     <item>
       <title>Open Targets</title>
-      <link>//localhost:1313/project/public_resources/opentarget/</link>
+      <link>website/project/public_resources/opentarget/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/opentarget/</guid>
+      <guid>website/project/public_resources/opentarget/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Open Targets Platform&lt;/strong&gt; is a comprehensive tool that supports systematic identification and prioritisation of potential therapeutic drug targets.&lt;/p&gt;
 &lt;p&gt;By integrating publicly available datasets including data generated by the Open Targets consortium, the Platform builds and scores target-disease associations to assist in drug target identification and prioritisation. It also integrates relevant annotation information about targets, diseases, phenotypes, and drugs, as well as their most relevant relationships.&lt;/p&gt;
 </description>
@@ -274,9 +274,9 @@
     
     <item>
       <title>Pathway Commons</title>
-      <link>//localhost:1313/project/public_resources/pathway_commons/</link>
+      <link>website/project/public_resources/pathway_commons/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pathway_commons/</guid>
+      <guid>website/project/public_resources/pathway_commons/</guid>
       <description>&lt;p&gt;*P&lt;strong&gt;athway Commons&lt;/strong&gt; is an integrated resource of publicly available information about biological pathways including biochemical reactions, assembly of biomolecular complexes, transport and catalysis events and physical interactions involving proteins, DNA, RNA, and small molecules (e.g. metabolites and drug compounds). Data is collected from multiple providers in standard formats, including the Biological Pathway Exchange (BioPAX) language and the Proteomics Standards Initiative Molecular Interactions format, and then integrated. Pathway Commons provides biologists with:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;tools to search this comprehensive resource&lt;/li&gt;
@@ -289,9 +289,9 @@
     
     <item>
       <title>Pharos</title>
-      <link>//localhost:1313/project/public_resources/pharos/</link>
+      <link>website/project/public_resources/pharos/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pharos/</guid>
+      <guid>website/project/public_resources/pharos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Pharos&lt;/strong&gt; is the user interface to the Knowledge Management Center (KMC) for the Illuminating the Druggable Genome (IDG) program funded by the National Institutes of Health (NIH) Common Fund. (Grant No. 1U24CA224370-01). The goal of KMC is to develop a comprehensive, integrated knowledge-base for the Druggable Genome (DG) to illuminate the uncharacterized and/or poorly annotated portion of the DG, focusing on three of the most commonly drug-targeted protein families:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;G-protein-coupled receptors (GPCRs)&lt;/li&gt;
@@ -304,9 +304,9 @@
     
     <item>
       <title>PhosphoSitePlus</title>
-      <link>//localhost:1313/project/public_resources/phosphositeplus/</link>
+      <link>website/project/public_resources/phosphositeplus/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/phosphositeplus/</guid>
+      <guid>website/project/public_resources/phosphositeplus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;PhosphoSitePlus&lt;/strong&gt; provides comprehensive information and tools for the study of protein post-translational modifications (PTMs) including phosphorylation, acetylation, and more. The web use is free for everyone including commercial. PhosphoSitePlus is an open, dynamic, continuously curated, and highly interactive systems biology resource for studying experimentally observed PTMs in the regulation of biological processes. PhosphoSite® was limited to phosphorylation. PSP, while still providing comprehensive coverage of protein phosphorylation, now includes coverage of other commonly studied PTMs including acetylation, methylation, ubiquitination, and O-glycosylation.&lt;/p&gt;
 &lt;p&gt;PSP includes critical structural and functional information about the topology, biological function and regulatory significance of specific modification sites, and powerful tools for mining and interpreting this data in the context of biological regulation, diseases, tissues, subcellular localization, protein domains, sequences, motifs, etc.&lt;/p&gt;
 </description>
@@ -314,9 +314,9 @@
     
     <item>
       <title>PiNET</title>
-      <link>//localhost:1313/project/public_resources/pinet/</link>
+      <link>website/project/public_resources/pinet/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pinet/</guid>
+      <guid>website/project/public_resources/pinet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;piNET&lt;/strong&gt; is a versatile tool that can be used to annotate, map and analyze a set of peptide moieties, including those with post-translationally modified sites (PTMs), identified (and quantified) by targeted (SRM type), SWATH (discovery) or related mass spectrometry based techniques. Starting from a set of peptides, and optional modifications within those peptides, piNET provides mapping into canonical UniProt protein entries, standardized annotation of modifications using PsiMOD and UNIMOD ontologies, and mapping of the sites of PTMs in the full UniProt entries. Validated modifying enzymes, including protein kinases, acetyl or methyl transferases, that are known to target these PTM sites, are mapped using iPTMnet and Signor.&lt;/p&gt;
 &lt;p&gt;For phosphorylation, known kinase - target peptides are also mapped using PhosphoSitePlus, whereas DeepPhos is used to map predicted kinase – target site pairs. These annotations can be visualized using versatile d3 library to provide site specific network and pathways views. The set of proteins (with PTMs mapped) can be further projected onto biological pathways using enrichment analysis and a comprehensive library of biological gene/protein sets through Enrichr, while protein abundance vectors can be compared with LINCS chemical and genetic perturbation signatures through iLINCS.&lt;/p&gt;
 </description>
@@ -324,18 +324,18 @@
     
     <item>
       <title>PRIDE</title>
-      <link>//localhost:1313/project/public_resources/pride/</link>
+      <link>website/project/public_resources/pride/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pride/</guid>
+      <guid>website/project/public_resources/pride/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;PRIDE PRoteomics IDEntifications (PRIDE)&lt;/strong&gt; Archive database is a centralized, standards compliant, public data repository for mass spectrometry proteomics data, including protein and peptide identifications and the corresponding expression values, post-translational modifications and supporting mass spectra evidence (both as raw data and peak list files). PRIDE is a core member in the ProteomeXchange (PX) consortium, which provides a standardized way for submitting mass spectrometry based proteomics data to public-domain repositories. Datasets are submitted to ProteomeXchange via PRIDE and are handled by expert bio-curators. All PRIDE public datasets can also be searched in ProteomeCentral, the portal for all ProteomeXchange datasets.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proteomic Data Commons (PDC)</title>
-      <link>//localhost:1313/project/public_resources/pdc_portal/</link>
+      <link>website/project/public_resources/pdc_portal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pdc_portal/</guid>
+      <guid>website/project/public_resources/pdc_portal/</guid>
       <description>&lt;p&gt;The objectives of the National Cancer Institute’s Proteomic Data Commons (PDC) are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;to make cancer-related proteomic datasets easily accessible to the public&lt;/li&gt;
@@ -348,18 +348,18 @@
     
     <item>
       <title>Reactome</title>
-      <link>//localhost:1313/project/public_resources/reactome/</link>
+      <link>website/project/public_resources/reactome/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/reactome/</guid>
+      <guid>website/project/public_resources/reactome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Reactome&lt;/strong&gt; is an open-source, open access, manually curated and peer-reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic and clinical research, genome analysis, modeling, systems biology and education.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STRING</title>
-      <link>//localhost:1313/project/public_resources/string/</link>
+      <link>website/project/public_resources/string/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/string/</guid>
+      <guid>website/project/public_resources/string/</guid>
       <description>&lt;p&gt;&lt;strong&gt;STRING&lt;/strong&gt; is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.&lt;/p&gt;
 &lt;p&gt;Data Sources
 Interactions in STRING are derived from five main sources:&lt;/p&gt;
@@ -377,9 +377,9 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
     
     <item>
       <title>The Human Protein Atlas</title>
-      <link>//localhost:1313/project/public_resources/proteinatlas/</link>
+      <link>website/project/public_resources/proteinatlas/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/proteinatlas/</guid>
+      <guid>website/project/public_resources/proteinatlas/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Human Protein Atlas&lt;/strong&gt; is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology. All the data in the knowledge resource is open access to allow scientists both in academia and industry to freely access the data for exploration of the human proteome.&lt;/p&gt;
 &lt;p&gt;The Human Protein Atlas consists of ten separate sections, each focusing on a particular aspect of the genome-wide analysis of the human proteins:&lt;/p&gt;
 &lt;ul&gt;
@@ -399,9 +399,9 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
     
     <item>
       <title>TIN-X</title>
-      <link>//localhost:1313/project/public_resources/tinx/</link>
+      <link>website/project/public_resources/tinx/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/tinx/</guid>
+      <guid>website/project/public_resources/tinx/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TIN-X&lt;/strong&gt; is an interactive visualization tool for discovering interesting associations between diseases and potential drug targets.&lt;/p&gt;
 &lt;p&gt;We used natural language processing to identify disease and protein mentions in the text of PubMed abstracts. Using this data, two metrics are derived: novelty and importance.&lt;/p&gt;
 &lt;p&gt;Novelty measures the relative scarcity of specific publications about a given concept (such as a target or a disease), while importance measures the relative strength of the association between two concepts. This web tool enables users to explore the relationships between the novelty of potential drug targets and their importance to diseases.&lt;/p&gt;
@@ -410,18 +410,18 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
     
     <item>
       <title>UniProt</title>
-      <link>//localhost:1313/project/public_resources/uniprot/</link>
+      <link>website/project/public_resources/uniprot/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/uniprot/</guid>
+      <guid>website/project/public_resources/uniprot/</guid>
       <description>&lt;p&gt;The Universal Protein Resource (&lt;strong&gt;UniProt&lt;/strong&gt;) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>X2K</title>
-      <link>//localhost:1313/project/public_resources/x2k/</link>
+      <link>website/project/public_resources/x2k/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/x2k/</guid>
+      <guid>website/project/public_resources/x2k/</guid>
       <description>&lt;p&gt;eXpression2Kinases (&lt;strong&gt;X2K&lt;/strong&gt;) infers upstream regulatory networks from signatures of differentially expressed genes. By combining transcription factor enrichment analysis, protein-protein interaction network expansion, with kinase enrichment analysis, X2K Web produces inferred networks of transcription factors, proteins, and kinases predicted to regulate the expression of the inputted gene list. X2K Web provides the results as tables and interactive vector graphic figures that can be readily embedded within publications.&lt;/p&gt;
 </description>
     </item>

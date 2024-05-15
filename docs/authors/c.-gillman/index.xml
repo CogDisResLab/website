@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Gillman | CDRL</title>
-    <link>//localhost:1313/authors/c.-gillman/</link>
-      <atom:link href="//localhost:1313/authors/c.-gillman/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/c.-gillman/</link>
+      <atom:link href="website/authors/c.-gillman/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Gillman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>C. Gillman</title>
-      <link>//localhost:1313/authors/c.-gillman/</link>
+      <link>website/authors/c.-gillman/</link>
     </image>
     
     <item>
       <title>Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</title>
-      <link>//localhost:1313/publication/2021-03-11_rn5132/</link>
+      <link>website/publication/2021-03-11_rn5132/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2021-03-11_rn5132/</guid>
+      <guid>website/publication/2021-03-11_rn5132/</guid>
       <description></description>
     </item>
     

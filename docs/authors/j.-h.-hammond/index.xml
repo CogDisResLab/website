@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. H. Hammond | CDRL</title>
-    <link>//localhost:1313/authors/j.-h.-hammond/</link>
-      <atom:link href="//localhost:1313/authors/j.-h.-hammond/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/j.-h.-hammond/</link>
+      <atom:link href="website/authors/j.-h.-hammond/index.xml" rel="self" type="application/rss+xml" />
     <description>J. H. Hammond</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>J. H. Hammond</title>
-      <link>//localhost:1313/authors/j.-h.-hammond/</link>
+      <link>website/authors/j.-h.-hammond/</link>
     </image>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
-      <link>//localhost:1313/publication/2017-09-14_rn5166/</link>
+      <link>website/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2017-09-14_rn5166/</guid>
+      <guid>website/publication/2017-09-14_rn5166/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postmortem brain: an underutilized substrate for studying severe mental illness</title>
-      <link>//localhost:1313/publication/2015-03-15_rn5182/</link>
+      <link>website/publication/2015-03-15_rn5182/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2015-03-15_rn5182/</guid>
+      <guid>website/publication/2015-03-15_rn5182/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altered serine/threonine kinase activity in schizophrenia</title>
-      <link>//localhost:1313/publication/2014-05-02_rn5186/</link>
+      <link>website/publication/2014-05-02_rn5186/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2014-05-02_rn5186/</guid>
+      <guid>website/publication/2014-05-02_rn5186/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postmortem brain: an underutilized substrate for studying severe mental illness</title>
-      <link>//localhost:1313/publication/2013-10-05_rn5189/</link>
+      <link>website/publication/2013-10-05_rn5189/</link>
       <pubDate>Sat, 05 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2013-10-05_rn5189/</guid>
+      <guid>website/publication/2013-10-05_rn5189/</guid>
       <description></description>
     </item>
     

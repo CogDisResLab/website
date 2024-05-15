@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W. D. Haffey | CDRL</title>
-    <link>//localhost:1313/authors/w.-d.-haffey/</link>
-      <atom:link href="//localhost:1313/authors/w.-d.-haffey/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/w.-d.-haffey/</link>
+      <atom:link href="website/authors/w.-d.-haffey/index.xml" rel="self" type="application/rss+xml" />
     <description>W. D. Haffey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>W. D. Haffey</title>
-      <link>//localhost:1313/authors/w.-d.-haffey/</link>
+      <link>website/authors/w.-d.-haffey/</link>
     </image>
     
     <item>
       <title>Systematic evaluation of data-independent acquisition for sensitive and reproducible proteomics-a prototype design for a single injection assay</title>
-      <link>//localhost:1313/publication/2016-01-13_rn5173/</link>
+      <link>website/publication/2016-01-13_rn5173/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2016-01-13_rn5173/</guid>
+      <guid>website/publication/2016-01-13_rn5173/</guid>
       <description></description>
     </item>
     

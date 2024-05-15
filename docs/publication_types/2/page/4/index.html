@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication_types/2/">
+  <link rel="alternate" hreflang="en-us" href="website/publication_types/2/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../../../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../../../../publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../../img/icon-192.png">
+  <link rel="manifest" href="../../../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/publication_types/2/">
+  <link rel="canonical" href="website/publication_types/2/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/publication_types/2/">
+  <meta property="og:url" content="website/publication_types/2/">
   <meta property="og:title" content="2 | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-04-01T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../post"><span>Posts</span></a>
+          <a class="nav-link " href="../../../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -472,7 +508,7 @@
   
   
   <div>
-    <h2><a href="../../../../publication/2019-09-13_rn5153/">Pioglitazone improves working memory performance when administered in chronic TBI</a></h2>
+    <h2><a href="website/publication/2019-09-13_rn5153/">Pioglitazone improves working memory performance when administered in chronic TBI</a></h2>
     <div class="article-style">
       
       Traumatic brain injury (TBI) is a leading cause of long-term disability in the United States. Even in comparatively mild injuries, cognitive and behavioral symptoms can persist for years, and there are currently no established strategies for …
@@ -481,7 +517,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2019-05-21_rn5154/">Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</a></h2>
+    <h2><a href="website/publication/2019-05-21_rn5154/">Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</a></h2>
     <div class="article-style">
       
       Protein kinases orchestrate signal transduction pathways involved in central nervous system functions ranging from neurodevelopment to synaptic transmission and plasticity. Abnormalities in kinase-mediated signaling are involved in the …
@@ -490,7 +526,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2019-05-11_rn5155/">RNA sequencing in human HepG2 hepatocytes reveals PPAR-alpha mediates transcriptome responsiveness of bilirubin</a></h2>
+    <h2><a href="website/publication/2019-05-11_rn5155/">RNA sequencing in human HepG2 hepatocytes reveals PPAR-alpha mediates transcriptome responsiveness of bilirubin</a></h2>
     <div class="article-style">
       
       Bilirubin is a potent antioxidant that reduces inflammation and the accumulation of fat. There have been reports of gene responses to bilirubin, which was mostly attributed to its antioxidant function. Using RNA sequencing, we found that biliverdin, …
@@ -499,7 +535,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2019-03-27_rn5156/">Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</a></h2>
+    <h2><a href="website/publication/2019-03-27_rn5156/">Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</a></h2>
     <div class="article-style">
       
       Converging evidence suggests bioenergetic defects contribute to the pathophysiology of schizophrenia and may underlie cognitive dysfunction. The transport and metabolism of lactate energetically couples astrocytes and neurons and supports brain …
@@ -508,7 +544,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2018-10-20_rn5157/">Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</a></h2>
+    <h2><a href="website/publication/2018-10-20_rn5157/">Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</a></h2>
     <div class="article-style">
       
       We utilized a cell-level approach to examine glycolytic pathways in the DLPFC of subjects with schizophrenia (n = 16) and control (n = 16) and found decreased mRNA expression of glycolytic enzymes in pyramidal neurons, but not astrocytes. To …
@@ -517,7 +553,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2018-10-15_rn5158/">Role of glutamatergic system and mesocorticolimbic circuits in alcohol dependence</a></h2>
+    <h2><a href="website/publication/2018-10-15_rn5158/">Role of glutamatergic system and mesocorticolimbic circuits in alcohol dependence</a></h2>
     <div class="article-style">
       
       Emerging evidence demonstrates that alcohol dependence is associated with dysregulation of several neurotransmitters. Alterations in dopamine, glutamate and gamma-aminobutyric acid release are linked to chronic alcohol exposure. The effects of …
@@ -526,7 +562,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2018-09-15_rn5159/">Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</a></h2>
+    <h2><a href="website/publication/2018-09-15_rn5159/">Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</a></h2>
     <div class="article-style">
       
       Traumatic brain injury (TBI) is a pervasive problem in the United States and worldwide, as the number of diagnosed individuals is increasing yearly and there are no efficacious therapeutic interventions. A large number of patients suffer with …
@@ -535,7 +571,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2018-08-03_rn5160/">Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</a></h2>
+    <h2><a href="website/publication/2018-08-03_rn5160/">Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</a></h2>
     <div class="article-style">
       
       Traumatic brain injury (TBI) is a leading cause of death and long-term disability worldwide. Although chronic disability is common after TBI, effective treatments remain elusive and chronic TBI pathophysiology is not well understood. Early after TBI, …
@@ -544,7 +580,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2018-07-19_rn5161/">Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</a></h2>
+    <h2><a href="website/publication/2018-07-19_rn5161/">Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</a></h2>
     <div class="article-style">
       
       DEK is a chromatin-remodeling phosphoprotein found in most human tissues, but its expression and function in the human brain is largely unknown. DEK depletion in vitro induces cellular and molecular anomalies associated with cognitive impairment, …
@@ -553,7 +589,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2018-03-03_rn5162/">Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</a></h2>
+    <h2><a href="website/publication/2018-03-03_rn5162/">Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</a></h2>
     <div class="article-style">
       
       Schizophrenia is a devastating illness that affects over 2 million people in the United States and costs society billions of dollars annually. New insights into the pathophysiology of schizophrenia are needed to provide the conceptual framework to …
@@ -566,10 +602,10 @@
 <nav>
   <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/3/">&laquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/3/">&laquo;</a></li>
     
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/5/">&raquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/5/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -676,7 +712,7 @@
     
     
     
-    <script src="../../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -689,16 +725,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

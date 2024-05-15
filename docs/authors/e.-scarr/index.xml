@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. Scarr | CDRL</title>
-    <link>//localhost:1313/authors/e.-scarr/</link>
-      <atom:link href="//localhost:1313/authors/e.-scarr/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/e.-scarr/</link>
+      <atom:link href="website/authors/e.-scarr/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Scarr</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>E. Scarr</title>
-      <link>//localhost:1313/authors/e.-scarr/</link>
+      <link>website/authors/e.-scarr/</link>
     </image>
     
     <item>
       <title>Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</title>
-      <link>//localhost:1313/publication/2015-05-28_rn5178/</link>
+      <link>website/publication/2015-05-28_rn5178/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2015-05-28_rn5178/</guid>
+      <guid>website/publication/2015-05-28_rn5178/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</title>
-      <link>//localhost:1313/publication/2006-11-23_rn5213/</link>
+      <link>website/publication/2006-11-23_rn5213/</link>
       <pubDate>Thu, 23 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2006-11-23_rn5213/</guid>
+      <guid>website/publication/2006-11-23_rn5213/</guid>
       <description></description>
     </item>
     

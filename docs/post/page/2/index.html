@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/post/">
+  <link rel="alternate" hreflang="en-us" href="website/post/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../../../post/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/post/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../img/icon-192.png">
+  <link rel="manifest" href="../../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/post/">
+  <link rel="canonical" href="website/post/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/post/">
+  <meta property="og:url" content="website/post/">
   <meta property="og:title" content="Posts | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-05-02T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="../../../post"><span>Posts</span></a>
+          <a class="nav-link  active" href="../../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -493,7 +529,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../../../post/bioinformatics_hackathon_2021/" >CDRL Bioinformatics Hackathon 2021</a>
+      <a href="website/post/bioinformatics_hackathon_2021/" >CDRL Bioinformatics Hackathon 2021</a>
     </h3>
 
     
@@ -566,8 +602,8 @@
     
     
     
-    <a href="../../../post/bioinformatics_hackathon_2021/" >
-      <img src="../../../post/bioinformatics_hackathon_2021/featured_hudcbb90eb591f1644e9016cffd1ae888f_263256_150x0_resize_lanczos_3.png" alt="">
+    <a href="website/post/bioinformatics_hackathon_2021/" >
+      <img src="website/post/bioinformatics_hackathon_2021/featured_hudcbb90eb591f1644e9016cffd1ae888f_263256_150x0_resize_lanczos_3.png" alt="">
     </a>
     
   </div>
@@ -596,7 +632,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../../../post/accomplishments_ali_march2021/" >Dr. Ali Imami Writes Column in Toledo Blade</a>
+      <a href="website/post/accomplishments_ali_march2021/" >Dr. Ali Imami Writes Column in Toledo Blade</a>
     </h3>
 
     
@@ -669,8 +705,8 @@
     
     
     
-    <a href="../../../post/accomplishments_ali_march2021/" >
-      <img src="../../../post/accomplishments_ali_march2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_ali_march2021/" >
+      <img src="website/post/accomplishments_ali_march2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -699,7 +735,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../../../post/accomplishments_justin_december2020/" >Justin Creeden Writes Column in Toledo Blade</a>
+      <a href="website/post/accomplishments_justin_december2020/" >Justin Creeden Writes Column in Toledo Blade</a>
     </h3>
 
     
@@ -772,8 +808,8 @@
     
     
     
-    <a href="../../../post/accomplishments_justin_december2020/" >
-      <img src="../../../post/accomplishments_justin_december2020/featured_hu672462164fb31749292be311856614e3_487321_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_justin_december2020/" >
+      <img src="website/post/accomplishments_justin_december2020/featured_hu672462164fb31749292be311856614e3_487321_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -786,7 +822,7 @@
 <nav>
   <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="../../../post/">&laquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/post/">&laquo;</a></li>
     
     
   </ul>
@@ -895,7 +931,7 @@
     
     
     
-    <script src="../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -908,16 +944,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

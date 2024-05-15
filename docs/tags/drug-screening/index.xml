@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drug Screening | CDRL</title>
-    <link>//localhost:1313/tags/drug-screening/</link>
-      <atom:link href="//localhost:1313/tags/drug-screening/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/drug-screening/</link>
+      <atom:link href="website/tags/drug-screening/index.xml" rel="self" type="application/rss+xml" />
     <description>Drug Screening</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>Drug Screening</title>
-      <link>//localhost:1313/tags/drug-screening/</link>
+      <link>website/tags/drug-screening/</link>
     </image>
     
     <item>
       <title>Virtual Screening Workshop</title>
-      <link>//localhost:1313/project/webinars_and_workshops/virtual_screening_2021/</link>
+      <link>website/project/webinars_and_workshops/virtual_screening_2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate>
-      <guid>//localhost:1313/project/webinars_and_workshops/virtual_screening_2021/</guid>
+      <guid>website/project/webinars_and_workshops/virtual_screening_2021/</guid>
       <description>&lt;p&gt; 
  
  

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Uvnas-Moberg | CDRL</title>
-    <link>//localhost:1313/authors/k.-uvnas-moberg/</link>
-      <atom:link href="//localhost:1313/authors/k.-uvnas-moberg/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/k.-uvnas-moberg/</link>
+      <atom:link href="website/authors/k.-uvnas-moberg/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Uvnas-Moberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>K. Uvnas-Moberg</title>
-      <link>//localhost:1313/authors/k.-uvnas-moberg/</link>
+      <link>website/authors/k.-uvnas-moberg/</link>
     </image>
     
     <item>
       <title>Oxytocin&#39;s anti-inflammatory and proimmune functions in COVID-19: a transcriptomic signature-based approach</title>
-      <link>//localhost:1313/publication/2020-08-19_rn5141/</link>
+      <link>website/publication/2020-08-19_rn5141/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-08-19_rn5141/</guid>
+      <guid>website/publication/2020-08-19_rn5141/</guid>
       <description></description>
     </item>
     

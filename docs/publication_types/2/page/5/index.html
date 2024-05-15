@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication_types/2/">
+  <link rel="alternate" hreflang="en-us" href="website/publication_types/2/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../../../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../../../../publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../../img/icon-192.png">
+  <link rel="manifest" href="../../../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/publication_types/2/">
+  <link rel="canonical" href="website/publication_types/2/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/publication_types/2/">
+  <meta property="og:url" content="website/publication_types/2/">
   <meta property="og:title" content="2 | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-04-01T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../post"><span>Posts</span></a>
+          <a class="nav-link " href="../../../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -472,7 +508,7 @@
   
   
   <div>
-    <h2><a href="../../../../publication/2018-02-28_rn5163/">Cell-subtype-specific changes in adenosine pathways in schizophrenia</a></h2>
+    <h2><a href="website/publication/2018-02-28_rn5163/">Cell-subtype-specific changes in adenosine pathways in schizophrenia</a></h2>
     <div class="article-style">
       
       Prior work in animal models implicates abnormalities of adenosine metabolism in astrocytes as a possible pathophysiological mechanism underlying the symptoms of schizophrenia. In the present study, we sought to reverse-translate these findings back …
@@ -481,7 +517,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2017-12-09_rn5164/">Defects in Bioenergetic Coupling in Schizophrenia</a></h2>
+    <h2><a href="website/publication/2017-12-09_rn5164/">Defects in Bioenergetic Coupling in Schizophrenia</a></h2>
     <div class="article-style">
       
       Synaptic neurotransmission relies on maintenance of the synapse and meeting the energy demands of neurons. Defects in excitatory and inhibitory synapses have been implicated in schizophrenia, likely contributing to positive and negative symptoms as …
@@ -490,7 +526,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2017-09-25_rn5165/">The role of glutamate transporters in the pathophysiology of neuropsychiatric disorders</a></h2>
+    <h2><a href="website/publication/2017-09-25_rn5165/">The role of glutamate transporters in the pathophysiology of neuropsychiatric disorders</a></h2>
     <div class="article-style">
       
       Altered glutamate transporter expression is a common feature of many neuropsychiatric conditions, including schizophrenia. Excitatory amino acid transporters (EAATs) are responsible for the reuptake of glutamate, preventing non-physiological …
@@ -499,7 +535,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2017-09-14_rn5166/">Abnormalities of signal transduction networks in chronic schizophrenia</a></h2>
+    <h2><a href="website/publication/2017-09-14_rn5166/">Abnormalities of signal transduction networks in chronic schizophrenia</a></h2>
     <div class="article-style">
       
       Schizophrenia is a serious neuropsychiatric disorder characterized by disruptions of brain cell metabolism, microstructure, and neurotransmission. All of these processes require coordination of multiple kinase-mediated signaling events. We …
@@ -508,7 +544,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2017-05-13_rn5167/">Contrasting the Role of xCT and GLT-1 Upregulation in the Ability of Ceftriaxone to Attenuate the Cue-Induced Reinstatement of Cocaine Seeking and Normalize AMPA Receptor Subunit Expression</a></h2>
+    <h2><a href="website/publication/2017-05-13_rn5167/">Contrasting the Role of xCT and GLT-1 Upregulation in the Ability of Ceftriaxone to Attenuate the Cue-Induced Reinstatement of Cocaine Seeking and Normalize AMPA Receptor Subunit Expression</a></h2>
     <div class="article-style">
       
       Long-term treatment with ceftriaxone attenuates the reinstatement of cocaine seeking while increasing the function of the glutamate transporter 1 (GLT-1) and system xC- (Sxc) in the nucleus accumbens core (NAc). Sxc contributes the majority of …
@@ -517,7 +553,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2017-01-28_rn5168/">Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</a></h2>
+    <h2><a href="website/publication/2017-01-28_rn5168/">Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</a></h2>
     <div class="article-style">
       
       Background: Postsynaptic density-95 (PSD-95) protein expression is dysregulated in schizophrenia in a variety of brain regions. We have designed experiments to examine PSD-95 mRNA splice variant expression in the dorsolateral prefrontal cortex from …
@@ -526,7 +562,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2016-06-18_rn5169/">Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</a></h2>
+    <h2><a href="website/publication/2016-06-18_rn5169/">Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</a></h2>
     <div class="article-style">
       
       We hypothesize that the primary mechanism for removal of glutamate from the extracellular space is altered after traumatic brain injury (TBI). To evaluate this hypothesis, we initiated TBI in adult male rats using a 2.0 atm lateral fluid percussion …
@@ -535,7 +571,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2016-06-04_rn5170/">Glutamate Neurotransmission in Rodent Models of Traumatic Brain Injury</a></h2>
+    <h2><a href="website/publication/2016-06-04_rn5170/">Glutamate Neurotransmission in Rodent Models of Traumatic Brain Injury</a></h2>
     <div class="article-style">
       
       Traumatic brain injury (TBI) is a leading cause of death and disability in people younger than 45 and is a significant public health concern. In addition to primary mechanical damage to cells and tissue, TBI involves additional molecular mechanisms …
@@ -544,14 +580,14 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2016-05-21_rn5171/">Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</a></h2>
+    <h2><a href="website/publication/2016-05-21_rn5171/">Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</a></h2>
     <div class="article-style">
       
     </div>
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2016-02-16_rn5172/">Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</a></h2>
+    <h2><a href="website/publication/2016-02-16_rn5172/">Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</a></h2>
     <div class="article-style">
       
       Recent reports suggest abnormalities of neurotransmitter receptor trafficking, targeting, dendritic localization, recycling, and degradation in the brain in schizophrenia. We hypothesized that a potential explanation for these findings may be …
@@ -564,10 +600,10 @@
 <nav>
   <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/4/">&laquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/4/">&laquo;</a></li>
     
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/6/">&raquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/6/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -674,7 +710,7 @@
     
     
     
-    <script src="../../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -687,16 +723,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

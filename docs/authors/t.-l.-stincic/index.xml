@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. L. Stincic | CDRL</title>
-    <link>//localhost:1313/authors/t.-l.-stincic/</link>
-      <atom:link href="//localhost:1313/authors/t.-l.-stincic/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/t.-l.-stincic/</link>
+      <atom:link href="website/authors/t.-l.-stincic/index.xml" rel="self" type="application/rss+xml" />
     <description>T. L. Stincic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>T. L. Stincic</title>
-      <link>//localhost:1313/authors/t.-l.-stincic/</link>
+      <link>website/authors/t.-l.-stincic/</link>
     </image>
     
     <item>
       <title>Differential effects of antipsychotics on haloperidol-induced vacuous chewing movements and subcortical gene expression in the rat</title>
-      <link>//localhost:1313/publication/2003-10-02_rn5223/</link>
+      <link>website/publication/2003-10-02_rn5223/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2003-10-02_rn5223/</guid>
+      <guid>website/publication/2003-10-02_rn5223/</guid>
       <description></description>
     </item>
     

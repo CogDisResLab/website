@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. A. K. DePasquale | CDRL</title>
-    <link>//localhost:1313/authors/e.-a.-k.-depasquale/</link>
-      <atom:link href="//localhost:1313/authors/e.-a.-k.-depasquale/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/e.-a.-k.-depasquale/</link>
+      <atom:link href="website/authors/e.-a.-k.-depasquale/index.xml" rel="self" type="application/rss+xml" />
     <description>E. A. K. DePasquale</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>E. A. K. DePasquale</title>
-      <link>//localhost:1313/authors/e.-a.-k.-depasquale/</link>
+      <link>website/authors/e.-a.-k.-depasquale/</link>
     </image>
     
     <item>
       <title>KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</title>
-      <link>//localhost:1313/publication/2021-12-18_rn5288/</link>
+      <link>website/publication/2021-12-18_rn5288/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2021-12-18_rn5288/</guid>
+      <guid>website/publication/2021-12-18_rn5288/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</title>
-      <link>//localhost:1313/publication/2020-05-06_rn5147/</link>
+      <link>website/publication/2020-05-06_rn5147/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-05-06_rn5147/</guid>
+      <guid>website/publication/2020-05-06_rn5147/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
-      <link>//localhost:1313/publication/2019-05-21_rn5154/</link>
+      <link>website/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-05-21_rn5154/</guid>
+      <guid>website/publication/2019-05-21_rn5154/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
-      <link>//localhost:1313/publication/2018-08-03_rn5160/</link>
+      <link>website/publication/2018-08-03_rn5160/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2018-08-03_rn5160/</guid>
+      <guid>website/publication/2018-08-03_rn5160/</guid>
       <description></description>
     </item>
     

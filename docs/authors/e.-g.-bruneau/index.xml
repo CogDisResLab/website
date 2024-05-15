@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. G. Bruneau | CDRL</title>
-    <link>//localhost:1313/authors/e.-g.-bruneau/</link>
-      <atom:link href="//localhost:1313/authors/e.-g.-bruneau/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/e.-g.-bruneau/</link>
+      <atom:link href="website/authors/e.-g.-bruneau/index.xml" rel="self" type="application/rss+xml" />
     <description>E. G. Bruneau</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>E. G. Bruneau</title>
-      <link>//localhost:1313/authors/e.-g.-bruneau/</link>
+      <link>website/authors/e.-g.-bruneau/</link>
     </image>
     
     <item>
       <title>Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</title>
-      <link>//localhost:1313/publication/2005-04-12_rn5216/</link>
+      <link>website/publication/2005-04-12_rn5216/</link>
       <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2005-04-12_rn5216/</guid>
+      <guid>website/publication/2005-04-12_rn5216/</guid>
       <description></description>
     </item>
     

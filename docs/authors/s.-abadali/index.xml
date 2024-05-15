@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Abadali | CDRL</title>
-    <link>//localhost:1313/authors/s.-abadali/</link>
-      <atom:link href="//localhost:1313/authors/s.-abadali/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/s.-abadali/</link>
+      <atom:link href="website/authors/s.-abadali/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Abadali</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>S. Abadali</title>
-      <link>//localhost:1313/authors/s.-abadali/</link>
+      <link>website/authors/s.-abadali/</link>
     </image>
     
     <item>
       <title>Synergistic effects of common schizophrenia risk variants</title>
-      <link>//localhost:1313/publication/2019-09-25_rn5152/</link>
+      <link>website/publication/2019-09-25_rn5152/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-09-25_rn5152/</guid>
+      <guid>website/publication/2019-09-25_rn5152/</guid>
       <description></description>
     </item>
     

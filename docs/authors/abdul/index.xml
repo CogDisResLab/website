@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>//localhost:1313/authors/abdul/</link>
-      <atom:link href="//localhost:1313/authors/abdul/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/abdul/</link>
+      <atom:link href="website/authors/abdul/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:01 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
-      <link>//localhost:1313/authors/abdul/</link>
+      <link>website/authors/abdul/</link>
     </image>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/abdul/</link>
+      <link>website/authors/abdul/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate>
-      <guid>//localhost:1313/authors/abdul/</guid>
+      <guid>website/authors/abdul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual Screening Workshop</title>
-      <link>//localhost:1313/project/webinars_and_workshops/virtual_screening_2021/</link>
+      <link>website/project/webinars_and_workshops/virtual_screening_2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:01 +0000</pubDate>
-      <guid>//localhost:1313/project/webinars_and_workshops/virtual_screening_2021/</guid>
+      <guid>website/project/webinars_and_workshops/virtual_screening_2021/</guid>
       <description>&lt;p&gt; 
  
  

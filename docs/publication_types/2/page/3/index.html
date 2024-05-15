@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication_types/2/">
+  <link rel="alternate" hreflang="en-us" href="website/publication_types/2/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../../../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../../../../publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../../img/icon-192.png">
+  <link rel="manifest" href="../../../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/publication_types/2/">
+  <link rel="canonical" href="website/publication_types/2/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/publication_types/2/">
+  <meta property="og:url" content="website/publication_types/2/">
   <meta property="og:title" content="2 | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-04-01T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../post"><span>Posts</span></a>
+          <a class="nav-link " href="../../../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -472,7 +508,7 @@
   
   
   <div>
-    <h2><a href="../../../../publication/2020-08-14_rn5143/">Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</a></h2>
+    <h2><a href="website/publication/2020-08-14_rn5143/">Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</a></h2>
     <div class="article-style">
       
       Photoaffinity labeling (PAL) remains one of the most widely utilized methods of determining protein targets of drugs. Although useful, the scope of this technique has been limited to in vitro applications because of the inability of UV light to …
@@ -481,7 +517,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2020-07-24_rn5144/">Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</a></h2>
+    <h2><a href="website/publication/2020-07-24_rn5144/">Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</a></h2>
     <div class="article-style">
       
       The COVID-19 pandemic caused by the novel SARS-CoV-2 is more contagious than other coronaviruses and has higher rates of mortality than influenza. As no vaccine or drugs are currently approved to specifically treat COVID-19, identification of …
@@ -490,7 +526,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2020-07-01_rn5145/">Signature-based approaches for informed drug repurposing: targeting CNS disorders</a></h2>
+    <h2><a href="website/publication/2020-07-01_rn5145/">Signature-based approaches for informed drug repurposing: targeting CNS disorders</a></h2>
     <div class="article-style">
       
       CNS disorders, and in particular psychiatric illnesses, lack definitive disease-altering therapeutics. The limited understanding of the mechanisms driving these illnesses with the slow pace and high cost of drug development exacerbates this issue. …
@@ -499,7 +535,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2020-05-15_rn5146/">Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</a></h2>
+    <h2><a href="website/publication/2020-05-15_rn5146/">Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</a></h2>
     <div class="article-style">
       
       Activation of lipid-burning pathways in the fat-storing white adipose tissue (WAT) is a promising strategy to improve metabolic health and reduce obesity, insulin resistance, and type II diabetes. For unknown reasons, bilirubin levels are negatively …
@@ -508,7 +544,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2020-05-06_rn5147/">Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</a></h2>
+    <h2><a href="website/publication/2020-05-06_rn5147/">Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</a></h2>
     <div class="article-style">
       
       The astrocytic cystine/glutamate antiporter system xc(-) represents an important source of extracellular glutamate in the central nervous system, with potential impact on excitatory neurotransmission. Yet, its function and importance in brain …
@@ -517,7 +553,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2020-04-11_rn5148/">Adenosine Kinase Expression in the Frontal Cortex in Schizophrenia</a></h2>
+    <h2><a href="website/publication/2020-04-11_rn5148/">Adenosine Kinase Expression in the Frontal Cortex in Schizophrenia</a></h2>
     <div class="article-style">
       
       The adenosine hypothesis of schizophrenia posits that reduced availability of the neuromodulator adenosine contributes to dysregulation of dopamine and glutamate transmission and the symptoms associated with schizophrenia. It has been proposed that …
@@ -526,7 +562,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2020-03-22_rn5149/">A bioinformatic inquiry of the EAAT2 interactome in postmortem and neuropsychiatric datasets</a></h2>
+    <h2><a href="website/publication/2020-03-22_rn5149/">A bioinformatic inquiry of the EAAT2 interactome in postmortem and neuropsychiatric datasets</a></h2>
     <div class="article-style">
       
       Altered expression and localization of the glutamate transporter EAAT2 is found in schizophrenia and other neuropsychiatric (major depression, MDD) and neurological disorders (amyotrophic lateral sclerosis, ALS). However, the EAAT2 interactome, the …
@@ -535,7 +571,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2020-02-19_rn5150/">Protein expression of prenyltransferase subunits in postmortem schizophrenia dorsolateral prefrontal cortex</a></h2>
+    <h2><a href="website/publication/2020-02-19_rn5150/">Protein expression of prenyltransferase subunits in postmortem schizophrenia dorsolateral prefrontal cortex</a></h2>
     <div class="article-style">
       
       The pathophysiology of schizophrenia includes altered neurotransmission, dysregulated intracellular signaling pathway activity, and abnormal dendritic morphology that contribute to deficits of synaptic plasticity in the disorder. These processes all …
@@ -544,7 +580,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2019-12-01_rn5151/">Neuronal impact of patient-specific aberrant NRXN1alpha splicing</a></h2>
+    <h2><a href="website/publication/2019-12-01_rn5151/">Neuronal impact of patient-specific aberrant NRXN1alpha splicing</a></h2>
     <div class="article-style">
       
       NRXN1 undergoes extensive alternative splicing, and non-recurrent heterozygous deletions in NRXN1 are strongly associated with neuropsychiatric disorders. We establish that human induced pluripotent stem cell (hiPSC)-derived neurons well represent …
@@ -553,7 +589,7 @@
   </div>
   
   <div>
-    <h2><a href="../../../../publication/2019-09-25_rn5152/">Synergistic effects of common schizophrenia risk variants</a></h2>
+    <h2><a href="website/publication/2019-09-25_rn5152/">Synergistic effects of common schizophrenia risk variants</a></h2>
     <div class="article-style">
       
       The mechanisms by which common risk variants of small effect interact to contribute to complex genetic disorders are unclear. Here, we apply a genetic approach, using isogenic human induced pluripotent stem cells, to evaluate the effects of …
@@ -566,10 +602,10 @@
 <nav>
   <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/2/">&laquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/2/">&laquo;</a></li>
     
     
-    <li class="page-item"><a class="page-link" href="../../../../publication_types/2/page/4/">&raquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/publication_types/2/page/4/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -676,7 +712,7 @@
     
     
     
-    <script src="../../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -689,16 +725,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

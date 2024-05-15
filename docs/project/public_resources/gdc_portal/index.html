@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="A data portal for storing, analyzing, and sharing genomic and clinical data from patients with cancer.">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/project/public_resources/gdc_portal/">
+  <link rel="alternate" hreflang="en-us" href="website/project/public_resources/gdc_portal/">
   
   
   
@@ -89,22 +89,58 @@
   
   
   
-  <link rel="stylesheet" href="../../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
 
-  <link rel="manifest" href="../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../img/icon-192.png">
+  <link rel="manifest" href="../../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/project/public_resources/gdc_portal/">
+  <link rel="canonical" href="website/project/public_resources/gdc_portal/">
 
   
   
@@ -116,10 +152,10 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/project/public_resources/gdc_portal/">
+  <meta property="og:url" content="website/project/public_resources/gdc_portal/">
   <meta property="og:title" content="Genomic Data Commons Data Portal | CDRL">
-  <meta property="og:description" content="A data portal for storing, analyzing, and sharing genomic and clinical data from patients with cancer."><meta property="og:image" content="//localhost:1313/project/public_resources/gdc_portal/featured.png">
-  <meta property="twitter:image" content="//localhost:1313/project/public_resources/gdc_portal/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="A data portal for storing, analyzing, and sharing genomic and clinical data from patients with cancer."><meta property="og:image" content="website/project/public_resources/gdc_portal/featured.png">
+  <meta property="twitter:image" content="website/project/public_resources/gdc_portal/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-02-06T00:00:00&#43;00:00">
@@ -148,12 +184,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/project/public_resources/gdc_portal/"
+    "@id": "website/project/public_resources/gdc_portal/"
   },
   "headline": "Genomic Data Commons Data Portal",
   
   "image": [
-    "//localhost:1313/project/public_resources/gdc_portal/featured.png"
+    "website/project/public_resources/gdc_portal/featured.png"
   ],
   
   "datePublished": "2022-02-06T00:00:00Z",
@@ -169,7 +205,7 @@
     "name": "CDRL",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/img/cdrl_logo_square.png"
+      "url": "website/img/cdrl_logo_square.png"
     }
   },
   "description": "A data portal for storing, analyzing, and sharing genomic and clinical data from patients with cancer."
@@ -272,7 +308,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -294,7 +330,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -316,7 +352,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -338,7 +374,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -360,7 +396,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -382,7 +418,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../post"><span>Posts</span></a>
+          <a class="nav-link " href="../../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -404,7 +440,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -426,7 +462,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -455,7 +491,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -646,7 +682,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 600px; max-height: 82px;">
   <div style="position: relative">
-    <img src="../../../project/public_resources/gdc_portal/featured.png" alt="" class="featured-image">
+    <img src="website/project/public_resources/gdc_portal/featured.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -666,15 +702,15 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="../../../tags/resources/">Resources</a>
+  <a class="badge badge-light" href="website/tags/resources/">Resources</a>
   
-  <a class="badge badge-light" href="../../../tags/protein/">Protein</a>
+  <a class="badge badge-light" href="website/tags/protein/">Protein</a>
   
-  <a class="badge badge-light" href="../../../tags/gene/">Gene</a>
+  <a class="badge badge-light" href="website/tags/gene/">Gene</a>
   
-  <a class="badge badge-light" href="../../../tags/cancer/">Cancer</a>
+  <a class="badge badge-light" href="website/tags/cancer/">Cancer</a>
   
-  <a class="badge badge-light" href="../../../tags/database/">Database</a>
+  <a class="badge badge-light" href="website/tags/database/">Database</a>
   
 </div>
 
@@ -691,7 +727,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/project/public_resources/gdc_portal/&amp;text=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=website/project/public_resources/gdc_portal/&amp;text=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -704,7 +740,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/project/public_resources/gdc_portal/&amp;t=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=website/project/public_resources/gdc_portal/&amp;t=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -717,7 +753,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Genomic%20Data%20Commons%20Data%20Portal&amp;body=//localhost:1313/project/public_resources/gdc_portal/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Genomic%20Data%20Commons%20Data%20Portal&amp;body=website/project/public_resources/gdc_portal/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -730,7 +766,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/project/public_resources/gdc_portal/&amp;title=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=website/project/public_resources/gdc_portal/&amp;title=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -743,7 +779,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Genomic%20Data%20Commons%20Data%20Portal%20//localhost:1313/project/public_resources/gdc_portal/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Genomic%20Data%20Commons%20Data%20Portal%20website/project/public_resources/gdc_portal/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -756,7 +792,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/project/public_resources/gdc_portal/&amp;title=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=website/project/public_resources/gdc_portal/&amp;title=Genomic%20Data%20Commons%20Data%20Portal" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -793,11 +829,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="../../../authors/cdrl/avatar_hua80ca0f606d927aac2016f631c7b4411_20649_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="website/authors/cdrl/avatar_hua80ca0f606d927aac2016f631c7b4411_20649_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/cdrl/">CDRL</a></h5>
+      <h5 class="card-title"><a href="website/authors/cdrl/">CDRL</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -821,15 +857,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="../../../project/public_resources/cbioportal/">cBioPortal</a></li>
+      <li><a href="website/project/public_resources/cbioportal/">cBioPortal</a></li>
       
-      <li><a href="../../../project/public_resources/brainatlas/">Allen Brain Map</a></li>
+      <li><a href="website/project/public_resources/brainatlas/">Allen Brain Map</a></li>
       
-      <li><a href="../../../project/public_resources/enrichr/">Enrichr</a></li>
+      <li><a href="website/project/public_resources/enrichr/">Enrichr</a></li>
       
-      <li><a href="../../../project/public_resources/geo/">Gene Expression Omnibus (GEO)</a></li>
+      <li><a href="website/project/public_resources/geo/">Gene Expression Omnibus (GEO)</a></li>
       
-      <li><a href="../../../project/public_resources/gtex/">Genotype-Tissue Expression (GTEx)</a></li>
+      <li><a href="website/project/public_resources/gtex/">Genotype-Tissue Expression (GTEx)</a></li>
       
     </ul>
   </div>
@@ -955,7 +991,7 @@
     
     
     
-    <script src="../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -968,16 +1004,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

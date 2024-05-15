@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Kwak | CDRL</title>
-    <link>//localhost:1313/authors/s.-kwak/</link>
-      <atom:link href="//localhost:1313/authors/s.-kwak/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/s.-kwak/</link>
+      <atom:link href="website/authors/s.-kwak/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Kwak</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>S. Kwak</title>
-      <link>//localhost:1313/authors/s.-kwak/</link>
+      <link>website/authors/s.-kwak/</link>
     </image>
     
     <item>
       <title>High-affinity Na&#43;/K&#43;-dependent glutamate transporter EAAT4 is expressed throughout the rat fore- and midbrain</title>
-      <link>//localhost:1313/publication/2008-09-05_rn5207/</link>
+      <link>website/publication/2008-09-05_rn5207/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2008-09-05_rn5207/</guid>
+      <guid>website/publication/2008-09-05_rn5207/</guid>
       <description></description>
     </item>
     

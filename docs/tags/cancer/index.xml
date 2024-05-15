@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cancer | CDRL</title>
-    <link>//localhost:1313/tags/cancer/</link>
-      <atom:link href="//localhost:1313/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/cancer/</link>
+      <atom:link href="website/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>Cancer</title>
-      <link>//localhost:1313/tags/cancer/</link>
+      <link>website/tags/cancer/</link>
     </image>
     
     <item>
       <title>cBioPortal</title>
-      <link>//localhost:1313/project/public_resources/cbioportal/</link>
+      <link>website/project/public_resources/cbioportal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/cbioportal/</guid>
+      <guid>website/project/public_resources/cbioportal/</guid>
       <description>&lt;p&gt;The cBioPortal for Cancer Genomics is an open-access, open-source resource for interactive exploration of multidimensional cancer genomics data sets. The goal of cBioPortal is to significantly lower the barriers between complex genomic data and cancer researchers by providing rapid, intuitive, and high-quality access to molecular profiles and clinical attributes from large-scale cancer genomics projects, and therefore to empower researchers to translate these rich data sets into biologic insights and clinical applications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genomic Data Commons Data Portal</title>
-      <link>//localhost:1313/project/public_resources/gdc_portal/</link>
+      <link>website/project/public_resources/gdc_portal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/gdc_portal/</guid>
+      <guid>website/project/public_resources/gdc_portal/</guid>
       <description>&lt;p&gt;The National Cancer Institute Genomic Data Commons (GDC) is an information system for storing, analyzing, and sharing genomic and clinical data from patients with cancer. The recent high-throughput sequencing of cancer genomes and transcriptomes has produced a big data problem that precludes many cancer biologists and oncologists from gleaning knowledge from these data regarding the nature of malignant processes and the relationship between tumor genomic profiles and treatment response. The GDC aims to democratize access to cancer genomic data and to foster the sharing of these data to promote precision medicine approaches to the diagnosis and treatment of cancer. The GDC Data Portal is a robust data-driven platform that allows cancer researchers and bioinformaticians to search and download cancer data for analysis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proteomic Data Commons (PDC)</title>
-      <link>//localhost:1313/project/public_resources/pdc_portal/</link>
+      <link>website/project/public_resources/pdc_portal/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pdc_portal/</guid>
+      <guid>website/project/public_resources/pdc_portal/</guid>
       <description>&lt;p&gt;The objectives of the National Cancer Institute’s Proteomic Data Commons (PDC) are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;to make cancer-related proteomic datasets easily accessible to the public&lt;/li&gt;

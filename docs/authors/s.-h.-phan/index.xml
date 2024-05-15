@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. H. Phan | CDRL</title>
-    <link>//localhost:1313/authors/s.-h.-phan/</link>
-      <atom:link href="//localhost:1313/authors/s.-h.-phan/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/s.-h.-phan/</link>
+      <atom:link href="website/authors/s.-h.-phan/index.xml" rel="self" type="application/rss+xml" />
     <description>S. H. Phan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>S. H. Phan</title>
-      <link>//localhost:1313/authors/s.-h.-phan/</link>
+      <link>website/authors/s.-h.-phan/</link>
     </image>
     
     <item>
       <title>CC-chemokine receptor 2 required for bleomycin-induced pulmonary fibrosis</title>
-      <link>//localhost:1313/publication/2003-11-12_rn5222/</link>
+      <link>website/publication/2003-11-12_rn5222/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2003-11-12_rn5222/</guid>
+      <guid>website/publication/2003-11-12_rn5222/</guid>
       <description></description>
     </item>
     

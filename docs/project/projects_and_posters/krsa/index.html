@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="KRSA is an R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/project/projects_and_posters/krsa/">
+  <link rel="alternate" hreflang="en-us" href="website/project/projects_and_posters/krsa/">
   
   
   
@@ -89,22 +89,58 @@
   
   
   
-  <link rel="stylesheet" href="../../../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
 
-  <link rel="manifest" href="../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../img/icon-192.png">
+  <link rel="manifest" href="../../../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../../../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/project/projects_and_posters/krsa/">
+  <link rel="canonical" href="website/project/projects_and_posters/krsa/">
 
   
   
@@ -116,10 +152,10 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/project/projects_and_posters/krsa/">
+  <meta property="og:url" content="website/project/projects_and_posters/krsa/">
   <meta property="og:title" content="KRSA App | CDRL">
-  <meta property="og:description" content="KRSA is an R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data"><meta property="og:image" content="//localhost:1313/project/projects_and_posters/krsa/featured.png">
-  <meta property="twitter:image" content="//localhost:1313/project/projects_and_posters/krsa/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="KRSA is an R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data"><meta property="og:image" content="website/project/projects_and_posters/krsa/featured.png">
+  <meta property="twitter:image" content="website/project/projects_and_posters/krsa/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-10-24T00:00:00&#43;00:00">
@@ -148,12 +184,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/project/projects_and_posters/krsa/"
+    "@id": "website/project/projects_and_posters/krsa/"
   },
   "headline": "KRSA App",
   
   "image": [
-    "//localhost:1313/project/projects_and_posters/krsa/featured.png"
+    "website/project/projects_and_posters/krsa/featured.png"
   ],
   
   "datePublished": "2020-10-24T00:00:00Z",
@@ -169,7 +205,7 @@
     "name": "CDRL",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/img/cdrl_logo_square.png"
+      "url": "website/img/cdrl_logo_square.png"
     }
   },
   "description": "KRSA is an R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data"
@@ -272,7 +308,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#demo"><span>About</span></a>
+          <a class="nav-link " href="../../../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -294,7 +330,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../team"><span>Team</span></a>
+          <a class="nav-link " href="../../../website/team"><span>Team</span></a>
         </li>
 
         
@@ -316,7 +352,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../../../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -338,7 +374,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../../../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -360,7 +396,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="../../../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../../../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -382,7 +418,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../post"><span>Posts</span></a>
+          <a class="nav-link " href="../../../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -404,7 +440,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../../../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -426,7 +462,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../../../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -455,7 +491,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../../../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -678,7 +714,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 196px; max-height: 200px;">
   <div style="position: relative">
-    <img src="../../../project/projects_and_posters/krsa/featured.png" alt="" class="featured-image">
+    <img src="website/project/projects_and_posters/krsa/featured.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -700,15 +736,15 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="../../../tags/apps/">Apps</a>
+  <a class="badge badge-light" href="website/tags/apps/">Apps</a>
   
-  <a class="badge badge-light" href="../../../tags/projects/">Projects</a>
+  <a class="badge badge-light" href="website/tags/projects/">Projects</a>
   
-  <a class="badge badge-light" href="../../../tags/r-shiny/">R Shiny</a>
+  <a class="badge badge-light" href="website/tags/r-shiny/">R Shiny</a>
   
-  <a class="badge badge-light" href="../../../tags/bioinformatics/">Bioinformatics</a>
+  <a class="badge badge-light" href="website/tags/bioinformatics/">Bioinformatics</a>
   
-  <a class="badge badge-light" href="../../../tags/web-application/">Web Application</a>
+  <a class="badge badge-light" href="website/tags/web-application/">Web Application</a>
   
 </div>
 
@@ -725,7 +761,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/project/projects_and_posters/krsa/&amp;text=KRSA%20App" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=website/project/projects_and_posters/krsa/&amp;text=KRSA%20App" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -738,7 +774,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/project/projects_and_posters/krsa/&amp;t=KRSA%20App" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=website/project/projects_and_posters/krsa/&amp;t=KRSA%20App" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -751,7 +787,7 @@
       
       
       <li>
-        <a href="mailto:?subject=KRSA%20App&amp;body=//localhost:1313/project/projects_and_posters/krsa/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=KRSA%20App&amp;body=website/project/projects_and_posters/krsa/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -764,7 +800,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/project/projects_and_posters/krsa/&amp;title=KRSA%20App" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=website/project/projects_and_posters/krsa/&amp;title=KRSA%20App" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -777,7 +813,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=KRSA%20App%20//localhost:1313/project/projects_and_posters/krsa/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=KRSA%20App%20website/project/projects_and_posters/krsa/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -790,7 +826,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/project/projects_and_posters/krsa/&amp;title=KRSA%20App" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=website/project/projects_and_posters/krsa/&amp;title=KRSA%20App" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -827,11 +863,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="../../../authors/khaled/avatar_huf88dc76cdc7c5f50840b0869ec4d27aa_1080060_250x250_fill_lanczos_center_3.png" alt="Avatar">
+      <img class="portrait mr-3" src="website/authors/khaled/avatar_huf88dc76cdc7c5f50840b0869ec4d27aa_1080060_250x250_fill_lanczos_center_3.png" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/khaled/">Khaled Alganem</a></h5>
+      <h5 class="card-title"><a href="website/authors/khaled/">Khaled Alganem</a></h5>
       <h6 class="card-subtitle">Graduate Research Assistant</h6>
       
       <ul class="network-icon" aria-hidden="true">
@@ -855,15 +891,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="../../../project/projects_and_posters/kaleidoscope/">Kaleidoscope App</a></li>
+      <li><a href="website/project/projects_and_posters/kaleidoscope/">Kaleidoscope App</a></li>
       
-      <li><a href="../../../project/projects_and_posters/khaled_sobp2019/">Kaleidoscope Poster (SOBP &amp; GLBIO 2019)</a></li>
+      <li><a href="website/project/projects_and_posters/khaled_sobp2019/">Kaleidoscope Poster (SOBP &amp; GLBIO 2019)</a></li>
       
-      <li><a href="../../../project/webinars_and_workshops/2020_spring_cdrl_webinars/">CDRL Spring 2020 Webinar Series</a></li>
+      <li><a href="website/project/webinars_and_workshops/2020_spring_cdrl_webinars/">CDRL Spring 2020 Webinar Series</a></li>
       
-      <li><a href="../../../project/webinars_and_workshops/intro-to-coding/">Intro to Coding Course Summer 2019</a></li>
+      <li><a href="website/project/webinars_and_workshops/intro-to-coding/">Intro to Coding Course Summer 2019</a></li>
       
-      <li><a href="../../../project/webinars_and_workshops/mini_symposium_2019/">Neurosciences Mini Symposium 2019</a></li>
+      <li><a href="website/project/webinars_and_workshops/mini_symposium_2019/">Neurosciences Mini Symposium 2019</a></li>
       
     </ul>
   </div>
@@ -989,7 +1025,7 @@
     
     
     
-    <script src="../../../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -1002,16 +1038,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../../../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../../../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

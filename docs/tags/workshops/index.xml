@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops | CDRL</title>
-    <link>//localhost:1313/tags/workshops/</link>
-      <atom:link href="//localhost:1313/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/workshops/</link>
+      <atom:link href="website/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshops</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>Workshops</title>
-      <link>//localhost:1313/tags/workshops/</link>
+      <link>website/tags/workshops/</link>
     </image>
     
     <item>
       <title>Intro to Coding Course Summer 2019</title>
-      <link>//localhost:1313/project/webinars_and_workshops/intro-to-coding/</link>
+      <link>website/project/webinars_and_workshops/intro-to-coding/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/webinars_and_workshops/intro-to-coding/</guid>
+      <guid>website/project/webinars_and_workshops/intro-to-coding/</guid>
       <description>&lt;h1 id=&#34;intro-to-coding-course---summer-2019&#34;&gt;Intro to Coding Course - Summer 2019&lt;/h1&gt;
 &lt;p&gt;Description:  This course is designed as an introduction to basic coding concepts and writing in R.  Students will learn how to write and interpret code, as well as how to utilize various packages within these platforms. Additionally, students will gain experience in using other bioinformatics tools that are available online or were developed at the University of Toledo.&lt;/p&gt;
 &lt;p&gt;Goals:  By the end of this course, students will be able to:&lt;/p&gt;
@@ -74,17 +74,17 @@
 &lt;tr&gt;
 &lt;td&gt;8/21/19&lt;/td&gt;
 &lt;td&gt;Statistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;website/authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8/28/19&lt;/td&gt;
 &lt;td&gt;Visualization&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;website/authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;9/04/19&lt;/td&gt;
 &lt;td&gt;Applying What We Have Learned&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle &amp;amp; Marissa Smail&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;website/authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle &amp;amp; Marissa Smail&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -104,7 +104,7 @@
 &lt;td&gt;University of Cincinnati&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;website/authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;mailto:khaled.alganem@rockets.utoledo.edu&#34;&gt;khaled.alganem@rockets.utoledo.edu&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;University of Toledo&lt;/td&gt;
 &lt;/tr&gt;
@@ -114,7 +114,7 @@
 &lt;td&gt;University of Cincinnati&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;../../authors/ram/&#34;&gt;Rammohan Shukla, PhD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;website/authors/ram/&#34;&gt;Rammohan Shukla, PhD&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;mailto:rammohanshukla@gmail.com&#34;&gt;rammohanshukla@gmail.com&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;University of Toledo&lt;/td&gt;
 &lt;/tr&gt;

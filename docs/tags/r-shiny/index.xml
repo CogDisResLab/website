@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Shiny | CDRL</title>
-    <link>//localhost:1313/tags/r-shiny/</link>
-      <atom:link href="//localhost:1313/tags/r-shiny/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/r-shiny/</link>
+      <atom:link href="website/tags/r-shiny/index.xml" rel="self" type="application/rss+xml" />
     <description>R Shiny</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>R Shiny</title>
-      <link>//localhost:1313/tags/r-shiny/</link>
+      <link>website/tags/r-shiny/</link>
     </image>
     
     <item>
       <title>PAVER</title>
-      <link>//localhost:1313/project/projects_and_posters/paver/</link>
+      <link>website/project/projects_and_posters/paver/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/projects_and_posters/paver/</guid>
+      <guid>website/project/projects_and_posters/paver/</guid>
       <description>&lt;p&gt;Omics studies use large amounts of high-throughput data to explain changes underlying different traits or conditions in living things. However, omics analysis often results in long lists of pathways that are difficult to interpret for researchers. PAVER automatically curates similar pathways into groups, identifies the pathway most representative of each group, and provides publication-ready intuitive visualizations. PAVER clusters pathways defined by their vector embedding representations and then identifies the term most cosine similar to its respective cluster’s average embedding. We show the utility of the PAVER R package with a previous study on postmortem chronic schizophrenia brain, where it mirrored manual curation of pathways and delineated neuron layer-specific function. PAVER makes it easy to integrate multiple pathway analyses, discover relevant biological insights, and can work with any pathway database.&lt;/p&gt;
 &lt;p&gt;PAVER is available as an R package and a Shiny web application (see link above).&lt;/p&gt;
 &lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>KRSA App</title>
-      <link>//localhost:1313/project/projects_and_posters/krsa/</link>
+      <link>website/project/projects_and_posters/krsa/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/projects_and_posters/krsa/</guid>
+      <guid>website/project/projects_and_posters/krsa/</guid>
       <description>&lt;p&gt;Phosphorylation by serine-threonine and tyrosine kinases is critical for determining protein function. Array-based platforms for measuring reporter peptide signal levels allow for differential phosphorylation analysis between conditions for distinct active kinases. Peptide array technologies like the PamStation12 from PamGene allow for generating high-throughput, multi-dimensional, and complex functional proteomics data. As the adoption rate of such technologies increases, there is an imperative need for software tools that streamline the process of analyzing such data.&lt;/p&gt;
 &lt;p&gt;We present Kinome Random Sampling Analyzer (&lt;strong&gt;KRSA&lt;/strong&gt;), an R package and R Shiny web-application for analyzing kinome array data to help users better understand the patterns of functional proteomics in complex biological systems. KRSA is an All-In-One tool that reads, formats, fits models, analyzes, and visualizes PamStation12 kinome data.&lt;/p&gt;
 &lt;p&gt;More info on the PamStation12 platform can be found here: &lt;a href=&#34;https://pamgene.com/&#34;&gt;PamGene&lt;/a&gt;&lt;/p&gt;
@@ -46,20 +46,20 @@
     
     <item>
       <title>Kaleidoscope App</title>
-      <link>//localhost:1313/project/projects_and_posters/kaleidoscope/</link>
+      <link>website/project/projects_and_posters/kaleidoscope/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/projects_and_posters/kaleidoscope/</guid>
+      <guid>website/project/projects_and_posters/kaleidoscope/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kaleidoscope&lt;/strong&gt; is an interactive R Shiny web application that provides a platform for an easy access to biological databases and bioinformatics tools via a user-friendly interface that could be explored by researchers to test hypothesis in silico. Fully utilizing these robust bioinformatics tools and rich biological databases, interesting information can be obtained that could be very valuable to the field of biological psychiatry. The observations obtained from this platform could supplement existing hypotheses, spawn new ones and possibly direct future studies.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kaleidoscope Poster (SOBP &amp; GLBIO 2019)</title>
-      <link>//localhost:1313/project/projects_and_posters/khaled_sobp2019/</link>
+      <link>website/project/projects_and_posters/khaled_sobp2019/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/projects_and_posters/khaled_sobp2019/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: &lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;, Jarek Meller, &lt;a href=&#34;../../authors/rob/&#34;&gt;Robert Mccullumsmith&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Presenter&lt;/strong&gt;: &lt;a href=&#34;../../authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/p&gt;
+      <guid>website/project/projects_and_posters/khaled_sobp2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: &lt;a href=&#34;website/authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;, Jarek Meller, &lt;a href=&#34;website/authors/rob/&#34;&gt;Robert Mccullumsmith&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Presenter&lt;/strong&gt;: &lt;a href=&#34;website/authors/khaled/&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;An ever-increasing number of bioinformatic tools are being developed to process, analyze and view a wide range of biological datasets. However, with that growing number of biological databases and bioinformatic tools, it becomes difficult to discover and learn how to use these tools, especially for those who are not well versed in the bioinformatics field. We observed that a large number of biological databases and bioinformatics tools that are relevant to psychiatric disorders are relatively untapped. We developed a platform that aims to mitigate this issue.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Kaleidoscope&lt;/em&gt; is an interactive R Shiny web application that provides a platform for an easy access to biological databases and bioinformatics tools via a user-friendly interface that could be explored by researchers to test hypothesis in silico. Fully utilizing these robust bioinformatics tools and rich biological databases, interesting information can be obtained that could be very valuable to the field of biological psychiatry. The observations obtained from this platform could supplement existing hypotheses, spawn new ones and possibly direct future studies.&lt;/p&gt;

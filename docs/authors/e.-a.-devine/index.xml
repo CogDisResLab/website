@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. A. Devine | CDRL</title>
-    <link>//localhost:1313/authors/e.-a.-devine/</link>
-      <atom:link href="//localhost:1313/authors/e.-a.-devine/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/e.-a.-devine/</link>
+      <atom:link href="website/authors/e.-a.-devine/index.xml" rel="self" type="application/rss+xml" />
     <description>E. A. Devine</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>E. A. Devine</title>
-      <link>//localhost:1313/authors/e.-a.-devine/</link>
+      <link>website/authors/e.-a.-devine/</link>
     </image>
     
     <item>
       <title>Schizophrenia: a disorder of broken brain bioenergetics</title>
-      <link>//localhost:1313/publication/2022-03-11_rn5409/</link>
+      <link>website/publication/2022-03-11_rn5409/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2022-03-11_rn5409/</guid>
+      <guid>website/publication/2022-03-11_rn5409/</guid>
       <description></description>
     </item>
     

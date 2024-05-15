@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B. Bai | CDRL</title>
-    <link>//localhost:1313/authors/b.-bai/</link>
-      <atom:link href="//localhost:1313/authors/b.-bai/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/b.-bai/</link>
+      <atom:link href="website/authors/b.-bai/index.xml" rel="self" type="application/rss+xml" />
     <description>B. Bai</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>B. Bai</title>
-      <link>//localhost:1313/authors/b.-bai/</link>
+      <link>website/authors/b.-bai/</link>
     </image>
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
-      <link>//localhost:1313/publication/2019-05-21_rn5154/</link>
+      <link>website/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2019-05-21_rn5154/</guid>
+      <guid>website/publication/2019-05-21_rn5154/</guid>
       <description></description>
     </item>
     

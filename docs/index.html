@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/">
+  <link rel="alternate" hreflang="en-us" href="website/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="./css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="./index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="./index.webmanifest">
-  <link rel="icon" type="image/png" href="./img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="./img/icon-192.png">
+  <link rel="manifest" href="./website/index.webmanifest">
+  <link rel="icon" type="image/png" href="./website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="./website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/">
+  <link rel="canonical" href="website/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/">
+  <meta property="og:url" content="website/">
   <meta property="og:title" content="CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2024-05-11T00:00:00&#43;00:00">
   
@@ -135,10 +171,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "//localhost:1313/?q={search_term_string}",
+    "target": "website/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "//localhost:1313/"
+  "url": "website/"
 }
 </script>
 
@@ -148,9 +184,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "//localhost:1313/",
+  "@id": "website/",
   "name": "CDRL",
-  "logo": "//localhost:1313/img/cdrl_logo_square.png",
+  "logo": "website/img/cdrl_logo_square.png",
   
   
   
@@ -164,7 +200,7 @@
   },
   
   
-  "url": "//localhost:1313/"
+  "url": "website/"
 }
 </script>
 
@@ -262,7 +298,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./#demo" data-target="#demo"><span>About</span></a>
+          <a class="nav-link " href="./website/#demo"><span>About</span></a>
         </li>
 
         
@@ -284,7 +320,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./team"><span>Team</span></a>
+          <a class="nav-link " href="./website/team"><span>Team</span></a>
         </li>
 
         
@@ -306,7 +342,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./publications"><span>Publications</span></a>
+          <a class="nav-link " href="./website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -328,7 +364,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="./website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -350,7 +386,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./projects"><span>Projects</span></a>
+          <a class="nav-link " href="./website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -372,7 +408,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./post"><span>Posts</span></a>
+          <a class="nav-link " href="./website/post"><span>Posts</span></a>
         </li>
 
         
@@ -394,7 +430,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="./website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -416,7 +452,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="./website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -445,7 +481,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="./#contact" data-target="#contact"><span>Contact</span></a>
+          <a class="nav-link " href="./website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -557,7 +593,7 @@
   
   </div>
   <div class="col-6 mx-auto col-md-6 order-md-2 hero-media">
-    <img src="./img/cdrl_logo_wide.png" alt="">
+    <img src="./website/img/cdrl_logo_wide.png" alt="">
   </div>
 </div>
 
@@ -613,7 +649,7 @@
   
   
 
-  <section id="demo" class="home-section wg-blank dark  bg-image parallax " style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(&#39;//localhost:1313/img/headers/bubbles-wide.jpg&#39;);background-size: cover;background-position: center;padding: 20px 0 20px 0;" >
+  <section id="demo" class="home-section wg-blank dark  bg-image parallax " style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(&#39;website/img/headers/bubbles-wide.jpg&#39;);background-size: cover;background-position: center;padding: 20px 0 20px 0;" >
     <div class="container">
       
 
@@ -623,7 +659,7 @@
     <div class="col-lg-12">
       <h1>About</h1>
       
-      <p>The Cognitive Disorders Research Laboratory (<strong>CDRL</strong>) is located in the Department of Neurosciences at the University of Toledo Medical Center. The mission of the <strong>CDRL</strong> is to explore the pathophysiology of neuropsychiatric disorders with marked cognitive deficits. The laboratory is currently focused on testing specific hypotheses related to schizophrenia and traumatic brain injury. We hypothesize that changes in glutamate reuptake are altered in both of these illnesses, reflecting abnormalities of the expression, localization, and function of glutamate transporters. <a href="./authors/rob/">Robert McCullumsmith MD/PhD</a> Director of the <strong>CDRL</strong> and Chair of the Department of Neurosciences, is a board certified psychiatrist who will see patients at the University of Toledo in the Department of Psychiatry. The overarching goal of the <strong>CDRL</strong> is to ask and answer the largest possible questions in translational neuroscience, using a combination of human postmortem brain tissues and animal models to test specific hypotheses related to the pathophysiology of disease.</p>
+      <p>The Cognitive Disorders Research Laboratory (<strong>CDRL</strong>) is located in the Department of Neurosciences at the University of Toledo Medical Center. The mission of the <strong>CDRL</strong> is to explore the pathophysiology of neuropsychiatric disorders with marked cognitive deficits. The laboratory is currently focused on testing specific hypotheses related to schizophrenia and traumatic brain injury. We hypothesize that changes in glutamate reuptake are altered in both of these illnesses, reflecting abnormalities of the expression, localization, and function of glutamate transporters. <a href="website/authors/rob/">Robert McCullumsmith MD/PhD</a> Director of the <strong>CDRL</strong> and Chair of the Department of Neurosciences, is a board certified psychiatrist who will see patients at the University of Toledo in the Department of Psychiatry. The overarching goal of the <strong>CDRL</strong> is to ask and answer the largest possible questions in translational neuroscience, using a combination of human postmortem brain tissues and animal models to test specific hypotheses related to the pathophysiology of disease.</p>
 
     </div>
   
@@ -722,7 +758,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./publication/2022-04-01_rn5408/" >Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</a>
+      <a href="website/publication/2022-04-01_rn5408/" >Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</a>
     </h3>
 
     
@@ -815,7 +851,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./publication/2022-03-22_rn5410/" >Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</a>
+      <a href="website/publication/2022-03-22_rn5410/" >Hepatic kinome atlas: An in-depth identification of kinase pathways in liver fibrosis of humans and rodents</a>
     </h3>
 
     
@@ -908,7 +944,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./publication/2022-03-11_rn5409/" >Schizophrenia: a disorder of broken brain bioenergetics</a>
+      <a href="website/publication/2022-03-11_rn5409/" >Schizophrenia: a disorder of broken brain bioenergetics</a>
     </h3>
 
     
@@ -1001,7 +1037,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./publication/2021-12-31_rn5285/" >The active kinome: The modern view of how active protein kinase networks fit in biological research</a>
+      <a href="website/publication/2021-12-31_rn5285/" >The active kinome: The modern view of how active protein kinase networks fit in biological research</a>
     </h3>
 
     
@@ -1092,7 +1128,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./publication/2021-12-24_rn5289/" >Editorial overview: Neuroscience: Advances in the field</a>
+      <a href="website/publication/2021-12-24_rn5289/" >Editorial overview: Neuroscience: Advances in the field</a>
     </h3>
 
     
@@ -1254,7 +1290,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./project/projects_and_posters/paver/" >PAVER</a>
+      <a href="website/project/projects_and_posters/paver/" >PAVER</a>
     </h3>
 
     
@@ -1367,8 +1403,8 @@
     
     
     
-    <a href="./project/projects_and_posters/paver/" >
-      <img src="./project/projects_and_posters/paver/featured_hu0043d8dbc853688d59d2c3ca8fc81901_74769_150x0_resize_lanczos_3.png" alt="">
+    <a href="website/project/projects_and_posters/paver/" >
+      <img src="website/project/projects_and_posters/paver/featured_hu0043d8dbc853688d59d2c3ca8fc81901_74769_150x0_resize_lanczos_3.png" alt="">
     </a>
     
   </div>
@@ -1400,7 +1436,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./project/projects_and_posters/krsa/" >KRSA App</a>
+      <a href="website/project/projects_and_posters/krsa/" >KRSA App</a>
     </h3>
 
     
@@ -1529,8 +1565,8 @@
     
     
     
-    <a href="./project/projects_and_posters/krsa/" >
-      <img src="./project/projects_and_posters/krsa/featured_hu8e816dc0abc47d73562fbeade5a592f5_21211_150x0_resize_lanczos_3.png" alt="">
+    <a href="website/project/projects_and_posters/krsa/" >
+      <img src="website/project/projects_and_posters/krsa/featured_hu8e816dc0abc47d73562fbeade5a592f5_21211_150x0_resize_lanczos_3.png" alt="">
     </a>
     
   </div>
@@ -1562,7 +1598,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./project/projects_and_posters/kaleidoscope/" >Kaleidoscope App</a>
+      <a href="website/project/projects_and_posters/kaleidoscope/" >Kaleidoscope App</a>
     </h3>
 
     
@@ -1659,8 +1695,8 @@
     
     
     
-    <a href="./project/projects_and_posters/kaleidoscope/" >
-      <img src="./project/projects_and_posters/kaleidoscope/featured_huaaf63337ec982392e8fba3cd445a4153_557726_150x0_resize_lanczos_3.png" alt="">
+    <a href="website/project/projects_and_posters/kaleidoscope/" >
+      <img src="website/project/projects_and_posters/kaleidoscope/featured_huaaf63337ec982392e8fba3cd445a4153_557726_150x0_resize_lanczos_3.png" alt="">
     </a>
     
   </div>
@@ -1762,7 +1798,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./post/accomplishments_abdul_may2022/" >Abdul-rizaq Hamoud Writes Column in Toledo Blade</a>
+      <a href="website/post/accomplishments_abdul_may2022/" >Abdul-rizaq Hamoud Writes Column in Toledo Blade</a>
     </h3>
 
     
@@ -1835,8 +1871,8 @@
     
     
     
-    <a href="./post/accomplishments_abdul_may2022/" >
-      <img src="./post/accomplishments_abdul_may2022/featured_hu1ac18238b90b60867b25447e06f37d52_108310_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_abdul_may2022/" >
+      <img src="website/post/accomplishments_abdul_may2022/featured_hu1ac18238b90b60867b25447e06f37d52_108310_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1865,7 +1901,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./post/accomplishments_nick_may2022/" >Nicholas Henkel receives Graduate Research Award for 2022</a>
+      <a href="website/post/accomplishments_nick_may2022/" >Nicholas Henkel receives Graduate Research Award for 2022</a>
     </h3>
 
     
@@ -1938,8 +1974,8 @@
     
     
     
-    <a href="./post/accomplishments_nick_may2022/" >
-      <img src="./post/accomplishments_nick_may2022/featured_hu711616d1d39c0ec1b69019e8580e0205_337321_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_nick_may2022/" >
+      <img src="website/post/accomplishments_nick_may2022/featured_hu711616d1d39c0ec1b69019e8580e0205_337321_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1968,7 +2004,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./post/accomplishments_justin_march2022/" >Research Article Published in Hepatology</a>
+      <a href="website/post/accomplishments_justin_march2022/" >Research Article Published in Hepatology</a>
     </h3>
 
     
@@ -2041,8 +2077,8 @@
     
     
     
-    <a href="./post/accomplishments_justin_march2022/" >
-      <img src="./post/accomplishments_justin_march2022/featured_hu672462164fb31749292be311856614e3_487321_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_justin_march2022/" >
+      <img src="website/post/accomplishments_justin_march2022/featured_hu672462164fb31749292be311856614e3_487321_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2071,7 +2107,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./post/accomplishments_khaled_billy_march2022/" >Khaled Alganem and William Ryan receive Class of 2022 Graduate Student Awards</a>
+      <a href="website/post/accomplishments_khaled_billy_march2022/" >Khaled Alganem and William Ryan receive Class of 2022 Graduate Student Awards</a>
     </h3>
 
     
@@ -2144,8 +2180,8 @@
     
     
     
-    <a href="./post/accomplishments_khaled_billy_march2022/" >
-      <img src="./post/accomplishments_khaled_billy_march2022/featured_hu3899a14aec21609ab6290204ed5bb97f_434628_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_khaled_billy_march2022/" >
+      <img src="website/post/accomplishments_khaled_billy_march2022/featured_hu3899a14aec21609ab6290204ed5bb97f_434628_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2174,7 +2210,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./post/accomplishments_rawan_february2022/" >Rawan Alnafisah Writes Column in Toledo Blade</a>
+      <a href="website/post/accomplishments_rawan_february2022/" >Rawan Alnafisah Writes Column in Toledo Blade</a>
     </h3>
 
     
@@ -2247,8 +2283,8 @@
     
     
     
-    <a href="./post/accomplishments_rawan_february2022/" >
-      <img src="./post/accomplishments_rawan_february2022/featured_huaf8e5bc1488ed22aefcdcb4224339fcd_102082_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_rawan_february2022/" >
+      <img src="website/post/accomplishments_rawan_february2022/featured_huaf8e5bc1488ed22aefcdcb4224339fcd_102082_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2277,7 +2313,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="./post/accomplishments_ali_september2021/" >Dr. Ali Imami is Awarded Scholarship to Attend Conference on Genome Informatics</a>
+      <a href="website/post/accomplishments_ali_september2021/" >Dr. Ali Imami is Awarded Scholarship to Attend Conference on Genome Informatics</a>
     </h3>
 
     
@@ -2350,8 +2386,8 @@
     
     
     
-    <a href="./post/accomplishments_ali_september2021/" >
-      <img src="./post/accomplishments_ali_september2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_ali_september2021/" >
+      <img src="website/post/accomplishments_ali_september2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2427,7 +2463,7 @@
     
     background-image:
     linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), 
-    url('//localhost:1313/img/headers/bubbles-wide.jpg');
+    url('website/img/headers/bubbles-wide.jpg');
     
     ;">
     <div class="container" style="text-align: center;">
@@ -2461,7 +2497,7 @@
     
     background-image:
     linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), 
-    url('//localhost:1313/img/headers/bubbles-wide.jpg');
+    url('website/img/headers/bubbles-wide.jpg');
     
     ;">
     <div class="container" style="text-align: center;">
@@ -2495,7 +2531,7 @@
     
     background-image:
     linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), 
-    url('//localhost:1313/img/headers/bubbles-wide.jpg');
+    url('website/img/headers/bubbles-wide.jpg');
     
     ;">
     <div class="container" style="text-align: center;">
@@ -2757,7 +2793,7 @@
     
     
     
-    <script src="./js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -2770,16 +2806,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="./privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="./terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

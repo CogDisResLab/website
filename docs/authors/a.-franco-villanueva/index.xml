@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Franco-Villanueva | CDRL</title>
-    <link>//localhost:1313/authors/a.-franco-villanueva/</link>
-      <atom:link href="//localhost:1313/authors/a.-franco-villanueva/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/a.-franco-villanueva/</link>
+      <atom:link href="website/authors/a.-franco-villanueva/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Franco-Villanueva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>A. Franco-Villanueva</title>
-      <link>//localhost:1313/authors/a.-franco-villanueva/</link>
+      <link>website/authors/a.-franco-villanueva/</link>
     </image>
     
     <item>
       <title>Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</title>
-      <link>//localhost:1313/publication/2018-07-19_rn5161/</link>
+      <link>website/publication/2018-07-19_rn5161/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2018-07-19_rn5161/</guid>
+      <guid>website/publication/2018-07-19_rn5161/</guid>
       <description></description>
     </item>
     

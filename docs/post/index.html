@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   
   
   
@@ -35,7 +35,7 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/post/">
+  <link rel="alternate" hreflang="en-us" href="website/post/">
   
   
   
@@ -89,24 +89,60 @@
   
   
   
-  <link rel="stylesheet" href="../css/academic.css">
+  <link rel="stylesheet" href="website/css/academic.css">
 
   
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="../post/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="website/post/index.xml" type="application/rss+xml" title="CDRL">
   
 
-  <link rel="manifest" href="../index.webmanifest">
-  <link rel="icon" type="image/png" href="../img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="../img/icon-192.png">
+  <link rel="manifest" href="../website/index.webmanifest">
+  <link rel="icon" type="image/png" href="../website/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="../website/img/icon-192.png">
 
-  <link rel="canonical" href="//localhost:1313/post/">
+  <link rel="canonical" href="website/post/">
 
   
   
@@ -119,10 +155,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="CDRL">
-  <meta property="og:url" content="//localhost:1313/post/">
+  <meta property="og:url" content="website/post/">
   <meta property="og:title" content="Posts | CDRL">
-  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="//localhost:1313/img/cdrl_logo_square.png">
-  <meta property="twitter:image" content="//localhost:1313/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="website/img/cdrl_logo_square.png">
+  <meta property="twitter:image" content="website/img/cdrl_logo_square.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-05-02T00:00:00&#43;00:00">
   
@@ -223,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../#demo"><span>About</span></a>
+          <a class="nav-link " href="../website/#demo"><span>About</span></a>
         </li>
 
         
@@ -245,7 +281,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../team"><span>Team</span></a>
+          <a class="nav-link " href="../website/team"><span>Team</span></a>
         </li>
 
         
@@ -267,7 +303,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../publications"><span>Publications</span></a>
+          <a class="nav-link " href="../website/publications"><span>Publications</span></a>
         </li>
 
         
@@ -289,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../talks"><span>Webinars/Workshops</span></a>
+          <a class="nav-link " href="../website/talks"><span>Webinars/Workshops</span></a>
         </li>
 
         
@@ -311,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../projects"><span>Projects</span></a>
+          <a class="nav-link " href="../website/projects"><span>Projects</span></a>
         </li>
 
         
@@ -333,7 +369,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="../post"><span>Posts</span></a>
+          <a class="nav-link  active" href="../website/post"><span>Posts</span></a>
         </li>
 
         
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../resources"><span>Public Resources</span></a>
+          <a class="nav-link " href="../website/resources"><span>Public Resources</span></a>
         </li>
 
         
@@ -377,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../gallery"><span>Gallery</span></a>
+          <a class="nav-link " href="../website/gallery"><span>Gallery</span></a>
         </li>
 
         
@@ -406,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="../website/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -493,7 +529,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_abdul_may2022/" >Abdul-rizaq Hamoud Writes Column in Toledo Blade</a>
+      <a href="website/post/accomplishments_abdul_may2022/" >Abdul-rizaq Hamoud Writes Column in Toledo Blade</a>
     </h3>
 
     
@@ -566,8 +602,8 @@
     
     
     
-    <a href="../post/accomplishments_abdul_may2022/" >
-      <img src="../post/accomplishments_abdul_may2022/featured_hu1ac18238b90b60867b25447e06f37d52_108310_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_abdul_may2022/" >
+      <img src="website/post/accomplishments_abdul_may2022/featured_hu1ac18238b90b60867b25447e06f37d52_108310_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -596,7 +632,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_nick_may2022/" >Nicholas Henkel receives Graduate Research Award for 2022</a>
+      <a href="website/post/accomplishments_nick_may2022/" >Nicholas Henkel receives Graduate Research Award for 2022</a>
     </h3>
 
     
@@ -669,8 +705,8 @@
     
     
     
-    <a href="../post/accomplishments_nick_may2022/" >
-      <img src="../post/accomplishments_nick_may2022/featured_hu711616d1d39c0ec1b69019e8580e0205_337321_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_nick_may2022/" >
+      <img src="website/post/accomplishments_nick_may2022/featured_hu711616d1d39c0ec1b69019e8580e0205_337321_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -699,7 +735,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_justin_march2022/" >Research Article Published in Hepatology</a>
+      <a href="website/post/accomplishments_justin_march2022/" >Research Article Published in Hepatology</a>
     </h3>
 
     
@@ -772,8 +808,8 @@
     
     
     
-    <a href="../post/accomplishments_justin_march2022/" >
-      <img src="../post/accomplishments_justin_march2022/featured_hu672462164fb31749292be311856614e3_487321_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_justin_march2022/" >
+      <img src="website/post/accomplishments_justin_march2022/featured_hu672462164fb31749292be311856614e3_487321_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -802,7 +838,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_khaled_billy_march2022/" >Khaled Alganem and William Ryan receive Class of 2022 Graduate Student Awards</a>
+      <a href="website/post/accomplishments_khaled_billy_march2022/" >Khaled Alganem and William Ryan receive Class of 2022 Graduate Student Awards</a>
     </h3>
 
     
@@ -875,8 +911,8 @@
     
     
     
-    <a href="../post/accomplishments_khaled_billy_march2022/" >
-      <img src="../post/accomplishments_khaled_billy_march2022/featured_hu3899a14aec21609ab6290204ed5bb97f_434628_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_khaled_billy_march2022/" >
+      <img src="website/post/accomplishments_khaled_billy_march2022/featured_hu3899a14aec21609ab6290204ed5bb97f_434628_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -905,7 +941,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_rawan_february2022/" >Rawan Alnafisah Writes Column in Toledo Blade</a>
+      <a href="website/post/accomplishments_rawan_february2022/" >Rawan Alnafisah Writes Column in Toledo Blade</a>
     </h3>
 
     
@@ -978,8 +1014,8 @@
     
     
     
-    <a href="../post/accomplishments_rawan_february2022/" >
-      <img src="../post/accomplishments_rawan_february2022/featured_huaf8e5bc1488ed22aefcdcb4224339fcd_102082_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_rawan_february2022/" >
+      <img src="website/post/accomplishments_rawan_february2022/featured_huaf8e5bc1488ed22aefcdcb4224339fcd_102082_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1008,7 +1044,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_ali_september2021/" >Dr. Ali Imami is Awarded Scholarship to Attend Conference on Genome Informatics</a>
+      <a href="website/post/accomplishments_ali_september2021/" >Dr. Ali Imami is Awarded Scholarship to Attend Conference on Genome Informatics</a>
     </h3>
 
     
@@ -1081,8 +1117,8 @@
     
     
     
-    <a href="../post/accomplishments_ali_september2021/" >
-      <img src="../post/accomplishments_ali_september2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_ali_september2021/" >
+      <img src="website/post/accomplishments_ali_september2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1111,7 +1147,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_khaled_august2021/" >Research Article Featured by Nature Communication Biology</a>
+      <a href="website/post/accomplishments_khaled_august2021/" >Research Article Featured by Nature Communication Biology</a>
     </h3>
 
     
@@ -1184,8 +1220,8 @@
     
     
     
-    <a href="../post/accomplishments_khaled_august2021/" >
-      <img src="../post/accomplishments_khaled_august2021/featured_hu36014eee76dc7c952032e3831df50d78_52355_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_khaled_august2021/" >
+      <img src="website/post/accomplishments_khaled_august2021/featured_hu36014eee76dc7c952032e3831df50d78_52355_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1214,7 +1250,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_sinead_june2021/" >Dr. Sinead O’Donovan Serves as a Reviewer for NIMH</a>
+      <a href="website/post/accomplishments_sinead_june2021/" >Dr. Sinead O’Donovan Serves as a Reviewer for NIMH</a>
     </h3>
 
     
@@ -1287,8 +1323,8 @@
     
     
     
-    <a href="../post/accomplishments_sinead_june2021/" >
-      <img src="../post/accomplishments_sinead_june2021/featured_hu441ede651e3d432df556f6ac8be09276_976271_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_sinead_june2021/" >
+      <img src="website/post/accomplishments_sinead_june2021/featured_hu441ede651e3d432df556f6ac8be09276_976271_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1317,7 +1353,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_rob_june2021/" >2021 Awards for Grantsmanship Announced at The University of Toledo</a>
+      <a href="website/post/accomplishments_rob_june2021/" >2021 Awards for Grantsmanship Announced at The University of Toledo</a>
     </h3>
 
     
@@ -1390,8 +1426,8 @@
     
     
     
-    <a href="../post/accomplishments_rob_june2021/" >
-      <img src="../post/accomplishments_rob_june2021/featured_hu78d7e7d63c29083bbdcecbc67478313a_79613_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_rob_june2021/" >
+      <img src="website/post/accomplishments_rob_june2021/featured_hu78d7e7d63c29083bbdcecbc67478313a_79613_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1420,7 +1456,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="../post/accomplishments_ali_june2021/" >Dr. Ali Imami Receives University Fellowship</a>
+      <a href="website/post/accomplishments_ali_june2021/" >Dr. Ali Imami Receives University Fellowship</a>
     </h3>
 
     
@@ -1493,8 +1529,8 @@
     
     
     
-    <a href="../post/accomplishments_ali_june2021/" >
-      <img src="../post/accomplishments_ali_june2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="website/post/accomplishments_ali_june2021/" >
+      <img src="website/post/accomplishments_ali_june2021/featured_hu5fd720d8a62dd071bea7cf51c29d6eb6_5716_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1508,7 +1544,7 @@
   <ul class="pagination justify-content-center">
     
     
-    <li class="page-item"><a class="page-link" href="../post/page/2/">&raquo;</a></li>
+    <li class="page-item"><a class="page-link" href="website/post/page/2/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -1616,7 +1652,7 @@
     
     
     
-    <script src="../js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="website/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
 
     
 
@@ -1629,16 +1665,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="../privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="../terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

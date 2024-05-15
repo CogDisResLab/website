@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. S. Alnafisah | CDRL</title>
-    <link>//localhost:1313/authors/r.-s.-alnafisah/</link>
-      <atom:link href="//localhost:1313/authors/r.-s.-alnafisah/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/r.-s.-alnafisah/</link>
+      <atom:link href="website/authors/r.-s.-alnafisah/index.xml" rel="self" type="application/rss+xml" />
     <description>R. S. Alnafisah</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>R. S. Alnafisah</title>
-      <link>//localhost:1313/authors/r.-s.-alnafisah/</link>
+      <link>website/authors/r.-s.-alnafisah/</link>
     </image>
     
     <item>
       <title>Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</title>
-      <link>//localhost:1313/publication/2022-04-01_rn5408/</link>
+      <link>website/publication/2022-04-01_rn5408/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2022-04-01_rn5408/</guid>
+      <guid>website/publication/2022-04-01_rn5408/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Astrocytes in Major Neuropsychiatric Disorders</title>
-      <link>//localhost:1313/publication/2021-01-08_rn5136/</link>
+      <link>website/publication/2021-01-08_rn5136/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2021-01-08_rn5136/</guid>
+      <guid>website/publication/2021-01-08_rn5136/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signature-based approaches for informed drug repurposing: targeting CNS disorders</title>
-      <link>//localhost:1313/publication/2020-07-01_rn5145/</link>
+      <link>website/publication/2020-07-01_rn5145/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-07-01_rn5145/</guid>
+      <guid>website/publication/2020-07-01_rn5145/</guid>
       <description></description>
     </item>
     

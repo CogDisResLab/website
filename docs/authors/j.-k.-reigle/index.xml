@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. K. Reigle | CDRL</title>
-    <link>//localhost:1313/authors/j.-k.-reigle/</link>
-      <atom:link href="//localhost:1313/authors/j.-k.-reigle/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/j.-k.-reigle/</link>
+      <atom:link href="website/authors/j.-k.-reigle/index.xml" rel="self" type="application/rss+xml" />
     <description>J. K. Reigle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>J. K. Reigle</title>
-      <link>//localhost:1313/authors/j.-k.-reigle/</link>
+      <link>website/authors/j.-k.-reigle/</link>
     </image>
     
     <item>
       <title>Using protein turnover to expand the applications of transcriptomics</title>
-      <link>//localhost:1313/publication/2021-02-25_rn5134/</link>
+      <link>website/publication/2021-02-25_rn5134/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2021-02-25_rn5134/</guid>
+      <guid>website/publication/2021-02-25_rn5134/</guid>
       <description></description>
     </item>
     

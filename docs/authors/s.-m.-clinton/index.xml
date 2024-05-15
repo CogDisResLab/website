@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. M. Clinton | CDRL</title>
-    <link>//localhost:1313/authors/s.-m.-clinton/</link>
-      <atom:link href="//localhost:1313/authors/s.-m.-clinton/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/s.-m.-clinton/</link>
+      <atom:link href="website/authors/s.-m.-clinton/index.xml" rel="self" type="application/rss+xml" />
     <description>S. M. Clinton</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>S. M. Clinton</title>
-      <link>//localhost:1313/authors/s.-m.-clinton/</link>
+      <link>website/authors/s.-m.-clinton/</link>
     </image>
     
     <item>
       <title>Schizophrenia as a disorder of neuroplasticity</title>
-      <link>//localhost:1313/publication/2004-03-10_rn5217/</link>
+      <link>website/publication/2004-03-10_rn5217/</link>
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2004-03-10_rn5217/</guid>
+      <guid>website/publication/2004-03-10_rn5217/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</title>
-      <link>//localhost:1313/publication/2003-12-20_rn5221/</link>
+      <link>website/publication/2003-12-20_rn5221/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2003-12-20_rn5221/</guid>
+      <guid>website/publication/2003-12-20_rn5221/</guid>
       <description></description>
     </item>
     

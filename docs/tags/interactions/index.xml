@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interactions | CDRL</title>
-    <link>//localhost:1313/tags/interactions/</link>
-      <atom:link href="//localhost:1313/tags/interactions/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/interactions/</link>
+      <atom:link href="website/tags/interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Interactions</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>Interactions</title>
-      <link>//localhost:1313/tags/interactions/</link>
+      <link>website/tags/interactions/</link>
     </image>
     
     <item>
       <title>Enrichr</title>
-      <link>//localhost:1313/project/public_resources/enrichr/</link>
+      <link>website/project/public_resources/enrichr/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/enrichr/</guid>
+      <guid>website/project/public_resources/enrichr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Enrichr&lt;/strong&gt; is a gene set search engine that enables the querying of hundreds of thousands of annotated gene sets. Enrichr uniquely integrates knowledge from many high-profile projects to provide synthesized information about mammalian genes and gene sets. The platform provides various methods to compute gene set enrichment, and the results are visualized in several interactive ways.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Geneshot</title>
-      <link>//localhost:1313/project/public_resources/geneshot/</link>
+      <link>website/project/public_resources/geneshot/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/geneshot/</guid>
+      <guid>website/project/public_resources/geneshot/</guid>
       <description>&lt;p&gt;Geneshot enables researchers to enter arbitrary search terms, to receive ranked lists of genes relevant to the search terms. Returned ranked gene lists contain genes that were previously published in association with the search terms, as well as genes predicted to be associated with the terms based on data integration from multiple sources. The search results are presented with interactive visualizations. To predict gene function, Geneshot utilizes gene–gene similarity matrices from processed RNA-seq data, or from gene–gene co-occurrence data obtained from multiple sources. In addition, Geneshot can be used to analyze the novelty of gene sets and augment gene sets with additional relevant genes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GWAS Catalog</title>
-      <link>//localhost:1313/project/public_resources/gwas_cat/</link>
+      <link>website/project/public_resources/gwas_cat/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/gwas_cat/</guid>
+      <guid>website/project/public_resources/gwas_cat/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;GWAS Catalog&lt;/strong&gt; delivers a high-quality curated collection of all published genome-wide association studies enabling investigations to identify causal variants, understand disease mechanisms, and establish targets for novel therapies. The scope of the Catalog has also expanded to targeted and exome arrays with 1000 new associations added for these technologies.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Harmonizome</title>
-      <link>//localhost:1313/project/public_resources/harmonizome/</link>
+      <link>website/project/public_resources/harmonizome/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/harmonizome/</guid>
+      <guid>website/project/public_resources/harmonizome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Harmonizome&lt;/strong&gt; is a collection of information about genes and proteins from 114 datasets provided by 66 online resources.&lt;/p&gt;
 &lt;p&gt;Thanks to technological advances in genomics, transcriptomics, proteomics, metabolomics, and related fields, projects that generate a large number of measurements of the properties of cells, tissues, model organisms, and patients are becoming commonplace in biomedical research. In addition, curation projects are making great progress mining biomedical literature to extract and aggregate decades worth of research findings into online databases. Such projects are generating a wealth of information that potentially can guide research toward novel biomedical discoveries and advances in healthcare.&lt;/p&gt;
 </description>
@@ -51,9 +51,9 @@
     
     <item>
       <title>iLINCS</title>
-      <link>//localhost:1313/project/public_resources/ilincs/</link>
+      <link>website/project/public_resources/ilincs/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/ilincs/</guid>
+      <guid>website/project/public_resources/ilincs/</guid>
       <description>&lt;p&gt;iLINCS (Integrative LINCS) is an integrative web platform for analysis of LINCS data and signatures. The portal provides biologists-friendly user interfaces for analyzing transcriptomics and proteomics LINCS datasets. The portal integrates R analytical engine via several R tools for web-computing (rserve, opencpu, Shiny, rgl) and DCIC developed web tools and applications (FTreeView, Enrichr) into a coherent web platform for LINCS data analysis. Users can follow several workflows which allow them to identify differentially expressed genes, proteins and phosphoproteins in LINCS datasets and use them in analysis of other LINCS and non-LINCS dataset (eg TCGA and GEO transcriptomic datasets), and in the analysis of LINCS L1000 signatures. In this way, the platform facilitates integrative analysis of LINCS data and signatures. The mechanistic interpretation of LINCS transcriptomic and proteomics signatures is facilitated by the enrichment analysis via Enrichr and DAVID, and by pathways analysis using the R implementation of the SPIA algorithm. The portal can be accessed freely and does not require user registration.&lt;/p&gt;
 &lt;p&gt;Scientists are able to compare a &amp;ldquo;disease transcriptional signature&amp;rdquo;, a gene expression profile, to a library of &amp;ldquo;drug activity transcriptional signatures&amp;rdquo; to generate a Connectivity Map based on Connectivity score. Positive correlation between drug perturbations and disease gene expression profiles suggest common gene expression changes, while negative correlation is suggestive of drug perturbation ability to &amp;ldquo;reverse&amp;rdquo; the disease.&lt;/p&gt;
 &lt;p&gt;Portal also provides tools to analyze list of differentially expressed genes in other LINCS and non-LINCS datasets (i.e. TCGA, GEO, etc.) with an option to find concordant LINCS and non-LINCS gene expression signatures.&lt;/p&gt;
@@ -62,18 +62,18 @@
     
     <item>
       <title>Kinase Enrichment Analysis 3 (KEA3)</title>
-      <link>//localhost:1313/project/public_resources/kea3/</link>
+      <link>website/project/public_resources/kea3/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/kea3/</guid>
+      <guid>website/project/public_resources/kea3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinase Enrichment Analysis 3 (KEA3)&lt;/strong&gt; is a webserver application that infers overrepresentation of upstream kinases whose putative substrates are in a user-inputted list of proteins. KEA3 can be applied to analyze data from phosphoproteomics and proteomics studies to predict the upstream kinases responsible for observed differential phosphorylations. The KEA3 background database contains measured and predicted kinase-substrate interactions (KSI), kinase-protein interactions (KPI), and interactions supported by co-expression and co-occurrence data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pharos</title>
-      <link>//localhost:1313/project/public_resources/pharos/</link>
+      <link>website/project/public_resources/pharos/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pharos/</guid>
+      <guid>website/project/public_resources/pharos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Pharos&lt;/strong&gt; is the user interface to the Knowledge Management Center (KMC) for the Illuminating the Druggable Genome (IDG) program funded by the National Institutes of Health (NIH) Common Fund. (Grant No. 1U24CA224370-01). The goal of KMC is to develop a comprehensive, integrated knowledge-base for the Druggable Genome (DG) to illuminate the uncharacterized and/or poorly annotated portion of the DG, focusing on three of the most commonly drug-targeted protein families:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;G-protein-coupled receptors (GPCRs)&lt;/li&gt;
@@ -86,9 +86,9 @@
     
     <item>
       <title>PhosphoSitePlus</title>
-      <link>//localhost:1313/project/public_resources/phosphositeplus/</link>
+      <link>website/project/public_resources/phosphositeplus/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/phosphositeplus/</guid>
+      <guid>website/project/public_resources/phosphositeplus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;PhosphoSitePlus&lt;/strong&gt; provides comprehensive information and tools for the study of protein post-translational modifications (PTMs) including phosphorylation, acetylation, and more. The web use is free for everyone including commercial. PhosphoSitePlus is an open, dynamic, continuously curated, and highly interactive systems biology resource for studying experimentally observed PTMs in the regulation of biological processes. PhosphoSite® was limited to phosphorylation. PSP, while still providing comprehensive coverage of protein phosphorylation, now includes coverage of other commonly studied PTMs including acetylation, methylation, ubiquitination, and O-glycosylation.&lt;/p&gt;
 &lt;p&gt;PSP includes critical structural and functional information about the topology, biological function and regulatory significance of specific modification sites, and powerful tools for mining and interpreting this data in the context of biological regulation, diseases, tissues, subcellular localization, protein domains, sequences, motifs, etc.&lt;/p&gt;
 </description>
@@ -96,9 +96,9 @@
     
     <item>
       <title>PiNET</title>
-      <link>//localhost:1313/project/public_resources/pinet/</link>
+      <link>website/project/public_resources/pinet/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/pinet/</guid>
+      <guid>website/project/public_resources/pinet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;piNET&lt;/strong&gt; is a versatile tool that can be used to annotate, map and analyze a set of peptide moieties, including those with post-translationally modified sites (PTMs), identified (and quantified) by targeted (SRM type), SWATH (discovery) or related mass spectrometry based techniques. Starting from a set of peptides, and optional modifications within those peptides, piNET provides mapping into canonical UniProt protein entries, standardized annotation of modifications using PsiMOD and UNIMOD ontologies, and mapping of the sites of PTMs in the full UniProt entries. Validated modifying enzymes, including protein kinases, acetyl or methyl transferases, that are known to target these PTM sites, are mapped using iPTMnet and Signor.&lt;/p&gt;
 &lt;p&gt;For phosphorylation, known kinase - target peptides are also mapped using PhosphoSitePlus, whereas DeepPhos is used to map predicted kinase – target site pairs. These annotations can be visualized using versatile d3 library to provide site specific network and pathways views. The set of proteins (with PTMs mapped) can be further projected onto biological pathways using enrichment analysis and a comprehensive library of biological gene/protein sets through Enrichr, while protein abundance vectors can be compared with LINCS chemical and genetic perturbation signatures through iLINCS.&lt;/p&gt;
 </description>
@@ -106,18 +106,18 @@
     
     <item>
       <title>Reactome</title>
-      <link>//localhost:1313/project/public_resources/reactome/</link>
+      <link>website/project/public_resources/reactome/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/reactome/</guid>
+      <guid>website/project/public_resources/reactome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Reactome&lt;/strong&gt; is an open-source, open access, manually curated and peer-reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic and clinical research, genome analysis, modeling, systems biology and education.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STRING</title>
-      <link>//localhost:1313/project/public_resources/string/</link>
+      <link>website/project/public_resources/string/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/string/</guid>
+      <guid>website/project/public_resources/string/</guid>
       <description>&lt;p&gt;&lt;strong&gt;STRING&lt;/strong&gt; is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.&lt;/p&gt;
 &lt;p&gt;Data Sources
 Interactions in STRING are derived from five main sources:&lt;/p&gt;
@@ -135,9 +135,9 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
     
     <item>
       <title>TIN-X</title>
-      <link>//localhost:1313/project/public_resources/tinx/</link>
+      <link>website/project/public_resources/tinx/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/tinx/</guid>
+      <guid>website/project/public_resources/tinx/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TIN-X&lt;/strong&gt; is an interactive visualization tool for discovering interesting associations between diseases and potential drug targets.&lt;/p&gt;
 &lt;p&gt;We used natural language processing to identify disease and protein mentions in the text of PubMed abstracts. Using this data, two metrics are derived: novelty and importance.&lt;/p&gt;
 &lt;p&gt;Novelty measures the relative scarcity of specific publications about a given concept (such as a target or a disease), while importance measures the relative strength of the association between two concepts. This web tool enables users to explore the relationships between the novelty of potential drug targets and their importance to diseases.&lt;/p&gt;
@@ -146,9 +146,9 @@ The STRING database currently covers &lt;em&gt;24,584,628&lt;/em&gt; proteins fr
     
     <item>
       <title>X2K</title>
-      <link>//localhost:1313/project/public_resources/x2k/</link>
+      <link>website/project/public_resources/x2k/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/public_resources/x2k/</guid>
+      <guid>website/project/public_resources/x2k/</guid>
       <description>&lt;p&gt;eXpression2Kinases (&lt;strong&gt;X2K&lt;/strong&gt;) infers upstream regulatory networks from signatures of differentially expressed genes. By combining transcription factor enrichment analysis, protein-protein interaction network expansion, with kinase enrichment analysis, X2K Web produces inferred networks of transcription factors, proteins, and kinases predicted to regulate the expression of the inputted gene list. X2K Web provides the results as tables and interactive vector graphic figures that can be readily embedded within publications.&lt;/p&gt;
 </description>
     </item>

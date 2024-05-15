@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Wolfinger | CDRL</title>
-    <link>//localhost:1313/authors/a.-wolfinger/</link>
-      <atom:link href="//localhost:1313/authors/a.-wolfinger/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/a.-wolfinger/</link>
+      <atom:link href="website/authors/a.-wolfinger/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Wolfinger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/cdrl_logo_square.png</url>
+      <url>website/img/cdrl_logo_square.png</url>
       <title>A. Wolfinger</title>
-      <link>//localhost:1313/authors/a.-wolfinger/</link>
+      <link>website/authors/a.-wolfinger/</link>
     </image>
     
     <item>
       <title>KEOPS complex expression in the frontal cortex in major depression and schizophrenia</title>
-      <link>//localhost:1313/publication/2020-09-12_rn5140/</link>
+      <link>website/publication/2020-09-12_rn5140/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-09-12_rn5140/</guid>
+      <guid>website/publication/2020-09-12_rn5140/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KEOPS complex expression in the frontal cortex in major depression and schizophrenia</title>
-      <link>//localhost:1313/publication/2020-09-12_rn5290/</link>
+      <link>website/publication/2020-09-12_rn5290/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/2020-09-12_rn5290/</guid>
+      <guid>website/publication/2020-09-12_rn5290/</guid>
       <description></description>
     </item>
     
