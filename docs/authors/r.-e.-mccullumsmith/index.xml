@@ -2,749 +2,749 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. E. McCullumsmith | CDRL</title>
-    <link>website/authors/r.-e.-mccullumsmith/</link>
-      <atom:link href="website/authors/r.-e.-mccullumsmith/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/r.-e.-mccullumsmith/</link>
+      <atom:link href="//localhost:1313/authors/r.-e.-mccullumsmith/index.xml" rel="self" type="application/rss+xml" />
     <description>R. E. McCullumsmith</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>R. E. McCullumsmith</title>
-      <link>website/authors/r.-e.-mccullumsmith/</link>
+      <link>//localhost:1313/authors/r.-e.-mccullumsmith/</link>
     </image>
     
     <item>
       <title>Assessing the effects of antipsychotic medications on schizophrenia functional analysis: a postmortem proteome study</title>
-      <link>website/publication/2022-04-01_rn5408/</link>
+      <link>//localhost:1313/publication/2022-04-01_rn5408/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>website/publication/2022-04-01_rn5408/</guid>
+      <guid>//localhost:1313/publication/2022-04-01_rn5408/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schizophrenia: a disorder of broken brain bioenergetics</title>
-      <link>website/publication/2022-03-11_rn5409/</link>
+      <link>//localhost:1313/publication/2022-03-11_rn5409/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>website/publication/2022-03-11_rn5409/</guid>
+      <guid>//localhost:1313/publication/2022-03-11_rn5409/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data</title>
-      <link>website/publication/2021-12-18_rn5288/</link>
+      <link>//localhost:1313/publication/2021-12-18_rn5288/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-12-18_rn5288/</guid>
+      <guid>//localhost:1313/publication/2021-12-18_rn5288/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategies to identify candidate repurposable drugs: COVID-19 treatment as a case example</title>
-      <link>website/publication/2021-11-18_rn5286/</link>
+      <link>//localhost:1313/publication/2021-11-18_rn5286/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-11-18_rn5286/</guid>
+      <guid>//localhost:1313/publication/2021-11-18_rn5286/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</title>
-      <link>website/publication/2021-09-29_rn5287/</link>
+      <link>//localhost:1313/publication/2021-09-29_rn5287/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-09-29_rn5287/</guid>
+      <guid>//localhost:1313/publication/2021-09-29_rn5287/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</title>
-      <link>website/publication/2021-03-11_rn5132/</link>
+      <link>//localhost:1313/publication/2021-03-11_rn5132/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-03-11_rn5132/</guid>
+      <guid>//localhost:1313/publication/2021-03-11_rn5132/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</title>
-      <link>website/publication/2021-02-26_rn5133/</link>
+      <link>//localhost:1313/publication/2021-02-26_rn5133/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-02-26_rn5133/</guid>
+      <guid>//localhost:1313/publication/2021-02-26_rn5133/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using protein turnover to expand the applications of transcriptomics</title>
-      <link>website/publication/2021-02-25_rn5134/</link>
+      <link>//localhost:1313/publication/2021-02-25_rn5134/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-02-25_rn5134/</guid>
+      <guid>//localhost:1313/publication/2021-02-25_rn5134/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Similarities and dissimilarities between psychiatric cluster disorders</title>
-      <link>website/publication/2021-01-29_rn5135/</link>
+      <link>//localhost:1313/publication/2021-01-29_rn5135/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-01-29_rn5135/</guid>
+      <guid>//localhost:1313/publication/2021-01-29_rn5135/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Astrocytes in Major Neuropsychiatric Disorders</title>
-      <link>website/publication/2021-01-08_rn5136/</link>
+      <link>//localhost:1313/publication/2021-01-08_rn5136/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-01-08_rn5136/</guid>
+      <guid>//localhost:1313/publication/2021-01-08_rn5136/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</title>
-      <link>website/publication/2020-11-26_rn5137/</link>
+      <link>//localhost:1313/publication/2020-11-26_rn5137/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-11-26_rn5137/</guid>
+      <guid>//localhost:1313/publication/2020-11-26_rn5137/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</title>
-      <link>website/publication/2020-11-21_rn5138/</link>
+      <link>//localhost:1313/publication/2020-11-21_rn5138/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-11-21_rn5138/</guid>
+      <guid>//localhost:1313/publication/2020-11-21_rn5138/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A role for endothelial NMDA receptors in the pathophysiology of schizophrenia</title>
-      <link>website/publication/2020-11-16_rn5139/</link>
+      <link>//localhost:1313/publication/2020-11-16_rn5139/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-11-16_rn5139/</guid>
+      <guid>//localhost:1313/publication/2020-11-16_rn5139/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KEOPS complex expression in the frontal cortex in major depression and schizophrenia</title>
-      <link>website/publication/2020-09-12_rn5140/</link>
+      <link>//localhost:1313/publication/2020-09-12_rn5140/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-09-12_rn5140/</guid>
+      <guid>//localhost:1313/publication/2020-09-12_rn5140/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KEOPS complex expression in the frontal cortex in major depression and schizophrenia</title>
-      <link>website/publication/2020-09-12_rn5290/</link>
+      <link>//localhost:1313/publication/2020-09-12_rn5290/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-09-12_rn5290/</guid>
+      <guid>//localhost:1313/publication/2020-09-12_rn5290/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consequences of NMDA receptor deficiency can be rescued in the adult brain</title>
-      <link>website/publication/2020-08-19_rn5142/</link>
+      <link>//localhost:1313/publication/2020-08-19_rn5142/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-08-19_rn5142/</guid>
+      <guid>//localhost:1313/publication/2020-08-19_rn5142/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxytocin&#39;s anti-inflammatory and proimmune functions in COVID-19: a transcriptomic signature-based approach</title>
-      <link>website/publication/2020-08-19_rn5141/</link>
+      <link>//localhost:1313/publication/2020-08-19_rn5141/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-08-19_rn5141/</guid>
+      <guid>//localhost:1313/publication/2020-08-19_rn5141/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Neurobehavioral Analysis and In Vivo Photoaffinity Labeling to Understand Protein Targets of Methamphetamine in Casper Zebrafish</title>
-      <link>website/publication/2020-08-14_rn5143/</link>
+      <link>//localhost:1313/publication/2020-08-14_rn5143/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-08-14_rn5143/</guid>
+      <guid>//localhost:1313/publication/2020-08-14_rn5143/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of new drug treatments to combat COVID19: A signature-based approach using iLINCS</title>
-      <link>website/publication/2020-07-24_rn5144/</link>
+      <link>//localhost:1313/publication/2020-07-24_rn5144/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-07-24_rn5144/</guid>
+      <guid>//localhost:1313/publication/2020-07-24_rn5144/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signature-based approaches for informed drug repurposing: targeting CNS disorders</title>
-      <link>website/publication/2020-07-01_rn5145/</link>
+      <link>//localhost:1313/publication/2020-07-01_rn5145/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-07-01_rn5145/</guid>
+      <guid>//localhost:1313/publication/2020-07-01_rn5145/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</title>
-      <link>website/publication/2020-05-15_rn5146/</link>
+      <link>//localhost:1313/publication/2020-05-15_rn5146/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-05-15_rn5146/</guid>
+      <guid>//localhost:1313/publication/2020-05-15_rn5146/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corticostriatal dysfunction and social interaction deficits in mice lacking the cystine/glutamate antiporter</title>
-      <link>website/publication/2020-05-06_rn5147/</link>
+      <link>//localhost:1313/publication/2020-05-06_rn5147/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-05-06_rn5147/</guid>
+      <guid>//localhost:1313/publication/2020-05-06_rn5147/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adenosine Kinase Expression in the Frontal Cortex in Schizophrenia</title>
-      <link>website/publication/2020-04-11_rn5148/</link>
+      <link>//localhost:1313/publication/2020-04-11_rn5148/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-04-11_rn5148/</guid>
+      <guid>//localhost:1313/publication/2020-04-11_rn5148/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A bioinformatic inquiry of the EAAT2 interactome in postmortem and neuropsychiatric datasets</title>
-      <link>website/publication/2020-03-22_rn5149/</link>
+      <link>//localhost:1313/publication/2020-03-22_rn5149/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-03-22_rn5149/</guid>
+      <guid>//localhost:1313/publication/2020-03-22_rn5149/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pioglitazone improves working memory performance when administered in chronic TBI</title>
-      <link>website/publication/2019-09-13_rn5153/</link>
+      <link>//localhost:1313/publication/2019-09-13_rn5153/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/publication/2019-09-13_rn5153/</guid>
+      <guid>//localhost:1313/publication/2019-09-13_rn5153/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
-      <link>website/publication/2019-05-21_rn5154/</link>
+      <link>//localhost:1313/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/publication/2019-05-21_rn5154/</guid>
+      <guid>//localhost:1313/publication/2019-05-21_rn5154/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
-      <link>website/publication/2019-03-27_rn5156/</link>
+      <link>//localhost:1313/publication/2019-03-27_rn5156/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>website/publication/2019-03-27_rn5156/</guid>
+      <guid>//localhost:1313/publication/2019-03-27_rn5156/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-      <link>website/publication/2018-10-20_rn5157/</link>
+      <link>//localhost:1313/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-10-20_rn5157/</guid>
+      <guid>//localhost:1313/publication/2018-10-20_rn5157/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of glutamatergic system and mesocorticolimbic circuits in alcohol dependence</title>
-      <link>website/publication/2018-10-15_rn5158/</link>
+      <link>//localhost:1313/publication/2018-10-15_rn5158/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-10-15_rn5158/</guid>
+      <guid>//localhost:1313/publication/2018-10-15_rn5158/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</title>
-      <link>website/publication/2018-09-15_rn5159/</link>
+      <link>//localhost:1313/publication/2018-09-15_rn5159/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-09-15_rn5159/</guid>
+      <guid>//localhost:1313/publication/2018-09-15_rn5159/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
-      <link>website/publication/2018-08-03_rn5160/</link>
+      <link>//localhost:1313/publication/2018-08-03_rn5160/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-08-03_rn5160/</guid>
+      <guid>//localhost:1313/publication/2018-08-03_rn5160/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</title>
-      <link>website/publication/2018-07-19_rn5161/</link>
+      <link>//localhost:1313/publication/2018-07-19_rn5161/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-07-19_rn5161/</guid>
+      <guid>//localhost:1313/publication/2018-07-19_rn5161/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>website/publication/2018-03-03_rn5162/</link>
+      <link>//localhost:1313/publication/2018-03-03_rn5162/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-03-03_rn5162/</guid>
+      <guid>//localhost:1313/publication/2018-03-03_rn5162/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-subtype-specific changes in adenosine pathways in schizophrenia</title>
-      <link>website/publication/2018-02-28_rn5163/</link>
+      <link>//localhost:1313/publication/2018-02-28_rn5163/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-02-28_rn5163/</guid>
+      <guid>//localhost:1313/publication/2018-02-28_rn5163/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defects in Bioenergetic Coupling in Schizophrenia</title>
-      <link>website/publication/2017-12-09_rn5164/</link>
+      <link>//localhost:1313/publication/2017-12-09_rn5164/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>website/publication/2017-12-09_rn5164/</guid>
+      <guid>//localhost:1313/publication/2017-12-09_rn5164/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of glutamate transporters in the pathophysiology of neuropsychiatric disorders</title>
-      <link>website/publication/2017-09-25_rn5165/</link>
+      <link>//localhost:1313/publication/2017-09-25_rn5165/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>website/publication/2017-09-25_rn5165/</guid>
+      <guid>//localhost:1313/publication/2017-09-25_rn5165/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
-      <link>website/publication/2017-09-14_rn5166/</link>
+      <link>//localhost:1313/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>website/publication/2017-09-14_rn5166/</guid>
+      <guid>//localhost:1313/publication/2017-09-14_rn5166/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrasting the Role of xCT and GLT-1 Upregulation in the Ability of Ceftriaxone to Attenuate the Cue-Induced Reinstatement of Cocaine Seeking and Normalize AMPA Receptor Subunit Expression</title>
-      <link>website/publication/2017-05-13_rn5167/</link>
+      <link>//localhost:1313/publication/2017-05-13_rn5167/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>website/publication/2017-05-13_rn5167/</guid>
+      <guid>//localhost:1313/publication/2017-05-13_rn5167/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</title>
-      <link>website/publication/2017-01-28_rn5168/</link>
+      <link>//localhost:1313/publication/2017-01-28_rn5168/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>website/publication/2017-01-28_rn5168/</guid>
+      <guid>//localhost:1313/publication/2017-01-28_rn5168/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</title>
-      <link>website/publication/2016-06-18_rn5169/</link>
+      <link>//localhost:1313/publication/2016-06-18_rn5169/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>website/publication/2016-06-18_rn5169/</guid>
+      <guid>//localhost:1313/publication/2016-06-18_rn5169/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glutamate Neurotransmission in Rodent Models of Traumatic Brain Injury</title>
-      <link>website/publication/2016-06-04_rn5170/</link>
+      <link>//localhost:1313/publication/2016-06-04_rn5170/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>website/publication/2016-06-04_rn5170/</guid>
+      <guid>//localhost:1313/publication/2016-06-04_rn5170/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</title>
-      <link>website/publication/2016-05-21_rn5171/</link>
+      <link>//localhost:1313/publication/2016-05-21_rn5171/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>website/publication/2016-05-21_rn5171/</guid>
+      <guid>//localhost:1313/publication/2016-05-21_rn5171/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>website/publication/2016-02-16_rn5172/</link>
+      <link>//localhost:1313/publication/2016-02-16_rn5172/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>website/publication/2016-02-16_rn5172/</guid>
+      <guid>//localhost:1313/publication/2016-02-16_rn5172/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic evaluation of data-independent acquisition for sensitive and reproducible proteomics-a prototype design for a single injection assay</title>
-      <link>website/publication/2016-01-13_rn5173/</link>
+      <link>//localhost:1313/publication/2016-01-13_rn5173/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/publication/2016-01-13_rn5173/</guid>
+      <guid>//localhost:1313/publication/2016-01-13_rn5173/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tyrosine hydroxylase localization in the nucleus accumbens in schizophrenia</title>
-      <link>website/publication/2016-01-08_rn5174/</link>
+      <link>//localhost:1313/publication/2016-01-08_rn5174/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/publication/2016-01-08_rn5174/</guid>
+      <guid>//localhost:1313/publication/2016-01-08_rn5174/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cortical PGC-1alpha-Dependent Transcripts Are Reduced in Postmortem Tissue From Patients With Schizophrenia</title>
-      <link>website/publication/2015-12-20_rn5175/</link>
+      <link>//localhost:1313/publication/2015-12-20_rn5175/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-12-20_rn5175/</guid>
+      <guid>//localhost:1313/publication/2015-12-20_rn5175/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-specific abnormalities of glutamate transporters in schizophrenia: sick astrocytes and compensating relay neurons?</title>
-      <link>website/publication/2015-09-30_rn5176/</link>
+      <link>//localhost:1313/publication/2015-09-30_rn5176/</link>
       <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-09-30_rn5176/</guid>
+      <guid>//localhost:1313/publication/2015-09-30_rn5176/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</title>
-      <link>website/publication/2015-06-10_rn5177/</link>
+      <link>//localhost:1313/publication/2015-06-10_rn5177/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-06-10_rn5177/</guid>
+      <guid>//localhost:1313/publication/2015-06-10_rn5177/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</title>
-      <link>website/publication/2015-05-28_rn5178/</link>
+      <link>//localhost:1313/publication/2015-05-28_rn5178/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-05-28_rn5178/</guid>
+      <guid>//localhost:1313/publication/2015-05-28_rn5178/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for schizophrenia as a disorder of neuroplasticity</title>
-      <link>website/publication/2015-04-02_rn5180/</link>
+      <link>//localhost:1313/publication/2015-04-02_rn5180/</link>
       <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-04-02_rn5180/</guid>
+      <guid>//localhost:1313/publication/2015-04-02_rn5180/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>website/publication/2015-04-01_rn5181/</link>
+      <link>//localhost:1313/publication/2015-04-01_rn5181/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-04-01_rn5181/</guid>
+      <guid>//localhost:1313/publication/2015-04-01_rn5181/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postmortem brain: an underutilized substrate for studying severe mental illness</title>
-      <link>website/publication/2015-03-15_rn5182/</link>
+      <link>//localhost:1313/publication/2015-03-15_rn5182/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-03-15_rn5182/</guid>
+      <guid>//localhost:1313/publication/2015-03-15_rn5182/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regulation of extrasynaptic glutamate levels as a pathophysiological mechanism in disorders of motivation and addiction</title>
-      <link>website/publication/2014-12-09_rn5183/</link>
+      <link>//localhost:1313/publication/2014-12-09_rn5183/</link>
       <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-12-09_rn5183/</guid>
+      <guid>//localhost:1313/publication/2014-12-09_rn5183/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased G protein-coupled receptor kinase (GRK) expression in the anterior cingulate cortex in schizophrenia</title>
-      <link>website/publication/2014-08-26_rn5184/</link>
+      <link>//localhost:1313/publication/2014-08-26_rn5184/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-08-26_rn5184/</guid>
+      <guid>//localhost:1313/publication/2014-08-26_rn5184/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Localization of excitatory amino acid transporters EAAT1 and EAAT2 in human postmortem cortex: a light and electron microscopic study</title>
-      <link>website/publication/2014-07-30_rn5185/</link>
+      <link>//localhost:1313/publication/2014-07-30_rn5185/</link>
       <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-07-30_rn5185/</guid>
+      <guid>//localhost:1313/publication/2014-07-30_rn5185/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altered serine/threonine kinase activity in schizophrenia</title>
-      <link>website/publication/2014-05-02_rn5186/</link>
+      <link>//localhost:1313/publication/2014-05-02_rn5186/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-05-02_rn5186/</guid>
+      <guid>//localhost:1313/publication/2014-05-02_rn5186/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal partitioning of hexokinase 1 suggests disruption of a glutamate transport protein complex in schizophrenia</title>
-      <link>website/publication/2014-02-25_rn5187/</link>
+      <link>//localhost:1313/publication/2014-02-25_rn5187/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-02-25_rn5187/</guid>
+      <guid>//localhost:1313/publication/2014-02-25_rn5187/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global signaling effects of a schizophrenia-associated missense mutation in neuregulin 1: an exploratory study using whole genome and novel kinome approaches</title>
-      <link>website/publication/2014-01-02_rn5188/</link>
+      <link>//localhost:1313/publication/2014-01-02_rn5188/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-01-02_rn5188/</guid>
+      <guid>//localhost:1313/publication/2014-01-02_rn5188/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postmortem brain: an underutilized substrate for studying severe mental illness</title>
-      <link>website/publication/2013-10-05_rn5189/</link>
+      <link>//localhost:1313/publication/2013-10-05_rn5189/</link>
       <pubDate>Sat, 05 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>website/publication/2013-10-05_rn5189/</guid>
+      <guid>//localhost:1313/publication/2013-10-05_rn5189/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Update on the neurobiology of schizophrenia: a role for extracellular microdomains</title>
-      <link>website/publication/2013-10-01_rn5190/</link>
+      <link>//localhost:1313/publication/2013-10-01_rn5190/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>website/publication/2013-10-01_rn5190/</guid>
+      <guid>//localhost:1313/publication/2013-10-01_rn5190/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal N-linked glycosylation of cortical AMPA receptor subunits in schizophrenia</title>
-      <link>website/publication/2013-03-07_rn5191/</link>
+      <link>//localhost:1313/publication/2013-03-07_rn5191/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>website/publication/2013-03-07_rn5191/</guid>
+      <guid>//localhost:1313/publication/2013-03-07_rn5191/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression of glutamate metabolizing enzymes in the hippocampal formation in human temporal lobe epilepsy</title>
-      <link>website/publication/2013-02-07_rn5192/</link>
+      <link>//localhost:1313/publication/2013-02-07_rn5192/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/publication/2013-02-07_rn5192/</guid>
+      <guid>//localhost:1313/publication/2013-02-07_rn5192/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal expression of glutamate transporters in temporal lobe areas in elderly patients with schizophrenia</title>
-      <link>website/publication/2013-01-30_rn5193/</link>
+      <link>//localhost:1313/publication/2013-01-30_rn5193/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>website/publication/2013-01-30_rn5193/</guid>
+      <guid>//localhost:1313/publication/2013-01-30_rn5193/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMPA receptor subunit expression in the endoplasmic reticulum in frontal cortex of elderly patients with schizophrenia</title>
-      <link>website/publication/2012-06-22_rn5194/</link>
+      <link>//localhost:1313/publication/2012-06-22_rn5194/</link>
       <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>website/publication/2012-06-22_rn5194/</guid>
+      <guid>//localhost:1313/publication/2012-06-22_rn5194/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of equilibrative nucleoside transporter type 1 protein in elderly patients with schizophrenia</title>
-      <link>website/publication/2012-02-09_rn5195/</link>
+      <link>//localhost:1313/publication/2012-02-09_rn5195/</link>
       <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>website/publication/2012-02-09_rn5195/</guid>
+      <guid>//localhost:1313/publication/2012-02-09_rn5195/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent advances in targeting the ionotropic glutamate receptors in treating schizophrenia</title>
-      <link>website/publication/2012-01-31_rn5196/</link>
+      <link>//localhost:1313/publication/2012-01-31_rn5196/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>website/publication/2012-01-31_rn5196/</guid>
+      <guid>//localhost:1313/publication/2012-01-31_rn5196/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regional differences in expression of beta-tubulin isoforms in schizophrenia</title>
-      <link>website/publication/2012-01-24_rn5197/</link>
+      <link>//localhost:1313/publication/2012-01-24_rn5197/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>website/publication/2012-01-24_rn5197/</guid>
+      <guid>//localhost:1313/publication/2012-01-24_rn5197/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal activity of the MAPK- and cAMP-associated signaling pathways in frontal cortical areas in postmortem brain in schizophrenia</title>
-      <link>website/publication/2011-11-04_rn5198/</link>
+      <link>//localhost:1313/publication/2011-11-04_rn5198/</link>
       <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>website/publication/2011-11-04_rn5198/</guid>
+      <guid>//localhost:1313/publication/2011-11-04_rn5198/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endosomal trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
-      <link>website/publication/2011-05-18_rn5199/</link>
+      <link>//localhost:1313/publication/2011-05-18_rn5199/</link>
       <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
-      <guid>website/publication/2011-05-18_rn5199/</guid>
+      <guid>//localhost:1313/publication/2011-05-18_rn5199/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel approaches to the study of postmortem brain in psychiatric illness: old limitations and new challenges</title>
-      <link>website/publication/2010-11-26_rn5201/</link>
+      <link>//localhost:1313/publication/2010-11-26_rn5201/</link>
       <pubDate>Fri, 26 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>website/publication/2010-11-26_rn5201/</guid>
+      <guid>//localhost:1313/publication/2010-11-26_rn5201/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for abnormal forward trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
-      <link>website/publication/2010-06-24_rn5202/</link>
+      <link>//localhost:1313/publication/2010-06-24_rn5202/</link>
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>website/publication/2010-06-24_rn5202/</guid>
+      <guid>//localhost:1313/publication/2010-06-24_rn5202/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vesicular glutamate transporter mRNA expression in the medial temporal lobe in major depressive disorder, bipolar disorder, and schizophrenia</title>
-      <link>website/publication/2009-10-21_rn5203/</link>
+      <link>//localhost:1313/publication/2009-10-21_rn5203/</link>
       <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>website/publication/2009-10-21_rn5203/</guid>
+      <guid>//localhost:1313/publication/2009-10-21_rn5203/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal glycosylation of EAAT1 and EAAT2 in prefrontal cortex of elderly patients with schizophrenia</title>
-      <link>website/publication/2009-09-01_rn5204/</link>
+      <link>//localhost:1313/publication/2009-09-01_rn5204/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>website/publication/2009-09-01_rn5204/</guid>
+      <guid>//localhost:1313/publication/2009-09-01_rn5204/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased expression of NMDA receptor-associated proteins in frontal cortex of elderly patients with schizophrenia</title>
-      <link>website/publication/2009-06-02_rn5205/</link>
+      <link>//localhost:1313/publication/2009-06-02_rn5205/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>website/publication/2009-06-02_rn5205/</guid>
+      <guid>//localhost:1313/publication/2009-06-02_rn5205/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of four housekeeping proteins in elderly patients with schizophrenia</title>
-      <link>website/publication/2009-01-14_rn5206/</link>
+      <link>//localhost:1313/publication/2009-01-14_rn5206/</link>
       <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>website/publication/2009-01-14_rn5206/</guid>
+      <guid>//localhost:1313/publication/2009-01-14_rn5206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal expression of glutamate transporter and transporter interacting molecules in prefrontal cortex in elderly patients with schizophrenia</title>
-      <link>website/publication/2008-08-06_rn5208/</link>
+      <link>//localhost:1313/publication/2008-08-06_rn5208/</link>
       <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>website/publication/2008-08-06_rn5208/</guid>
+      <guid>//localhost:1313/publication/2008-08-06_rn5208/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cortical expression of glial fibrillary acidic protein and glutamine synthetase is decreased in schizophrenia</title>
-      <link>website/publication/2008-06-20_rn5209/</link>
+      <link>//localhost:1313/publication/2008-06-20_rn5209/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>website/publication/2008-06-20_rn5209/</guid>
+      <guid>//localhost:1313/publication/2008-06-20_rn5209/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altered vesicular glutamate transporter expression in the anterior cingulate cortex in schizophrenia</title>
-      <link>website/publication/2007-12-25_rn5210/</link>
+      <link>//localhost:1313/publication/2007-12-25_rn5210/</link>
       <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>website/publication/2007-12-25_rn5210/</guid>
+      <guid>//localhost:1313/publication/2007-12-25_rn5210/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abnormal glutamate receptor expression in the medial temporal lobe in schizophrenia and mood disorders</title>
-      <link>website/publication/2007-02-15_rn5211/</link>
+      <link>//localhost:1313/publication/2007-02-15_rn5211/</link>
       <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>website/publication/2007-02-15_rn5211/</guid>
+      <guid>//localhost:1313/publication/2007-02-15_rn5211/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of transcripts for myelination-related genes in the anterior cingulate cortex in schizophrenia</title>
-      <link>website/publication/2007-01-16_rn5212/</link>
+      <link>//localhost:1313/publication/2007-01-16_rn5212/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>website/publication/2007-01-16_rn5212/</guid>
+      <guid>//localhost:1313/publication/2007-01-16_rn5212/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</title>
-      <link>website/publication/2006-11-23_rn5213/</link>
+      <link>//localhost:1313/publication/2006-11-23_rn5213/</link>
       <pubDate>Thu, 23 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>website/publication/2006-11-23_rn5213/</guid>
+      <guid>//localhost:1313/publication/2006-11-23_rn5213/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of excitatory amino acid transporter interacting protein transcripts in the thalamus in schizophrenia</title>
-      <link>website/publication/2006-02-18_rn5214/</link>
+      <link>//localhost:1313/publication/2006-02-18_rn5214/</link>
       <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
-      <guid>website/publication/2006-02-18_rn5214/</guid>
+      <guid>//localhost:1313/publication/2006-02-18_rn5214/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metabotropic glutamate receptor protein expression in the prefrontal cortex and striatum in schizophrenia</title>
-      <link>website/publication/2005-06-10_rn5215/</link>
+      <link>//localhost:1313/publication/2005-06-10_rn5215/</link>
       <pubDate>Fri, 10 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>website/publication/2005-06-10_rn5215/</guid>
+      <guid>//localhost:1313/publication/2005-06-10_rn5215/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased expression of glutaminase and glutamine synthetase mRNA in the thalamus in schizophrenia</title>
-      <link>website/publication/2005-04-12_rn5216/</link>
+      <link>//localhost:1313/publication/2005-04-12_rn5216/</link>
       <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>website/publication/2005-04-12_rn5216/</guid>
+      <guid>//localhost:1313/publication/2005-04-12_rn5216/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schizophrenia as a disorder of neuroplasticity</title>
-      <link>website/publication/2004-03-10_rn5217/</link>
+      <link>//localhost:1313/publication/2004-03-10_rn5217/</link>
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>website/publication/2004-03-10_rn5217/</guid>
+      <guid>//localhost:1313/publication/2004-03-10_rn5217/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of 6-cyano-7-nitroquinoxaline-2,3-dione on nicotinic receptor subunit transcript expression in the rat brain</title>
-      <link>website/publication/2004-02-03_rn5218/</link>
+      <link>//localhost:1313/publication/2004-02-03_rn5218/</link>
       <pubDate>Tue, 03 Feb 2004 00:00:00 +0000</pubDate>
-      <guid>website/publication/2004-02-03_rn5218/</guid>
+      <guid>//localhost:1313/publication/2004-02-03_rn5218/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of ARHGEF11 mRNA in schizophrenic thalamus</title>
-      <link>website/publication/2003-12-20_rn5220/</link>
+      <link>//localhost:1313/publication/2003-12-20_rn5220/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>website/publication/2003-12-20_rn5220/</guid>
+      <guid>//localhost:1313/publication/2003-12-20_rn5220/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression of transcripts for the vesicular glutamate transporters in the human medial temporal lobe</title>
-      <link>website/publication/2003-12-20_rn5219/</link>
+      <link>//localhost:1313/publication/2003-12-20_rn5219/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>website/publication/2003-12-20_rn5219/</guid>
+      <guid>//localhost:1313/publication/2003-12-20_rn5219/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</title>
-      <link>website/publication/2003-12-20_rn5221/</link>
+      <link>//localhost:1313/publication/2003-12-20_rn5221/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>website/publication/2003-12-20_rn5221/</guid>
+      <guid>//localhost:1313/publication/2003-12-20_rn5221/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CC-chemokine receptor 2 required for bleomycin-induced pulmonary fibrosis</title>
-      <link>website/publication/2003-11-12_rn5222/</link>
+      <link>//localhost:1313/publication/2003-11-12_rn5222/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>website/publication/2003-11-12_rn5222/</guid>
+      <guid>//localhost:1313/publication/2003-11-12_rn5222/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential effects of antipsychotics on haloperidol-induced vacuous chewing movements and subcortical gene expression in the rat</title>
-      <link>website/publication/2003-10-02_rn5223/</link>
+      <link>//localhost:1313/publication/2003-10-02_rn5223/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>website/publication/2003-10-02_rn5223/</guid>
+      <guid>//localhost:1313/publication/2003-10-02_rn5223/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Striatal excitatory amino acid transporter transcript expression in schizophrenia, bipolar disorder, and major depressive disorder</title>
-      <link>website/publication/2002-02-19_rn5224/</link>
+      <link>//localhost:1313/publication/2002-02-19_rn5224/</link>
       <pubDate>Tue, 19 Feb 2002 00:00:00 +0000</pubDate>
-      <guid>website/publication/2002-02-19_rn5224/</guid>
+      <guid>//localhost:1313/publication/2002-02-19_rn5224/</guid>
       <description></description>
     </item>
     

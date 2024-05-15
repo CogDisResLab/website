@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. M. O&#39;Donnovan | CDRL</title>
-    <link>website/authors/s.-m.-odonnovan/</link>
-      <atom:link href="website/authors/s.-m.-odonnovan/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/s.-m.-odonnovan/</link>
+      <atom:link href="//localhost:1313/authors/s.-m.-odonnovan/index.xml" rel="self" type="application/rss+xml" />
     <description>S. M. O&#39;Donnovan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>S. M. O&#39;Donnovan</title>
-      <link>website/authors/s.-m.-odonnovan/</link>
+      <link>//localhost:1313/authors/s.-m.-odonnovan/</link>
     </image>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
-      <link>website/publication/2017-09-14_rn5166/</link>
+      <link>//localhost:1313/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>website/publication/2017-09-14_rn5166/</guid>
+      <guid>//localhost:1313/publication/2017-09-14_rn5166/</guid>
       <description></description>
     </item>
     

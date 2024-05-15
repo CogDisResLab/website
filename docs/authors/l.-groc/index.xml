@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. Groc | CDRL</title>
-    <link>website/authors/l.-groc/</link>
-      <atom:link href="website/authors/l.-groc/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/l.-groc/</link>
+      <atom:link href="//localhost:1313/authors/l.-groc/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Groc</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>L. Groc</title>
-      <link>website/authors/l.-groc/</link>
+      <link>//localhost:1313/authors/l.-groc/</link>
     </image>
     
     <item>
       <title>Consequences of NMDA receptor deficiency can be rescued in the adult brain</title>
-      <link>website/publication/2020-08-19_rn5142/</link>
+      <link>//localhost:1313/publication/2020-08-19_rn5142/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-08-19_rn5142/</guid>
+      <guid>//localhost:1313/publication/2020-08-19_rn5142/</guid>
       <description></description>
     </item>
     

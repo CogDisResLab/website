@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>website/authors/ali/</link>
-      <atom:link href="website/authors/ali/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/ali/</link>
+      <atom:link href="//localhost:1313/authors/ali/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>CDRL</title>
-      <link>website/authors/ali/</link>
+      <link>//localhost:1313/authors/ali/</link>
     </image>
     
     <item>
       <title></title>
-      <link>website/authors/ali/</link>
+      <link>//localhost:1313/authors/ali/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/ali/</guid>
+      <guid>//localhost:1313/authors/ali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CDRL Bioinformatics Hackathon 2021</title>
-      <link>website/post/bioinformatics_hackathon_2021/</link>
+      <link>//localhost:1313/post/bioinformatics_hackathon_2021/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>website/post/bioinformatics_hackathon_2021/</guid>
+      <guid>//localhost:1313/post/bioinformatics_hackathon_2021/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;The CDRL Annual Bioinformatics Hackathon is an event that brings the
 best and brightest together to focus on solving a standing problem in

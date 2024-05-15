@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. B. Ngwenya | CDRL</title>
-    <link>website/authors/l.-b.-ngwenya/</link>
-      <atom:link href="website/authors/l.-b.-ngwenya/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/l.-b.-ngwenya/</link>
+      <atom:link href="//localhost:1313/authors/l.-b.-ngwenya/index.xml" rel="self" type="application/rss+xml" />
     <description>L. B. Ngwenya</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>L. B. Ngwenya</title>
-      <link>website/authors/l.-b.-ngwenya/</link>
+      <link>//localhost:1313/authors/l.-b.-ngwenya/</link>
     </image>
     
     <item>
       <title>Pioglitazone improves working memory performance when administered in chronic TBI</title>
-      <link>website/publication/2019-09-13_rn5153/</link>
+      <link>//localhost:1313/publication/2019-09-13_rn5153/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/publication/2019-09-13_rn5153/</guid>
+      <guid>//localhost:1313/publication/2019-09-13_rn5153/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</title>
-      <link>website/publication/2018-09-15_rn5159/</link>
+      <link>//localhost:1313/publication/2018-09-15_rn5159/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-09-15_rn5159/</guid>
+      <guid>//localhost:1313/publication/2018-09-15_rn5159/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
-      <link>website/publication/2018-08-03_rn5160/</link>
+      <link>//localhost:1313/publication/2018-08-03_rn5160/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-08-03_rn5160/</guid>
+      <guid>//localhost:1313/publication/2018-08-03_rn5160/</guid>
       <description></description>
     </item>
     

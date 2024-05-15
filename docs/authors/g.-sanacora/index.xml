@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. Sanacora | CDRL</title>
-    <link>website/authors/g.-sanacora/</link>
-      <atom:link href="website/authors/g.-sanacora/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/g.-sanacora/</link>
+      <atom:link href="//localhost:1313/authors/g.-sanacora/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Sanacora</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>G. Sanacora</title>
-      <link>website/authors/g.-sanacora/</link>
+      <link>//localhost:1313/authors/g.-sanacora/</link>
     </image>
     
     <item>
       <title>Regulation of extrasynaptic glutamate levels as a pathophysiological mechanism in disorders of motivation and addiction</title>
-      <link>website/publication/2014-12-09_rn5183/</link>
+      <link>//localhost:1313/publication/2014-12-09_rn5183/</link>
       <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-12-09_rn5183/</guid>
+      <guid>//localhost:1313/publication/2014-12-09_rn5183/</guid>
       <description></description>
     </item>
     

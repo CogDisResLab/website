@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. C. {De Lanerolle} | CDRL</title>
-    <link>website/authors/n.-c.-de-lanerolle/</link>
-      <atom:link href="website/authors/n.-c.-de-lanerolle/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/n.-c.-de-lanerolle/</link>
+      <atom:link href="//localhost:1313/authors/n.-c.-de-lanerolle/index.xml" rel="self" type="application/rss+xml" />
     <description>N. C. {De Lanerolle}</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Feb 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>N. C. {De Lanerolle}</title>
-      <link>website/authors/n.-c.-de-lanerolle/</link>
+      <link>//localhost:1313/authors/n.-c.-de-lanerolle/</link>
     </image>
     
     <item>
       <title>Gene expression of glutamate metabolizing enzymes in the hippocampal formation in human temporal lobe epilepsy</title>
-      <link>website/publication/2013-02-07_rn5192/</link>
+      <link>//localhost:1313/publication/2013-02-07_rn5192/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/publication/2013-02-07_rn5192/</guid>
+      <guid>//localhost:1313/publication/2013-02-07_rn5192/</guid>
       <description></description>
     </item>
     

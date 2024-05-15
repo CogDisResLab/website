@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GWAS | CDRL</title>
-    <link>website/tags/gwas/</link>
-      <atom:link href="website/tags/gwas/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/gwas/</link>
+      <atom:link href="//localhost:1313/tags/gwas/index.xml" rel="self" type="application/rss+xml" />
     <description>GWAS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>GWAS</title>
-      <link>website/tags/gwas/</link>
+      <link>//localhost:1313/tags/gwas/</link>
     </image>
     
     <item>
       <title>GWAS Catalog</title>
-      <link>website/project/public_resources/gwas_cat/</link>
+      <link>//localhost:1313/project/public_resources/gwas_cat/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>website/project/public_resources/gwas_cat/</guid>
+      <guid>//localhost:1313/project/public_resources/gwas_cat/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;GWAS Catalog&lt;/strong&gt; delivers a high-quality curated collection of all published genome-wide association studies enabling investigations to identify causal variants, understand disease mechanisms, and establish targets for novel therapies. The scope of the Catalog has also expanded to targeted and exome arrays with 1000 new associations added for these technologies.&lt;/p&gt;
 </description>
     </item>

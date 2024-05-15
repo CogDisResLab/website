@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. A. Hamoud | CDRL</title>
-    <link>website/authors/a.-a.-hamoud/</link>
-      <atom:link href="website/authors/a.-a.-hamoud/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/a.-a.-hamoud/</link>
+      <atom:link href="//localhost:1313/authors/a.-a.-hamoud/index.xml" rel="self" type="application/rss+xml" />
     <description>A. A. Hamoud</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>A. A. Hamoud</title>
-      <link>website/authors/a.-a.-hamoud/</link>
+      <link>//localhost:1313/authors/a.-a.-hamoud/</link>
     </image>
     
     <item>
       <title>Role of Astrocytes in Major Neuropsychiatric Disorders</title>
-      <link>website/publication/2021-01-08_rn5136/</link>
+      <link>//localhost:1313/publication/2021-01-08_rn5136/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-01-08_rn5136/</guid>
+      <guid>//localhost:1313/publication/2021-01-08_rn5136/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</title>
-      <link>website/publication/2020-05-15_rn5146/</link>
+      <link>//localhost:1313/publication/2020-05-15_rn5146/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/publication/2020-05-15_rn5146/</guid>
+      <guid>//localhost:1313/publication/2020-05-15_rn5146/</guid>
       <description></description>
     </item>
     

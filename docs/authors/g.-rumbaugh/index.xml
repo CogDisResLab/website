@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. Rumbaugh | CDRL</title>
-    <link>website/authors/g.-rumbaugh/</link>
-      <atom:link href="website/authors/g.-rumbaugh/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/g.-rumbaugh/</link>
+      <atom:link href="//localhost:1313/authors/g.-rumbaugh/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Rumbaugh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>G. Rumbaugh</title>
-      <link>website/authors/g.-rumbaugh/</link>
+      <link>//localhost:1313/authors/g.-rumbaugh/</link>
     </image>
     
     <item>
       <title>Decreased expression of NMDA receptor-associated proteins in frontal cortex of elderly patients with schizophrenia</title>
-      <link>website/publication/2009-06-02_rn5205/</link>
+      <link>//localhost:1313/publication/2009-06-02_rn5205/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>website/publication/2009-06-02_rn5205/</guid>
+      <guid>//localhost:1313/publication/2009-06-02_rn5205/</guid>
       <description></description>
     </item>
     

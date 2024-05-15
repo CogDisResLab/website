@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Benitez | CDRL</title>
-    <link>website/authors/j.-benitez/</link>
-      <atom:link href="website/authors/j.-benitez/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/j.-benitez/</link>
+      <atom:link href="//localhost:1313/authors/j.-benitez/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Benitez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>J. Benitez</title>
-      <link>website/authors/j.-benitez/</link>
+      <link>//localhost:1313/authors/j.-benitez/</link>
     </image>
     
     <item>
       <title>Purinergic signaling and energy homeostasis in psychiatric disorders</title>
-      <link>website/publication/2015-05-08_rn5179/</link>
+      <link>//localhost:1313/publication/2015-05-08_rn5179/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-05-08_rn5179/</guid>
+      <guid>//localhost:1313/publication/2015-05-08_rn5179/</guid>
       <description></description>
     </item>
     

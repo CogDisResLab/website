@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. K. Marballi | CDRL</title>
-    <link>website/authors/k.-k.-marballi/</link>
-      <atom:link href="website/authors/k.-k.-marballi/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/k.-k.-marballi/</link>
+      <atom:link href="//localhost:1313/authors/k.-k.-marballi/index.xml" rel="self" type="application/rss+xml" />
     <description>K. K. Marballi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>K. K. Marballi</title>
-      <link>website/authors/k.-k.-marballi/</link>
+      <link>//localhost:1313/authors/k.-k.-marballi/</link>
     </image>
     
     <item>
       <title>Global signaling effects of a schizophrenia-associated missense mutation in neuregulin 1: an exploratory study using whole genome and novel kinome approaches</title>
-      <link>website/publication/2014-01-02_rn5188/</link>
+      <link>//localhost:1313/publication/2014-01-02_rn5188/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/publication/2014-01-02_rn5188/</guid>
+      <guid>//localhost:1313/publication/2014-01-02_rn5188/</guid>
       <description></description>
     </item>
     

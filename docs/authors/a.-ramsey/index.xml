@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Ramsey | CDRL</title>
-    <link>website/authors/a.-ramsey/</link>
-      <atom:link href="website/authors/a.-ramsey/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/a.-ramsey/</link>
+      <atom:link href="//localhost:1313/authors/a.-ramsey/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Ramsey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>A. Ramsey</title>
-      <link>website/authors/a.-ramsey/</link>
+      <link>//localhost:1313/authors/a.-ramsey/</link>
     </image>
     
     <item>
       <title>Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</title>
-      <link>website/publication/2018-03-03_rn5162/</link>
+      <link>//localhost:1313/publication/2018-03-03_rn5162/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>website/publication/2018-03-03_rn5162/</guid>
+      <guid>//localhost:1313/publication/2018-03-03_rn5162/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defects in Bioenergetic Coupling in Schizophrenia</title>
-      <link>website/publication/2017-12-09_rn5164/</link>
+      <link>//localhost:1313/publication/2017-12-09_rn5164/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>website/publication/2017-12-09_rn5164/</guid>
+      <guid>//localhost:1313/publication/2017-12-09_rn5164/</guid>
       <description></description>
     </item>
     

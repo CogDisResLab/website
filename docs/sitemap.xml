@@ -2,1609 +2,1615 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>website/media/sfn2019/</loc>
+    <loc>//localhost:1313/media/sfn2019/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/webinars_and_workshops/intro-to-coding/</loc>
+    <loc>//localhost:1313/project/webinars_and_workshops/intro-to-coding/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/billy/</loc>
+    <loc>//localhost:1313/authors/billy/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/apps/</loc>
+    <loc>//localhost:1313/tags/apps/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/bioinformatics/</loc>
+    <loc>//localhost:1313/tags/bioinformatics/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/projects_and_posters/paver/</loc>
+    <loc>//localhost:1313/project/projects_and_posters/paver/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/projects/</loc>
+    <loc>//localhost:1313/tags/projects/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/</loc>
+    <loc>//localhost:1313/project/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/r-shiny/</loc>
+    <loc>//localhost:1313/tags/r-shiny/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/web-application/</loc>
+    <loc>//localhost:1313/tags/web-application/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/cdrl/</loc>
+    <loc>//localhost:1313/authors/cdrl/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_abdul_may2022/</loc>
+    <loc>//localhost:1313/post/accomplishments_abdul_may2022/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_nick_may2022/</loc>
+    <loc>//localhost:1313/post/accomplishments_nick_may2022/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication_types/2/</loc>
+    <loc>//localhost:1313/publication_types/2/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-j.-funk/</loc>
+    <loc>//localhost:1313/authors/a.-j.-funk/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2022-04-01_rn5408/</loc>
+    <loc>//localhost:1313/publication/2022-04-01_rn5408/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-meller/</loc>
+    <loc>//localhost:1313/authors/j.-meller/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-reigle/</loc>
+    <loc>//localhost:1313/authors/j.-reigle/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-a.-eladawi/</loc>
+    <loc>//localhost:1313/authors/m.-a.-eladawi/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication_types/</loc>
+    <loc>//localhost:1313/publication_types/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/</loc>
+    <loc>//localhost:1313/publication/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-e.-mccullumsmith/</loc>
+    <loc>//localhost:1313/authors/r.-e.-mccullumsmith/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-s.-alnafisah/</loc>
+    <loc>//localhost:1313/authors/r.-s.-alnafisah/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-shukla/</loc>
+    <loc>//localhost:1313/authors/r.-shukla/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-m.-odonovan/</loc>
+    <loc>//localhost:1313/authors/s.-m.-odonovan/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_justin_march2022/</loc>
+    <loc>//localhost:1313/post/accomplishments_justin_march2022/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-m.-nawabi/</loc>
+    <loc>//localhost:1313/authors/a.-m.-nawabi/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-s.-imami/</loc>
+    <loc>//localhost:1313/authors/a.-s.-imami/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-j.-martinez/</loc>
+    <loc>//localhost:1313/authors/g.-j.-martinez/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-n.-b.-moseley/</loc>
+    <loc>//localhost:1313/authors/h.-n.-b.-moseley/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2022-03-22_rn5410/</loc>
+    <loc>//localhost:1313/publication/2022-03-22_rn5410/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-a.-hipp/</loc>
+    <loc>//localhost:1313/authors/j.-a.-hipp/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-f.-creeden/</loc>
+    <loc>//localhost:1313/authors/j.-f.-creeden/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/jr.-hinds-t.-d./</loc>
+    <loc>//localhost:1313/authors/jr.-hinds-t.-d./</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-alganem/</loc>
+    <loc>//localhost:1313/authors/k.-alganem/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-e.-nagy/</loc>
+    <loc>//localhost:1313/authors/l.-e.-nagy/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-r.-mcmullen/</loc>
+    <loc>//localhost:1313/authors/m.-r.-mcmullen/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-xu/</loc>
+    <loc>//localhost:1313/authors/m.-xu/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-m.-flight/</loc>
+    <loc>//localhost:1313/authors/r.-m.-flight/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-mccullumsmith/</loc>
+    <loc>//localhost:1313/authors/r.-mccullumsmith/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-a.-weinman/</loc>
+    <loc>//localhost:1313/authors/s.-a.-weinman/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-roychowdhury/</loc>
+    <loc>//localhost:1313/authors/s.-roychowdhury/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-softic/</loc>
+    <loc>//localhost:1313/authors/s.-softic/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/w.-h.-lee/</loc>
+    <loc>//localhost:1313/authors/w.-h.-lee/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/z.-a.-kipp/</loc>
+    <loc>//localhost:1313/authors/z.-a.-kipp/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_khaled_billy_march2022/</loc>
+    <loc>//localhost:1313/post/accomplishments_khaled_billy_march2022/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-j.-ramsey/</loc>
+    <loc>//localhost:1313/authors/a.-j.-ramsey/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-a.-devine/</loc>
+    <loc>//localhost:1313/authors/e.-a.-devine/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-m.-jiron/</loc>
+    <loc>//localhost:1313/authors/j.-m.-jiron/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-m.-rowland/</loc>
+    <loc>//localhost:1313/authors/l.-m.-rowland/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-k.-hahn/</loc>
+    <loc>//localhost:1313/authors/m.-k.-hahn/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-d.-henkel/</loc>
+    <loc>//localhost:1313/authors/n.-d.-henkel/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2022-03-11_rn5409/</loc>
+    <loc>//localhost:1313/publication/2022-03-11_rn5409/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/x.-wu/</loc>
+    <loc>//localhost:1313/authors/x.-wu/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/z.-sarnyai/</loc>
+    <loc>//localhost:1313/authors/z.-sarnyai/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/z.-wen/</loc>
+    <loc>//localhost:1313/authors/z.-wen/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/resources/</loc>
+    <loc>//localhost:1313/resources/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_rawan_february2022/</loc>
+    <loc>//localhost:1313/post/accomplishments_rawan_february2022/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/brainatlas/</loc>
+    <loc>//localhost:1313/project/public_resources/brainatlas/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/archs4/</loc>
+    <loc>//localhost:1313/project/public_resources/archs4/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/brain/</loc>
+    <loc>//localhost:1313/tags/brain/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/cancer/</loc>
+    <loc>//localhost:1313/tags/cancer/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/cbioportal/</loc>
+    <loc>//localhost:1313/project/public_resources/cbioportal/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/dkkb/</loc>
+    <loc>//localhost:1313/project/public_resources/dkkb/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/database/</loc>
+    <loc>//localhost:1313/tags/database/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/disease/</loc>
+    <loc>//localhost:1313/tags/disease/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/drug/</loc>
+    <loc>//localhost:1313/tags/drug/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/drugcentral/</loc>
+    <loc>//localhost:1313/project/public_resources/drugcentral/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/dgb/</loc>
+    <loc>//localhost:1313/project/public_resources/dgb/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/drugmonizome/</loc>
+    <loc>//localhost:1313/project/public_resources/drugmonizome/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/drugshot/</loc>
+    <loc>//localhost:1313/project/public_resources/drugshot/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/enrichr/</loc>
+    <loc>//localhost:1313/project/public_resources/enrichr/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/gene/</loc>
+    <loc>//localhost:1313/tags/gene/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/geo/</loc>
+    <loc>//localhost:1313/project/public_resources/geo/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/geneshot/</loc>
+    <loc>//localhost:1313/project/public_resources/geneshot/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/gdc_portal/</loc>
+    <loc>//localhost:1313/project/public_resources/gdc_portal/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/gtex/</loc>
+    <loc>//localhost:1313/project/public_resources/gtex/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/gwas/</loc>
+    <loc>//localhost:1313/tags/gwas/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/gwas_cat/</loc>
+    <loc>//localhost:1313/project/public_resources/gwas_cat/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/harmonizome/</loc>
+    <loc>//localhost:1313/project/public_resources/harmonizome/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/ilincs/</loc>
+    <loc>//localhost:1313/project/public_resources/ilincs/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/interactions/</loc>
+    <loc>//localhost:1313/tags/interactions/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/iptmnet/</loc>
+    <loc>//localhost:1313/project/public_resources/iptmnet/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/kinase/</loc>
+    <loc>//localhost:1313/tags/kinase/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/kea3/</loc>
+    <loc>//localhost:1313/project/public_resources/kea3/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/kinasemd/</loc>
+    <loc>//localhost:1313/project/public_resources/kinasemd/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/kinase-screen/</loc>
+    <loc>//localhost:1313/project/public_resources/kinase-screen/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/kinase_com/</loc>
+    <loc>//localhost:1313/project/public_resources/kinase_com/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/kinexus/</loc>
+    <loc>//localhost:1313/project/public_resources/kinexus/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/kinmap/</loc>
+    <loc>//localhost:1313/project/public_resources/kinmap/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/network/</loc>
+    <loc>//localhost:1313/tags/network/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/opentarget/</loc>
+    <loc>//localhost:1313/project/public_resources/opentarget/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/pathway/</loc>
+    <loc>//localhost:1313/tags/pathway/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/pathway_commons/</loc>
+    <loc>//localhost:1313/project/public_resources/pathway_commons/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/pharos/</loc>
+    <loc>//localhost:1313/project/public_resources/pharos/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/phosphositeplus/</loc>
+    <loc>//localhost:1313/project/public_resources/phosphositeplus/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/pinet/</loc>
+    <loc>//localhost:1313/project/public_resources/pinet/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/pride/</loc>
+    <loc>//localhost:1313/project/public_resources/pride/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/protein/</loc>
+    <loc>//localhost:1313/tags/protein/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/pdc_portal/</loc>
+    <loc>//localhost:1313/project/public_resources/pdc_portal/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/reactome/</loc>
+    <loc>//localhost:1313/project/public_resources/reactome/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/resources/</loc>
+    <loc>//localhost:1313/tags/resources/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/string/</loc>
+    <loc>//localhost:1313/project/public_resources/string/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/proteinatlas/</loc>
+    <loc>//localhost:1313/project/public_resources/proteinatlas/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/tinx/</loc>
+    <loc>//localhost:1313/project/public_resources/tinx/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/uniprot/</loc>
+    <loc>//localhost:1313/project/public_resources/uniprot/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/public_resources/x2k/</loc>
+    <loc>//localhost:1313/project/public_resources/x2k/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-r.-hamoud/</loc>
+    <loc>//localhost:1313/authors/a.-r.-hamoud/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-w.-joyce/</loc>
+    <loc>//localhost:1313/authors/a.-w.-joyce/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-b.-rethman/</loc>
+    <loc>//localhost:1313/authors/j.-b.-rethman/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-12-31_rn5285/</loc>
+    <loc>//localhost:1313/publication/2021-12-31_rn5285/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/v.-wg-ryan/</loc>
+    <loc>//localhost:1313/authors/v.-wg-ryan/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-12-24_rn5289/</loc>
+    <loc>//localhost:1313/publication/2021-12-24_rn5289/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-a.-k.-depasquale/</loc>
+    <loc>//localhost:1313/authors/e.-a.-k.-depasquale/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-bentea/</loc>
+    <loc>//localhost:1313/authors/e.-bentea/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-naji/</loc>
+    <loc>//localhost:1313/authors/f.-naji/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-l.-mcguire/</loc>
+    <loc>//localhost:1313/authors/j.-l.-mcguire/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-12-18_rn5288/</loc>
+    <loc>//localhost:1313/publication/2021-12-18_rn5288/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-nawreen/</loc>
+    <loc>//localhost:1313/authors/n.-nawreen/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-hilhorst/</loc>
+    <loc>//localhost:1313/authors/r.-hilhorst/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-tomar/</loc>
+    <loc>//localhost:1313/authors/t.-tomar/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-11-18_rn5286/</loc>
+    <loc>//localhost:1313/publication/2021-11-18_rn5286/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/abdul/</loc>
+    <loc>//localhost:1313/authors/abdul/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/tags/demonstration/</loc>
+    <loc>//localhost:1313/tags/demonstration/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/tags/docking-simulation/</loc>
+    <loc>//localhost:1313/tags/docking-simulation/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/tags/drug-discovery/</loc>
+    <loc>//localhost:1313/tags/drug-discovery/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/tags/drug-screening/</loc>
+    <loc>//localhost:1313/tags/drug-screening/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/tags/symposium/</loc>
+    <loc>//localhost:1313/tags/symposium/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/tags/talks/</loc>
+    <loc>//localhost:1313/tags/talks/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/project/webinars_and_workshops/virtual_screening_2021/</loc>
+    <loc>//localhost:1313/project/webinars_and_workshops/virtual_screening_2021/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/tags/webinars/</loc>
+    <loc>//localhost:1313/tags/webinars/</loc>
     <lastmod>2021-11-01T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-09-29_rn5287/</loc>
+    <loc>//localhost:1313/publication/2021-09-29_rn5287/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-a.-enright/</loc>
+    <loc>//localhost:1313/authors/h.-a.-enright/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-m.-eby/</loc>
+    <loc>//localhost:1313/authors/h.-m.-eby/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-a.-smail/</loc>
+    <loc>//localhost:1313/authors/m.-a.-smail/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-o.-fischer/</loc>
+    <loc>//localhost:1313/authors/n.-o.-fischer/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_ali_september2021/</loc>
+    <loc>//localhost:1313/post/accomplishments_ali_september2021/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_khaled_august2021/</loc>
+    <loc>//localhost:1313/post/accomplishments_khaled_august2021/</loc>
     <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_sinead_june2021/</loc>
+    <loc>//localhost:1313/post/accomplishments_sinead_june2021/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_rob_june2021/</loc>
+    <loc>//localhost:1313/post/accomplishments_rob_june2021/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_ali_june2021/</loc>
+    <loc>//localhost:1313/post/accomplishments_ali_june2021/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/ali/</loc>
+    <loc>//localhost:1313/authors/ali/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/bioinformatics_hackathon_2021/</loc>
+    <loc>//localhost:1313/post/bioinformatics_hackathon_2021/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-b.-mccullumsmith/</loc>
+    <loc>//localhost:1313/authors/c.-b.-mccullumsmith/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-gillman/</loc>
+    <loc>//localhost:1313/authors/c.-gillman/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-andari/</loc>
+    <loc>//localhost:1313/authors/e.-andari/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-03-11_rn5132/</loc>
+    <loc>//localhost:1313/publication/2021-03-11_rn5132/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-n.-becker/</loc>
+    <loc>//localhost:1313/authors/k.-n.-becker/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/z.-k.-pan/</loc>
+    <loc>//localhost:1313/authors/z.-k.-pan/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_ali_march2021/</loc>
+    <loc>//localhost:1313/post/accomplishments_ali_march2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-imami/</loc>
+    <loc>//localhost:1313/authors/a.-imami/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-thorman/</loc>
+    <loc>//localhost:1313/authors/a.-thorman/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/b.-shamsaei/</loc>
+    <loc>//localhost:1313/authors/b.-shamsaei/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-eby/</loc>
+    <loc>//localhost:1313/authors/h.-eby/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-02-26_rn5133/</loc>
+    <loc>//localhost:1313/publication/2021-02-26_rn5133/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-alnafisah/</loc>
+    <loc>//localhost:1313/authors/r.-alnafisah/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-t.-taylor/</loc>
+    <loc>//localhost:1313/authors/r.-t.-taylor/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-asah/</loc>
+    <loc>//localhost:1313/authors/s.-asah/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/x.-zhang/</loc>
+    <loc>//localhost:1313/authors/x.-zhang/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-k.-reigle/</loc>
+    <loc>//localhost:1313/authors/j.-k.-reigle/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-02-25_rn5134/</loc>
+    <loc>//localhost:1313/publication/2021-02-25_rn5134/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-p.-herman/</loc>
+    <loc>//localhost:1313/authors/j.-p.-herman/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-01-29_rn5135/</loc>
+    <loc>//localhost:1313/publication/2021-01-29_rn5135/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-a.-hamoud/</loc>
+    <loc>//localhost:1313/authors/a.-a.-hamoud/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2021-01-08_rn5136/</loc>
+    <loc>//localhost:1313/publication/2021-01-08_rn5136/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/post/accomplishments_justin_december2020/</loc>
+    <loc>//localhost:1313/post/accomplishments_justin_december2020/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-11-26_rn5137/</loc>
+    <loc>//localhost:1313/publication/2020-11-26_rn5137/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-c.-brunicardi/</loc>
+    <loc>//localhost:1313/authors/f.-c.-brunicardi/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-h.-liu/</loc>
+    <loc>//localhost:1313/authors/s.-h.-liu/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-11-21_rn5138/</loc>
+    <loc>//localhost:1313/publication/2020-11-21_rn5138/</loc>
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-11-16_rn5139/</loc>
+    <loc>//localhost:1313/publication/2020-11-16_rn5139/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-intson/</loc>
+    <loc>//localhost:1313/authors/k.-intson/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-geissah/</loc>
+    <loc>//localhost:1313/authors/s.-geissah/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/khaled/</loc>
+    <loc>//localhost:1313/authors/khaled/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/projects_and_posters/krsa/</loc>
+    <loc>//localhost:1313/project/projects_and_posters/krsa/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-wolfinger/</loc>
+    <loc>//localhost:1313/authors/a.-wolfinger/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-09-12_rn5140/</loc>
+    <loc>//localhost:1313/publication/2020-09-12_rn5140/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-09-12_rn5290/</loc>
+    <loc>//localhost:1313/publication/2020-09-12_rn5290/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-e.-abel/</loc>
+    <loc>//localhost:1313/authors/m.-e.-abel/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-m.-asah/</loc>
+    <loc>//localhost:1313/authors/s.-m.-asah/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-salahpour/</loc>
+    <loc>//localhost:1313/authors/a.-salahpour/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-a.-mielnik/</loc>
+    <loc>//localhost:1313/authors/c.-a.-mielnik/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-08-19_rn5142/</loc>
+    <loc>//localhost:1313/publication/2020-08-19_rn5142/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-k.-lambe/</loc>
+    <loc>//localhost:1313/authors/e.-k.-lambe/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-m.-johansson/</loc>
+    <loc>//localhost:1313/authors/e.-m.-johansson/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-uvnas-moberg/</loc>
+    <loc>//localhost:1313/authors/k.-uvnas-moberg/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-groc/</loc>
+    <loc>//localhost:1313/authors/l.-groc/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-a.-binko/</loc>
+    <loc>//localhost:1313/authors/m.-a.-binko/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-milenkovic/</loc>
+    <loc>//localhost:1313/authors/m.-milenkovic/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-sivananthan/</loc>
+    <loc>//localhost:1313/authors/n.-sivananthan/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-08-19_rn5141/</loc>
+    <loc>//localhost:1313/publication/2020-08-19_rn5141/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-a.-ross/</loc>
+    <loc>//localhost:1313/authors/r.-a.-ross/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-islam/</loc>
+    <loc>//localhost:1313/authors/r.-islam/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-tripathy/</loc>
+    <loc>//localhost:1313/authors/s.-tripathy/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/w.-horsfall/</loc>
+    <loc>//localhost:1313/authors/w.-horsfall/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/y.-chen/</loc>
+    <loc>//localhost:1313/authors/y.-chen/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-horton/</loc>
+    <loc>//localhost:1313/authors/a.-horton/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-wisner/</loc>
+    <loc>//localhost:1313/authors/a.-wisner/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-08-14_rn5143/</loc>
+    <loc>//localhost:1313/publication/2020-08-14_rn5143/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-tackie-yarboi/</loc>
+    <loc>//localhost:1313/authors/e.-tackie-yarboi/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-e.-williams/</loc>
+    <loc>//localhost:1313/authors/f.-e.-williams/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-s.-hall/</loc>
+    <loc>//localhost:1313/authors/f.-s.-hall/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/i.-t.-schiefer/</loc>
+    <loc>//localhost:1313/authors/i.-t.-schiefer/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-q.-t.-chau/</loc>
+    <loc>//localhost:1313/authors/t.-q.-t.-chau/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-07-24_rn5144/</loc>
+    <loc>//localhost:1313/publication/2020-07-24_rn5144/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-creeden/</loc>
+    <loc>//localhost:1313/authors/j.-creeden/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-a.-miruzzi/</loc>
+    <loc>//localhost:1313/authors/s.-a.-miruzzi/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-07-01_rn5145/</loc>
+    <loc>//localhost:1313/publication/2020-07-01_rn5145/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-l.-nestor-kalinoski/</loc>
+    <loc>//localhost:1313/privacy/</loc>
+    <lastmod>2020-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/terms/</loc>
+    <lastmod>2020-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/authors/a.-l.-nestor-kalinoski/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-05-15_rn5146/</loc>
+    <loc>//localhost:1313/publication/2020-05-15_rn5146/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-f.-hawk/</loc>
+    <loc>//localhost:1313/authors/c.-f.-hawk/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-e.-stec/</loc>
+    <loc>//localhost:1313/authors/d.-e.-stec/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-m.-gordon/</loc>
+    <loc>//localhost:1313/authors/d.-m.-gordon/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-g.-sarver/</loc>
+    <loc>//localhost:1313/authors/j.-g.-sarver/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-l.-neifer/</loc>
+    <loc>//localhost:1313/authors/k.-l.-neifer/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-p.-morran/</loc>
+    <loc>//localhost:1313/authors/m.-p.-morran/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/p.-w.-erhardt/</loc>
+    <loc>//localhost:1313/authors/p.-w.-erhardt/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-o.-adeosun/</loc>
+    <loc>//localhost:1313/authors/s.-o.-adeosun/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-massie/</loc>
+    <loc>//localhost:1313/authors/a.-massie/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-villers/</loc>
+    <loc>//localhost:1313/authors/a.-villers/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-k.-meshul/</loc>
+    <loc>//localhost:1313/authors/c.-k.-meshul/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-moore/</loc>
+    <loc>//localhost:1313/authors/c.-moore/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-05-06_rn5147/</loc>
+    <loc>//localhost:1313/publication/2020-05-06_rn5147/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-hermans/</loc>
+    <loc>//localhost:1313/authors/e.-hermans/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-sato/</loc>
+    <loc>//localhost:1313/authors/h.-sato/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-de-pauw/</loc>
+    <loc>//localhost:1313/authors/l.-de-pauw/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-arckens/</loc>
+    <loc>//localhost:1313/authors/l.-arckens/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-ris/</loc>
+    <loc>//localhost:1313/authors/l.-ris/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-verbruggen/</loc>
+    <loc>//localhost:1313/authors/l.-verbruggen/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-j.-churchill/</loc>
+    <loc>//localhost:1313/authors/m.-j.-churchill/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-b.-declerck/</loc>
+    <loc>//localhost:1313/authors/n.-b.-declerck/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/o.-lara/</loc>
+    <loc>//localhost:1313/authors/o.-lara/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/p.-janssen/</loc>
+    <loc>//localhost:1313/authors/p.-janssen/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/webinars_and_workshops/2020_spring_cdrl_webinars/</loc>
+    <loc>//localhost:1313/project/webinars_and_workshops/2020_spring_cdrl_webinars/</loc>
     <lastmod>2020-04-28T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-04-11_rn5148/</loc>
+    <loc>//localhost:1313/publication/2020-04-11_rn5148/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-l.-moody/</loc>
+    <loc>//localhost:1313/authors/c.-l.-moody/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-boison/</loc>
+    <loc>//localhost:1313/authors/d.-boison/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-devine/</loc>
+    <loc>//localhost:1313/authors/e.-devine/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-c.-devore-homan/</loc>
+    <loc>//localhost:1313/authors/r.-c.-devore-homan/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-03-22_rn5149/</loc>
+    <loc>//localhost:1313/publication/2020-03-22_rn5149/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-l.-pinner/</loc>
+    <loc>//localhost:1313/authors/a.-l.-pinner/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-h.-meador-woodruff/</loc>
+    <loc>//localhost:1313/authors/j.-h.-meador-woodruff/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2020-02-19_rn5150/</loc>
+    <loc>//localhost:1313/publication/2020-02-19_rn5150/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-m.-mueller/</loc>
+    <loc>//localhost:1313/authors/t.-m.-mueller/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-antoine/</loc>
+    <loc>//localhost:1313/authors/a.-antoine/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-cheng/</loc>
+    <loc>//localhost:1313/authors/e.-cheng/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-flaherty/</loc>
+    <loc>//localhost:1313/authors/e.-flaherty/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-deikus/</loc>
+    <loc>//localhost:1313/authors/g.-deikus/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-e.-hoffman/</loc>
+    <loc>//localhost:1313/authors/g.-e.-hoffman/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-fang/</loc>
+    <loc>//localhost:1313/authors/g.-fang/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-shah/</loc>
+    <loc>//localhost:1313/authors/h.-shah/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/i.-ladran/</loc>
+    <loc>//localhost:1313/authors/i.-ladran/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-rapoport/</loc>
+    <loc>//localhost:1313/authors/j.-rapoport/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-j.-brennand/</loc>
+    <loc>//localhost:1313/authors/k.-j.-brennand/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-b.-fernando/</loc>
+    <loc>//localhost:1313/authors/m.-b.-fernando/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-fitzgerald/</loc>
+    <loc>//localhost:1313/authors/m.-fitzgerald/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-halpern/</loc>
+    <loc>//localhost:1313/authors/m.-halpern/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-barretto/</loc>
+    <loc>//localhost:1313/authors/n.-barretto/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-francoeur/</loc>
+    <loc>//localhost:1313/authors/n.-francoeur/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-m.-tsankova/</loc>
+    <loc>//localhost:1313/authors/n.-m.-tsankova/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-schrode/</loc>
+    <loc>//localhost:1313/authors/n.-schrode/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2019-12-01_rn5151/</loc>
+    <loc>//localhost:1313/publication/2019-12-01_rn5151/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/p.-gochman/</loc>
+    <loc>//localhost:1313/authors/p.-gochman/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/p.-j.-m.-deans/</loc>
+    <loc>//localhost:1313/authors/p.-j.-m.-deans/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-sebra/</loc>
+    <loc>//localhost:1313/authors/r.-sebra/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-zhu/</loc>
+    <loc>//localhost:1313/authors/s.-zhu/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/media/</loc>
+    <loc>//localhost:1313/media/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/sfn/</loc>
+    <loc>//localhost:1313/tags/sfn/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/projects_and_posters/kaleidoscope/</loc>
+    <loc>//localhost:1313/project/projects_and_posters/kaleidoscope/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-dobbyn/</loc>
+    <loc>//localhost:1313/authors/a.-dobbyn/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-topol/</loc>
+    <loc>//localhost:1313/authors/a.-topol/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/b.-aronow/</loc>
+    <loc>//localhost:1313/authors/b.-aronow/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-girish/</loc>
+    <loc>//localhost:1313/authors/d.-girish/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-a.-stahl/</loc>
+    <loc>//localhost:1313/authors/e.-a.-stahl/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-hoelzli/</loc>
+    <loc>//localhost:1313/authors/e.-hoelzli/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-morishita/</loc>
+    <loc>//localhost:1313/authors/h.-morishita/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-phatnani/</loc>
+    <loc>//localhost:1313/authors/h.-phatnani/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-gregory/</loc>
+    <loc>//localhost:1313/authors/j.-gregory/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-yamamuro/</loc>
+    <loc>//localhost:1313/authors/k.-yamamuro/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-huckins/</loc>
+    <loc>//localhost:1313/authors/l.-huckins/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-r.-matos/</loc>
+    <loc>//localhost:1313/authors/m.-r.-matos/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/p.-sklar/</loc>
+    <loc>//localhost:1313/authors/p.-sklar/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-abadali/</loc>
+    <loc>//localhost:1313/authors/s.-abadali/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-m.-ho/</loc>
+    <loc>//localhost:1313/authors/s.-m.-ho/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2019-09-25_rn5152/</loc>
+    <loc>//localhost:1313/publication/2019-09-25_rn5152/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/v.-singh/</loc>
+    <loc>//localhost:1313/authors/v.-singh/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-c.-lowery/</loc>
+    <loc>//localhost:1313/authors/a.-c.-lowery/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-a.-correll/</loc>
+    <loc>//localhost:1313/authors/e.-a.-correll/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-n.-anwar/</loc>
+    <loc>//localhost:1313/authors/f.-n.-anwar/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-rhame/</loc>
+    <loc>//localhost:1313/authors/k.-rhame/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-b.-ngwenya/</loc>
+    <loc>//localhost:1313/authors/l.-b.-ngwenya/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2019-09-13_rn5153/</loc>
+    <loc>//localhost:1313/publication/2019-09-13_rn5153/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/coding/</loc>
+    <loc>//localhost:1313/tags/coding/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/courses/</loc>
+    <loc>//localhost:1313/tags/courses/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/r/</loc>
+    <loc>//localhost:1313/tags/r/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/workshops/</loc>
+    <loc>//localhost:1313/tags/workshops/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/projects_and_posters/khaled_sobp2019/</loc>
+    <loc>//localhost:1313/project/projects_and_posters/khaled_sobp2019/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/tags/posters/</loc>
+    <loc>//localhost:1313/tags/posters/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/b.-bai/</loc>
+    <loc>//localhost:1313/authors/b.-bai/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-r.-sullivan/</loc>
+    <loc>//localhost:1313/authors/c.-r.-sullivan/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-xu/</loc>
+    <loc>//localhost:1313/authors/c.-xu/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-l.-ming/</loc>
+    <loc>//localhost:1313/authors/g.-l.-ming/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-song/</loc>
+    <loc>//localhost:1313/authors/h.-song/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-peng/</loc>
+    <loc>//localhost:1313/authors/j.-peng/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2019-05-21_rn5154/</loc>
+    <loc>//localhost:1313/publication/2019-05-21_rn5154/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-simmons/</loc>
+    <loc>//localhost:1313/authors/m.-simmons/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/y.-zhou/</loc>
+    <loc>//localhost:1313/authors/y.-zhou/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2019-05-11_rn5155/</loc>
+    <loc>//localhost:1313/publication/2019-05-11_rn5155/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-m.-blomquist/</loc>
+    <loc>//localhost:1313/authors/t.-m.-blomquist/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/project/webinars_and_workshops/mini_symposium_2019/</loc>
+    <loc>//localhost:1313/project/webinars_and_workshops/mini_symposium_2019/</loc>
     <lastmod>2019-04-19T00:00:01+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-funk/</loc>
+    <loc>//localhost:1313/authors/a.-funk/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-pletnikov/</loc>
+    <loc>//localhost:1313/authors/m.-pletnikov/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2019-03-27_rn5156/</loc>
+    <loc>//localhost:1313/publication/2019-03-27_rn5156/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/gallery/</loc>
+    <loc>//localhost:1313/gallery/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publications/</loc>
+    <loc>//localhost:1313/publications/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/talks/</loc>
+    <loc>//localhost:1313/talks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/team/</loc>
+    <loc>//localhost:1313/team/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2018-10-20_rn5157/</loc>
+    <loc>//localhost:1313/publication/2018-10-20_rn5157/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-a.-depasquale/</loc>
+    <loc>//localhost:1313/authors/e.-a.-depasquale/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/p.-katsel/</loc>
+    <loc>//localhost:1313/authors/p.-katsel/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/v.-haroutunian/</loc>
+    <loc>//localhost:1313/authors/v.-haroutunian/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-alasmari/</loc>
+    <loc>//localhost:1313/authors/f.-alasmari/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2018-10-15_rn5158/</loc>
+    <loc>//localhost:1313/publication/2018-10-15_rn5158/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-goodwani/</loc>
+    <loc>//localhost:1313/authors/s.-goodwani/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/y.-sari/</loc>
+    <loc>//localhost:1313/authors/y.-sari/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2018-09-15_rn5159/</loc>
+    <loc>//localhost:1313/publication/2018-09-15_rn5159/</loc>
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2018-08-03_rn5160/</loc>
+    <loc>//localhost:1313/publication/2018-08-03_rn5160/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-anwar/</loc>
+    <loc>//localhost:1313/authors/f.-anwar/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-atluri/</loc>
+    <loc>//localhost:1313/authors/g.-atluri/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-e.-romick-rosendale/</loc>
+    <loc>//localhost:1313/authors/l.-e.-romick-rosendale/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-watanabe/</loc>
+    <loc>//localhost:1313/authors/m.-watanabe/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-k.-evanson/</loc>
+    <loc>//localhost:1313/authors/n.-k.-evanson/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-franco-villanueva/</loc>
+    <loc>//localhost:1313/authors/a.-franco-villanueva/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-l.-caldwell/</loc>
+    <loc>//localhost:1313/authors/j.-l.-caldwell/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-m.-privette-vinnedge/</loc>
+    <loc>//localhost:1313/authors/l.-m.-privette-vinnedge/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-b.-solomon/</loc>
+    <loc>//localhost:1313/authors/m.-b.-solomon/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2018-07-19_rn5161/</loc>
+    <loc>//localhost:1313/publication/2018-07-19_rn5161/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/v.-ghisays/</loc>
+    <loc>//localhost:1313/authors/v.-ghisays/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-ramsey/</loc>
+    <loc>//localhost:1313/authors/a.-ramsey/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-hasselfeld/</loc>
+    <loc>//localhost:1313/authors/k.-hasselfeld/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2018-03-03_rn5162/</loc>
+    <loc>//localhost:1313/publication/2018-03-03_rn5162/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-h.-koene/</loc>
+    <loc>//localhost:1313/authors/r.-h.-koene/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-sullivan/</loc>
+    <loc>//localhost:1313/authors/c.-sullivan/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2018-02-28_rn5163/</loc>
+    <loc>//localhost:1313/publication/2018-02-28_rn5163/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-koene/</loc>
+    <loc>//localhost:1313/authors/r.-koene/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2017-12-09_rn5164/</loc>
+    <loc>//localhost:1313/publication/2017-12-09_rn5164/</loc>
     <lastmod>2017-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2017-09-25_rn5165/</loc>
+    <loc>//localhost:1313/publication/2017-09-25_rn5165/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2017-09-14_rn5166/</loc>
+    <loc>//localhost:1313/publication/2017-09-14_rn5166/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-h.-hammond/</loc>
+    <loc>//localhost:1313/authors/j.-h.-hammond/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-m.-odonnovan/</loc>
+    <loc>//localhost:1313/authors/s.-m.-odonnovan/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-marwaha/</loc>
+    <loc>//localhost:1313/authors/s.-marwaha/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/v.-hartounian/</loc>
+    <loc>//localhost:1313/authors/v.-hartounian/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-l.-lacrosse/</loc>
+    <loc>//localhost:1313/authors/a.-l.-lacrosse/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2017-05-13_rn5167/</loc>
+    <loc>//localhost:1313/publication/2017-05-13_rn5167/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-j.-reissner/</loc>
+    <loc>//localhost:1313/authors/k.-j.-reissner/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-a.-knackstedt/</loc>
+    <loc>//localhost:1313/authors/l.-a.-knackstedt/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-schwendt/</loc>
+    <loc>//localhost:1313/authors/m.-schwendt/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-t.-sepulveda-orengo/</loc>
+    <loc>//localhost:1313/authors/m.-t.-sepulveda-orengo/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/b.-k.-lipska/</loc>
+    <loc>//localhost:1313/authors/b.-k.-lipska/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-newburn/</loc>
+    <loc>//localhost:1313/authors/e.-newburn/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2017-01-28_rn5168/</loc>
+    <loc>//localhost:1313/publication/2017-01-28_rn5168/</loc>
     <lastmod>2017-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-l.-floyd/</loc>
+    <loc>//localhost:1313/authors/c.-l.-floyd/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-r.-dorsett/</loc>
+    <loc>//localhost:1313/authors/c.-r.-dorsett/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-l.-niedzielko/</loc>
+    <loc>//localhost:1313/authors/t.-l.-niedzielko/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2016-06-18_rn5169/</loc>
+    <loc>//localhost:1313/publication/2016-06-18_rn5169/</loc>
     <lastmod>2016-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-e.-gardner/</loc>
+    <loc>//localhost:1313/authors/a.-e.-gardner/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2016-06-04_rn5170/</loc>
+    <loc>//localhost:1313/publication/2016-06-04_rn5170/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-s.-benesh/</loc>
+    <loc>//localhost:1313/authors/f.-s.-benesh/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-b.-drummond/</loc>
+    <loc>//localhost:1313/authors/j.-b.-drummond/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-roberts/</loc>
+    <loc>//localhost:1313/authors/r.-roberts/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2016-05-21_rn5171/</loc>
+    <loc>//localhost:1313/publication/2016-05-21_rn5171/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-lauriat/</loc>
+    <loc>//localhost:1313/authors/t.-lauriat/</loc>
     <lastmod>2016-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2016-02-16_rn5172/</loc>
+    <loc>//localhost:1313/publication/2016-02-16_rn5172/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-tucholski/</loc>
+    <loc>//localhost:1313/authors/j.-tucholski/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-l.-cobbs/</loc>
+    <loc>//localhost:1313/authors/a.-l.-cobbs/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-l.-norris/</loc>
+    <loc>//localhost:1313/authors/j.-l.-norris/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-d.-greis/</loc>
+    <loc>//localhost:1313/authors/k.-d.-greis/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-r.-heaven/</loc>
+    <loc>//localhost:1313/authors/m.-r.-heaven/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2016-01-13_rn5173/</loc>
+    <loc>//localhost:1313/publication/2016-01-13_rn5173/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/w.-d.-haffey/</loc>
+    <loc>//localhost:1313/authors/w.-d.-haffey/</loc>
     <lastmod>2016-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-a.-mccollum/</loc>
+    <loc>//localhost:1313/authors/l.-a.-mccollum/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-c.-roberts/</loc>
+    <loc>//localhost:1313/authors/r.-c.-roberts/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2016-01-08_rn5174/</loc>
+    <loc>//localhost:1313/publication/2016-01-08_rn5174/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-12-20_rn5175/</loc>
+    <loc>//localhost:1313/publication/2015-12-20_rn5175/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-k.-lucas/</loc>
+    <loc>//localhost:1313/authors/e.-k.-lucas/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-l.-gamble/</loc>
+    <loc>//localhost:1313/authors/k.-l.-gamble/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-j.-mcmeekin/</loc>
+    <loc>//localhost:1313/authors/l.-j.-mcmeekin/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-c.-hendrickson/</loc>
+    <loc>//localhost:1313/authors/r.-c.-hendrickson/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-m.-cowell/</loc>
+    <loc>//localhost:1313/authors/r.-m.-cowell/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-09-30_rn5176/</loc>
+    <loc>//localhost:1313/publication/2015-09-30_rn5176/</loc>
     <lastmod>2015-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-bauer/</loc>
+    <loc>//localhost:1313/authors/d.-bauer/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-06-10_rn5177/</loc>
+    <loc>//localhost:1313/publication/2015-06-10_rn5177/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/p.-roussos/</loc>
+    <loc>//localhost:1313/authors/p.-roussos/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-s.-gibbons/</loc>
+    <loc>//localhost:1313/authors/a.-s.-gibbons/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-uezato/</loc>
+    <loc>//localhost:1313/authors/a.-uezato/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/b.-dean/</loc>
+    <loc>//localhost:1313/authors/b.-dean/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-05-28_rn5178/</loc>
+    <loc>//localhost:1313/publication/2015-05-28_rn5178/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-scarr/</loc>
+    <loc>//localhost:1313/authors/e.-scarr/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-meador-woodruff/</loc>
+    <loc>//localhost:1313/authors/j.-meador-woodruff/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-boer/</loc>
+    <loc>//localhost:1313/authors/s.-boer/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-oliveros/</loc>
+    <loc>//localhost:1313/authors/a.-oliveros/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-lindberg/</loc>
+    <loc>//localhost:1313/authors/d.-lindberg/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-s.-choi/</loc>
+    <loc>//localhost:1313/authors/d.-s.-choi/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-shan/</loc>
+    <loc>//localhost:1313/authors/d.-shan/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-ayers-ringler/</loc>
+    <loc>//localhost:1313/authors/j.-ayers-ringler/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-benitez/</loc>
+    <loc>//localhost:1313/authors/j.-benitez/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-prieto/</loc>
+    <loc>//localhost:1313/authors/m.-prieto/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-05-08_rn5179/</loc>
+    <loc>//localhost:1313/publication/2015-05-08_rn5179/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-04-02_rn5180/</loc>
+    <loc>//localhost:1313/publication/2015-04-02_rn5180/</loc>
     <lastmod>2015-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-04-01_rn5181/</loc>
+    <loc>//localhost:1313/publication/2015-04-01_rn5181/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2015-03-15_rn5182/</loc>
+    <loc>//localhost:1313/publication/2015-03-15_rn5182/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-sanacora/</loc>
+    <loc>//localhost:1313/authors/g.-sanacora/</loc>
     <lastmod>2014-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2014-12-09_rn5183/</loc>
+    <loc>//localhost:1313/publication/2014-12-09_rn5183/</loc>
     <lastmod>2014-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2014-08-26_rn5184/</loc>
+    <loc>//localhost:1313/publication/2014-08-26_rn5184/</loc>
     <lastmod>2014-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-k.-roche/</loc>
+    <loc>//localhost:1313/authors/j.-k.-roche/</loc>
     <lastmod>2014-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2014-07-30_rn5185/</loc>
+    <loc>//localhost:1313/publication/2014-07-30_rn5185/</loc>
     <lastmod>2014-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2014-05-02_rn5186/</loc>
+    <loc>//localhost:1313/publication/2014-05-02_rn5186/</loc>
     <lastmod>2014-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-chen/</loc>
+    <loc>//localhost:1313/authors/d.-chen/</loc>
     <lastmod>2014-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-d.-yates/</loc>
+    <loc>//localhost:1313/authors/s.-d.-yates/</loc>
     <lastmod>2014-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2014-02-25_rn5187/</loc>
+    <loc>//localhost:1313/publication/2014-02-25_rn5187/</loc>
     <lastmod>2014-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-mount/</loc>
+    <loc>//localhost:1313/authors/d.-mount/</loc>
     <lastmod>2014-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-moore/</loc>
+    <loc>//localhost:1313/authors/s.-moore/</loc>
     <lastmod>2014-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/c.-walss-bass/</loc>
+    <loc>//localhost:1313/authors/c.-walss-bass/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2014-01-02_rn5188/</loc>
+    <loc>//localhost:1313/publication/2014-01-02_rn5188/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/h.-raventos/</loc>
+    <loc>//localhost:1313/authors/h.-raventos/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-k.-marballi/</loc>
+    <loc>//localhost:1313/authors/k.-k.-marballi/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-a.-escamilla/</loc>
+    <loc>//localhost:1313/authors/m.-a.-escamilla/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-j.-leach/</loc>
+    <loc>//localhost:1313/authors/r.-j.-leach/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-yates/</loc>
+    <loc>//localhost:1313/authors/s.-yates/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2013-10-05_rn5189/</loc>
+    <loc>//localhost:1313/publication/2013-10-05_rn5189/</loc>
     <lastmod>2013-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2013-10-01_rn5190/</loc>
+    <loc>//localhost:1313/publication/2013-10-01_rn5190/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2013-03-07_rn5191/</loc>
+    <loc>//localhost:1313/publication/2013-03-07_rn5191/</loc>
     <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-s.-simmons/</loc>
+    <loc>//localhost:1313/authors/m.-s.-simmons/</loc>
     <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-d.-spencer/</loc>
+    <loc>//localhost:1313/authors/d.-d.-spencer/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-perez/</loc>
+    <loc>//localhost:1313/authors/e.-perez/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/f.-lauritzen/</loc>
+    <loc>//localhost:1313/authors/f.-lauritzen/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2013-02-07_rn5192/</loc>
+    <loc>//localhost:1313/publication/2013-02-07_rn5192/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-drummond/</loc>
+    <loc>//localhost:1313/authors/j.-drummond/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-h.-bergersen/</loc>
+    <loc>//localhost:1313/authors/l.-h.-bergersen/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/n.-c.-de-lanerolle/</loc>
+    <loc>//localhost:1313/authors/n.-c.-de-lanerolle/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-eid/</loc>
+    <loc>//localhost:1313/authors/t.-eid/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-s.-lee/</loc>
+    <loc>//localhost:1313/authors/t.-s.-lee/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/y.-wang/</loc>
+    <loc>//localhost:1313/authors/y.-wang/</loc>
     <lastmod>2013-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2013-01-30_rn5193/</loc>
+    <loc>//localhost:1313/publication/2013-01-30_rn5193/</loc>
     <lastmod>2013-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2012-06-22_rn5194/</loc>
+    <loc>//localhost:1313/publication/2012-06-22_rn5194/</loc>
     <lastmod>2012-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-c.-hammond/</loc>
+    <loc>//localhost:1313/authors/j.-c.-hammond/</loc>
     <lastmod>2012-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2012-02-09_rn5195/</loc>
+    <loc>//localhost:1313/publication/2012-02-09_rn5195/</loc>
     <lastmod>2012-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-hammond/</loc>
+    <loc>//localhost:1313/authors/j.-hammond/</loc>
     <lastmod>2012-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2012-01-31_rn5196/</loc>
+    <loc>//localhost:1313/publication/2012-01-31_rn5196/</loc>
     <lastmod>2012-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-s.-moehle/</loc>
+    <loc>//localhost:1313/authors/m.-s.-moehle/</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-f.-luduena/</loc>
+    <loc>//localhost:1313/authors/r.-f.-luduena/</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2012-01-24_rn5197/</loc>
+    <loc>//localhost:1313/publication/2012-01-24_rn5197/</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2011-11-04_rn5198/</loc>
+    <loc>//localhost:1313/publication/2011-11-04_rn5198/</loc>
     <lastmod>2011-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2011-05-18_rn5199/</loc>
+    <loc>//localhost:1313/publication/2011-05-18_rn5199/</loc>
     <lastmod>2011-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2011-05-10_rn5200/</loc>
+    <loc>//localhost:1313/publication/2011-05-10_rn5200/</loc>
     <lastmod>2011-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-s.-sodhi/</loc>
+    <loc>//localhost:1313/authors/m.-s.-sodhi/</loc>
     <lastmod>2011-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2010-11-26_rn5201/</loc>
+    <loc>//localhost:1313/publication/2010-11-26_rn5201/</loc>
     <lastmod>2010-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2010-06-24_rn5202/</loc>
+    <loc>//localhost:1313/publication/2010-06-24_rn5202/</loc>
     <lastmod>2010-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2009-10-21_rn5203/</loc>
+    <loc>//localhost:1313/publication/2009-10-21_rn5203/</loc>
     <lastmod>2009-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2009-09-01_rn5204/</loc>
+    <loc>//localhost:1313/publication/2009-09-01_rn5204/</loc>
     <lastmod>2009-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2009-06-02_rn5205/</loc>
+    <loc>//localhost:1313/publication/2009-06-02_rn5205/</loc>
     <lastmod>2009-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-rumbaugh/</loc>
+    <loc>//localhost:1313/authors/g.-rumbaugh/</loc>
     <lastmod>2009-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/v.-harotunian/</loc>
+    <loc>//localhost:1313/authors/v.-harotunian/</loc>
     <lastmod>2009-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-e.-bauer/</loc>
+    <loc>//localhost:1313/authors/d.-e.-bauer/</loc>
     <lastmod>2009-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2009-01-14_rn5206/</loc>
+    <loc>//localhost:1313/publication/2009-01-14_rn5206/</loc>
     <lastmod>2009-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2008-09-05_rn5207/</loc>
+    <loc>//localhost:1313/publication/2008-09-05_rn5207/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/i.-smolders/</loc>
+    <loc>//localhost:1313/authors/i.-smolders/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-cnops/</loc>
+    <loc>//localhost:1313/authors/l.-cnops/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/r.-kooijman/</loc>
+    <loc>//localhost:1313/authors/r.-kooijman/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-kwak/</loc>
+    <loc>//localhost:1313/authors/s.-kwak/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/y.-michotte/</loc>
+    <loc>//localhost:1313/authors/y.-michotte/</loc>
     <lastmod>2008-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2008-08-06_rn5208/</loc>
+    <loc>//localhost:1313/publication/2008-08-06_rn5208/</loc>
     <lastmod>2008-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-gupta/</loc>
+    <loc>//localhost:1313/authors/d.-gupta/</loc>
     <lastmod>2008-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-e.-steffek/</loc>
+    <loc>//localhost:1313/authors/a.-e.-steffek/</loc>
     <lastmod>2008-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2008-06-20_rn5209/</loc>
+    <loc>//localhost:1313/publication/2008-06-20_rn5209/</loc>
     <lastmod>2008-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/a.-oni-orisan/</loc>
+    <loc>//localhost:1313/authors/a.-oni-orisan/</loc>
     <lastmod>2007-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2007-12-25_rn5210/</loc>
+    <loc>//localhost:1313/publication/2007-12-25_rn5210/</loc>
     <lastmod>2007-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/l.-v.-kristiansen/</loc>
+    <loc>//localhost:1313/authors/l.-v.-kristiansen/</loc>
     <lastmod>2007-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2007-02-15_rn5211/</loc>
+    <loc>//localhost:1313/publication/2007-02-15_rn5211/</loc>
     <lastmod>2007-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-beneyto/</loc>
+    <loc>//localhost:1313/authors/m.-beneyto/</loc>
     <lastmod>2007-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-kreger/</loc>
+    <loc>//localhost:1313/authors/e.-kreger/</loc>
     <lastmod>2007-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2007-01-16_rn5212/</loc>
+    <loc>//localhost:1313/publication/2007-01-16_rn5212/</loc>
     <lastmod>2007-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/k.-l.-davis/</loc>
+    <loc>//localhost:1313/authors/k.-l.-davis/</loc>
     <lastmod>2007-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2006-11-23_rn5213/</loc>
+    <loc>//localhost:1313/publication/2006-11-23_rn5213/</loc>
     <lastmod>2006-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2006-02-18_rn5214/</loc>
+    <loc>//localhost:1313/publication/2006-02-18_rn5214/</loc>
     <lastmod>2006-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/i.-huerta/</loc>
+    <loc>//localhost:1313/authors/i.-huerta/</loc>
     <lastmod>2006-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/j.-m.-gimenez-amaya/</loc>
+    <loc>//localhost:1313/authors/j.-m.-gimenez-amaya/</loc>
     <lastmod>2006-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/d.-s.-gupta/</loc>
+    <loc>//localhost:1313/authors/d.-s.-gupta/</loc>
     <lastmod>2005-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2005-06-10_rn5215/</loc>
+    <loc>//localhost:1313/publication/2005-06-10_rn5215/</loc>
     <lastmod>2005-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/e.-g.-bruneau/</loc>
+    <loc>//localhost:1313/authors/e.-g.-bruneau/</loc>
     <lastmod>2005-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2005-04-12_rn5216/</loc>
+    <loc>//localhost:1313/publication/2005-04-12_rn5216/</loc>
     <lastmod>2005-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-m.-clinton/</loc>
+    <loc>//localhost:1313/authors/s.-m.-clinton/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2004-03-10_rn5217/</loc>
+    <loc>//localhost:1313/publication/2004-03-10_rn5217/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2004-02-03_rn5218/</loc>
+    <loc>//localhost:1313/publication/2004-02-03_rn5218/</loc>
     <lastmod>2004-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-j.-semins/</loc>
+    <loc>//localhost:1313/authors/m.-j.-semins/</loc>
     <lastmod>2004-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2003-12-20_rn5220/</loc>
+    <loc>//localhost:1313/publication/2003-12-20_rn5220/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2003-12-20_rn5219/</loc>
+    <loc>//localhost:1313/publication/2003-12-20_rn5219/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/g.-davidkova/</loc>
+    <loc>//localhost:1313/authors/g.-davidkova/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2003-12-20_rn5221/</loc>
+    <loc>//localhost:1313/publication/2003-12-20_rn5221/</loc>
     <lastmod>2003-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2003-11-12_rn5222/</loc>
+    <loc>//localhost:1313/publication/2003-11-12_rn5222/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/i.-f.-charo/</loc>
+    <loc>//localhost:1313/authors/i.-f.-charo/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/m.-gharaee-kermani/</loc>
+    <loc>//localhost:1313/authors/m.-gharaee-kermani/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-h.-phan/</loc>
+    <loc>//localhost:1313/authors/s.-h.-phan/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-l.-kunkel/</loc>
+    <loc>//localhost:1313/authors/s.-l.-kunkel/</loc>
     <lastmod>2003-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2003-10-02_rn5223/</loc>
+    <loc>//localhost:1313/publication/2003-10-02_rn5223/</loc>
     <lastmod>2003-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/s.-m.-agrawal/</loc>
+    <loc>//localhost:1313/authors/s.-m.-agrawal/</loc>
     <lastmod>2003-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/t.-l.-stincic/</loc>
+    <loc>//localhost:1313/authors/t.-l.-stincic/</loc>
     <lastmod>2003-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/publication/2002-02-19_rn5224/</loc>
+    <loc>//localhost:1313/publication/2002-02-19_rn5224/</loc>
     <lastmod>2002-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>website/authors/adam/</loc>
+    <loc>//localhost:1313/authors/adam/</loc>
   </url><url>
-    <loc>website/authors/admin/</loc>
+    <loc>//localhost:1313/authors/admin/</loc>
   </url><url>
-    <loc>website/authors/alex/</loc>
+    <loc>//localhost:1313/authors/alex/</loc>
   </url><url>
-    <loc>website/authors/anchal/</loc>
+    <loc>//localhost:1313/authors/anchal/</loc>
   </url><url>
-    <loc>website/authors/anna/</loc>
+    <loc>//localhost:1313/authors/anna/</loc>
   </url><url>
-    <loc>website/authors/elizabeth/</loc>
+    <loc>//localhost:1313/authors/elizabeth/</loc>
   </url><url>
-    <loc>website/authors/emily/</loc>
+    <loc>//localhost:1313/authors/emily/</loc>
   </url><url>
-    <loc>website/authors/evelyn/</loc>
+    <loc>//localhost:1313/authors/evelyn/</loc>
   </url><url>
-    <loc>website/authors/hunter/</loc>
+    <loc>//localhost:1313/authors/hunter/</loc>
   </url><url>
-    <loc>website/authors/jake/</loc>
+    <loc>//localhost:1313/authors/jake/</loc>
   </url><url>
-    <loc>website/authors/james/</loc>
+    <loc>//localhost:1313/authors/james/</loc>
   </url><url>
-    <loc>website/authors/justin/</loc>
+    <loc>//localhost:1313/authors/justin/</loc>
   </url><url>
-    <loc>website/authors/nick/</loc>
+    <loc>//localhost:1313/authors/nick/</loc>
   </url><url>
-    <loc>website/authors/ojal/</loc>
+    <loc>//localhost:1313/authors/ojal/</loc>
   </url><url>
-    <loc>website/authors/prathik/</loc>
+    <loc>//localhost:1313/authors/prathik/</loc>
   </url><url>
-    <loc>website/authors/priyanka/</loc>
+    <loc>//localhost:1313/authors/priyanka/</loc>
   </url><url>
-    <loc>website/authors/ram/</loc>
+    <loc>//localhost:1313/authors/ram/</loc>
   </url><url>
-    <loc>website/authors/rami/</loc>
+    <loc>//localhost:1313/authors/rami/</loc>
   </url><url>
-    <loc>website/authors/rawan/</loc>
+    <loc>//localhost:1313/authors/rawan/</loc>
   </url><url>
-    <loc>website/authors/rob/</loc>
+    <loc>//localhost:1313/authors/rob/</loc>
   </url><url>
-    <loc>website/authors/scott/</loc>
+    <loc>//localhost:1313/authors/scott/</loc>
   </url><url>
-    <loc>website/authors/sinead/</loc>
+    <loc>//localhost:1313/authors/sinead/</loc>
   </url><url>
-    <loc>website/authors/sophie/</loc>
+    <loc>//localhost:1313/authors/sophie/</loc>
   </url><url>
-    <loc>website/authors/vineet/</loc>
+    <loc>//localhost:1313/authors/vineet/</loc>
   </url><url>
-    <loc>website/authors/wilma/</loc>
+    <loc>//localhost:1313/authors/wilma/</loc>
   </url><url>
-    <loc>website/authors/xiaolu/</loc>
+    <loc>//localhost:1313/authors/xiaolu/</loc>
   </url><url>
-    <loc>website/scripts/</loc>
+    <loc>//localhost:1313/scripts/</loc>
   </url><url>
-    <loc>website/scripts/intro-to-coding/lesson6/</loc>
+    <loc>//localhost:1313/scripts/intro-to-coding/lesson6/</loc>
   </url><url>
-    <loc>website/slides/intro_lesson1/lesson_6_stats/</loc>
+    <loc>//localhost:1313/slides/intro_lesson1/lesson_6_stats/</loc>
   </url><url>
-    <loc>website/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>website/courses/</loc>
+    <loc>//localhost:1313/courses/</loc>
   </url><url>
-    <loc>website/authors/jim/</loc>
+    <loc>//localhost:1313/authors/jim/</loc>
   </url><url>
-    <loc>website/slides/</loc>
+    <loc>//localhost:1313/slides/</loc>
   </url>
 </urlset>

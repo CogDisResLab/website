@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. L. Gamble | CDRL</title>
-    <link>website/authors/k.-l.-gamble/</link>
-      <atom:link href="website/authors/k.-l.-gamble/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/k.-l.-gamble/</link>
+      <atom:link href="//localhost:1313/authors/k.-l.-gamble/index.xml" rel="self" type="application/rss+xml" />
     <description>K. L. Gamble</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>K. L. Gamble</title>
-      <link>website/authors/k.-l.-gamble/</link>
+      <link>//localhost:1313/authors/k.-l.-gamble/</link>
     </image>
     
     <item>
       <title>Cortical PGC-1alpha-Dependent Transcripts Are Reduced in Postmortem Tissue From Patients With Schizophrenia</title>
-      <link>website/publication/2015-12-20_rn5175/</link>
+      <link>//localhost:1313/publication/2015-12-20_rn5175/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-12-20_rn5175/</guid>
+      <guid>//localhost:1313/publication/2015-12-20_rn5175/</guid>
       <description></description>
     </item>
     

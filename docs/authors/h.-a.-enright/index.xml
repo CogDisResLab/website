@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H. A. Enright | CDRL</title>
-    <link>website/authors/h.-a.-enright/</link>
-      <atom:link href="website/authors/h.-a.-enright/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/h.-a.-enright/</link>
+      <atom:link href="//localhost:1313/authors/h.-a.-enright/index.xml" rel="self" type="application/rss+xml" />
     <description>H. A. Enright</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>H. A. Enright</title>
-      <link>website/authors/h.-a.-enright/</link>
+      <link>//localhost:1313/authors/h.-a.-enright/</link>
     </image>
     
     <item>
       <title>Cellular, molecular, and therapeutic characterization of pilocarpine-induced temporal lobe epilepsy</title>
-      <link>website/publication/2021-09-29_rn5287/</link>
+      <link>//localhost:1313/publication/2021-09-29_rn5287/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>website/publication/2021-09-29_rn5287/</guid>
+      <guid>//localhost:1313/publication/2021-09-29_rn5287/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Meador-Woodruff | CDRL</title>
-    <link>website/authors/j.-meador-woodruff/</link>
-      <atom:link href="website/authors/j.-meador-woodruff/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/j.-meador-woodruff/</link>
+      <atom:link href="//localhost:1313/authors/j.-meador-woodruff/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Meador-Woodruff</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/cdrl_logo_square.png</url>
+      <url>//localhost:1313/img/cdrl_logo_square.png</url>
       <title>J. Meador-Woodruff</title>
-      <link>website/authors/j.-meador-woodruff/</link>
+      <link>//localhost:1313/authors/j.-meador-woodruff/</link>
     </image>
     
     <item>
       <title>Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</title>
-      <link>website/publication/2015-05-28_rn5178/</link>
+      <link>//localhost:1313/publication/2015-05-28_rn5178/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/publication/2015-05-28_rn5178/</guid>
+      <guid>//localhost:1313/publication/2015-05-28_rn5178/</guid>
       <description></description>
     </item>
     
